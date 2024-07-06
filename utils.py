@@ -2,11 +2,42 @@ from functools import lru_cache
 from huggingface_hub import hf_hub_download
 import torch
 import tiny_model
-# import pysvelte
+
 from datasets import load_dataset
+import numpy as np
 
 dataset = load_dataset('noanabeshima/TinyModelTokIds', split='train[:13%]')
 all_tok_ids = torch.tensor(dataset['tok_ids'])
+
+def slice_csr(csr, start=0, end=None):
+    '''
+    slice csr along the first dimension
+    '''
+    if start is None:
+        start = 0
+    
+    new_crow_indices = csr.crow_indices()[start:end] - csr.crow_indices()[start]
+    val_start = csr.crow_indices()[start].item()
+    val_end = None if end is None else csr.crow_indices()[end].item()
+
+    new_col_indices=csr.col_indices()[val_start:val_end]
+    new_values = csr.values()[val_start:val_end]
+
+    if end is None:
+        new_size = (csr.size()[0]-start, csr.size()[1])
+    else:
+        new_size = (end - start, csr.size()[1])
+    
+    return torch.sparse_csr_tensor(
+        crow_indices=new_crow_indices,
+        col_indices=new_col_indices,
+        values=new_values,
+        size=new_size
+    )
+
+def csr_var(csr):
+    return torch.sum(csr.values()**2).float()/np.prod(csr.shape)
+
 
 @lru_cache
 def load_sparse_feat_acts(fname):
@@ -74,23 +105,3 @@ def load_feat_splits(mlp_name, feat_idx, train_amt=0.8):
 
     return train_acts, train_tok_ids, test_acts, test_tok_ids
 
-# def see_feat(mlp_name, feat, no_zero_docs=True, **kwargs):
-#     feat_acts, tok_ids, toks  = load_feat_data(f"{mlp_name}", feat_idx=feat, no_zero_docs=no_zero_docs)
-
-#     return pysvelte.WeightedDocs(acts=feat_acts.tolist(), docs=toks.tolist(), **kwargs)
-
-# def weighted_docs(acts, doc_ids, **kwargs):
-#     if isinstance(acts, list):
-#         acts = torch.tensor(acts)
-    
-#     if isinstance(doc_ids, list):
-#         docs = torch.tensor(doc_ids)
-    
-#     docs = tiny_model.toks[doc_ids]
-
-#     if len(acts.shape) == 1:
-#         acts = acts[None]
-#     if len(docs.shape) == 1:
-#         docs = docs[None]
-    
-#     return pysvelte.WeightedDocs(acts=acts.tolist(), docs=docs.tolist(), **kwargs)
