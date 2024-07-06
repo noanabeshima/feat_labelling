@@ -1,0 +1,5 @@
+{
+  "pattern": "( head| brain| heads|Spe| reason)",
+  "pos_r_squared": 0.999115526676178,
+  "r_squared": 0.9991481900215149
+}

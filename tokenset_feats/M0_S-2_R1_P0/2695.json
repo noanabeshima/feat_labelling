@@ -1,0 +1,5 @@
+{
+  "pattern": "( sick| fever| throat| terrified| died)",
+  "pos_r_squared": 0.992292582988739,
+  "r_squared": 0.9921084642410278
+}

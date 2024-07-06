@@ -1,0 +1,5 @@
+{
+  "pattern": "( shared| traded|Share| Share| bond)",
+  "pos_r_squared": 0.9981393814086914,
+  "r_squared": 0.9976851940155029
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Don| known| Too|Fortunately|don)",
+  "pos_r_squared": 0.9988241791725159,
+  "r_squared": 0.9989411234855652
+}

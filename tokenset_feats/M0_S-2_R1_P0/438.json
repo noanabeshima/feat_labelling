@@ -1,0 +1,4 @@
+{
+  "pattern": "(\\.| the| to|Once|,)",
+  "pos_r_squared": 0.003571927547454834
+}

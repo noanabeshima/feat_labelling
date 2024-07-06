@@ -1,0 +1,4 @@
+{
+  "pattern": "(my| named|\\[UNK\\]|o|M)",
+  "pos_r_squared": 0.03857630491256714
+}

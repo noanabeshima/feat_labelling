@@ -1,0 +1,5 @@
+{
+  "pattern": "( okay| ok| forg| alright| dog)",
+  "pos_r_squared": 0.9929815530776978,
+  "r_squared": 0.9950103163719177
+}

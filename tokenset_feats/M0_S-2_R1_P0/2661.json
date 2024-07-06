@@ -1,0 +1,5 @@
+{
+  "pattern": "( steps| stairs| stair| shoulders| very)",
+  "pos_r_squared": 0.9927760362625122,
+  "r_squared": 0.9926040172576904
+}

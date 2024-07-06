@@ -1,0 +1,5 @@
+{
+  "pattern": "( left| leave| past| leaving| now)",
+  "pos_r_squared": 0.9963967800140381,
+  "r_squared": 0.9965510368347168
+}

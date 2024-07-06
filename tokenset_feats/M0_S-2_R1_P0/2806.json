@@ -1,0 +1,5 @@
+{
+  "pattern": "( station| airport| train| lake| lady)",
+  "pos_r_squared": 0.9912787079811096,
+  "r_squared": 0.9909026622772217
+}

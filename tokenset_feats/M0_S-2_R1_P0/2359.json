@@ -1,0 +1,4 @@
+{
+  "pattern": "( day| night| sun| time| days)",
+  "pos_r_squared": 0.37690967321395874
+}

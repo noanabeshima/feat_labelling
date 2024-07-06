@@ -1,0 +1,5 @@
+{
+  "pattern": "( fill| filling| baskets| fills|Pay)",
+  "pos_r_squared": 0.9988186359405518,
+  "r_squared": 0.9987241625785828
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( kitten| cat|oline| kittens| puppy)",
+  "pos_r_squared": 0.99820476770401,
+  "r_squared": 0.9982938170433044
+}

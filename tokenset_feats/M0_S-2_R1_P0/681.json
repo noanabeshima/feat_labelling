@@ -1,0 +1,5 @@
+{
+  "pattern": "( next| following|Next| third| named)",
+  "pos_r_squared": 0.992776095867157,
+  "r_squared": 0.9931280612945557
+}

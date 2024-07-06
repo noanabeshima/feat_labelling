@@ -1,0 +1,5 @@
+{
+  "pattern": "( plate| desk| stage| table| plates)",
+  "pos_r_squared": 0.9810110926628113,
+  "r_squared": 0.9807418584823608
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( march| parade| vehicles| celebration| hunters)",
+  "pos_r_squared": 0.994278609752655,
+  "r_squared": 0.9939828515052795
+}

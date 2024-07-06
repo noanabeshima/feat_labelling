@@ -1,0 +1,5 @@
+{
+  "pattern": "( barking|ks|sed| arguing|owing)",
+  "pos_r_squared": 0.9875656366348267,
+  "r_squared": 0.9875794649124146
+}

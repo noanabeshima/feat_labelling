@@ -1,0 +1,5 @@
+{
+  "pattern": "( worm| W| worms|anut| shells)",
+  "pos_r_squared": 0.992256760597229,
+  "r_squared": 0.9922085404396057
+}

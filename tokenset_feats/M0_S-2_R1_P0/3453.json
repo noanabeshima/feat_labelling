@@ -1,0 +1,5 @@
+{
+  "pattern": "( board| school| spikes| ranch|ts)",
+  "pos_r_squared": 0.985932469367981,
+  "r_squared": 0.9859560132026672
+}

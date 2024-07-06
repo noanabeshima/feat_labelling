@@ -1,0 +1,5 @@
+{
+  "pattern": "( empty| boring| bored| ordinary| ends)",
+  "pos_r_squared": 0.9972139000892639,
+  "r_squared": 0.9969006776809692
+}

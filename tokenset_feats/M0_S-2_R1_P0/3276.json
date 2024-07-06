@@ -1,0 +1,4 @@
+{
+  "pattern": "( bear|\\[UNK\\]| grand| lots| club)",
+  "pos_r_squared": 0.14796656370162964
+}

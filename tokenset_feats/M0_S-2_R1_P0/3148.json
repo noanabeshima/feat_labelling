@@ -1,0 +1,5 @@
+{
+  "pattern": "( hotel| holiday| vacation| camping| cos)",
+  "pos_r_squared": 0.9962484240531921,
+  "r_squared": 0.9957557916641235
+}

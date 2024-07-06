@@ -1,0 +1,5 @@
+{
+  "pattern": "( stay| stayed| remain|Stay| staying)",
+  "pos_r_squared": 0.9821246266365051,
+  "r_squared": 0.9820418357849121
+}

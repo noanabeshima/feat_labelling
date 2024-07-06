@@ -1,0 +1,5 @@
+{
+  "pattern": "( great| wonderful| incredible|-|mill)",
+  "pos_r_squared": 0.9967815279960632,
+  "r_squared": 0.9967370629310608
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( count| measure| word| counted| weigh)",
+  "pos_r_squared": 0.4417836666107178
+}

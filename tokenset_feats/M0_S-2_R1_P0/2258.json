@@ -1,0 +1,5 @@
+{
+  "pattern": "( listened| listening| listen| Bing| listens)",
+  "pos_r_squared": 0.9991095662117004,
+  "r_squared": 0.9987754225730896
+}

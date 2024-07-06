@@ -1,0 +1,5 @@
+{
+  "pattern": "( think| thinking| believe| sure|Should)",
+  "pos_r_squared": 0.9961469769477844,
+  "r_squared": 0.9961236119270325
+}

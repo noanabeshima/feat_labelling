@@ -1,0 +1,5 @@
+{
+  "pattern": "( time| times|time|Time| signal)",
+  "pos_r_squared": 0.997577965259552,
+  "r_squared": 0.623233437538147
+}

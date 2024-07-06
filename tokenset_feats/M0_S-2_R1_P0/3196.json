@@ -1,0 +1,5 @@
+{
+  "pattern": "( understand| understanding| misses| explain| understood)",
+  "pos_r_squared": 0.9967590570449829,
+  "r_squared": 0.9968627095222473
+}

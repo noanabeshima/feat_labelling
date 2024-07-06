@@ -1,0 +1,5 @@
+{
+  "pattern": "( shop| shops| taxi|oc| sale)",
+  "pos_r_squared": 0.9981229305267334,
+  "r_squared": 0.9975221753120422
+}

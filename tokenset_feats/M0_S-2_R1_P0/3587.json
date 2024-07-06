@@ -1,0 +1,5 @@
+{
+  "pattern": "( volcano| mountain| grill| missile| does)",
+  "pos_r_squared": 0.9884365797042847,
+  "r_squared": 0.9883219003677368
+}

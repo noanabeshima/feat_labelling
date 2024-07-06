@@ -1,0 +1,5 @@
+{
+  "pattern": "( share| shared| sharing| only| use)",
+  "pos_r_squared": 0.9963441491127014,
+  "r_squared": 0.9963091015815735
+}

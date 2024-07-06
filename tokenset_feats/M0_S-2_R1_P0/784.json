@@ -1,0 +1,5 @@
+{
+  "pattern": "( hurt| hurts| pain| cut| hurting)",
+  "pos_r_squared": 0.9926676750183105,
+  "r_squared": 0.9926697015762329
+}

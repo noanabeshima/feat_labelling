@@ -1,0 +1,5 @@
+{
+  "pattern": "( tea|\\.|Ant| waits| fun)",
+  "pos_r_squared": 0.9967815279960632,
+  "r_squared": 0.9982523322105408
+}

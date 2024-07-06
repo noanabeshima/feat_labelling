@@ -1,0 +1,5 @@
+{
+  "pattern": "( space| praying| bathing| spaces|ude)",
+  "pos_r_squared": 0.9986956119537354,
+  "r_squared": 0.997431218624115
+}

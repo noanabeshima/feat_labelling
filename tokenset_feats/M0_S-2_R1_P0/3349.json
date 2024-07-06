@@ -1,0 +1,4 @@
+{
+  "pattern": "( lead| trail| led| clearing| leading)",
+  "pos_r_squared": 0.9680535197257996
+}

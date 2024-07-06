@@ -1,0 +1,5 @@
+{
+  "pattern": "( catch| caught| fed| catching| fishing)",
+  "pos_r_squared": 0.990325927734375,
+  "r_squared": 0.9902773499488831
+}

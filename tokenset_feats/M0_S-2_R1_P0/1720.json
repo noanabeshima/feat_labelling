@@ -1,0 +1,5 @@
+{
+  "pattern": "( bush| bushes| parking| uncovered| tilted)",
+  "pos_r_squared": 0.998701810836792,
+  "r_squared": 0.9982729554176331
+}

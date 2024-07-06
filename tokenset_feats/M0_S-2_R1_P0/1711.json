@@ -1,0 +1,5 @@
+{
+  "pattern": "( arrived|Welcome| arrive| destination|Back)",
+  "pos_r_squared": 0.9949079155921936,
+  "r_squared": 0.9948914051055908
+}

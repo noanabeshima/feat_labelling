@@ -1,0 +1,5 @@
+{
+  "pattern": "( also| near| Then| both|Then)",
+  "pos_r_squared": 0.9973422884941101,
+  "r_squared": 0.9976646900177002
+}

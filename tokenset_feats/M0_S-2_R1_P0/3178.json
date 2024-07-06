@@ -1,0 +1,5 @@
+{
+  "pattern": "( sink| sank| shave| sunk| ashes)",
+  "pos_r_squared": 0.9968982338905334,
+  "r_squared": 0.9968926310539246
+}

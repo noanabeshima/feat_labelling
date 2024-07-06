@@ -1,0 +1,5 @@
+{
+  "pattern": "( large| thin| larger| Lena|act)",
+  "pos_r_squared": 0.9988871812820435,
+  "r_squared": 0.9962825179100037
+}

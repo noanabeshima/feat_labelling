@@ -1,0 +1,5 @@
+{
+  "pattern": "( wagon| brought| string| pull| hugged)",
+  "pos_r_squared": 0.994874894618988,
+  "r_squared": 0.9943686723709106
+}

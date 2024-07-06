@@ -1,0 +1,5 @@
+{
+  "pattern": "(ir| aside|que| probably| beat)",
+  "pos_r_squared": 0.9990960359573364,
+  "r_squared": 0.9991075992584229
+}

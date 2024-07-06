@@ -1,0 +1,5 @@
+{
+  "pattern": "( first|First| First| today| longest)",
+  "pos_r_squared": 0.9992385506629944,
+  "r_squared": 0.9992209076881409
+}

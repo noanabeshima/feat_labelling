@@ -1,0 +1,5 @@
+{
+  "pattern": "( smoke| wind| steam| fire| flames)",
+  "pos_r_squared": 0.9863223433494568,
+  "r_squared": 0.986308753490448
+}

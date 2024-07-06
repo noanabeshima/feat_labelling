@@ -1,0 +1,4 @@
+{
+  "pattern": "( had| long|\\[UNK\\]|While|'s)",
+  "pos_r_squared": 0.007299184799194336
+}

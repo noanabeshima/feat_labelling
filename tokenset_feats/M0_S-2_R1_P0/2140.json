@@ -1,0 +1,5 @@
+{
+  "pattern": "( money| k| gift| w|ice)",
+  "pos_r_squared": 0.9970712661743164,
+  "r_squared": 0.9967515468597412
+}

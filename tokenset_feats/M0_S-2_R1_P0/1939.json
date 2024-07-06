@@ -1,0 +1,5 @@
+{
+  "pattern": "( bottle| bottles| strips|Pe| habit)",
+  "pos_r_squared": 0.9980514049530029,
+  "r_squared": 0.9977270364761353
+}

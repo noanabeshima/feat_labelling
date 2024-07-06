@@ -1,0 +1,5 @@
+{
+  "pattern": "( medicine| pill| pills| soup| matt)",
+  "pos_r_squared": 0.9873144030570984,
+  "r_squared": 0.9875249266624451
+}

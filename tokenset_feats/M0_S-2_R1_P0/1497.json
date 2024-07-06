@@ -1,0 +1,5 @@
+{
+  "pattern": "( flower| flowers| seed| smelling|band)",
+  "pos_r_squared": 0.9974279403686523,
+  "r_squared": 0.9976312518119812
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( And|Then|And| From|\\.\\.\\.)",
+  "pos_r_squared": 0.9871801137924194,
+  "r_squared": 0.9871125221252441
+}

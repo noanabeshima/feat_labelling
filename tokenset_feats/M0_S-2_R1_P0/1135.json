@@ -1,0 +1,5 @@
+{
+  "pattern": "(:| -|\\;| delicious| nearby)",
+  "pos_r_squared": 0.9896240830421448,
+  "r_squared": 0.9896259903907776
+}

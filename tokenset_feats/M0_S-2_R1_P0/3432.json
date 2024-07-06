@@ -1,0 +1,5 @@
+{
+  "pattern": "( grab| rope| grabbing| get| football)",
+  "pos_r_squared": 0.9975391626358032,
+  "r_squared": 0.9944462180137634
+}

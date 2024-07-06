@@ -1,0 +1,4 @@
+{
+  "pattern": "( joke| honest| truth| lie| jokes)",
+  "pos_r_squared": 0.9514572620391846
+}

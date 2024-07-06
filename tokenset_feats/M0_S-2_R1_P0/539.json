@@ -1,0 +1,5 @@
+{
+  "pattern": "( town| village| j| gr| park)",
+  "pos_r_squared": 0.9993702173233032,
+  "r_squared": 0.9874476790428162
+}

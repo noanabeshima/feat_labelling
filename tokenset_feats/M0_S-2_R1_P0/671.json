@@ -1,0 +1,5 @@
+{
+  "pattern": "(\\[UNK\\]|ash|il|ened|oss)",
+  "pos_r_squared": 0.9982922077178955,
+  "r_squared": 0.9978448152542114
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( forgot| left| forget| forgotten| remember)",
+  "pos_r_squared": 0.9851259589195251,
+  "r_squared": 0.9851753115653992
+}

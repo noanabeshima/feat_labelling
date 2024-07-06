@@ -1,0 +1,5 @@
+{
+  "pattern": "(Anna| likes| was|Alice|Lisa)",
+  "pos_r_squared": 0.9952606558799744,
+  "r_squared": 0.7040314078330994
+}

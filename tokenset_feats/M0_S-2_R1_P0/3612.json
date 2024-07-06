@@ -1,0 +1,5 @@
+{
+  "pattern": "( gun| pistol| fever| cand|cat)",
+  "pos_r_squared": 0.9927660226821899,
+  "r_squared": 0.9927306175231934
+}

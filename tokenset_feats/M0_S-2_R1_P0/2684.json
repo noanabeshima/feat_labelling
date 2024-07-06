@@ -1,0 +1,5 @@
+{
+  "pattern": "( leave| leaving| to| visit| quit)",
+  "pos_r_squared": 0.9907494783401489,
+  "r_squared": 0.9911114573478699
+}

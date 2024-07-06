@@ -1,0 +1,5 @@
+{
+  "pattern": "( books| and| twins| Buddy| cans)",
+  "pos_r_squared": 0.9983682036399841,
+  "r_squared": 0.9980469346046448
+}

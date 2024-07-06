@@ -1,0 +1,5 @@
+{
+  "pattern": "( string| God| Up| Around| ol)",
+  "pos_r_squared": 0.9982386231422424,
+  "r_squared": 0.998195469379425
+}

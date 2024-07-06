@@ -1,0 +1,5 @@
+{
+  "pattern": "( candle| candles| except| plugged| lantern)",
+  "pos_r_squared": 0.9986199736595154,
+  "r_squared": 0.997626781463623
+}

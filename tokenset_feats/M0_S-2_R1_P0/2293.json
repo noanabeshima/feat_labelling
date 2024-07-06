@@ -1,0 +1,5 @@
+{
+  "pattern": "( queen| woman| nurse| Queen| nurses)",
+  "pos_r_squared": 0.9973782300949097,
+  "r_squared": 0.9957051277160645
+}

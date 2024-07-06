@@ -1,0 +1,5 @@
+{
+  "pattern": "( gone| M| lost| comm| sneaking)",
+  "pos_r_squared": 0.9990447759628296,
+  "r_squared": 0.9990116953849792
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( went| came| had| nice| took)",
+  "pos_r_squared": 0.9849331974983215,
+  "r_squared": 0.5256493091583252
+}

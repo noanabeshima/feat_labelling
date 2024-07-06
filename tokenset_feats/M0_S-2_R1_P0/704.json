@@ -1,0 +1,5 @@
+{
+  "pattern": "( wind| truck| gust| breeze| outside)",
+  "pos_r_squared": 0.9981488585472107,
+  "r_squared": 0.9981608390808105
+}

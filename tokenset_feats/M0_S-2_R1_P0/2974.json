@@ -1,0 +1,5 @@
+{
+  "pattern": "( fruits| cand| skill|Give| defend)",
+  "pos_r_squared": 0.9986435174942017,
+  "r_squared": 0.9987707138061523
+}

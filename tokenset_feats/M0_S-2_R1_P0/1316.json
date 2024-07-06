@@ -1,0 +1,5 @@
+{
+  "pattern": "( bag| purse| bags| backpack| heavy)",
+  "pos_r_squared": 0.9984903335571289,
+  "r_squared": 0.9980338215827942
+}

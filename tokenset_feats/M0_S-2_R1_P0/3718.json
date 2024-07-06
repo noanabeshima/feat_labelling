@@ -1,0 +1,5 @@
+{
+  "pattern": "( thank|suits|Tyler|ric| Sorry)",
+  "pos_r_squared": 0.9976654052734375,
+  "r_squared": 0.9962970614433289
+}

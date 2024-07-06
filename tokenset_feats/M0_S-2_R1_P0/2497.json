@@ -1,0 +1,5 @@
+{
+  "pattern": "( fair| mild| Magic| Fair| fears)",
+  "pos_r_squared": 0.9983882308006287,
+  "r_squared": 0.9975370764732361
+}

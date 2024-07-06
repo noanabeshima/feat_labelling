@@ -1,0 +1,5 @@
+{
+  "pattern": "( A| noon| green| Later|I)",
+  "pos_r_squared": 0.9879148006439209,
+  "r_squared": 0.9882904887199402
+}

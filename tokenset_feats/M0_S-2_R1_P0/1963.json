@@ -1,0 +1,5 @@
+{
+  "pattern": "( climbed| climbs| climbing|less| fore)",
+  "pos_r_squared": 0.9983009099960327,
+  "r_squared": 0.9981155395507812
+}

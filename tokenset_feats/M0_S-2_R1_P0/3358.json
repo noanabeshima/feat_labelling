@@ -1,0 +1,5 @@
+{
+  "pattern": "( helping|Tyler|ST| A| pret)",
+  "pos_r_squared": 0.9989182949066162,
+  "r_squared": 0.9983065724372864
+}

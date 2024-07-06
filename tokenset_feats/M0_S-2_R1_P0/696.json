@@ -1,0 +1,5 @@
+{
+  "pattern": "( favorite| favourite| therm| dogs| pup)",
+  "pos_r_squared": 0.9982277750968933,
+  "r_squared": 0.9980553388595581
+}

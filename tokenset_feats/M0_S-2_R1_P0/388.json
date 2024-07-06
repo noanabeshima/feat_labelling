@@ -1,0 +1,5 @@
+{
+  "pattern": "( ground| floor| dirt| sky| others)",
+  "pos_r_squared": 0.9908013343811035,
+  "r_squared": 0.9910694360733032
+}

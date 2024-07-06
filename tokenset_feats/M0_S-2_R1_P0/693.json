@@ -1,0 +1,5 @@
+{
+  "pattern": "(Thank| thanked| thank| Thank| thankful)",
+  "pos_r_squared": 0.9847259521484375,
+  "r_squared": 0.9848120808601379
+}

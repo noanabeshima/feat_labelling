@@ -1,0 +1,5 @@
+{
+  "pattern": "( rock| rocks| rocking|Rock| Rocky)",
+  "pos_r_squared": 0.996271014213562,
+  "r_squared": 0.9963221549987793
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( moved| moves| lifted| invites| worked)",
+  "pos_r_squared": 0.997452437877655,
+  "r_squared": 0.9979902505874634
+}

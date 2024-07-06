@@ -1,0 +1,5 @@
+{
+  "pattern": "( glove| gloves|Kat| weeds|Bring)",
+  "pos_r_squared": 0.9986114501953125,
+  "r_squared": 0.9966408610343933
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( pig| pigs|Dog| rat|anda)",
+  "pos_r_squared": 0.9839887619018555,
+  "r_squared": 0.9763997197151184
+}

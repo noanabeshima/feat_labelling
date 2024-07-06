@@ -1,0 +1,5 @@
+{
+  "pattern": "( round| smart| forward| red| True)",
+  "pos_r_squared": 0.9951671361923218,
+  "r_squared": 0.9792011380195618
+}

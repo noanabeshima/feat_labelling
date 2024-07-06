@@ -1,0 +1,5 @@
+{
+  "pattern": "( lunch| breakfast| y| bread| bank)",
+  "pos_r_squared": 0.9982677698135376,
+  "r_squared": 0.998031735420227
+}

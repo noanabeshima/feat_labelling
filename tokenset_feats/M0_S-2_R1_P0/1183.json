@@ -1,0 +1,5 @@
+{
+  "pattern": "( floor| dishes| cubes| lap| floors)",
+  "pos_r_squared": 0.9992575645446777,
+  "r_squared": 0.9990110397338867
+}

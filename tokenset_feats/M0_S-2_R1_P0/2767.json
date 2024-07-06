@@ -1,0 +1,5 @@
+{
+  "pattern": "( expensive| U| supermarket|\\?!| gru)",
+  "pos_r_squared": 0.9991445541381836,
+  "r_squared": 0.9991039633750916
+}

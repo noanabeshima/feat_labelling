@@ -1,0 +1,5 @@
+{
+  "pattern": "( seed| seeds| bulb|row| bean)",
+  "pos_r_squared": 0.9827734231948853,
+  "r_squared": 0.9824000597000122
+}

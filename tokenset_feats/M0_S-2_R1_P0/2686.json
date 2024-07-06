@@ -1,0 +1,4 @@
+{
+  "pattern": "( put| puts| putting| Put| fall)",
+  "pos_r_squared": 0.7964655160903931
+}

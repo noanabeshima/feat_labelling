@@ -1,0 +1,4 @@
+{
+  "pattern": "( box| room| playing| pile| book)",
+  "pos_r_squared": 0.8416703939437866
+}

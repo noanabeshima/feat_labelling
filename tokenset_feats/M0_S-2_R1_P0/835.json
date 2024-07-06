@@ -1,0 +1,5 @@
+{
+  "pattern": "( tired| for| sleepy| under| nap)",
+  "pos_r_squared": 0.995694100856781,
+  "r_squared": 0.9960080981254578
+}

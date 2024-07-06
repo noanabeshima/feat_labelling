@@ -1,0 +1,5 @@
+{
+  "pattern": "( only|\\.| Fl| in| He)",
+  "pos_r_squared": 0.9963825941085815,
+  "r_squared": 0.988909125328064
+}

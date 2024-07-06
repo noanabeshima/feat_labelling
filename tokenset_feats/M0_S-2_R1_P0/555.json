@@ -1,0 +1,5 @@
+{
+  "pattern": "(No| No| Nothing| Yes|no)",
+  "pos_r_squared": 0.9990190863609314,
+  "r_squared": 0.9991827607154846
+}

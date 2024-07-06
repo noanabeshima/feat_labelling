@@ -1,0 +1,5 @@
+{
+  "pattern": "( even| Even| especially| plenty| '')",
+  "pos_r_squared": 0.9985727071762085,
+  "r_squared": 0.9985204339027405
+}

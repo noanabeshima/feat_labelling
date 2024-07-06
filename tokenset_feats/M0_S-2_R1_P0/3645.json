@@ -1,0 +1,5 @@
+{
+  "pattern": "( b| Baby| vegetable|Baby| item)",
+  "pos_r_squared": 0.9969820380210876,
+  "r_squared": 0.9972537755966187
+}

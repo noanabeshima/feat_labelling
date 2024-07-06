@@ -1,0 +1,5 @@
+{
+  "pattern": "( farm| ranch| stable| party| zoo)",
+  "pos_r_squared": 0.9979314804077148,
+  "r_squared": 0.9970317482948303
+}

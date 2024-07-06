@@ -1,0 +1,5 @@
+{
+  "pattern": "( owner|Josh| owners| husband| Farmer)",
+  "pos_r_squared": 0.9974840879440308,
+  "r_squared": 0.9968578219413757
+}

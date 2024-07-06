@@ -1,0 +1,5 @@
+{
+  "pattern": "( put| bring| bringing|Bring| Bring)",
+  "pos_r_squared": 0.9933135509490967,
+  "r_squared": 0.9936551451683044
+}

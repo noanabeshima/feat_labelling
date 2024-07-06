@@ -1,0 +1,4 @@
+{
+  "pattern": "( measure|ometer| measured| much| ruler)",
+  "pos_r_squared": 0.9205904006958008
+}

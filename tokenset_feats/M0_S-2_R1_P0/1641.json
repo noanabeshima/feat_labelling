@@ -1,0 +1,5 @@
+{
+  "pattern": "( fence| gate| blocking| weeds| blocked)",
+  "pos_r_squared": 0.9976309537887573,
+  "r_squared": 0.9973866939544678
+}

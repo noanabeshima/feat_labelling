@@ -1,0 +1,5 @@
+{
+  "pattern": "( spin| Doctor| spins| sell| t)",
+  "pos_r_squared": 0.9920253753662109,
+  "r_squared": 0.9906139969825745
+}

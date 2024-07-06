@@ -1,0 +1,5 @@
+{
+  "pattern": "( run| sk|Run| runner| de)",
+  "pos_r_squared": 0.9995696544647217,
+  "r_squared": 0.9994012713432312
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( clock| Moon| Chair| Clock| pastor)",
+  "pos_r_squared": 0.990355372428894,
+  "r_squared": 0.989608883857727
+}

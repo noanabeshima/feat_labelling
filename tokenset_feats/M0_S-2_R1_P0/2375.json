@@ -1,0 +1,5 @@
+{
+  "pattern": "( stubborn| foolish| obedient| decision| behaviour)",
+  "pos_r_squared": 0.9979815483093262,
+  "r_squared": 0.9964269995689392
+}

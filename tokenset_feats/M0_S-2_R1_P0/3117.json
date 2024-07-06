@@ -1,0 +1,5 @@
+{
+  "pattern": "( fold| folded| folding|ened| elephant)",
+  "pos_r_squared": 0.98646479845047,
+  "r_squared": 0.9863268136978149
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( new| play|\\.| very| and)",
+  "pos_r_squared": 0.8492372632026672
+}

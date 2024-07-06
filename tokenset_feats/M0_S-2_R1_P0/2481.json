@@ -1,0 +1,5 @@
+{
+  "pattern": "( flag| flags| Patch| bell|Ray)",
+  "pos_r_squared": 0.998473048210144,
+  "r_squared": 0.9983432292938232
+}

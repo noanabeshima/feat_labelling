@@ -1,0 +1,5 @@
+{
+  "pattern": "(OK|Okay|Ok| she|Then)",
+  "pos_r_squared": 0.9895787239074707,
+  "r_squared": 0.9869143962860107
+}

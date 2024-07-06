@@ -1,0 +1,4 @@
+{
+  "pattern": "( robot| and| arm| Robo| puppet)",
+  "pos_r_squared": 0.9786871075630188
+}

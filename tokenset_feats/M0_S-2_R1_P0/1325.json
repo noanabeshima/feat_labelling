@@ -1,0 +1,5 @@
+{
+  "pattern": "( baby| old| into| infant| babies)",
+  "pos_r_squared": 0.9853596687316895,
+  "r_squared": 0.9849975109100342
+}

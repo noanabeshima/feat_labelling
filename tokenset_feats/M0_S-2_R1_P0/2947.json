@@ -1,0 +1,5 @@
+{
+  "pattern": "( problem| blocking| blocked| situation| conflict)",
+  "pos_r_squared": 0.9984592199325562,
+  "r_squared": 0.9986026287078857
+}

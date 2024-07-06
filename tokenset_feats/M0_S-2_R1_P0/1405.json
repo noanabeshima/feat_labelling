@@ -1,0 +1,5 @@
+{
+  "pattern": "( dry| dried| day| woke| drying)",
+  "pos_r_squared": 0.9988526105880737,
+  "r_squared": 0.9987373948097229
+}

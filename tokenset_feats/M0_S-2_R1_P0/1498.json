@@ -1,0 +1,5 @@
+{
+  "pattern": "( pet| pets| friend| Dod| company)",
+  "pos_r_squared": 0.9973044991493225,
+  "r_squared": 0.9971612095832825
+}

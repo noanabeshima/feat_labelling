@@ -1,0 +1,5 @@
+{
+  "pattern": "( sticks|igs| logs| stones| felt)",
+  "pos_r_squared": 0.9984143972396851,
+  "r_squared": 0.9978598356246948
+}

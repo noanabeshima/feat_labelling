@@ -1,0 +1,5 @@
+{
+  "pattern": "( or| barely|Or| Without| named)",
+  "pos_r_squared": 0.9937102198600769,
+  "r_squared": 0.9935925006866455
+}

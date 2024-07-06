@@ -1,0 +1,5 @@
+{
+  "pattern": "( after| once|After| during| After)",
+  "pos_r_squared": 0.9937819242477417,
+  "r_squared": 0.993774950504303
+}

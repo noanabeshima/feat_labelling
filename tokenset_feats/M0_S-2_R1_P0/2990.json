@@ -1,0 +1,4 @@
+{
+  "pattern": "( passport| airport| license| luggage| holiday)",
+  "pos_r_squared": 0.8843324184417725
+}

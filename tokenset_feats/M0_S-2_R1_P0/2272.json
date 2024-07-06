@@ -1,0 +1,5 @@
+{
+  "pattern": "( dream| dreamed| dreams| dreaming| let)",
+  "pos_r_squared": 0.9981027841567993,
+  "r_squared": 0.9980249404907227
+}

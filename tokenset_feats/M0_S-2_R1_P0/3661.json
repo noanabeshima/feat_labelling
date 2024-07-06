@@ -1,0 +1,5 @@
+{
+  "pattern": "( If| whoever| Whoever|om| hates)",
+  "pos_r_squared": 0.9971345663070679,
+  "r_squared": 0.9969318509101868
+}

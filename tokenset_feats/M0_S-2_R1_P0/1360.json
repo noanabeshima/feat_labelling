@@ -1,0 +1,5 @@
+{
+  "pattern": "( set| settle| setting| headed| settled)",
+  "pos_r_squared": 0.9939242601394653,
+  "r_squared": 0.9945493340492249
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( protect| guard| protecting| guarding| protected)",
+  "pos_r_squared": 0.9864649772644043,
+  "r_squared": 0.9865889549255371
+}

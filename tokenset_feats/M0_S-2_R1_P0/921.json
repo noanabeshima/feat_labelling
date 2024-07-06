@@ -1,0 +1,4 @@
+{
+  "pattern": "( fix| solve| fixed| heal| replace)",
+  "pos_r_squared": 0.9023818969726562
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( threw| throw| release| throwing| throws)",
+  "pos_r_squared": 0.9893364906311035,
+  "r_squared": 0.9893161654472351
+}

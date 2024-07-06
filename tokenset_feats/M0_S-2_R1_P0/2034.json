@@ -1,0 +1,5 @@
+{
+  "pattern": "( land| kingdom| world| lands| field)",
+  "pos_r_squared": 0.9979466795921326,
+  "r_squared": 0.9952678680419922
+}

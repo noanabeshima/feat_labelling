@@ -1,0 +1,5 @@
+{
+  "pattern": "( broke| tore| ended| liked| breaks)",
+  "pos_r_squared": 0.9938898682594299,
+  "r_squared": 0.9941442012786865
+}

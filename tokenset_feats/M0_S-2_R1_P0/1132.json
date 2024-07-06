@@ -1,0 +1,5 @@
+{
+  "pattern": "( cars| car| vehicles| drivers| sidewalk)",
+  "pos_r_squared": 0.9969595074653625,
+  "r_squared": 0.996410071849823
+}

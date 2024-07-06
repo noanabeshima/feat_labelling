@@ -1,0 +1,4 @@
+{
+  "pattern": "( string| yarn| wire| thread| ribbon)",
+  "pos_r_squared": 0.9429699778556824
+}

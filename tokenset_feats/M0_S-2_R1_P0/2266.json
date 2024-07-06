@@ -1,0 +1,5 @@
+{
+  "pattern": "( tricks| trick| tricked| webs| prank)",
+  "pos_r_squared": 0.9986967444419861,
+  "r_squared": 0.9971218109130859
+}

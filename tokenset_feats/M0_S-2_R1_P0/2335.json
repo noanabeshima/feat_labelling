@@ -1,0 +1,5 @@
+{
+  "pattern": "( carrot| carrots| tractor| puck| bone)",
+  "pos_r_squared": 0.9943240284919739,
+  "r_squared": 0.9938165545463562
+}

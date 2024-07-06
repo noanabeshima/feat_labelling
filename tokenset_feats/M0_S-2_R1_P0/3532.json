@@ -1,0 +1,5 @@
+{
+  "pattern": "( After| Try| Eat|Eat| waited)",
+  "pos_r_squared": 0.9967159032821655,
+  "r_squared": 0.9968010783195496
+}

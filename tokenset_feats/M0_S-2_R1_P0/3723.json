@@ -1,0 +1,5 @@
+{
+  "pattern": "( gate| messed|iversity| don| temple)",
+  "pos_r_squared": 0.9939940571784973,
+  "r_squared": 0.9942101240158081
+}

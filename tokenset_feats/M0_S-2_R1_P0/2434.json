@@ -1,0 +1,5 @@
+{
+  "pattern": "( lonely| friendship| feelings| mass| worries)",
+  "pos_r_squared": 0.9989057183265686,
+  "r_squared": 0.9988447427749634
+}

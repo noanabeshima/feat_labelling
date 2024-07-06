@@ -1,0 +1,5 @@
+{
+  "pattern": "( clean| tidy| cleaned| cleaning|washer)",
+  "pos_r_squared": 0.9901108145713806,
+  "r_squared": 0.9902042150497437
+}

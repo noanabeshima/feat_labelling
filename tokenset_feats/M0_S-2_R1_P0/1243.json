@@ -1,0 +1,5 @@
+{
+  "pattern": "( p|nam| pand| guard| sidewalk)",
+  "pos_r_squared": 0.9961544275283813,
+  "r_squared": 0.9960638284683228
+}

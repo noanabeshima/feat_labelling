@@ -1,0 +1,5 @@
+{
+  "pattern": "( famous| popular| gifted| successful| shouldn)",
+  "pos_r_squared": 0.9887730479240417,
+  "r_squared": 0.9863342642784119
+}

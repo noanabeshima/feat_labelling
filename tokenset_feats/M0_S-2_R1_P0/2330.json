@@ -1,0 +1,5 @@
+{
+  "pattern": "( wheel| wheels| gears| worn| shin)",
+  "pos_r_squared": 0.9978615045547485,
+  "r_squared": 0.9973950386047363
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( talked| talking| discuss| about| visiting)",
+  "pos_r_squared": 0.9932761192321777,
+  "r_squared": 0.9937923550605774
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( ant| ants| Ant| helpers| hands)",
+  "pos_r_squared": 0.9960084557533264,
+  "r_squared": 0.9957523941993713
+}

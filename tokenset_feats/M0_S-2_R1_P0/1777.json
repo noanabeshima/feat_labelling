@@ -1,0 +1,5 @@
+{
+  "pattern": "( spot| spots| lookout| buddy| marker)",
+  "pos_r_squared": 0.9972501397132874,
+  "r_squared": 0.9965371489524841
+}

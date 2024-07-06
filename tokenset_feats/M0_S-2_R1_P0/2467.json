@@ -1,0 +1,5 @@
+{
+  "pattern": "( children| students| siblings| kids|Kids)",
+  "pos_r_squared": 0.9969319701194763,
+  "r_squared": 0.9962239265441895
+}

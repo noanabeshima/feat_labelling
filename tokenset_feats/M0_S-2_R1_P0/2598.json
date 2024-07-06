@@ -1,0 +1,5 @@
+{
+  "pattern": "( change| changed| changing| separating| lowered)",
+  "pos_r_squared": 0.9922084212303162,
+  "r_squared": 0.9923394322395325
+}

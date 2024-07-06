@@ -1,0 +1,5 @@
+{
+  "pattern": "( suddenly| land)",
+  "pos_r_squared": 0.9961531758308411,
+  "r_squared": 0.9964280128479004
+}

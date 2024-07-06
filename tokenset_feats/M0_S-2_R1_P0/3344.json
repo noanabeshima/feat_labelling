@@ -1,0 +1,5 @@
+{
+  "pattern": "(loo| hut| cabin| tent| cottage)",
+  "pos_r_squared": 0.9942090511322021,
+  "r_squared": 0.9919224977493286
+}

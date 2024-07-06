@@ -1,0 +1,5 @@
+{
+  "pattern": "( important| valuable| sandy| importance| Remember)",
+  "pos_r_squared": 0.9980913996696472,
+  "r_squared": 0.9980593323707581
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( apple| apples| cake| much| find)",
+  "pos_r_squared": 0.9981009364128113,
+  "r_squared": 0.9976640939712524
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( sack| recorded|ugs| recorder| scattering)",
+  "pos_r_squared": 0.9959592223167419,
+  "r_squared": 0.9948026537895203
+}

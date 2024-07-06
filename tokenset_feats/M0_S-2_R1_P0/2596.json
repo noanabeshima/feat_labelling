@@ -1,0 +1,4 @@
+{
+  "pattern": "( hours| ahead| week| evening| minutes)",
+  "pos_r_squared": 0.8403053879737854
+}

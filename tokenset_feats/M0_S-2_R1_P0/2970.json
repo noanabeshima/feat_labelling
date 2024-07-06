@@ -1,0 +1,5 @@
+{
+  "pattern": "( live| nests| home| spilled| dug)",
+  "pos_r_squared": 0.9993636012077332,
+  "r_squared": 0.9992992281913757
+}

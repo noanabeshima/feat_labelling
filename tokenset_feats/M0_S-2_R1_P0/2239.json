@@ -1,0 +1,5 @@
+{
+  "pattern": "( everyone| anyone| everybody|Everyone| tour)",
+  "pos_r_squared": 0.9913070797920227,
+  "r_squared": 0.9900020956993103
+}

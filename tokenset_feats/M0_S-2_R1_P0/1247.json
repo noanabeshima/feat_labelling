@@ -1,0 +1,4 @@
+{
+  "pattern": "( day| the|\\.| The| They)",
+  "pos_r_squared": 0.006512284278869629
+}

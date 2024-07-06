@@ -1,0 +1,5 @@
+{
+  "pattern": "( butterfly| butterflies|bug| scattering| throws)",
+  "pos_r_squared": 0.9946720600128174,
+  "r_squared": 0.9947099089622498
+}

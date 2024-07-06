@@ -1,0 +1,5 @@
+{
+  "pattern": "( there|There| were| had| little)",
+  "pos_r_squared": 0.9977855086326599,
+  "r_squared": 0.7923053503036499
+}

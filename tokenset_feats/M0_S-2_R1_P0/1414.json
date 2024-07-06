@@ -1,0 +1,5 @@
+{
+  "pattern": "(agged| named|ags|agging|ag)",
+  "pos_r_squared": 0.9894895553588867,
+  "r_squared": 0.9895707368850708
+}

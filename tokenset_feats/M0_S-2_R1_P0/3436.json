@@ -1,0 +1,5 @@
+{
+  "pattern": "( unknown| introduce| introduced| Win|New)",
+  "pos_r_squared": 0.998589813709259,
+  "r_squared": 0.9980040788650513
+}

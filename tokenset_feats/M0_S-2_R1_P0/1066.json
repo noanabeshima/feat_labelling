@@ -1,0 +1,5 @@
+{
+  "pattern": "( paper| newspaper| papers|Spe|al)",
+  "pos_r_squared": 0.9984794855117798,
+  "r_squared": 0.9983859658241272
+}

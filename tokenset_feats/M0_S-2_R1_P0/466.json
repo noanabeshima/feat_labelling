@@ -1,0 +1,5 @@
+{
+  "pattern": "( The| a|The| named| to)",
+  "pos_r_squared": 0.9859369993209839,
+  "r_squared": 0.3248915672302246
+}

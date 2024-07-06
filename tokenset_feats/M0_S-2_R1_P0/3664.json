@@ -1,0 +1,5 @@
+{
+  "pattern": "( sunrise| sunset| farm| gir| saw)",
+  "pos_r_squared": 0.9975763559341431,
+  "r_squared": 0.9973973631858826
+}

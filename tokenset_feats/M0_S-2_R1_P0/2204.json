@@ -1,0 +1,5 @@
+{
+  "pattern": "( dangerous| poison| danger| vines| flames)",
+  "pos_r_squared": 0.9948373436927795,
+  "r_squared": 0.9948199391365051
+}

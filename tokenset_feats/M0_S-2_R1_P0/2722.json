@@ -1,0 +1,5 @@
+{
+  "pattern": "( stayed| visited| staying| stays| remained)",
+  "pos_r_squared": 0.9978566765785217,
+  "r_squared": 0.9978745579719543
+}

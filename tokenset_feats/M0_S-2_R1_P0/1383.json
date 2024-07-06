@@ -1,0 +1,4 @@
+{
+  "pattern": "( days| hours| times| day| lots)",
+  "pos_r_squared": 0.8082184195518494
+}

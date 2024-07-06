@@ -1,0 +1,5 @@
+{
+  "pattern": "( wheat| hay| corn|at| Chip)",
+  "pos_r_squared": 0.989461362361908,
+  "r_squared": 0.9886889457702637
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( prince| queen| princess| frog| king)",
+  "pos_r_squared": 0.9951236248016357,
+  "r_squared": 0.994158923625946
+}

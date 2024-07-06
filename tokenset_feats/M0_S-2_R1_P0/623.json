@@ -1,0 +1,5 @@
+{
+  "pattern": "( jumped| jump| jumping|I|que)",
+  "pos_r_squared": 0.9855499863624573,
+  "r_squared": 0.9863148331642151
+}

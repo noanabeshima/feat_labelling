@@ -1,0 +1,5 @@
+{
+  "pattern": "( number| Doctor|Doctor| numbered|Number)",
+  "pos_r_squared": 0.9969659447669983,
+  "r_squared": 0.9968659281730652
+}

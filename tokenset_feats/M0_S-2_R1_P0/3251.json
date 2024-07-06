@@ -1,0 +1,5 @@
+{
+  "pattern": "( sheep| lamb| Min|aa|aters)",
+  "pos_r_squared": 0.9974099397659302,
+  "r_squared": 0.9949526786804199
+}

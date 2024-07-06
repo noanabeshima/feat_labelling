@@ -1,0 +1,5 @@
+{
+  "pattern": "( flour| tub| roller| batter| snow)",
+  "pos_r_squared": 0.9987573623657227,
+  "r_squared": 0.9985862374305725
+}

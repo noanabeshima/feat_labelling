@@ -1,0 +1,5 @@
+{
+  "pattern": "( blocks| block| ruler| bricks| cubes)",
+  "pos_r_squared": 0.9982362389564514,
+  "r_squared": 0.9978221654891968
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( w| race| W| follow| after)",
+  "pos_r_squared": 0.9974120855331421,
+  "r_squared": 0.9973498582839966
+}

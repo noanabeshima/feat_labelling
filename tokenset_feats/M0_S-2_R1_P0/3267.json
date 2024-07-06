@@ -1,0 +1,5 @@
+{
+  "pattern": "( popular| matters| adventurer| Team| kids)",
+  "pos_r_squared": 0.9992116689682007,
+  "r_squared": 0.9963236451148987
+}

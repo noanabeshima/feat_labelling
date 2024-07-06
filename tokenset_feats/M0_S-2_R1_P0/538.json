@@ -1,0 +1,5 @@
+{
+  "pattern": "( watch| watched| saw| see| watching)",
+  "pos_r_squared": 0.9813168048858643,
+  "r_squared": 0.9813151359558105
+}

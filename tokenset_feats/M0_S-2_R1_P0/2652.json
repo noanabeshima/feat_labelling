@@ -1,0 +1,4 @@
+{
+  "pattern": "( store| park| buy| shop| market)",
+  "pos_r_squared": 0.897133469581604
+}

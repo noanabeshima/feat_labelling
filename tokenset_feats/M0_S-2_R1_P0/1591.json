@@ -1,0 +1,5 @@
+{
+  "pattern": "( cook| cooking| cooked| pretend| chef)",
+  "pos_r_squared": 0.9919838905334473,
+  "r_squared": 0.9912965893745422
+}

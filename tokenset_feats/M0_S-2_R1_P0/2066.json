@@ -1,0 +1,5 @@
+{
+  "pattern": "( bread| feed| rust| paper| explained)",
+  "pos_r_squared": 0.9990228414535522,
+  "r_squared": 0.9989855289459229
+}

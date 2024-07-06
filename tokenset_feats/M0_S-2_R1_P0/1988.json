@@ -1,0 +1,5 @@
+{
+  "pattern": "( street| stomp|James| James| streets)",
+  "pos_r_squared": 0.9985327124595642,
+  "r_squared": 0.9977295398712158
+}

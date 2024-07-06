@@ -1,0 +1,5 @@
+{
+  "pattern": "(ed|ing|acked|ped|ered)",
+  "pos_r_squared": 0.9925482273101807,
+  "r_squared": 0.9925137162208557
+}

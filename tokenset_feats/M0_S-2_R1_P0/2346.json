@@ -1,0 +1,5 @@
+{
+  "pattern": "( upset| Lisa|Hey| saw| angry)",
+  "pos_r_squared": 0.9987247586250305,
+  "r_squared": 0.9989346861839294
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( Dog| named|Dog| cans| dog)",
+  "pos_r_squared": 0.9807126522064209,
+  "r_squared": 0.9805550575256348
+}

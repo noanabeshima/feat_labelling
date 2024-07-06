@@ -1,0 +1,4 @@
+{
+  "pattern": "( folder| papers| file| lines| pins)",
+  "pos_r_squared": 0.9422354698181152
+}

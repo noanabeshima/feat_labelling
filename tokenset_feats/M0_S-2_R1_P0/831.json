@@ -1,0 +1,5 @@
+{
+  "pattern": "( before|Before| Before| Wise|Dr)",
+  "pos_r_squared": 0.9990630745887756,
+  "r_squared": 0.9991486668586731
+}

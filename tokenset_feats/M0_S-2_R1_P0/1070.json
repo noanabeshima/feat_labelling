@@ -1,0 +1,5 @@
+{
+  "pattern": "(Just| Just| Fl| just|Of)",
+  "pos_r_squared": 0.9981827735900879,
+  "r_squared": 0.9982647895812988
+}

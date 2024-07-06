@@ -1,0 +1,4 @@
+{
+  "pattern": "( dog| cat| bird| bug| fish)",
+  "pos_r_squared": 0.4525001049041748
+}

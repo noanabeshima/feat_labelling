@@ -1,0 +1,5 @@
+{
+  "pattern": "( line| end| lined| parade| dot)",
+  "pos_r_squared": 0.9989370107650757,
+  "r_squared": 0.9985383152961731
+}

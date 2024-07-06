@@ -1,0 +1,5 @@
+{
+  "pattern": "( stone| stones| papers|uf| symbols)",
+  "pos_r_squared": 0.9931944608688354,
+  "r_squared": 0.9929773211479187
+}

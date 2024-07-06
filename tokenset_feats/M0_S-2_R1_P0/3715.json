@@ -1,0 +1,5 @@
+{
+  "pattern": "( careless| slippery| slips| slipped| vowed)",
+  "pos_r_squared": 0.9977073073387146,
+  "r_squared": 0.9972238540649414
+}

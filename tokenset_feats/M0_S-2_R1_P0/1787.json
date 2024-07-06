@@ -1,0 +1,4 @@
+{
+  "pattern": "( pay| wallet| ticket| reward| counter)",
+  "pos_r_squared": 0.625033438205719
+}

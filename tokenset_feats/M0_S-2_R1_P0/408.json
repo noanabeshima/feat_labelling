@@ -1,0 +1,5 @@
+{
+  "pattern": "( an| a| regular| because| celebrate)",
+  "pos_r_squared": 0.9982066750526428,
+  "r_squared": 0.9976406693458557
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( say| saying| repeat| says| real)",
+  "pos_r_squared": 0.9956190586090088,
+  "r_squared": 0.995983362197876
+}

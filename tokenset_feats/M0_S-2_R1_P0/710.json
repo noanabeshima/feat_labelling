@@ -1,0 +1,5 @@
+{
+  "pattern": "( open| break| opening| opened| climb)",
+  "pos_r_squared": 0.9977778196334839,
+  "r_squared": 0.997770369052887
+}

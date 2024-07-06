@@ -1,0 +1,5 @@
+{
+  "pattern": "( scarf| sweater| wool| leash| flags)",
+  "pos_r_squared": 0.9871819615364075,
+  "r_squared": 0.98736572265625
+}

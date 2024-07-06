@@ -1,0 +1,5 @@
+{
+  "pattern": "( sister| sisters| their| dolls|ed)",
+  "pos_r_squared": 0.9978063702583313,
+  "r_squared": 0.9977430701255798
+}

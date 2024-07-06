@@ -1,0 +1,5 @@
+{
+  "pattern": "( tw| bird| blo| Tit| crit)",
+  "pos_r_squared": 0.9984056353569031,
+  "r_squared": 0.9983299374580383
+}

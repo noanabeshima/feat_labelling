@@ -1,0 +1,5 @@
+{
+  "pattern": "( bigger| lower|Another| larger|Tyler)",
+  "pos_r_squared": 0.999377429485321,
+  "r_squared": 0.9993374943733215
+}

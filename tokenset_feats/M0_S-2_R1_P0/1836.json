@@ -1,0 +1,5 @@
+{
+  "pattern": "( chair| chairs| stool| long| small)",
+  "pos_r_squared": 0.9973310232162476,
+  "r_squared": 0.9975497126579285
+}

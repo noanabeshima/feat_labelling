@@ -1,0 +1,5 @@
+{
+  "pattern": "( race| raced| racing| races| competing)",
+  "pos_r_squared": 0.9978584051132202,
+  "r_squared": 0.9978163838386536
+}

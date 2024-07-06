@@ -1,0 +1,5 @@
+{
+  "pattern": "( fish|fish| Fish|maid| boat)",
+  "pos_r_squared": 0.9990271329879761,
+  "r_squared": 0.9988508224487305
+}

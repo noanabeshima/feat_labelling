@@ -1,0 +1,5 @@
+{
+  "pattern": "( ladder| stool| stands| Smoke| firefighters)",
+  "pos_r_squared": 0.9924712777137756,
+  "r_squared": 0.9925879240036011
+}

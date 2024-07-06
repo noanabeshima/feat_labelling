@@ -1,0 +1,4 @@
+{
+  "pattern": "( driver| pilot| captain| both| reflection)",
+  "pos_r_squared": 0.9772292971611023
+}

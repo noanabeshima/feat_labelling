@@ -1,0 +1,5 @@
+{
+  "pattern": "( clay| dough| saw| folded| melted)",
+  "pos_r_squared": 0.9944455027580261,
+  "r_squared": 0.994361400604248
+}

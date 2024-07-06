@@ -1,0 +1,5 @@
+{
+  "pattern": "( another| was| Another| two| y)",
+  "pos_r_squared": 0.9953103065490723,
+  "r_squared": 0.994218111038208
+}

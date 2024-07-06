@@ -1,0 +1,4 @@
+{
+  "pattern": "( box| shiny| door| book| bottle)",
+  "pos_r_squared": 0.6507915258407593
+}

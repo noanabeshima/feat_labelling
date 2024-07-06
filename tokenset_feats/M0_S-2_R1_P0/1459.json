@@ -1,0 +1,5 @@
+{
+  "pattern": "( shoes| shoe| sneakers)",
+  "pos_r_squared": 0.9992156624794006,
+  "r_squared": 0.9987305998802185
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( tool| tools| equipment| shed| wrench)",
+  "pos_r_squared": 0.9969583749771118,
+  "r_squared": 0.9962782263755798
+}

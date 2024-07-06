@@ -1,0 +1,5 @@
+{
+  "pattern": "(After| After|Later| At| done)",
+  "pos_r_squared": 0.9994505047798157,
+  "r_squared": 0.9994387626647949
+}

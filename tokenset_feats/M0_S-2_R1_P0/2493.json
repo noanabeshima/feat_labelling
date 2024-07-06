@@ -1,0 +1,5 @@
+{
+  "pattern": "( princess| prince| Princess| Fif| holiday)",
+  "pos_r_squared": 0.9951916933059692,
+  "r_squared": 0.9941698908805847
+}

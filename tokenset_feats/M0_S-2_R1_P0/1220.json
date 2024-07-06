@@ -1,0 +1,5 @@
+{
+  "pattern": "( fruit| fruits| food| picked| ball)",
+  "pos_r_squared": 0.9989960193634033,
+  "r_squared": 0.9985357522964478
+}

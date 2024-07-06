@@ -1,0 +1,5 @@
+{
+  "pattern": "( sign| signs| poster| tag| signed)",
+  "pos_r_squared": 0.9974087476730347,
+  "r_squared": 0.9972147345542908
+}

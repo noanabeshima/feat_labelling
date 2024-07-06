@@ -1,0 +1,5 @@
+{
+  "pattern": "(ish|ishes| noses| pops| fault)",
+  "pos_r_squared": 0.9969256520271301,
+  "r_squared": 0.9961106777191162
+}

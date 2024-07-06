@@ -1,0 +1,5 @@
+{
+  "pattern": "(K| M| named|Wh| y)",
+  "pos_r_squared": 0.998859167098999,
+  "r_squared": 0.9983968138694763
+}

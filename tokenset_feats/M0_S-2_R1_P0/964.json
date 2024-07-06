@@ -1,0 +1,5 @@
+{
+  "pattern": "( book| watch| novel| show| cover)",
+  "pos_r_squared": 0.9984784722328186,
+  "r_squared": 0.9984442591667175
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( couch| films|Ble|,)",
+  "pos_r_squared": 0.9985048174858093,
+  "r_squared": 0.9979543089866638
+}

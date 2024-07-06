@@ -1,0 +1,4 @@
+{
+  "pattern": "( day| night| morning| evening| afternoon)",
+  "pos_r_squared": 0.9173592329025269
+}

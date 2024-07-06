@@ -1,0 +1,5 @@
+{
+  "pattern": "(s|ats| stands| aside| business)",
+  "pos_r_squared": 0.9981520175933838,
+  "r_squared": 0.9977715611457825
+}

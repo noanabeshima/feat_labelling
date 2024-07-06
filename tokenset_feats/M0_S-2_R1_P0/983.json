@@ -1,0 +1,5 @@
+{
+  "pattern": "( Mr|Mr| wear| Mrs|Hi)",
+  "pos_r_squared": 0.9858032464981079,
+  "r_squared": 0.9860434532165527
+}

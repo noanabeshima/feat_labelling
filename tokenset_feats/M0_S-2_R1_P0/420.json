@@ -1,0 +1,5 @@
+{
+  "pattern": "( happened| happen| happening| happens| gen)",
+  "pos_r_squared": 0.998798131942749,
+  "r_squared": 0.998864471912384
+}

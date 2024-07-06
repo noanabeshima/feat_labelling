@@ -1,0 +1,5 @@
+{
+  "pattern": "( own| extra| owned| tiny|Their)",
+  "pos_r_squared": 0.9945738315582275,
+  "r_squared": 0.9945688247680664
+}

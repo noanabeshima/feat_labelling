@@ -1,0 +1,5 @@
+{
+  "pattern": "( idea| agreement| ideas| scrib|Quick)",
+  "pos_r_squared": 0.9989777207374573,
+  "r_squared": 0.9989739656448364
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( decided| decide| named| chose| began)",
+  "pos_r_squared": 0.9958212971687317,
+  "r_squared": 0.9961875677108765
+}

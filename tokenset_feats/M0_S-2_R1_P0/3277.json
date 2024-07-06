@@ -1,0 +1,5 @@
+{
+  "pattern": "( healthy|you| Eat|Eat| fruits)",
+  "pos_r_squared": 0.9969164133071899,
+  "r_squared": 0.9968310594558716
+}

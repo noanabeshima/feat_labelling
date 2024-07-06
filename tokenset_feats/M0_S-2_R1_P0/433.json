@@ -1,0 +1,5 @@
+{
+  "pattern": "( your|-| Your|Your| such)",
+  "pos_r_squared": 0.9993734955787659,
+  "r_squared": 0.9993755221366882
+}

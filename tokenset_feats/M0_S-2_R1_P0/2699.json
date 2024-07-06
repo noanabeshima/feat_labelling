@@ -1,0 +1,5 @@
+{
+  "pattern": "( brothers| boys| like| brother| doctors)",
+  "pos_r_squared": 0.9944351315498352,
+  "r_squared": 0.9909502863883972
+}

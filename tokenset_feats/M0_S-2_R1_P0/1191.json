@@ -1,0 +1,4 @@
+{
+  "pattern": "( road| map| path| track| hills)",
+  "pos_r_squared": 0.6245907545089722
+}

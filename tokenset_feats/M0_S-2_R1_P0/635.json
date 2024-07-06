@@ -1,0 +1,4 @@
+{
+  "pattern": "( stopped| stop|Stop| quit| before)",
+  "pos_r_squared": 0.9790220260620117
+}

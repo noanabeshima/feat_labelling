@@ -1,0 +1,5 @@
+{
+  "pattern": "( phone| telephone|ilot| phones| real)",
+  "pos_r_squared": 0.998409628868103,
+  "r_squared": 0.9982241988182068
+}

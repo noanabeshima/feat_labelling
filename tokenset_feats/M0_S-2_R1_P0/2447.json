@@ -1,0 +1,4 @@
+{
+  "pattern": "( bulb| gear| battery| coal| screw)",
+  "pos_r_squared": 0.9521089792251587
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( oven| timer| pand| microwave| pige)",
+  "pos_r_squared": 0.9985211491584778,
+  "r_squared": 0.9985767006874084
+}

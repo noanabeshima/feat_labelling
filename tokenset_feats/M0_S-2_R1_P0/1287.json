@@ -1,0 +1,5 @@
+{
+  "pattern": "(Maybe| it| Maybe| maybe| can)",
+  "pos_r_squared": 0.995405912399292,
+  "r_squared": 0.9962580800056458
+}

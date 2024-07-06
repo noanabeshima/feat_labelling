@@ -1,0 +1,5 @@
+{
+  "pattern": "( bark| swoop| gr| cl| whim)",
+  "pos_r_squared": 0.99843430519104,
+  "r_squared": 0.9981500506401062
+}

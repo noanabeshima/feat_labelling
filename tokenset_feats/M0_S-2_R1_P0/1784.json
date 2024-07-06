@@ -1,0 +1,5 @@
+{
+  "pattern": "( us| ours| ourselves| Welcome| whim)",
+  "pos_r_squared": 0.9985897541046143,
+  "r_squared": 0.9987848997116089
+}

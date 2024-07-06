@@ -1,0 +1,5 @@
+{
+  "pattern": "( town| village| mill| family| tall)",
+  "pos_r_squared": 0.9873310923576355,
+  "r_squared": 0.707260012626648
+}

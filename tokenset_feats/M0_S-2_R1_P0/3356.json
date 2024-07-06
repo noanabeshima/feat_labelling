@@ -1,0 +1,5 @@
+{
+  "pattern": "(an| goose|ack|ans|ese)",
+  "pos_r_squared": 0.9942567348480225,
+  "r_squared": 0.9929899573326111
+}

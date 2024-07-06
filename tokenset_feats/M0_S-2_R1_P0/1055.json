@@ -1,0 +1,5 @@
+{
+  "pattern": "( pretend| pretended| pretending| fires| supposed)",
+  "pos_r_squared": 0.9865541458129883,
+  "r_squared": 0.9861977696418762
+}

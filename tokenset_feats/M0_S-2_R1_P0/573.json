@@ -1,0 +1,5 @@
+{
+  "pattern": "( lots| lot| hours| kinds| many)",
+  "pos_r_squared": 0.9848657250404358,
+  "r_squared": 0.9848600625991821
+}

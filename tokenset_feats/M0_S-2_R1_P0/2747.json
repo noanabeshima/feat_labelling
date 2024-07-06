@@ -1,0 +1,5 @@
+{
+  "pattern": "( fridge| thick| refrigerator| trash| own)",
+  "pos_r_squared": 0.9843469262123108,
+  "r_squared": 0.9842116236686707
+}

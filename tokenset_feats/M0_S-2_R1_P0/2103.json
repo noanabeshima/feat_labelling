@@ -1,0 +1,5 @@
+{
+  "pattern": "( music| space| water| songs| sing)",
+  "pos_r_squared": 0.9988976120948792,
+  "r_squared": 0.9988960027694702
+}

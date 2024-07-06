@@ -1,0 +1,5 @@
+{
+  "pattern": "( watched| watch| watching| stared| watches)",
+  "pos_r_squared": 0.9984795451164246,
+  "r_squared": 0.9981880784034729
+}

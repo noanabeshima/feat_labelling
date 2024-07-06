@@ -1,0 +1,5 @@
+{
+  "pattern": "( green| Green|''| ground| brown)",
+  "pos_r_squared": 0.9990859627723694,
+  "r_squared": 0.9987424612045288
+}

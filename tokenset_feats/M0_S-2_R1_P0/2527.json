@@ -1,0 +1,5 @@
+{
+  "pattern": "( mail| questions| shopping| y| ch)",
+  "pos_r_squared": 0.9963449239730835,
+  "r_squared": 0.9958606958389282
+}

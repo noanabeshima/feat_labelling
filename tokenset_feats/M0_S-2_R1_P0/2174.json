@@ -1,0 +1,5 @@
+{
+  "pattern": "( front| slammed| visitor|Close| main)",
+  "pos_r_squared": 0.9990455508232117,
+  "r_squared": 0.9990788698196411
+}

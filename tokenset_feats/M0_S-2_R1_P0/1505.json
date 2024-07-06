@@ -1,0 +1,4 @@
+{
+  "pattern": "( house| cat| room| clean| away)",
+  "pos_r_squared": 0.9708848595619202
+}

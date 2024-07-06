@@ -1,0 +1,5 @@
+{
+  "pattern": "( field|adow| fields| forests| sacks)",
+  "pos_r_squared": 0.9978752136230469,
+  "r_squared": 0.9967954754829407
+}

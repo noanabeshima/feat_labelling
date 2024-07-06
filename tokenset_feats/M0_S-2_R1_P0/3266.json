@@ -1,0 +1,5 @@
+{
+  "pattern": "( cereal| breakfast| dessert| yogurt| jewelry)",
+  "pos_r_squared": 0.9858548045158386,
+  "r_squared": 0.9851430058479309
+}

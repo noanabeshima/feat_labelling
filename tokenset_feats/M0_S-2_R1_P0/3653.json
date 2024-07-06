@@ -1,0 +1,5 @@
+{
+  "pattern": "( knocked| broke| knocks| crowded| tipped)",
+  "pos_r_squared": 0.9934148192405701,
+  "r_squared": 0.9934027791023254
+}

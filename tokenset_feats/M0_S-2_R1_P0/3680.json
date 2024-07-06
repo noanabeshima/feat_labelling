@@ -1,0 +1,5 @@
+{
+  "pattern": "( Brown| Smith| Green| Lee| named)",
+  "pos_r_squared": 0.9972023963928223,
+  "r_squared": 0.9969242811203003
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( My| Our|ST| dusty| own)",
+  "pos_r_squared": 0.9983131885528564,
+  "r_squared": 0.9981311559677124
+}

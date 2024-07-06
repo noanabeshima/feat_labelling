@@ -1,0 +1,5 @@
+{
+  "pattern": "( elevator| subway| floors| breathed| ins)",
+  "pos_r_squared": 0.9978581666946411,
+  "r_squared": 0.9974321722984314
+}

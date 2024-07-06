@@ -1,0 +1,5 @@
+{
+  "pattern": "( dish| dishes| rats|Bl| fries)",
+  "pos_r_squared": 0.997605562210083,
+  "r_squared": 0.9974194169044495
+}

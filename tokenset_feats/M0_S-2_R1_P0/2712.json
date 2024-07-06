@@ -1,0 +1,5 @@
+{
+  "pattern": "( milk| medicine| school| bike|Y)",
+  "pos_r_squared": 0.9982852339744568,
+  "r_squared": 0.9981420636177063
+}

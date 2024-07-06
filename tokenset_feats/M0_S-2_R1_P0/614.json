@@ -1,0 +1,5 @@
+{
+  "pattern": "( walk| walks| move|rolled| bike)",
+  "pos_r_squared": 0.9993794560432434,
+  "r_squared": 0.9991523027420044
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( fancy| Fay| pret|Hi| sailed)",
+  "pos_r_squared": 0.9990618228912354,
+  "r_squared": 0.9973952770233154
+}

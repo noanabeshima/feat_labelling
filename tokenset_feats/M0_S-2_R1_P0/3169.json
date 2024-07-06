@@ -1,0 +1,5 @@
+{
+  "pattern": "( knee| finger|aid| cheek| cheeks)",
+  "pos_r_squared": 0.9967523813247681,
+  "r_squared": 0.9966923594474792
+}

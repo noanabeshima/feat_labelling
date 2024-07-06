@@ -1,0 +1,5 @@
+{
+  "pattern": "( Polly|olly| Pip|P| she)",
+  "pos_r_squared": 0.9823783040046692,
+  "r_squared": 0.9801213145256042
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( office| lab| hall| classroom| shop)",
+  "pos_r_squared": 0.9893524646759033,
+  "r_squared": 0.9878566265106201
+}

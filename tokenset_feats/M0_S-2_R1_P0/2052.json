@@ -1,0 +1,5 @@
+{
+  "pattern": "( fall| falling| falls| fallen| leave)",
+  "pos_r_squared": 0.9970310926437378,
+  "r_squared": 0.9969186782836914
+}

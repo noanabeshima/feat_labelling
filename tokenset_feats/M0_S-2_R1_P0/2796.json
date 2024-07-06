@@ -1,0 +1,5 @@
+{
+  "pattern": "( stone| stones| rock|st| globe)",
+  "pos_r_squared": 0.9970650672912598,
+  "r_squared": 0.9973319172859192
+}

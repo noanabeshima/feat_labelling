@@ -1,0 +1,5 @@
+{
+  "pattern": "( lose| losing| handful| scared|sc)",
+  "pos_r_squared": 0.9964433312416077,
+  "r_squared": 0.9964178800582886
+}

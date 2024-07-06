@@ -1,0 +1,5 @@
+{
+  "pattern": "( grandma| grandmother|pa| grandparents| year)",
+  "pos_r_squared": 0.9957895874977112,
+  "r_squared": 0.9952234029769897
+}

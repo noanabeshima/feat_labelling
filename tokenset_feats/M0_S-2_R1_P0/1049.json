@@ -1,0 +1,5 @@
+{
+  "pattern": "( ready| available| prepare| prepared| preparing)",
+  "pos_r_squared": 0.9977319240570068,
+  "r_squared": 0.9976770877838135
+}

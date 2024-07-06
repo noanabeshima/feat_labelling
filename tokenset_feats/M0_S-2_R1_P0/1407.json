@@ -1,0 +1,4 @@
+{
+  "pattern": "( went| took|\\.| made| ran)",
+  "pos_r_squared": 0.6377387046813965
+}

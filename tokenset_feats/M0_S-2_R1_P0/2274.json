@@ -1,0 +1,5 @@
+{
+  "pattern": "( boss| rule| Rel| want| leader)",
+  "pos_r_squared": 0.9983612298965454,
+  "r_squared": 0.9984580874443054
+}

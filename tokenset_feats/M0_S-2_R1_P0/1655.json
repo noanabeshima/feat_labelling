@@ -1,0 +1,5 @@
+{
+  "pattern": "( well| properly| By| bleed| fell)",
+  "pos_r_squared": 0.9987589716911316,
+  "r_squared": 0.9986165761947632
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( big| small|,| a| nice)",
+  "pos_r_squared": 0.9604959487915039
+}

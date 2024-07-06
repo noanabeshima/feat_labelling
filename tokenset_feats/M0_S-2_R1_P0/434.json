@@ -1,0 +1,5 @@
+{
+  "pattern": "( Then|Then|Next| afterwards| Later)",
+  "pos_r_squared": 0.9985097646713257,
+  "r_squared": 0.9984871745109558
+}

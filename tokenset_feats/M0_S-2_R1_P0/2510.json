@@ -1,0 +1,5 @@
+{
+  "pattern": "(We|we| sa| t|you)",
+  "pos_r_squared": 0.997549295425415,
+  "r_squared": 0.9975688457489014
+}

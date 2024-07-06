@@ -1,0 +1,5 @@
+{
+  "pattern": "( wallet| purse|Uh|Prom|uddy)",
+  "pos_r_squared": 0.9984696507453918,
+  "r_squared": 0.9983559250831604
+}

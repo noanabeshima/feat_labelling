@@ -1,0 +1,5 @@
+{
+  "pattern": "( bed| beds| cereal|amas|night)",
+  "pos_r_squared": 0.9990904331207275,
+  "r_squared": 0.998801052570343
+}

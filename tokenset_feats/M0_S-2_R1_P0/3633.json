@@ -1,0 +1,4 @@
+{
+  "pattern": "( stopped| stop| turned| finished| kept)",
+  "pos_r_squared": 0.7784217596054077
+}

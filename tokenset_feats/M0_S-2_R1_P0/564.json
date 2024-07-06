@@ -1,0 +1,5 @@
+{
+  "pattern": "( unexpected| contain| strange| plot| jokes)",
+  "pos_r_squared": 0.999568521976471,
+  "r_squared": 0.9995346665382385
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( wall| walls| ceiling| frame|There)",
+  "pos_r_squared": 0.9978455305099487,
+  "r_squared": 0.998802661895752
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( tap| lamp| fan| switch| hose)",
+  "pos_r_squared": 0.7155054807662964
+}

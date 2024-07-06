@@ -1,0 +1,4 @@
+{
+  "pattern": "(Stop| hurry| quit|\\n| job)",
+  "pos_r_squared": 0.5363352298736572
+}

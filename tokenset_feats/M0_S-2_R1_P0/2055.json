@@ -1,0 +1,5 @@
+{
+  "pattern": "( school|aj| School| preschool| daily)",
+  "pos_r_squared": 0.999039351940155,
+  "r_squared": 0.997795045375824
+}

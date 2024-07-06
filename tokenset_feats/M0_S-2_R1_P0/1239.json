@@ -1,0 +1,5 @@
+{
+  "pattern": "(Oh| day|S| oh| room)",
+  "pos_r_squared": 0.9881876111030579,
+  "r_squared": 0.9884571433067322
+}

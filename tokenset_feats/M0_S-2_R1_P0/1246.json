@@ -1,0 +1,5 @@
+{
+  "pattern": "( three| 3| four| five| pile)",
+  "pos_r_squared": 0.9987792372703552,
+  "r_squared": 0.9963733553886414
+}

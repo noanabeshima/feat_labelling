@@ -1,0 +1,4 @@
+{
+  "pattern": "( with|\\[UNK\\]|ed| Spot| Max)",
+  "pos_r_squared": 0.01741856336593628
+}

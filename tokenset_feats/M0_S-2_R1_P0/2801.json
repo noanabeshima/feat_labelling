@@ -1,0 +1,4 @@
+{
+  "pattern": "(No|But|\\[UNK\\]| Z| on)",
+  "pos_r_squared": 0.019142568111419678
+}

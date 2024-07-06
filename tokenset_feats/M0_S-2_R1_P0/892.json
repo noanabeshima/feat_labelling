@@ -1,0 +1,5 @@
+{
+  "pattern": "( safe| safely| saved| safety|hog)",
+  "pos_r_squared": 0.9979101419448853,
+  "r_squared": 0.997877836227417
+}

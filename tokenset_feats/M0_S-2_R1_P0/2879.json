@@ -1,0 +1,5 @@
+{
+  "pattern": "( filled| overwhelmed| fills|ST| overflowing)",
+  "pos_r_squared": 0.9991005659103394,
+  "r_squared": 0.9990432262420654
+}

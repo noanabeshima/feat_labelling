@@ -1,0 +1,5 @@
+{
+  "pattern": "( swimming|ST| hungry| saving| crawling)",
+  "pos_r_squared": 0.9986734390258789,
+  "r_squared": 0.9968400597572327
+}

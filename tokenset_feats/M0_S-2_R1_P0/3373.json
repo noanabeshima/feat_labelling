@@ -1,0 +1,5 @@
+{
+  "pattern": "( poured| pour| pouring|ours|zes)",
+  "pos_r_squared": 0.9973606467247009,
+  "r_squared": 0.9974146485328674
+}

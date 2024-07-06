@@ -1,0 +1,5 @@
+{
+  "pattern": "( candy| cand| cheese| scary| fruit)",
+  "pos_r_squared": 0.9972086548805237,
+  "r_squared": 0.9965587854385376
+}

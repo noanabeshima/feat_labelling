@@ -1,0 +1,5 @@
+{
+  "pattern": "( use| used| using|Sh| too)",
+  "pos_r_squared": 0.9876835346221924,
+  "r_squared": 0.9876823425292969
+}

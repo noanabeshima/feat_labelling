@@ -1,0 +1,5 @@
+{
+  "pattern": "( temple| church| village| bell| mill)",
+  "pos_r_squared": 0.9981147646903992,
+  "r_squared": 0.99693763256073
+}

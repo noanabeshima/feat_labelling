@@ -1,0 +1,5 @@
+{
+  "pattern": "( leaf| leaves| stick| Leaf| orange)",
+  "pos_r_squared": 0.9931093454360962,
+  "r_squared": 0.9974431991577148
+}

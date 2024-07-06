@@ -1,0 +1,5 @@
+{
+  "pattern": "( realized| realised| realize| seems| control)",
+  "pos_r_squared": 0.9911209344863892,
+  "r_squared": 0.991106390953064
+}

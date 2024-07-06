@@ -1,0 +1,5 @@
+{
+  "pattern": "( Today|Today|Tomorrow|Yesterday| Tonight)",
+  "pos_r_squared": 0.9962546825408936,
+  "r_squared": 0.994687020778656
+}

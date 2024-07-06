@@ -1,0 +1,4 @@
+{
+  "pattern": "( guess| guessed| games| exactly| think)",
+  "pos_r_squared": 0.9256269335746765
+}

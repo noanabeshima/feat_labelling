@@ -1,0 +1,4 @@
+{
+  "pattern": "( time| move| nice| safe| There)",
+  "pos_r_squared": 0.0017362236976623535
+}

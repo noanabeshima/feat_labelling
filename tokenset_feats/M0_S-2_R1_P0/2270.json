@@ -1,0 +1,5 @@
+{
+  "pattern": "( bake| baking| s| baked| baker)",
+  "pos_r_squared": 0.9917609095573425,
+  "r_squared": 0.9917973279953003
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( tank| cell| tanks| Box| Rock)",
+  "pos_r_squared": 0.9700145125389099
+}

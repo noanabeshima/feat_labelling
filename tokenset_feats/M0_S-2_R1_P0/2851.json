@@ -1,0 +1,5 @@
+{
+  "pattern": "( breath| fin| lungs| aimed| happened)",
+  "pos_r_squared": 0.9899197816848755,
+  "r_squared": 0.9897729158401489
+}

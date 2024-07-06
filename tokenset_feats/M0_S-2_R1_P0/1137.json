@@ -1,0 +1,5 @@
+{
+  "pattern": "( thing| object| pair|ll| site)",
+  "pos_r_squared": 0.99919593334198,
+  "r_squared": 0.9989221692085266
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( hot| heat| sunny|On|opl)",
+  "pos_r_squared": 0.9962912201881409,
+  "r_squared": 0.9958987236022949
+}

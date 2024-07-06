@@ -1,0 +1,5 @@
+{
+  "pattern": "( speed| sped| speeding|oxy|gly)",
+  "pos_r_squared": 0.994322657585144,
+  "r_squared": 0.9940841794013977
+}

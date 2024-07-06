@@ -1,0 +1,5 @@
+{
+  "pattern": "( fox| black| Fox| Dot| lot)",
+  "pos_r_squared": 0.9929547905921936,
+  "r_squared": 0.9903521537780762
+}

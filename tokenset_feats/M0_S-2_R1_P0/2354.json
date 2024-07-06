@@ -1,0 +1,5 @@
+{
+  "pattern": "( naughty| tasks|vous|hy| thrown)",
+  "pos_r_squared": 0.9977572560310364,
+  "r_squared": 0.9969116449356079
+}

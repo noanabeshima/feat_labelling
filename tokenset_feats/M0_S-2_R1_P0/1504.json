@@ -1,0 +1,5 @@
+{
+  "pattern": "( brother| sister| brown| brothers| cousin)",
+  "pos_r_squared": 0.994918942451477,
+  "r_squared": 0.9946657419204712
+}

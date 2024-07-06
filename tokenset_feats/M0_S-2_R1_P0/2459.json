@@ -1,0 +1,5 @@
+{
+  "pattern": "( silly| reason| stay| proud| Bye)",
+  "pos_r_squared": 0.9981932044029236,
+  "r_squared": 0.9961789846420288
+}

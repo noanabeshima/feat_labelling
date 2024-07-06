@@ -1,0 +1,5 @@
+{
+  "pattern": "( and|ily| was| who|There)",
+  "pos_r_squared": 0.9843743443489075,
+  "r_squared": 0.11284136772155762
+}

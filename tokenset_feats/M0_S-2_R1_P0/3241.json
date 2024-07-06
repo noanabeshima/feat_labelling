@@ -1,0 +1,5 @@
+{
+  "pattern": "( poor| worn|Lu| Poor|Poor)",
+  "pos_r_squared": 0.9993993639945984,
+  "r_squared": 0.998147189617157
+}

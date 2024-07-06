@@ -1,0 +1,5 @@
+{
+  "pattern": "( now| today| Now| creations| finds)",
+  "pos_r_squared": 0.9989420771598816,
+  "r_squared": 0.998959481716156
+}

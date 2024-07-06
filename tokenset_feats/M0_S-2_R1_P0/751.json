@@ -1,0 +1,5 @@
+{
+  "pattern": "( boat| boats| swords|bank| backwards)",
+  "pos_r_squared": 0.994807243347168,
+  "r_squared": 0.9943942427635193
+}

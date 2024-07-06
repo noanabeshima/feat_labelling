@@ -1,0 +1,5 @@
+{
+  "pattern": "( y|L| fun| heroes|drops)",
+  "pos_r_squared": 0.9996568560600281,
+  "r_squared": 0.9996458292007446
+}

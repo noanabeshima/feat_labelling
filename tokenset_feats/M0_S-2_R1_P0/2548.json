@@ -1,0 +1,4 @@
+{
+  "pattern": "( something| a| someone| bird|\\?\")",
+  "pos_r_squared": 0.6466887593269348
+}

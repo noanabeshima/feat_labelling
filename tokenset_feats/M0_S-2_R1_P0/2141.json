@@ -1,0 +1,4 @@
+{
+  "pattern": "( unexpected|\\[UNK\\]| face| thing| Inside)",
+  "pos_r_squared": 0.0015946030616760254
+}

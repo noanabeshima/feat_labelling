@@ -1,0 +1,5 @@
+{
+  "pattern": "( sm| Daisy| poor| away| The)",
+  "pos_r_squared": 0.9944614768028259,
+  "r_squared": 0.9686570167541504
+}

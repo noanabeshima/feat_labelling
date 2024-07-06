@@ -1,0 +1,5 @@
+{
+  "pattern": "( break| breaking| broke| hurting| blocks)",
+  "pos_r_squared": 0.9984984993934631,
+  "r_squared": 0.9986542463302612
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( began| beginning| branches|Wh|Little)",
+  "pos_r_squared": 0.9943794012069702,
+  "r_squared": 0.9947453141212463
+}

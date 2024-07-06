@@ -1,0 +1,5 @@
+{
+  "pattern": "( garden| park| vegetables| backyard| pencil)",
+  "pos_r_squared": 0.9990876317024231,
+  "r_squared": 0.9963356852531433
+}

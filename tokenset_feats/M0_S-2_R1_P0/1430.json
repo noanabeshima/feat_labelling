@@ -1,0 +1,5 @@
+{
+  "pattern": "( helped| helps| Dot| lets|'\\.\")",
+  "pos_r_squared": 0.9991228580474854,
+  "r_squared": 0.998884379863739
+}

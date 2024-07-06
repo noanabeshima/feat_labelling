@@ -1,0 +1,5 @@
+{
+  "pattern": "( city| traffic| sidewalk| roads| buses)",
+  "pos_r_squared": 0.9874165654182434,
+  "r_squared": 0.9856852889060974
+}

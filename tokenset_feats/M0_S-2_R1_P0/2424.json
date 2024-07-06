@@ -1,0 +1,4 @@
+{
+  "pattern": "( library| mall| week| elevator| gym)",
+  "pos_r_squared": 0.8464605808258057
+}

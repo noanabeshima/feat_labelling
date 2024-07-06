@@ -1,0 +1,5 @@
+{
+  "pattern": "( trees| mountains| digs| forests| imag)",
+  "pos_r_squared": 0.9988966584205627,
+  "r_squared": 0.9984149932861328
+}

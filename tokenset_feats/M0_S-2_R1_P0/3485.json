@@ -1,0 +1,5 @@
+{
+  "pattern": "( Little|Little| Mill|Dear|Mrs)",
+  "pos_r_squared": 0.9923290014266968,
+  "r_squared": 0.9916163682937622
+}

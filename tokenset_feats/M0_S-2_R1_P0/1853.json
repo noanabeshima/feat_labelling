@@ -1,0 +1,5 @@
+{
+  "pattern": "( yes|Yes|yes|ok| worth)",
+  "pos_r_squared": 0.9990488290786743,
+  "r_squared": 0.9990202188491821
+}

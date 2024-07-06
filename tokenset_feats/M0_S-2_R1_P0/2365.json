@@ -1,0 +1,5 @@
+{
+  "pattern": "( building| block| buildings|C| starting)",
+  "pos_r_squared": 0.9961692690849304,
+  "r_squared": 0.9945915937423706
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( bench|,| Mr| his| benches)",
+  "pos_r_squared": 0.9960269331932068,
+  "r_squared": 0.9957276582717896
+}

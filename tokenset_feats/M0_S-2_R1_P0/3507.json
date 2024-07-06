@@ -1,0 +1,5 @@
+{
+  "pattern": "(Tom| miserable| suffering|mill|Sorry)",
+  "pos_r_squared": 0.997397243976593,
+  "r_squared": 0.9970611929893494
+}

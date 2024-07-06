@@ -1,0 +1,5 @@
+{
+  "pattern": "( animals| creatures|Everyone| figures| named)",
+  "pos_r_squared": 0.9965173006057739,
+  "r_squared": 0.9964749813079834
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( room| yard| kitchen| toys| bathroom)",
+  "pos_r_squared": 0.5852932929992676
+}

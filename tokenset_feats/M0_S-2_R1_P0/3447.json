@@ -1,0 +1,5 @@
+{
+  "pattern": "( year| bear| an| shore| workshop)",
+  "pos_r_squared": 0.9988080859184265,
+  "r_squared": 0.995976984500885
+}

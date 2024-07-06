@@ -1,0 +1,5 @@
+{
+  "pattern": "( clouds| waves| cloudy| moons| spots)",
+  "pos_r_squared": 0.9967271685600281,
+  "r_squared": 0.9963275790214539
+}

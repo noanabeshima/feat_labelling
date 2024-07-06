@@ -1,0 +1,5 @@
+{
+  "pattern": "( hard| harder| But| tough| difficult)",
+  "pos_r_squared": 0.9987236857414246,
+  "r_squared": 0.9987444877624512
+}

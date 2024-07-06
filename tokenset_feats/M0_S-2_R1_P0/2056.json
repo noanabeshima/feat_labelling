@@ -1,0 +1,5 @@
+{
+  "pattern": "( P|P| Penny| Pip|B)",
+  "pos_r_squared": 0.9914271235466003,
+  "r_squared": 0.9907585382461548
+}

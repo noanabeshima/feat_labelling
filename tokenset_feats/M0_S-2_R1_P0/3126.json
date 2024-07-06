@@ -1,0 +1,5 @@
+{
+  "pattern": "( knife| knives| table| broke| monster)",
+  "pos_r_squared": 0.9960368275642395,
+  "r_squared": 0.9960741996765137
+}

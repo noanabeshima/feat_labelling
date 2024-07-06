@@ -1,0 +1,5 @@
+{
+  "pattern": "( by| of| because| few| much)",
+  "pos_r_squared": 0.9950461387634277,
+  "r_squared": 0.995046854019165
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( free| trapped| rescued| healed| precious)",
+  "pos_r_squared": 0.9970526695251465,
+  "r_squared": 0.9970285892486572
+}

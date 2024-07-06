@@ -1,0 +1,5 @@
+{
+  "pattern": "( circle| Circle| car| the| smile)",
+  "pos_r_squared": 0.9951187968254089,
+  "r_squared": 0.9976590871810913
+}

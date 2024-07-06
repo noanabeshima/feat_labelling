@@ -1,0 +1,5 @@
+{
+  "pattern": "( promise| friendship|ise| bread|Trust)",
+  "pos_r_squared": 0.9918534755706787,
+  "r_squared": 0.9918063879013062
+}

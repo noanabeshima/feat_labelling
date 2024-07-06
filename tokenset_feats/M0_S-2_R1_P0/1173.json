@@ -1,0 +1,5 @@
+{
+  "pattern": "( stuck| scared| move| hole| trapped)",
+  "pos_r_squared": 0.997556209564209,
+  "r_squared": 0.9976745247840881
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( mum|um| favourite| Mum| mummy)",
+  "pos_r_squared": 0.9940824508666992,
+  "r_squared": 0.993762731552124
+}

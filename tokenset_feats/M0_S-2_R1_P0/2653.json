@@ -1,0 +1,5 @@
+{
+  "pattern": "( horse| horses| Horse| unicorn| described)",
+  "pos_r_squared": 0.9983183741569519,
+  "r_squared": 0.9978391528129578
+}

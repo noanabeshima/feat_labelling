@@ -1,0 +1,5 @@
+{
+  "pattern": "( ate| fed| eaten|Eat| Eat)",
+  "pos_r_squared": 0.99468994140625,
+  "r_squared": 0.9946743845939636
+}

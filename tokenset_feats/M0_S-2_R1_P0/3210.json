@@ -1,0 +1,5 @@
+{
+  "pattern": "( nothing| none| Nothing| cre|Mouse)",
+  "pos_r_squared": 0.9951910972595215,
+  "r_squared": 0.9952009916305542
+}

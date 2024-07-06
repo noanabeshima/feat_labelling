@@ -1,0 +1,4 @@
+{
+  "pattern": "( letter| note| card| envelope| message)",
+  "pos_r_squared": 0.9051361680030823
+}

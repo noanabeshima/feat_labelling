@@ -1,0 +1,5 @@
+{
+  "pattern": "( pick| picking| Pick|,\"|the)",
+  "pos_r_squared": 0.9966535568237305,
+  "r_squared": 0.9961498975753784
+}

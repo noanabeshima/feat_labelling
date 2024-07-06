@@ -1,0 +1,4 @@
+{
+  "pattern": "( car| truck| fast| flower| ball)",
+  "pos_r_squared": 0.640343964099884
+}

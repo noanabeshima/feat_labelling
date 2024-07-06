@@ -1,0 +1,5 @@
+{
+  "pattern": "( bucket|ail| buckets| towels|Bring)",
+  "pos_r_squared": 0.997628927230835,
+  "r_squared": 0.996371865272522
+}

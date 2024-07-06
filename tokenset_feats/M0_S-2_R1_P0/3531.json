@@ -1,0 +1,5 @@
+{
+  "pattern": "( covered| covering| cover| buried| feed)",
+  "pos_r_squared": 0.9991845488548279,
+  "r_squared": 0.999099612236023
+}

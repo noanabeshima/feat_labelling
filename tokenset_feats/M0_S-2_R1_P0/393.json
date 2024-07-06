@@ -1,0 +1,5 @@
+{
+  "pattern": "( near| by| close| outside| Under)",
+  "pos_r_squared": 0.9967482089996338,
+  "r_squared": 0.9968039989471436
+}

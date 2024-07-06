@@ -1,0 +1,5 @@
+{
+  "pattern": "( turns|ooters| guests| turn| swap)",
+  "pos_r_squared": 0.9996193647384644,
+  "r_squared": 0.9996325373649597
+}

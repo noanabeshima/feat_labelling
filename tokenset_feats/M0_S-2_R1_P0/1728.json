@@ -1,0 +1,5 @@
+{
+  "pattern": "( promise| promised| chores|Prom|ise)",
+  "pos_r_squared": 0.9957500100135803,
+  "r_squared": 0.9957590699195862
+}

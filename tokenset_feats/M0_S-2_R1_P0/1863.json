@@ -1,0 +1,5 @@
+{
+  "pattern": "( instead| Instead| lots| soft| including)",
+  "pos_r_squared": 0.9804027080535889,
+  "r_squared": 0.9806033968925476
+}

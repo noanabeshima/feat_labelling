@@ -1,0 +1,5 @@
+{
+  "pattern": "( heard| hear| saw| must| Just)",
+  "pos_r_squared": 0.9803138971328735,
+  "r_squared": 0.980185866355896
+}

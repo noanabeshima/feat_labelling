@@ -1,0 +1,5 @@
+{
+  "pattern": "( read| reading| reads| worn| talks)",
+  "pos_r_squared": 0.9988179206848145,
+  "r_squared": 0.998856246471405
+}

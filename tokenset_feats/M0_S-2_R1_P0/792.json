@@ -1,0 +1,5 @@
+{
+  "pattern": "(At| At|During| corner|By)",
+  "pos_r_squared": 0.9952346086502075,
+  "r_squared": 0.9951468706130981
+}

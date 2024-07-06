@@ -1,0 +1,5 @@
+{
+  "pattern": "( landed| into| lands| parked| onto)",
+  "pos_r_squared": 0.9967689514160156,
+  "r_squared": 0.9968008995056152
+}

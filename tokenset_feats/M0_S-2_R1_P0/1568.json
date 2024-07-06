@@ -1,0 +1,5 @@
+{
+  "pattern": "( wrong| you| been| replace| dog)",
+  "pos_r_squared": 0.9958690404891968,
+  "r_squared": 0.9968006014823914
+}

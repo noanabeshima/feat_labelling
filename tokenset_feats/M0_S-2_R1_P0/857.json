@@ -1,0 +1,5 @@
+{
+  "pattern": "( became| become| becoming| remained|Tom)",
+  "pos_r_squared": 0.998253583908081,
+  "r_squared": 0.998070240020752
+}

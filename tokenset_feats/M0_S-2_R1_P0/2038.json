@@ -1,0 +1,5 @@
+{
+  "pattern": "( doctor| doctors|Doctor| cops| vet)",
+  "pos_r_squared": 0.9961056113243103,
+  "r_squared": 0.9955288171768188
+}

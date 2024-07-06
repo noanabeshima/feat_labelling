@@ -1,0 +1,5 @@
+{
+  "pattern": "( save| saved| saving| rescued| earn)",
+  "pos_r_squared": 0.9968418478965759,
+  "r_squared": 0.9969758987426758
+}

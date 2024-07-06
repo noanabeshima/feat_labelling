@@ -1,0 +1,5 @@
+{
+  "pattern": "( storm| hurricane| tornado| weather| humans)",
+  "pos_r_squared": 0.9946768283843994,
+  "r_squared": 0.9946212768554688
+}

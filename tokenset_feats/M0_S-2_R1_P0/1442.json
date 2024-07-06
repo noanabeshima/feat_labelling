@@ -1,0 +1,5 @@
+{
+  "pattern": "( drive| drove| car| driving| already)",
+  "pos_r_squared": 0.9856047630310059,
+  "r_squared": 0.9856231808662415
+}

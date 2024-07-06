@@ -1,0 +1,5 @@
+{
+  "pattern": "( carry| carried| carrying| holding| deliver)",
+  "pos_r_squared": 0.9943205714225769,
+  "r_squared": 0.9942873120307922
+}

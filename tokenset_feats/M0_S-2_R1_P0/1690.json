@@ -1,0 +1,5 @@
+{
+  "pattern": "( button| buttons| knob| lid| label)",
+  "pos_r_squared": 0.9949728846549988,
+  "r_squared": 0.9949122071266174
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( turn| turned| turning| turns| changing)",
+  "pos_r_squared": 0.9969765543937683,
+  "r_squared": 0.997268795967102
+}

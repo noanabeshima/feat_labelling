@@ -1,0 +1,5 @@
+{
+  "pattern": "( cheap| price| sale| cheaper| attempts)",
+  "pos_r_squared": 0.9989405274391174,
+  "r_squared": 0.9981532692909241
+}

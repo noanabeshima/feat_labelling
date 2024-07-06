@@ -1,0 +1,5 @@
+{
+  "pattern": "( eating| eats|ST| refuses| nor)",
+  "pos_r_squared": 0.9965898990631104,
+  "r_squared": 0.9951625466346741
+}

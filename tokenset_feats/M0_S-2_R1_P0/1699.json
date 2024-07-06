@@ -1,0 +1,5 @@
+{
+  "pattern": "( side| sides| mate| end| slit)",
+  "pos_r_squared": 0.998889148235321,
+  "r_squared": 0.9989001154899597
+}

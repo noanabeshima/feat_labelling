@@ -1,0 +1,5 @@
+{
+  "pattern": "( pieces| ig| slices| ste|Dog)",
+  "pos_r_squared": 0.9991335272789001,
+  "r_squared": 0.9991284608840942
+}

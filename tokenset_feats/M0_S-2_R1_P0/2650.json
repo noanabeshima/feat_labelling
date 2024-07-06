@@ -1,0 +1,5 @@
+{
+  "pattern": "( happen| happens| wall|ST| difference)",
+  "pos_r_squared": 0.9987109303474426,
+  "r_squared": 0.998664140701294
+}

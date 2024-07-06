@@ -1,0 +1,5 @@
+{
+  "pattern": "( monster| monsters|Out| dragon| just)",
+  "pos_r_squared": 0.9945909380912781,
+  "r_squared": 0.99448561668396
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( don| y|\\[UNK\\]|Y| doing)",
+  "pos_r_squared": 0.0027576088905334473
+}

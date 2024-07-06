@@ -1,0 +1,5 @@
+{
+  "pattern": "( wasn|'m| hadn| isn| weren)",
+  "pos_r_squared": 0.9917050004005432,
+  "r_squared": 0.991775631904602
+}

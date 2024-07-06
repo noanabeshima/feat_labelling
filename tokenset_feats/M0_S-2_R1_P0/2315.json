@@ -1,0 +1,4 @@
+{
+  "pattern": "( something| anything| someone| Something| thing)",
+  "pos_r_squared": 0.6708238124847412
+}

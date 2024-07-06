@@ -1,0 +1,5 @@
+{
+  "pattern": "( window| microscope| sky| watch| only)",
+  "pos_r_squared": 0.9933837056159973,
+  "r_squared": 0.9849845170974731
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( follow|Follow| following| obey| followed)",
+  "pos_r_squared": 0.9986770153045654,
+  "r_squared": 0.9984096884727478
+}

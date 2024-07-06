@@ -1,0 +1,4 @@
+{
+  "pattern": "( now| Now|Now|,| already)",
+  "pos_r_squared": 0.7292240858078003
+}

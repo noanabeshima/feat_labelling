@@ -1,0 +1,5 @@
+{
+  "pattern": "( tail| fin| warriors| tails|'')",
+  "pos_r_squared": 0.9989558458328247,
+  "r_squared": 0.9988079071044922
+}

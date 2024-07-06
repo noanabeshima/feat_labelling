@@ -1,0 +1,4 @@
+{
+  "pattern": "( book| magazine| ranch| billboard| calendar)",
+  "pos_r_squared": 0.816339910030365
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( Then|Then| Finally|Finally|Now)",
+  "pos_r_squared": 0.6824533939361572
+}

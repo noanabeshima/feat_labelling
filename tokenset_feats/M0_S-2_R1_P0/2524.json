@@ -1,0 +1,5 @@
+{
+  "pattern": "( same| different| give| a| stick)",
+  "pos_r_squared": 0.9977123737335205,
+  "r_squared": 0.9912875890731812
+}

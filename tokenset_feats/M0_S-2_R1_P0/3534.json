@@ -1,0 +1,5 @@
+{
+  "pattern": "( plate|ST| batch| Ign)",
+  "pos_r_squared": 0.9983620643615723,
+  "r_squared": 0.9982420206069946
+}

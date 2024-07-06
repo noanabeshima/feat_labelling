@@ -1,0 +1,5 @@
+{
+  "pattern": "(able| reliable|iable| Rel| Sundays)",
+  "pos_r_squared": 0.9988084435462952,
+  "r_squared": 0.9981076717376709
+}

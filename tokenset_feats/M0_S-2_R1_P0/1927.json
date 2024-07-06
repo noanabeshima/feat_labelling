@@ -1,0 +1,4 @@
+{
+  "pattern": "( battery| oil| fuel| license| oxygen)",
+  "pos_r_squared": 0.6132550239562988
+}

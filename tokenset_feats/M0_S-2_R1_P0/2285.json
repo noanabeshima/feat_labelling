@@ -1,0 +1,5 @@
+{
+  "pattern": "( part| parts| close|he| spaces)",
+  "pos_r_squared": 0.9960393905639648,
+  "r_squared": 0.9964820146560669
+}

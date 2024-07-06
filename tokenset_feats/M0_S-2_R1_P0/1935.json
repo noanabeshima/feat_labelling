@@ -1,0 +1,5 @@
+{
+  "pattern": "( king| King| kings| lion| seller)",
+  "pos_r_squared": 0.9965187311172485,
+  "r_squared": 0.9953057169914246
+}

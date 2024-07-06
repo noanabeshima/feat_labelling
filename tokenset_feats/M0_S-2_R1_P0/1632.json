@@ -1,0 +1,5 @@
+{
+  "pattern": "( sail| sailed| sailing| boat| drive)",
+  "pos_r_squared": 0.9938513040542603,
+  "r_squared": 0.9933210015296936
+}

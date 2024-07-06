@@ -1,0 +1,4 @@
+{
+  "pattern": "( run| jump| hop| and| toys)",
+  "pos_r_squared": 0.8801364302635193
+}

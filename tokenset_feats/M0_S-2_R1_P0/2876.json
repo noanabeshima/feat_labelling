@@ -1,0 +1,5 @@
+{
+  "pattern": "( fake| except| k|azy| already)",
+  "pos_r_squared": 0.9987139105796814,
+  "r_squared": 0.9985330700874329
+}

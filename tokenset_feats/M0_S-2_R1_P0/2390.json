@@ -1,0 +1,5 @@
+{
+  "pattern": "( remembered| Remember| sharing| remembers| Sharing)",
+  "pos_r_squared": 0.9982851147651672,
+  "r_squared": 0.998284637928009
+}

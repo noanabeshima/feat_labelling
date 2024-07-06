@@ -1,0 +1,5 @@
+{
+  "pattern": "( smart| smarter| rid|,| bold)",
+  "pos_r_squared": 0.9989473223686218,
+  "r_squared": 0.9962857365608215
+}

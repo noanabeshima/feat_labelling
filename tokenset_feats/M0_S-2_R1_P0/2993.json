@@ -1,0 +1,5 @@
+{
+  "pattern": "( sleepy| eyes| frightened|\\.|night)",
+  "pos_r_squared": 0.9981831312179565,
+  "r_squared": 0.9956170320510864
+}

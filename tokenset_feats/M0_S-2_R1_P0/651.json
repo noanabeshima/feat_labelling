@@ -1,0 +1,5 @@
+{
+  "pattern": "( try|Try| Try| brave| Use)",
+  "pos_r_squared": 0.9994884729385376,
+  "r_squared": 0.999482274055481
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( town| village| ago| neighborhood| market)",
+  "pos_r_squared": 0.9907453060150146,
+  "r_squared": 0.988174557685852
+}

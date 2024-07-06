@@ -1,0 +1,5 @@
+{
+  "pattern": "( moment| minute| day| moments| hours)",
+  "pos_r_squared": 0.9955986142158508,
+  "r_squared": 0.9959403276443481
+}

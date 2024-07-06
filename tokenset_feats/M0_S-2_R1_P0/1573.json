@@ -1,0 +1,5 @@
+{
+  "pattern": "( running|Hey| rush| walking| sense)",
+  "pos_r_squared": 0.9982984066009521,
+  "r_squared": 0.9983569383621216
+}

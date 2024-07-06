@@ -1,0 +1,5 @@
+{
+  "pattern": "( Wh| ol|Wh| sa| forgotten)",
+  "pos_r_squared": 0.9973244071006775,
+  "r_squared": 0.9972313642501831
+}

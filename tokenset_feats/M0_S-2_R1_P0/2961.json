@@ -1,0 +1,5 @@
+{
+  "pattern": "( banana| bananas| down|ery| fruits)",
+  "pos_r_squared": 0.9933592677116394,
+  "r_squared": 0.9934034943580627
+}

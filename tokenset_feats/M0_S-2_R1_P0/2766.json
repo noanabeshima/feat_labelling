@@ -1,0 +1,5 @@
+{
+  "pattern": "( junk| lumber| cardboard| soil|igs)",
+  "pos_r_squared": 0.9856705665588379,
+  "r_squared": 0.985292375087738
+}

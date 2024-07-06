@@ -1,0 +1,5 @@
+{
+  "pattern": "( pocket| pockets| sack| wagon| jar)",
+  "pos_r_squared": 0.9975141882896423,
+  "r_squared": 0.9977781176567078
+}

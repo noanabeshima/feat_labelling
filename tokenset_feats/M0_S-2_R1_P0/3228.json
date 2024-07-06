@@ -1,0 +1,5 @@
+{
+  "pattern": "( missed| miss| misses| I|I)",
+  "pos_r_squared": 0.9990540146827698,
+  "r_squared": 0.9989190697669983
+}

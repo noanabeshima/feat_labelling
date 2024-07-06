@@ -1,0 +1,5 @@
+{
+  "pattern": "( does| doesn| did| with|Do)",
+  "pos_r_squared": 0.9977545142173767,
+  "r_squared": 0.997817873954773
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( reached| reaches| reaching| reach| except)",
+  "pos_r_squared": 0.9994109272956848,
+  "r_squared": 0.9993880391120911
+}

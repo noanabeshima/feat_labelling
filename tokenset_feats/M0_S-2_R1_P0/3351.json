@@ -1,0 +1,5 @@
+{
+  "pattern": "( At| targets|Prin| site| In)",
+  "pos_r_squared": 0.9981228113174438,
+  "r_squared": 0.9960339665412903
+}

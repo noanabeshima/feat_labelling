@@ -1,0 +1,4 @@
+{
+  "pattern": "( ambulance| hospital| marriage|castle|iren)",
+  "pos_r_squared": 0.7856963872909546
+}

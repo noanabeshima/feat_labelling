@@ -1,0 +1,5 @@
+{
+  "pattern": "( care| toys| cared| worked| works)",
+  "pos_r_squared": 0.9879810214042664,
+  "r_squared": 0.9881992936134338
+}

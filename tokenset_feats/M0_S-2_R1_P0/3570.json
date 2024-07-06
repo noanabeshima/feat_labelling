@@ -1,0 +1,5 @@
+{
+  "pattern": "( crane| jug| flood| giant| hour)",
+  "pos_r_squared": 0.9958346486091614,
+  "r_squared": 0.9920611381530762
+}

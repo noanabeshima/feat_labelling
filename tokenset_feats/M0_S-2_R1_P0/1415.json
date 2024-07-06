@@ -1,0 +1,5 @@
+{
+  "pattern": "(A|An| An| ze| Did)",
+  "pos_r_squared": 0.9988109469413757,
+  "r_squared": 0.9976791143417358
+}

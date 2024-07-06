@@ -1,0 +1,5 @@
+{
+  "pattern": "( bought| buying|Can| recommended| buys)",
+  "pos_r_squared": 0.9977491497993469,
+  "r_squared": 0.9973523020744324
+}

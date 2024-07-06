@@ -1,0 +1,5 @@
+{
+  "pattern": "( tiger| bear| tigers| young|Which)",
+  "pos_r_squared": 0.9929728507995605,
+  "r_squared": 0.9910545349121094
+}

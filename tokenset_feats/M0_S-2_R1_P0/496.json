@@ -1,0 +1,5 @@
+{
+  "pattern": "( food| foods| listens| recipes| eats)",
+  "pos_r_squared": 0.9991742968559265,
+  "r_squared": 0.9992679357528687
+}

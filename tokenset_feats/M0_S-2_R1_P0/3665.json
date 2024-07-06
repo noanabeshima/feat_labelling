@@ -1,0 +1,4 @@
+{
+  "pattern": "( escape| exit| mouse| naughty| lucky)",
+  "pos_r_squared": 0.9295660257339478
+}

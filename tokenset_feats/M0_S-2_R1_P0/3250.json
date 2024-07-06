@@ -1,0 +1,5 @@
+{
+  "pattern": "( waiting| waits| hairc| waited| L)",
+  "pos_r_squared": 0.9990418553352356,
+  "r_squared": 0.9991308450698853
+}

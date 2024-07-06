@@ -1,0 +1,5 @@
+{
+  "pattern": "( don| Don|Don| shakes| doesn)",
+  "pos_r_squared": 0.9981324672698975,
+  "r_squared": 0.9982174634933472
+}

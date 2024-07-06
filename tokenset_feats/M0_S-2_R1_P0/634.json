@@ -1,0 +1,5 @@
+{
+  "pattern": "( yard| backyard| lawn| neighborhood|ags)",
+  "pos_r_squared": 0.9981703758239746,
+  "r_squared": 0.9967635869979858
+}

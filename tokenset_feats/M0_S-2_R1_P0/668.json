@@ -1,0 +1,5 @@
+{
+  "pattern": "(I| I| was| bird| would)",
+  "pos_r_squared": 0.9965580105781555,
+  "r_squared": 0.997161865234375
+}

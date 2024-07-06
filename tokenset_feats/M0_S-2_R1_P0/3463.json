@@ -1,0 +1,5 @@
+{
+  "pattern": "( lock| it| stored| locks|the)",
+  "pos_r_squared": 0.985593855381012,
+  "r_squared": 0.9866626262664795
+}

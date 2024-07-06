@@ -1,0 +1,5 @@
+{
+  "pattern": "( ship| yacht| mate| ships| stone)",
+  "pos_r_squared": 0.9980762600898743,
+  "r_squared": 0.9976677298545837
+}

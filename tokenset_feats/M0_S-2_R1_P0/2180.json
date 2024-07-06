@@ -1,0 +1,5 @@
+{
+  "pattern": "( snack| snacks| adventures| chips| mess)",
+  "pos_r_squared": 0.998126745223999,
+  "r_squared": 0.9978128671646118
+}

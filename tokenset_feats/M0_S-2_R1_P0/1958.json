@@ -1,0 +1,5 @@
+{
+  "pattern": "(able| loyal| obedient| reliable| honest)",
+  "pos_r_squared": 0.9943127632141113,
+  "r_squared": 0.992135226726532
+}

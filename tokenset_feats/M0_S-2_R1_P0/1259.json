@@ -1,0 +1,5 @@
+{
+  "pattern": "( lion| lions| Lion| tigers|ice)",
+  "pos_r_squared": 0.9983499646186829,
+  "r_squared": 0.9970321655273438
+}

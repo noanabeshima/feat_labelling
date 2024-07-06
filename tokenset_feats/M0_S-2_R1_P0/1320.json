@@ -1,0 +1,5 @@
+{
+  "pattern": "( seen| seeing| rob|History|ter)",
+  "pos_r_squared": 0.9984606504440308,
+  "r_squared": 0.9982467889785767
+}

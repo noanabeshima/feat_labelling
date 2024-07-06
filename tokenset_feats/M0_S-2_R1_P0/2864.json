@@ -1,0 +1,5 @@
+{
+  "pattern": "( chicken| chickens| chick| students| puppet)",
+  "pos_r_squared": 0.9941655993461609,
+  "r_squared": 0.99361652135849
+}

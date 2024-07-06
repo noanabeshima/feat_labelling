@@ -1,0 +1,5 @@
+{
+  "pattern": "( cheese| named| Ted| traps|ocks)",
+  "pos_r_squared": 0.9968062043190002,
+  "r_squared": 0.9959332942962646
+}

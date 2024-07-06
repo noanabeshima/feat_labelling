@@ -1,0 +1,5 @@
+{
+  "pattern": "( quiet| quietly| silence| salty| silent)",
+  "pos_r_squared": 0.9970657825469971,
+  "r_squared": 0.9969823956489563
+}

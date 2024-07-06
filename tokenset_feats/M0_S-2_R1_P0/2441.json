@@ -1,0 +1,5 @@
+{
+  "pattern": "( zoo| museum| animals| park| bathroom)",
+  "pos_r_squared": 0.9921613335609436,
+  "r_squared": 0.9923369288444519
+}

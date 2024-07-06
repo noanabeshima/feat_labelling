@@ -1,0 +1,5 @@
+{
+  "pattern": "( count| counted| counting| counts| pressing)",
+  "pos_r_squared": 0.9973362684249878,
+  "r_squared": 0.9971128702163696
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( roll| rolled| weigh| smooth| rolls)",
+  "pos_r_squared": 0.9945250153541565,
+  "r_squared": 0.9951995015144348
+}

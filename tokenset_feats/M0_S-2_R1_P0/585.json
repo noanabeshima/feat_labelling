@@ -1,0 +1,5 @@
+{
+  "pattern": "( gave| gives| handed| giving| paid)",
+  "pos_r_squared": 0.9928385615348816,
+  "r_squared": 0.9928114414215088
+}

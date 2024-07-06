@@ -1,0 +1,5 @@
+{
+  "pattern": "( dinner| meal| tonight| act|L)",
+  "pos_r_squared": 0.9943103790283203,
+  "r_squared": 0.9937291145324707
+}

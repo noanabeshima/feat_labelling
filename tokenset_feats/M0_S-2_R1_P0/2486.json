@@ -1,0 +1,5 @@
+{
+  "pattern": "( hidden| buried| animal|iri|hered)",
+  "pos_r_squared": 0.9989235401153564,
+  "r_squared": 0.9989256262779236
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "(\"|\\.| wanted| widened| rac)",
+  "pos_r_squared": 0.4940671920776367
+}

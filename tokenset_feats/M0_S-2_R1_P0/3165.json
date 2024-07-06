@@ -1,0 +1,5 @@
+{
+  "pattern": "( cart| wagon| while| y| table)",
+  "pos_r_squared": 0.9958562850952148,
+  "r_squared": 0.9959139823913574
+}

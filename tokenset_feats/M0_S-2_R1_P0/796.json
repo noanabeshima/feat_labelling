@@ -1,0 +1,4 @@
+{
+  "pattern": "(\\.| day| a| the| to)",
+  "pos_r_squared": -0.006833553314208984
+}

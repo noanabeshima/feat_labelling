@@ -1,0 +1,5 @@
+{
+  "pattern": "( push| Roll| pushes|Push|Roll)",
+  "pos_r_squared": 0.9979568719863892,
+  "r_squared": 0.9979886412620544
+}

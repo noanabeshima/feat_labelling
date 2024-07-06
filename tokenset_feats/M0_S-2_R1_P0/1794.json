@@ -1,0 +1,4 @@
+{
+  "pattern": "( lock| polish| unlock| mark| Inside)",
+  "pos_r_squared": 0.7037412524223328
+}

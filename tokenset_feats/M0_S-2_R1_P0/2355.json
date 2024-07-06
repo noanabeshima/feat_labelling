@@ -1,0 +1,5 @@
+{
+  "pattern": "( lake| seller| crops| aim| brand)",
+  "pos_r_squared": 0.9983435273170471,
+  "r_squared": 0.9972553253173828
+}

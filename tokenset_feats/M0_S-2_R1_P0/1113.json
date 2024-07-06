@@ -1,0 +1,5 @@
+{
+  "pattern": "( replied| exclaimed| said| forth|eal)",
+  "pos_r_squared": 0.9922313690185547,
+  "r_squared": 0.9922306537628174
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( closer| coming| approached| towards|\\?')",
+  "pos_r_squared": 0.9986306428909302,
+  "r_squared": 0.9986432790756226
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( lazy| slow| girl| B| harbor)",
+  "pos_r_squared": 0.9978834390640259,
+  "r_squared": 0.9945333003997803
+}

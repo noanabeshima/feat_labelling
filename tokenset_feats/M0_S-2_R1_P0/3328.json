@@ -1,0 +1,5 @@
+{
+  "pattern": "( search| searching| hunt| dog| boy)",
+  "pos_r_squared": 0.9967087507247925,
+  "r_squared": 0.9968100786209106
+}

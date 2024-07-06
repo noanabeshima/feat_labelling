@@ -1,0 +1,5 @@
+{
+  "pattern": "( coin|ke| spoon| remembering| matters)",
+  "pos_r_squared": 0.9979123473167419,
+  "r_squared": 0.997076153755188
+}

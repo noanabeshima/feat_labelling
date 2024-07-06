@@ -1,0 +1,5 @@
+{
+  "pattern": "(op|ops| named|ress|are)",
+  "pos_r_squared": 0.9866683483123779,
+  "r_squared": 0.9862291216850281
+}

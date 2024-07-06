@@ -1,0 +1,5 @@
+{
+  "pattern": "( money| coin| gold| coins| penny)",
+  "pos_r_squared": 0.9826380014419556,
+  "r_squared": 0.9824371933937073
+}

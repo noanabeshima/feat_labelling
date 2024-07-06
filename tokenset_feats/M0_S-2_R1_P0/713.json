@@ -1,0 +1,5 @@
+{
+  "pattern": "( please|Please| Please| nicely|nam)",
+  "pos_r_squared": 0.9888087511062622,
+  "r_squared": 0.988788902759552
+}

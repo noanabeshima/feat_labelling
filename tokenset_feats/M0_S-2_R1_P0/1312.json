@@ -1,0 +1,5 @@
+{
+  "pattern": "( cloud| clouds| Something| feelings| cloudy)",
+  "pos_r_squared": 0.9958421587944031,
+  "r_squared": 0.9955915212631226
+}

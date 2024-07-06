@@ -1,0 +1,5 @@
+{
+  "pattern": "( trip|pped| trips| misses|Ready)",
+  "pos_r_squared": 0.9982936978340149,
+  "r_squared": 0.9982205033302307
+}

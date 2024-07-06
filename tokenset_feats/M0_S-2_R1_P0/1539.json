@@ -1,0 +1,5 @@
+{
+  "pattern": "( words| word| symbol| symbols| language)",
+  "pos_r_squared": 0.9976872801780701,
+  "r_squared": 0.9976809620857239
+}

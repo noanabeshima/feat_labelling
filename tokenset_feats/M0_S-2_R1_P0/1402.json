@@ -1,0 +1,5 @@
+{
+  "pattern": "(\\?| bringing|\\?!\"| been|iffs)",
+  "pos_r_squared": 0.9962639212608337,
+  "r_squared": 0.9962802529335022
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( treasure| jewelry| treasures| jewels|away)",
+  "pos_r_squared": 0.9975513815879822,
+  "r_squared": 0.9975277185440063
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( picked| pick| held| closer| grabbed)",
+  "pos_r_squared": 0.8295082449913025
+}

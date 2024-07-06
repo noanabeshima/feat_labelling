@@ -1,0 +1,5 @@
+{
+  "pattern": "( note|umbs| stool| clues| notes)",
+  "pos_r_squared": 0.9954538345336914,
+  "r_squared": 0.9954782128334045
+}

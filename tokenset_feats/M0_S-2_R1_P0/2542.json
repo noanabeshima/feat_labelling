@@ -1,0 +1,5 @@
+{
+  "pattern": "(Hey| explorers|Hi| spotted| distracted)",
+  "pos_r_squared": 0.9979017972946167,
+  "r_squared": 0.9978072047233582
+}

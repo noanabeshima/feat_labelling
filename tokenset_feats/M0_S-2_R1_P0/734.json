@@ -1,0 +1,5 @@
+{
+  "pattern": "( going| ol| favorite| supposed| ready)",
+  "pos_r_squared": 0.99875807762146,
+  "r_squared": 0.9983455538749695
+}

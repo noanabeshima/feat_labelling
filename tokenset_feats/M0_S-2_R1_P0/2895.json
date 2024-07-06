@@ -1,0 +1,5 @@
+{
+  "pattern": "( daughter| son|child| toddler|Car)",
+  "pos_r_squared": 0.9945809245109558,
+  "r_squared": 0.9927811026573181
+}

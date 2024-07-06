@@ -1,0 +1,5 @@
+{
+  "pattern": "( bear| Bear| Frank| bears|Bear)",
+  "pos_r_squared": 0.9974437952041626,
+  "r_squared": 0.9971539378166199
+}

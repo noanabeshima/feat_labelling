@@ -1,0 +1,5 @@
+{
+  "pattern": "( nut| nuts| rested| races| stored)",
+  "pos_r_squared": 0.9930064082145691,
+  "r_squared": 0.992534875869751
+}

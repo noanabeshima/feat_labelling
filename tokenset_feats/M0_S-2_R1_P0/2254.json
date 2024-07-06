@@ -1,0 +1,5 @@
+{
+  "pattern": "( dragon| dragons| bird| monster| Dragon)",
+  "pos_r_squared": 0.9987664222717285,
+  "r_squared": 0.9982316493988037
+}

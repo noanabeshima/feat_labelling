@@ -1,0 +1,4 @@
+{
+  "pattern": "(\\n|M|The| The|!\")",
+  "pos_r_squared": 0.4540635347366333
+}

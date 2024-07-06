@@ -1,0 +1,4 @@
+{
+  "pattern": "( go| make| take| find| get)",
+  "pos_r_squared": 0.4119153618812561
+}

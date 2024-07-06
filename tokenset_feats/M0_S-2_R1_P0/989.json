@@ -1,0 +1,4 @@
+{
+  "pattern": "( day| years| town| lot| park)",
+  "pos_r_squared": 0.4706301689147949
+}

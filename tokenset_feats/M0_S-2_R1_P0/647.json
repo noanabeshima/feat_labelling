@@ -1,0 +1,5 @@
+{
+  "pattern": "( careful| did| gentle| careless| please)",
+  "pos_r_squared": 0.997077465057373,
+  "r_squared": 0.9970648884773254
+}

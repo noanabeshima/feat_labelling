@@ -1,0 +1,5 @@
+{
+  "pattern": "( polite| politely| frog| manners| voice)",
+  "pos_r_squared": 0.9994819164276123,
+  "r_squared": 0.9992955923080444
+}

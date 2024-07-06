@@ -1,0 +1,5 @@
+{
+  "pattern": "( picked| pick| picks| choose| picking)",
+  "pos_r_squared": 0.9885839223861694,
+  "r_squared": 0.9885035157203674
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( pipe| pole| cone| cones| shoots)",
+  "pos_r_squared": 0.9967864751815796,
+  "r_squared": 0.9961526989936829
+}

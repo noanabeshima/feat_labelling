@@ -1,0 +1,5 @@
+{
+  "pattern": "( egg| eggs| ice| coming|cr)",
+  "pos_r_squared": 0.9976986050605774,
+  "r_squared": 0.9976468682289124
+}

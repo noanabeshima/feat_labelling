@@ -1,0 +1,5 @@
+{
+  "pattern": "( tomato| tomatoes| squash|Jeff| apple)",
+  "pos_r_squared": 0.9973468780517578,
+  "r_squared": 0.9973532557487488
+}

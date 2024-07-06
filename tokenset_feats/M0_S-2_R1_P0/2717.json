@@ -1,0 +1,5 @@
+{
+  "pattern": "( hop| jump| hops| sit| go)",
+  "pos_r_squared": 0.9961812496185303,
+  "r_squared": 0.9930686950683594
+}

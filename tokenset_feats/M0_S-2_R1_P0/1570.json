@@ -1,0 +1,5 @@
+{
+  "pattern": "( any| some| no| wolf| been)",
+  "pos_r_squared": 0.9993148446083069,
+  "r_squared": 0.999308168888092
+}

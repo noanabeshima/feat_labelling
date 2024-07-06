@@ -1,0 +1,4 @@
+{
+  "pattern": "( rocket| missile| unexpected| spaceship| sled)",
+  "pos_r_squared": 0.9489360451698303
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( join| joined|Maybe| joining| birds)",
+  "pos_r_squared": 0.9935236573219299,
+  "r_squared": 0.9907217621803284
+}

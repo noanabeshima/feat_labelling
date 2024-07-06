@@ -1,0 +1,5 @@
+{
+  "pattern": "( songs| tunes|ST| spe| gre)",
+  "pos_r_squared": 0.9985290169715881,
+  "r_squared": 0.9968627691268921
+}

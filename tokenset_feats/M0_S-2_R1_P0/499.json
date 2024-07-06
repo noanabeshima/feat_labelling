@@ -1,0 +1,5 @@
+{
+  "pattern": "( climb| climbed| ladder| climbing| fight)",
+  "pos_r_squared": 0.9820558428764343,
+  "r_squared": 0.9821999073028564
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( buy| bought| got| eating| making)",
+  "pos_r_squared": 0.9940194487571716,
+  "r_squared": 0.9938467144966125
+}

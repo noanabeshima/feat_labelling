@@ -1,0 +1,5 @@
+{
+  "pattern": "( sat| sits| gr| sit|Sit)",
+  "pos_r_squared": 0.9991545081138611,
+  "r_squared": 0.9991428852081299
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( sleep| nap| sleepy| sleeping| asleep)",
+  "pos_r_squared": 0.8748075366020203
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( makes| keeps| Isn| teaches|hes)",
+  "pos_r_squared": 0.9977148771286011,
+  "r_squared": 0.9978880286216736
+}

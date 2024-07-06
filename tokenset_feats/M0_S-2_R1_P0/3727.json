@@ -1,0 +1,4 @@
+{
+  "pattern": "( reached| eager| right| jumped| raced)",
+  "pos_r_squared": 0.00022464990615844727
+}

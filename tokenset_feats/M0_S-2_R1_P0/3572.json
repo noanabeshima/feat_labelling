@@ -1,0 +1,5 @@
+{
+  "pattern": "( noisy| unsc| annoying|sp| heated)",
+  "pos_r_squared": 0.9985968470573425,
+  "r_squared": 0.9970458745956421
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( anymore| afterwards|After| merry| now)",
+  "pos_r_squared": 0.9995241761207581,
+  "r_squared": 0.9995101094245911
+}

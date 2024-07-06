@@ -1,0 +1,5 @@
+{
+  "pattern": "( asks| asked| met| hungry| begs)",
+  "pos_r_squared": 0.9987185597419739,
+  "r_squared": 0.9983022809028625
+}

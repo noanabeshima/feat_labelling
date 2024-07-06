@@ -1,0 +1,5 @@
+{
+  "pattern": "( sword| knight| knights| swords|Tony)",
+  "pos_r_squared": 0.9912630319595337,
+  "r_squared": 0.9898561239242554
+}

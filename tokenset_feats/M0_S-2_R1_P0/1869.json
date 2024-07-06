@@ -1,0 +1,5 @@
+{
+  "pattern": "( mother| father|Thomas|Mother| Mother)",
+  "pos_r_squared": 0.9949056506156921,
+  "r_squared": 0.9934747219085693
+}

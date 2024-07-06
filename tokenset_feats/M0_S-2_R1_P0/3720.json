@@ -1,0 +1,5 @@
+{
+  "pattern": "( depend| rib| brace| adm| re)",
+  "pos_r_squared": 0.9979702830314636,
+  "r_squared": 0.990234911441803
+}

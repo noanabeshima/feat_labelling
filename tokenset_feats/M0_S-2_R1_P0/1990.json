@@ -1,0 +1,5 @@
+{
+  "pattern": "( else| bored| y| new| other)",
+  "pos_r_squared": 0.9956015944480896,
+  "r_squared": 0.9928090572357178
+}

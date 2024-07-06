@@ -1,0 +1,5 @@
+{
+  "pattern": "( broken| ripped| torn| blood| abandoned)",
+  "pos_r_squared": 0.998724639415741,
+  "r_squared": 0.9987795948982239
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( getting| get|Get| gonna| becoming)",
+  "pos_r_squared": 0.99856036901474,
+  "r_squared": 0.9985476136207581
+}

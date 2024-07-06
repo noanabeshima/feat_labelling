@@ -1,0 +1,5 @@
+{
+  "pattern": "( mask| Boo| masks| covers|-)",
+  "pos_r_squared": 0.9967228770256042,
+  "r_squared": 0.9958969950675964
+}

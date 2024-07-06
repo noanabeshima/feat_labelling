@@ -1,0 +1,5 @@
+{
+  "pattern": "( tent| fire|ves| camping| plan)",
+  "pos_r_squared": 0.9926539659500122,
+  "r_squared": 0.9918294548988342
+}

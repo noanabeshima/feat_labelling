@@ -1,0 +1,5 @@
+{
+  "pattern": "( color| animal| shirt| size| colour)",
+  "pos_r_squared": 0.9993051290512085,
+  "r_squared": 0.9989438652992249
+}

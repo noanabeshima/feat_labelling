@@ -1,0 +1,5 @@
+{
+  "pattern": "( feel| feels| taste| feeling| bring)",
+  "pos_r_squared": 0.9995632767677307,
+  "r_squared": 0.9995595216751099
+}

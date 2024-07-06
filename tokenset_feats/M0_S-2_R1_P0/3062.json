@@ -1,0 +1,4 @@
+{
+  "pattern": "( vehicle|ich| equipment| structure| landscape)",
+  "pos_r_squared": 0.8540091514587402
+}

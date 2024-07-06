@@ -1,0 +1,5 @@
+{
+  "pattern": "( word| repeated| cel| pose| clue)",
+  "pos_r_squared": 0.9974785447120667,
+  "r_squared": 0.99738609790802
+}

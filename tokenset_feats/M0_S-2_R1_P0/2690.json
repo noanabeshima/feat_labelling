@@ -1,0 +1,5 @@
+{
+  "pattern": "( patient|C| patiently| light| patience)",
+  "pos_r_squared": 0.9969046711921692,
+  "r_squared": 0.9963796138763428
+}

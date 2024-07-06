@@ -1,0 +1,4 @@
+{
+  "pattern": "( to| in| with| on|\\.)",
+  "pos_r_squared": 0.6635122299194336
+}

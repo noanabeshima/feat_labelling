@@ -1,0 +1,5 @@
+{
+  "pattern": "(As| As|In|On|During)",
+  "pos_r_squared": 0.9987213015556335,
+  "r_squared": 0.9987534284591675
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( world| journeys| future| wanted| journey)",
+  "pos_r_squared": 0.9993082880973816,
+  "r_squared": 0.9986408948898315
+}

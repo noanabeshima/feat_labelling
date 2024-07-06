@@ -1,0 +1,5 @@
+{
+  "pattern": "(This|These| These| Isn| yoga)",
+  "pos_r_squared": 0.9958949685096741,
+  "r_squared": 0.9957888126373291
+}

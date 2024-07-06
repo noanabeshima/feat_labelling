@@ -1,0 +1,5 @@
+{
+  "pattern": "( door| gate| doors| It| exit)",
+  "pos_r_squared": 0.9969012141227722,
+  "r_squared": 0.9967615604400635
+}

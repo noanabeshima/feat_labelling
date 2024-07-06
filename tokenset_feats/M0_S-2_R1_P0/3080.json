@@ -1,0 +1,5 @@
+{
+  "pattern": "( last| precious| Until| Last| final)",
+  "pos_r_squared": 0.9984204173088074,
+  "r_squared": 0.9988202452659607
+}

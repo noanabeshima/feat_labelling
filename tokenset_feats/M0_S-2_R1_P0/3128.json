@@ -1,0 +1,5 @@
+{
+  "pattern": "( slowly| completely| calmly| cal| surely)",
+  "pos_r_squared": 0.9982396960258484,
+  "r_squared": 0.9983711242675781
+}

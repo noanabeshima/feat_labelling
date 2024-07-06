@@ -1,0 +1,5 @@
+{
+  "pattern": "( rest| resting| rested| minerals| nap)",
+  "pos_r_squared": 0.9988889098167419,
+  "r_squared": 0.9989683032035828
+}

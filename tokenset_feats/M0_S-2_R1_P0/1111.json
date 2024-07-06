@@ -1,0 +1,5 @@
+{
+  "pattern": "( full| surrounded| named| with| filled)",
+  "pos_r_squared": 0.9993000626564026,
+  "r_squared": 0.9993728399276733
+}

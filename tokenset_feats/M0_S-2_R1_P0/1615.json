@@ -1,0 +1,5 @@
+{
+  "pattern": "( story| stories| matt| princes| tales)",
+  "pos_r_squared": 0.9982059001922607,
+  "r_squared": 0.9972336292266846
+}

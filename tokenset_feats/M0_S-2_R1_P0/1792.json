@@ -1,0 +1,5 @@
+{
+  "pattern": "( busy| keeps| continue| sick|-)",
+  "pos_r_squared": 0.9986996054649353,
+  "r_squared": 0.9987711906433105
+}

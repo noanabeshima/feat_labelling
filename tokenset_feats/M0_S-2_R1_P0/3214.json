@@ -1,0 +1,5 @@
+{
+  "pattern": "( toast|affle| breakfast|affles|and)",
+  "pos_r_squared": 0.9821231961250305,
+  "r_squared": 0.9818533062934875
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( branch| branches| reach|,\"| bench)",
+  "pos_r_squared": 0.9986919164657593,
+  "r_squared": 0.9987173676490784
+}

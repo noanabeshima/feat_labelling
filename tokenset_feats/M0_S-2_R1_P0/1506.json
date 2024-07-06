@@ -1,0 +1,5 @@
+{
+  "pattern": "( learn| learned| learning| lots| try)",
+  "pos_r_squared": 0.9977604746818542,
+  "r_squared": 0.9967848658561707
+}

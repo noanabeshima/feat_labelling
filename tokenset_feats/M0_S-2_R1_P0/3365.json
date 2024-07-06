@@ -1,0 +1,4 @@
+{
+  "pattern": "(Let| Let| let| Can|Can)",
+  "pos_r_squared": 0.5748801231384277
+}

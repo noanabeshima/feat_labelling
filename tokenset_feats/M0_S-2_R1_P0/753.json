@@ -1,0 +1,5 @@
+{
+  "pattern": "( frog| cricket| frogs| bunny|ggy)",
+  "pos_r_squared": 0.989295482635498,
+  "r_squared": 0.9872803688049316
+}

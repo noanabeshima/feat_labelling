@@ -1,0 +1,5 @@
+{
+  "pattern": "( gentle| fierce| terrible| r| harsh)",
+  "pos_r_squared": 0.9969450831413269,
+  "r_squared": 0.9973738789558411
+}

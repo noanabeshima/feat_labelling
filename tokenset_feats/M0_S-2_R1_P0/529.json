@@ -1,0 +1,5 @@
+{
+  "pattern": "( You|You| isn| He| kicks)",
+  "pos_r_squared": 0.9977772831916809,
+  "r_squared": 0.9979397058486938
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( touched| touch| touching| presses|S)",
+  "pos_r_squared": 0.9868237972259521,
+  "r_squared": 0.9868131279945374
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( hand| big| palm)",
+  "pos_r_squared": 0.9994165897369385,
+  "r_squared": 0.9994416832923889
+}

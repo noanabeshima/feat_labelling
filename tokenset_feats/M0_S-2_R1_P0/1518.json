@@ -1,0 +1,5 @@
+{
+  "pattern": "( stop| more| listen| save| stops)",
+  "pos_r_squared": 0.9972981214523315,
+  "r_squared": 0.9975430369377136
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( from| From|From|Fine| since)",
+  "pos_r_squared": 0.9952842593193054,
+  "r_squared": 0.9940545558929443
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( very|\\[UNK\\]| don| show| let)",
+  "pos_r_squared": 0.0003744363784790039
+}

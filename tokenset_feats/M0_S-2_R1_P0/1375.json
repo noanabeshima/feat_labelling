@@ -1,0 +1,5 @@
+{
+  "pattern": "( boy| man| Tim| girl| frog)",
+  "pos_r_squared": 0.9811632037162781,
+  "r_squared": 0.5930517911911011
+}

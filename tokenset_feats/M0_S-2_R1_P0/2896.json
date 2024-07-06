@@ -1,0 +1,4 @@
+{
+  "pattern": "( called| call| name| calls| calling)",
+  "pos_r_squared": 0.8895897269248962
+}

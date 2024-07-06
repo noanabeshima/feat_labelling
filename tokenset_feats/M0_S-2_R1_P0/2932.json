@@ -1,0 +1,5 @@
+{
+  "pattern": "( sandwich| sandwiches| noodles| slices| fries)",
+  "pos_r_squared": 0.9982463717460632,
+  "r_squared": 0.9978967308998108
+}

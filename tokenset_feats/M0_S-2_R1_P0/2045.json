@@ -1,0 +1,5 @@
+{
+  "pattern": "( wash| washed| washing|hes| chatting)",
+  "pos_r_squared": 0.9989126324653625,
+  "r_squared": 0.9989388585090637
+}

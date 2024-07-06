@@ -1,0 +1,5 @@
+{
+  "pattern": "( everything| Everything| staying| cre| bringing)",
+  "pos_r_squared": 0.9949809312820435,
+  "r_squared": 0.9949827194213867
+}

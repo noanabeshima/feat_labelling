@@ -1,0 +1,5 @@
+{
+  "pattern": "( worry| worries| nightmares| ac| tornado)",
+  "pos_r_squared": 0.9987278580665588,
+  "r_squared": 0.9987167716026306
+}

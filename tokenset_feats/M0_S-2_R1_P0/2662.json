@@ -1,0 +1,4 @@
+{
+  "pattern": "( one| bear|\\[UNK\\]| here| show)",
+  "pos_r_squared": 0.0010519623756408691
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( others| aside|Share| outside| nearby)",
+  "pos_r_squared": 0.9989357590675354,
+  "r_squared": 0.998980700969696
+}

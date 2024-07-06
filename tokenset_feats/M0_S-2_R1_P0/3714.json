@@ -1,0 +1,5 @@
+{
+  "pattern": "( call| calling| calls| officer| name)",
+  "pos_r_squared": 0.9973498582839966,
+  "r_squared": 0.9977401494979858
+}

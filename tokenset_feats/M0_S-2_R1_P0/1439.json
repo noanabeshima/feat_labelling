@@ -1,0 +1,4 @@
+{
+  "pattern": "( day| today| he|!\"|\\?\")",
+  "pos_r_squared": 0.49974894523620605
+}

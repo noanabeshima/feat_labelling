@@ -1,0 +1,5 @@
+{
+  "pattern": "(man|men| quick| clown|crow)",
+  "pos_r_squared": 0.9976151585578918,
+  "r_squared": 0.9960223436355591
+}

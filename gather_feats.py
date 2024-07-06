@@ -19,7 +19,7 @@ from tqdm import tqdm
 import ray
 import time
 
-ray.init(ignore_reinit_error=True, num_cpus=1)
+ray.init(ignore_reinit_error=True)
 
 
 
@@ -28,6 +28,7 @@ class Actor:
     def __init__(self):
         dataset = load_dataset('noanabeshima/TinyModelTokIds', split='train[:13%]')
         self.all_tok_ids = torch.tensor(dataset['tok_ids'])
+        tokre.setup(tokenizer=tiny_model.tokenizer, workspace='workspace')
 
     def process_feat(self, feat_idx):
         feat_acts = load_sparse_feat_acts(f'{MLP_DIR}/{MLP_NAME}/{feat_idx}.pt').to_sparse_coo()
@@ -63,8 +64,11 @@ class Actor:
                 json.dump(data, f, indent=2)
         except Exception as e:
             print(pattern)
-            print(e)
-            print(str(e))
+            print(f"An exception occurred: {type(e).__name__}")
+            print(f"Exception message: {str(e)}")
+            print("Traceback:")
+            import traceback
+            traceback.print_exc()
             raise e
 
     def test_pattern(self, mlp_name, feat_idx, pattern, train_amt=0.8):
@@ -75,18 +79,18 @@ class Actor:
         train_tok_ids, test_tok_ids = self.all_tok_ids[:split_idx], self.all_tok_ids[split_idx:acts.shape[0]]
         print('b')
         synth = tokre.SynthFeat(pattern)
-        # print('c')
-        # synth.train(train_acts, train_tok_ids)
-        # print('d')
-        # synth_test_acts = synth.get_acts(test_tok_ids)
-        # print('e')
-        # test_errs = test_acts - synth_test_acts
-        # print('f')
-        # r_squared = 1 - test_errs.var()/test_acts.var()
-        # print('g')
-        # return r_squared
+        print('c')
+        synth.train(train_acts, train_tok_ids, n_actors=1)
+        print('d')
+        synth_test_acts = synth.get_acts(test_tok_ids, n_actors=1)
+        print('e')
+        test_errs = test_acts - synth_test_acts
+        print('f')
+        r_squared = 1 - test_errs.var()/test_acts.var()
+        print('g')
+        return r_squared
 
-actors = [Actor.remote() for _ in range(1)]
+actors = [Actor.remote() for _ in range(tokre.tot_cpus())]
 
 unprocessed_feats = []
 for feat_idx in tqdm(range(100, TOT_FEATS)):

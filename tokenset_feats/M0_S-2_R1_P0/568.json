@@ -1,0 +1,5 @@
+{
+  "pattern": "(Hi|Hey| hello|Welcome| introduce)",
+  "pos_r_squared": 0.9888730049133301,
+  "r_squared": 0.988909900188446
+}

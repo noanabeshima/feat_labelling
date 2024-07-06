@@ -1,0 +1,5 @@
+{
+  "pattern": "( swim| sunk|ither|Cool| smart)",
+  "pos_r_squared": 0.9982602596282959,
+  "r_squared": 0.9962974786758423
+}

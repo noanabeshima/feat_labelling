@@ -1,0 +1,4 @@
+{
+  "pattern": "( a| time|,| named| and)",
+  "pos_r_squared": 0.4381423592567444
+}

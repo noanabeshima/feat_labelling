@@ -1,0 +1,5 @@
+{
+  "pattern": "( win| winning| wins| won| prize)",
+  "pos_r_squared": 0.9989617466926575,
+  "r_squared": 0.9989279508590698
+}

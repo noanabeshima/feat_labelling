@@ -1,0 +1,5 @@
+{
+  "pattern": "( held| holds| hold| supported| Hold)",
+  "pos_r_squared": 0.9985783696174622,
+  "r_squared": 0.9984180927276611
+}

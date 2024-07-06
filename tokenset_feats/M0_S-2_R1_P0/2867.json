@@ -1,0 +1,5 @@
+{
+  "pattern": "( bald| worn| shave| camel| hairy)",
+  "pos_r_squared": 0.9988166093826294,
+  "r_squared": 0.9977626800537109
+}

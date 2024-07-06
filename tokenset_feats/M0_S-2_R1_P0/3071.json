@@ -1,0 +1,5 @@
+{
+  "pattern": "( goodbye|bye| bye|night| gro)",
+  "pos_r_squared": 0.9981652498245239,
+  "r_squared": 0.9983425736427307
+}

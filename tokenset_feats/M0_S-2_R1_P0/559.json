@@ -1,0 +1,5 @@
+{
+  "pattern": "( forest| jungle| forests| woods| park)",
+  "pos_r_squared": 0.9993858933448792,
+  "r_squared": 0.9976869225502014
+}

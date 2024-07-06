@@ -1,0 +1,5 @@
+{
+  "pattern": "( fight| fighting| fought| against| fights)",
+  "pos_r_squared": 0.9958939552307129,
+  "r_squared": 0.9957501888275146
+}

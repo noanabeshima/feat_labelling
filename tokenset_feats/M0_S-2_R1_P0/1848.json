@@ -1,0 +1,4 @@
+{
+  "pattern": "( sad| inside| unexpected|\\[UNK\\]| owl)",
+  "pos_r_squared": 0.020181477069854736
+}

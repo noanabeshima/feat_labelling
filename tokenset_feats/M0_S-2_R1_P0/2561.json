@@ -1,0 +1,5 @@
+{
+  "pattern": "( noises| questions|\\.\"| adventures| size)",
+  "pos_r_squared": 0.9968501329421997,
+  "r_squared": 0.9970465898513794
+}

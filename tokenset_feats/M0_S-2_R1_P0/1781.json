@@ -1,0 +1,5 @@
+{
+  "pattern": "( nearby| tall| dangerous| friend| there)",
+  "pos_r_squared": 0.9912793040275574,
+  "r_squared": 0.9912785291671753
+}

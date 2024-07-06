@@ -1,0 +1,5 @@
+{
+  "pattern": "( button| rule| switch| buttons| lever)",
+  "pos_r_squared": 0.9969033598899841,
+  "r_squared": 0.9967524409294128
+}

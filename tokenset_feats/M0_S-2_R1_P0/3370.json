@@ -1,0 +1,5 @@
+{
+  "pattern": "( witch| spell| wizard| caused| spells)",
+  "pos_r_squared": 0.9921592473983765,
+  "r_squared": 0.9912025332450867
+}

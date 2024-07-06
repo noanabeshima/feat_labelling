@@ -1,0 +1,5 @@
+{
+  "pattern": "( interesting| fascinating| builders| knocking| Cur)",
+  "pos_r_squared": 0.9983800053596497,
+  "r_squared": 0.9987700581550598
+}

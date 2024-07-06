@@ -1,0 +1,5 @@
+{
+  "pattern": "( might| may| sometimes| could| should)",
+  "pos_r_squared": 0.9991143941879272,
+  "r_squared": 0.9991968274116516
+}

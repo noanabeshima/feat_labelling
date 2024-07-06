@@ -1,0 +1,5 @@
+{
+  "pattern": "( sock| potato| potatoes| the| Beef)",
+  "pos_r_squared": 0.9918346405029297,
+  "r_squared": 0.9911129474639893
+}

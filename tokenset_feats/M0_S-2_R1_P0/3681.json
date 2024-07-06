@@ -1,0 +1,5 @@
+{
+  "pattern": "( church| Sunday| black| lots| tomorrow)",
+  "pos_r_squared": 0.9941381812095642,
+  "r_squared": 0.9942967891693115
+}

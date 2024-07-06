@@ -1,0 +1,5 @@
+{
+  "pattern": "( kitchen| chef| downstairs| firefighter| pant)",
+  "pos_r_squared": 0.9990797638893127,
+  "r_squared": 0.9992846846580505
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( blue| red| yellow| fragile| green)",
+  "pos_r_squared": 0.9991042613983154,
+  "r_squared": 0.9988692402839661
+}

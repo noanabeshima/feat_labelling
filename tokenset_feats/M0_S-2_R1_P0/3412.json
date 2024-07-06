@@ -1,0 +1,5 @@
+{
+  "pattern": "( alarm| lesson| punish| punished|olded)",
+  "pos_r_squared": 0.9812275767326355,
+  "r_squared": 0.9813866019248962
+}

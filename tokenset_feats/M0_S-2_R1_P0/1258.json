@@ -1,0 +1,5 @@
+{
+  "pattern": "( sorry| forgive|Sorry|ave| punished)",
+  "pos_r_squared": 0.9940756559371948,
+  "r_squared": 0.994082510471344
+}

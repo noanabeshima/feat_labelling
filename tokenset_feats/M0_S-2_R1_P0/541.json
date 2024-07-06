@@ -1,0 +1,5 @@
+{
+  "pattern": "( opened| unlock|pack| opens| lid)",
+  "pos_r_squared": 0.990043044090271,
+  "r_squared": 0.9900243282318115
+}

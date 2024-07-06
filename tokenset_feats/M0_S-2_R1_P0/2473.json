@@ -1,0 +1,5 @@
+{
+  "pattern": "( soap| shampoo|amp|apy| potato)",
+  "pos_r_squared": 0.9982267618179321,
+  "r_squared": 0.9985365271568298
+}

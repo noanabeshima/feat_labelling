@@ -1,0 +1,5 @@
+{
+  "pattern": "( bathroom| toilet| towels| Say| diaper)",
+  "pos_r_squared": 0.9989320039749146,
+  "r_squared": 0.9983500242233276
+}

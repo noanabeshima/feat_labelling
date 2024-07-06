@@ -1,0 +1,5 @@
+{
+  "pattern": "( belonged| belong| belongs| ol| too)",
+  "pos_r_squared": 0.9972943067550659,
+  "r_squared": 0.9973434209823608
+}

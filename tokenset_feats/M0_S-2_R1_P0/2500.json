@@ -1,0 +1,4 @@
+{
+  "pattern": "( queen| crown| king| King| captain)",
+  "pos_r_squared": 0.9276673793792725
+}

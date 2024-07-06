@@ -1,0 +1,5 @@
+{
+  "pattern": "( whale|mer| whales| Andrew| Whale)",
+  "pos_r_squared": 0.9968281984329224,
+  "r_squared": 0.994193971157074
+}

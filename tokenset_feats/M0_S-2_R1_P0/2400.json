@@ -1,0 +1,5 @@
+{
+  "pattern": "( '|'|inkle|Dear| possible)",
+  "pos_r_squared": 0.9925409555435181,
+  "r_squared": 0.9926056861877441
+}

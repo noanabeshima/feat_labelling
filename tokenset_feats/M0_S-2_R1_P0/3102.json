@@ -1,0 +1,5 @@
+{
+  "pattern": "( shoe| boot| suits| barrels|eps)",
+  "pos_r_squared": 0.9972924590110779,
+  "r_squared": 0.9968966245651245
+}

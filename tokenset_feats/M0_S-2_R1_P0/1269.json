@@ -1,0 +1,5 @@
+{
+  "pattern": "( doing| do| eating|Do| reading)",
+  "pos_r_squared": 0.999020516872406,
+  "r_squared": 0.9990159273147583
+}

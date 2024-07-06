@@ -1,0 +1,5 @@
+{
+  "pattern": "( pear| peach|ears| bear|aches)",
+  "pos_r_squared": 0.9845293760299683,
+  "r_squared": 0.9836978912353516
+}

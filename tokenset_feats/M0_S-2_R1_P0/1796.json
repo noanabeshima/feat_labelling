@@ -1,0 +1,5 @@
+{
+  "pattern": "(Later| later|During| Later|Days)",
+  "pos_r_squared": 0.9978471994400024,
+  "r_squared": 0.9978872537612915
+}

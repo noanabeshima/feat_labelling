@@ -1,0 +1,5 @@
+{
+  "pattern": "( tell| much| telling| tells| mention)",
+  "pos_r_squared": 0.9948980808258057,
+  "r_squared": 0.994634211063385
+}

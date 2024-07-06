@@ -1,0 +1,5 @@
+{
+  "pattern": "( there| the| in| a| day)",
+  "pos_r_squared": 0.9970749616622925,
+  "r_squared": 0.8178428411483765
+}

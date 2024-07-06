@@ -1,0 +1,5 @@
+{
+  "pattern": "( explained| explain| introduced| spies| announced)",
+  "pos_r_squared": 0.9948925971984863,
+  "r_squared": 0.9948832988739014
+}

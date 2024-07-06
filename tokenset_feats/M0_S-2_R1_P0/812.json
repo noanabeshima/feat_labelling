@@ -1,0 +1,5 @@
+{
+  "pattern": "( hill| mountain| hills| cliff| goal)",
+  "pos_r_squared": 0.9955494403839111,
+  "r_squared": 0.9959257245063782
+}

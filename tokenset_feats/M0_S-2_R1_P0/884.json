@@ -1,0 +1,5 @@
+{
+  "pattern": "( cold| was| warm| soft| winter)",
+  "pos_r_squared": 0.9949033260345459,
+  "r_squared": 0.9946994781494141
+}

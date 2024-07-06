@@ -1,0 +1,5 @@
+{
+  "pattern": "(ite| re|ites| some| bag)",
+  "pos_r_squared": 0.9813694953918457,
+  "r_squared": 0.9821786880493164
+}

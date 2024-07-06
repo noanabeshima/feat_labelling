@@ -1,0 +1,4 @@
+{
+  "pattern": "( asked| asking| ask|\\?\"| very)",
+  "pos_r_squared": 0.5885165929794312
+}

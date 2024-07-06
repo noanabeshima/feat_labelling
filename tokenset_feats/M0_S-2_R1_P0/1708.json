@@ -1,0 +1,5 @@
+{
+  "pattern": "( tower| towers|itt| footsteps| stack)",
+  "pos_r_squared": 0.9993883371353149,
+  "r_squared": 0.999353289604187
+}

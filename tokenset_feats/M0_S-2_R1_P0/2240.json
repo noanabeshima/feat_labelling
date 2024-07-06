@@ -1,0 +1,4 @@
+{
+  "pattern": "( good|\\[UNK\\]| old| pig| much)",
+  "pos_r_squared": 0.0020859837532043457
+}

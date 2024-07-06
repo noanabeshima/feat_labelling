@@ -1,0 +1,4 @@
+{
+  "pattern": "( then| finally| pe| maybe| sometimes)",
+  "pos_r_squared": 0.6193652153015137
+}

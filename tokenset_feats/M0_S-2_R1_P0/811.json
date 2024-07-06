@@ -1,0 +1,5 @@
+{
+  "pattern": "( dress| dresses| skirt|ouse| dressed)",
+  "pos_r_squared": 0.9958075881004333,
+  "r_squared": 0.9955863952636719
+}

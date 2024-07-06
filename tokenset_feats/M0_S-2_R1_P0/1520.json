@@ -1,0 +1,5 @@
+{
+  "pattern": "( morning| afternoon| golden| Everyday| day)",
+  "pos_r_squared": 0.9977594017982483,
+  "r_squared": 0.9977335929870605
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( piece| golden| slice| bits| stalk)",
+  "pos_r_squared": 0.9992531538009644,
+  "r_squared": 0.9993818402290344
+}

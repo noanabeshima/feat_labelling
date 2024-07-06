@@ -1,0 +1,5 @@
+{
+  "pattern": "( likes| loves| is| reads| eats)",
+  "pos_r_squared": 0.997617244720459,
+  "r_squared": 0.995614230632782
+}

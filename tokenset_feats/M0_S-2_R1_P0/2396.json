@@ -1,0 +1,4 @@
+{
+  "pattern": "( named|\\.| this| tree| the)",
+  "pos_r_squared": 0.5772718191146851
+}

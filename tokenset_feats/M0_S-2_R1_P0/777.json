@@ -1,0 +1,5 @@
+{
+  "pattern": "( move| moved| moving| moves| easy)",
+  "pos_r_squared": 0.9949349761009216,
+  "r_squared": 0.9949914216995239
+}

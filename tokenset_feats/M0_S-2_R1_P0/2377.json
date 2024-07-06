@@ -1,0 +1,4 @@
+{
+  "pattern": "( hotel| restaurant| stadium| theater| soccer)",
+  "pos_r_squared": 0.9636492133140564
+}

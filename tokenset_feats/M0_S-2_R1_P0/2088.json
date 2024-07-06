@@ -1,0 +1,5 @@
+{
+  "pattern": "( stage| theater| opera| act|ber)",
+  "pos_r_squared": 0.9874696135520935,
+  "r_squared": 0.987848162651062
+}

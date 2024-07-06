@@ -1,0 +1,5 @@
+{
+  "pattern": "( band| boo| musician| club| team)",
+  "pos_r_squared": 0.9961667656898499,
+  "r_squared": 0.9967525005340576
+}

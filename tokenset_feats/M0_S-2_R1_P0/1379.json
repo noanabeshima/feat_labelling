@@ -1,0 +1,5 @@
+{
+  "pattern": "( build| built|castle|wen|a)",
+  "pos_r_squared": 0.9992055892944336,
+  "r_squared": 0.9987783432006836
+}

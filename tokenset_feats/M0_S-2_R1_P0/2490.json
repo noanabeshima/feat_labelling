@@ -1,0 +1,4 @@
+{
+  "pattern": "( lab| operation| hospital| veterinarian|ray)",
+  "pos_r_squared": 0.6830030083656311
+}

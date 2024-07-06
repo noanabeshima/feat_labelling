@@ -1,0 +1,4 @@
+{
+  "pattern": "( sun| rain| wind| day| storm)",
+  "pos_r_squared": 0.8967344760894775
+}

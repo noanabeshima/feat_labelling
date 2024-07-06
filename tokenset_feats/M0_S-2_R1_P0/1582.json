@@ -1,0 +1,4 @@
+{
+  "pattern": "( machine| oven| iron| elevator| mixer)",
+  "pos_r_squared": 0.5228606462478638
+}

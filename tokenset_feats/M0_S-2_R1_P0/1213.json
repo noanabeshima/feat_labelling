@@ -1,0 +1,5 @@
+{
+  "pattern": "( through| crowded| over| confused| Skip)",
+  "pos_r_squared": 0.9988446831703186,
+  "r_squared": 0.9989648461341858
+}

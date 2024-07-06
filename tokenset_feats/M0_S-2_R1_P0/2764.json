@@ -1,0 +1,4 @@
+{
+  "pattern": "( home| back| live| sleep| upstairs)",
+  "pos_r_squared": 0.8670784831047058
+}

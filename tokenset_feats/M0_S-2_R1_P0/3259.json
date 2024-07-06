@@ -1,0 +1,5 @@
+{
+  "pattern": "( foot| eye| toe| palm| heel)",
+  "pos_r_squared": 0.9852215647697449,
+  "r_squared": 0.98509281873703
+}

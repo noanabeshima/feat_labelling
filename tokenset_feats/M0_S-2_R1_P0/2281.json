@@ -1,0 +1,5 @@
+{
+  "pattern": "( juice| flavor|,| Juice| apples)",
+  "pos_r_squared": 0.9978924989700317,
+  "r_squared": 0.9984034299850464
+}

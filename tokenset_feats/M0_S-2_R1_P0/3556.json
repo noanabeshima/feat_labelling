@@ -1,0 +1,5 @@
+{
+  "pattern": "( spider| beetle| insect| scary|pillar)",
+  "pos_r_squared": 0.9973108768463135,
+  "r_squared": 0.9932926297187805
+}

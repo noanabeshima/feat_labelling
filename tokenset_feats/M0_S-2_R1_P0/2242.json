@@ -1,0 +1,5 @@
+{
+  "pattern": "( seat| seats| stands| seated| throne)",
+  "pos_r_squared": 0.9983899593353271,
+  "r_squared": 0.9984322786331177
+}

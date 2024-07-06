@@ -1,0 +1,4 @@
+{
+  "pattern": "( test| quiz| exam|es| school)",
+  "pos_r_squared": 0.9759212732315063
+}

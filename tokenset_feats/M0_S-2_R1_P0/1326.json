@@ -1,0 +1,5 @@
+{
+  "pattern": "( train| trains| engine| tracks| felt)",
+  "pos_r_squared": 0.9986352324485779,
+  "r_squared": 0.9976956248283386
+}

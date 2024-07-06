@@ -1,0 +1,5 @@
+{
+  "pattern": "( table| counter| Tom| bowl| family)",
+  "pos_r_squared": 0.9939935803413391,
+  "r_squared": 0.9934812188148499
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( thin| fat|ubby| belly| lazy)",
+  "pos_r_squared": 0.9984306693077087,
+  "r_squared": 0.9963926076889038
+}

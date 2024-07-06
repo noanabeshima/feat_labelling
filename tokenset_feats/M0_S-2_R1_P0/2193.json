@@ -1,0 +1,5 @@
+{
+  "pattern": "( course|less| parks| pand| building)",
+  "pos_r_squared": 0.9990714192390442,
+  "r_squared": 0.9990702271461487
+}

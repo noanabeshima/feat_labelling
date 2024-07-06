@@ -1,0 +1,5 @@
+{
+  "pattern": "( rain|ained| raining| ice| door)",
+  "pos_r_squared": 0.9836980700492859,
+  "r_squared": 0.9835926294326782
+}

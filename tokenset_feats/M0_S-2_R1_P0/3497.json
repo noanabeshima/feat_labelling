@@ -1,0 +1,5 @@
+{
+  "pattern": "( songs| they| tunes| books| plays)",
+  "pos_r_squared": 0.9980844259262085,
+  "r_squared": 0.9963417649269104
+}

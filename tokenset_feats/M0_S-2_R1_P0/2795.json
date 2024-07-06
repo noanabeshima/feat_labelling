@@ -1,0 +1,5 @@
+{
+  "pattern": "( child|child| walked| loads| room)",
+  "pos_r_squared": 0.9983404874801636,
+  "r_squared": 0.9949597716331482
+}

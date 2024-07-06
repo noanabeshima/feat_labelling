@@ -1,0 +1,5 @@
+{
+  "pattern": "( teacher|up|ibrarian| teachers| cafe)",
+  "pos_r_squared": 0.9977827072143555,
+  "r_squared": 0.9981653690338135
+}

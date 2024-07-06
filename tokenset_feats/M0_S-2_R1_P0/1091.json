@@ -1,0 +1,5 @@
+{
+  "pattern": "(-| swords|ible|mill| hood)",
+  "pos_r_squared": 0.9991932511329651,
+  "r_squared": 0.9989974498748779
+}

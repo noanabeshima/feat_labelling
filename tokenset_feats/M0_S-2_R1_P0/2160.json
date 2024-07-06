@@ -1,0 +1,5 @@
+{
+  "pattern": "( clock| cartoon| calendar| cartoons| complaining)",
+  "pos_r_squared": 0.988849401473999,
+  "r_squared": 0.989146888256073
+}

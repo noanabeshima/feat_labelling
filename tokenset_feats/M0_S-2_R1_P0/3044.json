@@ -1,0 +1,4 @@
+{
+  "pattern": "( ol| ticket| invitation| goodbye| choose)",
+  "pos_r_squared": 0.7959203720092773
+}

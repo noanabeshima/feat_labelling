@@ -1,0 +1,5 @@
+{
+  "pattern": "( talk| talked| talking| spoke| speak)",
+  "pos_r_squared": 0.9880795478820801,
+  "r_squared": 0.9880494475364685
+}

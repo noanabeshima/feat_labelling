@@ -1,0 +1,5 @@
+{
+  "pattern": "(Tom| deal|Mark| liked| the)",
+  "pos_r_squared": 0.9995545744895935,
+  "r_squared": 0.6927804946899414
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( truck| trucks| front| Truck| delivery)",
+  "pos_r_squared": 0.9985104203224182,
+  "r_squared": 0.9979217052459717
+}

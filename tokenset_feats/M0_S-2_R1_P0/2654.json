@@ -1,0 +1,5 @@
+{
+  "pattern": "( bike| sne| bicycle| re|pack)",
+  "pos_r_squared": 0.9967131614685059,
+  "r_squared": 0.9912281036376953
+}

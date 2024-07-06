@@ -1,0 +1,5 @@
+{
+  "pattern": "( icy| freezing| freshly| newly| cheap)",
+  "pos_r_squared": 0.9988893866539001,
+  "r_squared": 0.9980786442756653
+}

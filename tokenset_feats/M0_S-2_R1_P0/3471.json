@@ -1,0 +1,5 @@
+{
+  "pattern": "( rug| carpet| tables| queens| streets)",
+  "pos_r_squared": 0.996063232421875,
+  "r_squared": 0.9953324198722839
+}

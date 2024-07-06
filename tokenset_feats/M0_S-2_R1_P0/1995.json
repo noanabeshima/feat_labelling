@@ -1,0 +1,5 @@
+{
+  "pattern": "( ask| asking| touch|Maybe| others)",
+  "pos_r_squared": 0.9975736141204834,
+  "r_squared": 0.9975625276565552
+}

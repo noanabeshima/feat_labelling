@@ -1,0 +1,4 @@
+{
+  "pattern": "( waited| wait| patient| impatient| waiting)",
+  "pos_r_squared": 0.9197093844413757
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( lost| lose| scared| missing| shrinking)",
+  "pos_r_squared": 0.9974631667137146,
+  "r_squared": 0.997672438621521
+}

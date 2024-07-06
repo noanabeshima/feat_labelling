@@ -1,0 +1,5 @@
+{
+  "pattern": "( dirt| dust| trash|b| closed)",
+  "pos_r_squared": 0.9976000785827637,
+  "r_squared": 0.997329592704773
+}

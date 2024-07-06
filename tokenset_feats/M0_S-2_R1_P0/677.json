@@ -1,0 +1,5 @@
+{
+  "pattern": "( store| clerk| place| buy| old)",
+  "pos_r_squared": 0.9977790117263794,
+  "r_squared": 0.9975811839103699
+}

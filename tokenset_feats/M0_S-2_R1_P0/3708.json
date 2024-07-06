@@ -1,0 +1,4 @@
+{
+  "pattern": "( borrow| lend| yours| whose|fy)",
+  "pos_r_squared": 0.8724930286407471
+}

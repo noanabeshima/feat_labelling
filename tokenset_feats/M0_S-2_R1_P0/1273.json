@@ -1,0 +1,5 @@
+{
+  "pattern": "( noticed| notice| by| approached| observed)",
+  "pos_r_squared": 0.9964562058448792,
+  "r_squared": 0.9964812994003296
+}

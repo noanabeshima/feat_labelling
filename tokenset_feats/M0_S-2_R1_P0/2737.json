@@ -1,0 +1,5 @@
+{
+  "pattern": "( Buzz| Spark|Buzz| heroes|icker)",
+  "pos_r_squared": 0.9965693354606628,
+  "r_squared": 0.9955689907073975
+}

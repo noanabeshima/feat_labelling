@@ -1,0 +1,5 @@
+{
+  "pattern": "( Now|Now| anymore| since| tonight)",
+  "pos_r_squared": 0.998119056224823,
+  "r_squared": 0.9981151819229126
+}

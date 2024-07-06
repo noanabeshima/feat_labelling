@@ -1,0 +1,5 @@
+{
+  "pattern": "( woke|,| awoke| wakes| waking)",
+  "pos_r_squared": 0.998499870300293,
+  "r_squared": 0.9986090064048767
+}

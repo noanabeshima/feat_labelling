@@ -1,0 +1,5 @@
+{
+  "pattern": "( shirt| shirts| show| coat| button)",
+  "pos_r_squared": 0.9975422620773315,
+  "r_squared": 0.9977606534957886
+}

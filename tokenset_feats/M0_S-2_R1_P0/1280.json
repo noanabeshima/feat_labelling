@@ -1,0 +1,5 @@
+{
+  "pattern": "( mean| rude| sneaky| threat|ude)",
+  "pos_r_squared": 0.9970012307167053,
+  "r_squared": 0.9971155524253845
+}

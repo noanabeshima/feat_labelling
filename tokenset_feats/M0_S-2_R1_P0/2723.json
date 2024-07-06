@@ -1,0 +1,5 @@
+{
+  "pattern": "( helpful| useful| lowered| magn|dd)",
+  "pos_r_squared": 0.9990766048431396,
+  "r_squared": 0.9984545707702637
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "(,| and| \"| They| the)",
+  "pos_r_squared": 0.0045923590660095215
+}

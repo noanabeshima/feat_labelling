@@ -1,0 +1,5 @@
+{
+  "pattern": "( bar| bars|ub|Y| sc)",
+  "pos_r_squared": 0.9974249601364136,
+  "r_squared": 0.9974844455718994
+}

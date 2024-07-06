@@ -1,0 +1,5 @@
+{
+  "pattern": "( found| saw| decided| got| some)",
+  "pos_r_squared": 0.9803608059883118,
+  "r_squared": 0.5416082143783569
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( scary| cute| monster|ooky| brave)",
+  "pos_r_squared": 0.9986206293106079,
+  "r_squared": 0.9985201358795166
+}

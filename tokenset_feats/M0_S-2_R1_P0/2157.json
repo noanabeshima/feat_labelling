@@ -1,0 +1,5 @@
+{
+  "pattern": "( cow| cows| Cow| swe| and)",
+  "pos_r_squared": 0.9959744811058044,
+  "r_squared": 0.9949986934661865
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( got| get| getting|\\.|!\")",
+  "pos_r_squared": 0.5648676156997681
+}

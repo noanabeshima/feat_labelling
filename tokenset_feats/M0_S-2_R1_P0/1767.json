@@ -1,0 +1,4 @@
+{
+  "pattern": "( offered| refused| insisted| complain| warned)",
+  "pos_r_squared": 0.45648807287216187
+}

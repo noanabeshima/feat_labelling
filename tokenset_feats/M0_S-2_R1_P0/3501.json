@@ -1,0 +1,5 @@
+{
+  "pattern": "( bitter|itter| charity| note| cheap)",
+  "pos_r_squared": 0.9976248145103455,
+  "r_squared": 0.9968038201332092
+}

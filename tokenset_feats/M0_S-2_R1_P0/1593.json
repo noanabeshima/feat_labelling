@@ -1,0 +1,5 @@
+{
+  "pattern": "( job| task| tasks| jobs| mission)",
+  "pos_r_squared": 0.9975872039794922,
+  "r_squared": 0.9972935318946838
+}

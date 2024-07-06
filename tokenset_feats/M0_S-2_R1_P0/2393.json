@@ -1,0 +1,5 @@
+{
+  "pattern": "( fake| dead| died| Of| die)",
+  "pos_r_squared": 0.9983547329902649,
+  "r_squared": 0.9974854588508606
+}

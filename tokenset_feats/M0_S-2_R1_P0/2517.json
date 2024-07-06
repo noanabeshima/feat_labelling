@@ -1,0 +1,5 @@
+{
+  "pattern": "( Mary| Fl|Mary| Amy| Sue)",
+  "pos_r_squared": 0.9922491312026978,
+  "r_squared": 0.9903903603553772
+}

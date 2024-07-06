@@ -1,0 +1,5 @@
+{
+  "pattern": "( street| road| lawn| ground| path)",
+  "pos_r_squared": 0.9905173182487488,
+  "r_squared": 0.9904680848121643
+}

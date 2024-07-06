@@ -1,0 +1,5 @@
+{
+  "pattern": "(His|Grand|Their| scrib|Her)",
+  "pos_r_squared": 0.9976064562797546,
+  "r_squared": 0.9974766373634338
+}

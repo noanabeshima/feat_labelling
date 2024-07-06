@@ -1,0 +1,4 @@
+{
+  "pattern": "( big| unexpected| huge| R| started)",
+  "pos_r_squared": 0.6941760778427124
+}

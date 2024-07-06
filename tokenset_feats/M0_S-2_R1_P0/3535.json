@@ -1,0 +1,5 @@
+{
+  "pattern": "( miserable| fine| cool| ends| okay)",
+  "pos_r_squared": 0.9988620281219482,
+  "r_squared": 0.9987896084785461
+}

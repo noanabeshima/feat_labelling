@@ -1,0 +1,4 @@
+{
+  "pattern": "( neighbor| neighbour| sidewalk| neighborhood| neighbourhood)",
+  "pos_r_squared": 0.8375542163848877
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( two| Two| twin| 2| little)",
+  "pos_r_squared": 0.9886496663093567,
+  "r_squared": 0.84847092628479
+}

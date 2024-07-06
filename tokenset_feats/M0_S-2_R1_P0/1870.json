@@ -1,0 +1,5 @@
+{
+  "pattern": "( cave| tunnel| temple| unlocked| brave)",
+  "pos_r_squared": 0.9901554584503174,
+  "r_squared": 0.990010142326355
+}

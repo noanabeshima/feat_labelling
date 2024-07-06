@@ -1,0 +1,5 @@
+{
+  "pattern": "( alone| lonely| company| empty| helpless)",
+  "pos_r_squared": 0.9990918040275574,
+  "r_squared": 0.9990460276603699
+}

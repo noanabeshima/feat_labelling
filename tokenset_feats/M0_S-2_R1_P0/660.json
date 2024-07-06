@@ -1,0 +1,5 @@
+{
+  "pattern": "( while|While| awhile|let| to)",
+  "pos_r_squared": 0.996396005153656,
+  "r_squared": 0.9980743527412415
+}

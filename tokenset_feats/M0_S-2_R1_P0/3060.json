@@ -1,0 +1,5 @@
+{
+  "pattern": "( past| k| road|ird| nap)",
+  "pos_r_squared": 0.9983008503913879,
+  "r_squared": 0.9979155659675598
+}

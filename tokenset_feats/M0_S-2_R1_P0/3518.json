@@ -1,0 +1,4 @@
+{
+  "pattern": "( special| many| different| L|\\[UNK\\])",
+  "pos_r_squared": 0.007726609706878662
+}
