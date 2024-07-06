@@ -1,0 +1,5 @@
+{
+  "pattern": "( day| sunny| morning|It| sun)",
+  "r_squared": 0.717756986618042,
+  "pos_r_squared": 0.9978707432746887
+}

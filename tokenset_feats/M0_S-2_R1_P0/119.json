@@ -1,0 +1,5 @@
+{
+  "pattern": "(!| a| began|He| pounds)",
+  "r_squared": 0.004332065582275391,
+  "pos_r_squared": 0.004329383373260498
+}

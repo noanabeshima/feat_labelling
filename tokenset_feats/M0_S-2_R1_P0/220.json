@@ -1,0 +1,5 @@
+{
+  "pattern": "( tried| trying| tries| try| spoon)",
+  "pos_r_squared": 0.9993773102760315,
+  "r_squared": 0.999361515045166
+}

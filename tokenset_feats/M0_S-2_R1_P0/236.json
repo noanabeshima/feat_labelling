@@ -1,0 +1,5 @@
+{
+  "pattern": "( back| return| returned| supposed|Back)",
+  "pos_r_squared": 0.9991265535354614,
+  "r_squared": 0.9992625117301941
+}

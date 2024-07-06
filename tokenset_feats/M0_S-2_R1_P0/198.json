@@ -1,0 +1,5 @@
+{
+  "pattern": "( their| our| Their| were| your)",
+  "pos_r_squared": 0.9901764988899231,
+  "r_squared": 0.9909456968307495
+}

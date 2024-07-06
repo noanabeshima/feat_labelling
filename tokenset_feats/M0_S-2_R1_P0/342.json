@@ -1,0 +1,4 @@
+{
+  "pattern": "( the|\\.|,| and| was)",
+  "pos_r_squared": 0.02562582492828369
+}

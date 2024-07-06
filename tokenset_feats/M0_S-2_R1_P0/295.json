@@ -1,0 +1,5 @@
+{
+  "pattern": "( when| though| during| When| whenever)",
+  "pos_r_squared": 0.9934393167495728,
+  "r_squared": 0.9933578372001648
+}

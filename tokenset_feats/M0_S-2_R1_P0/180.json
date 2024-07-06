@@ -1,0 +1,5 @@
+{
+  "pattern": "( house| houses| hut| shelter| cabin)",
+  "pos_r_squared": 0.9975463151931763,
+  "r_squared": 0.9975875020027161
+}

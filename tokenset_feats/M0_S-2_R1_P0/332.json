@@ -1,0 +1,5 @@
+{
+  "pattern": "( about| discuss| of| discussed| thinking)",
+  "pos_r_squared": 0.9986534714698792,
+  "r_squared": 0.9986526370048523
+}

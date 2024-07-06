@@ -1,0 +1,5 @@
+{
+  "pattern": "( Sue|ue| caused|ot|inda)",
+  "r_squared": 0.9968429803848267,
+  "pos_r_squared": 0.9982796311378479
+}

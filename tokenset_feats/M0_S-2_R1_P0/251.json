@@ -1,0 +1,4 @@
+{
+  "pattern": "(\\.|,| and|Once| upon)",
+  "pos_r_squared": 0.002928018569946289
+}

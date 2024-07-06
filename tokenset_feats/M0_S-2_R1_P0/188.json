@@ -1,0 +1,5 @@
+{
+  "pattern": "( make| making| makes| things| made)",
+  "pos_r_squared": 0.9926212430000305,
+  "r_squared": 0.9927560091018677
+}

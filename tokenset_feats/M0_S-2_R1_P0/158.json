@@ -1,0 +1,5 @@
+{
+  "pattern": "( go|Go| Go| does| L)",
+  "r_squared": 0.9988716244697571,
+  "pos_r_squared": 0.9989911317825317
+}

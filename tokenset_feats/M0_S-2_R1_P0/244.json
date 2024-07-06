@@ -1,0 +1,5 @@
+{
+  "pattern": "( outside| bright| yard| day| hungry)",
+  "pos_r_squared": 0.9958380460739136,
+  "r_squared": 0.9915183186531067
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "(\\.|\\n| They| said| \")",
+  "pos_r_squared": 0.12657850980758667
+}

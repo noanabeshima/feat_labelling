@@ -1,0 +1,5 @@
+{
+  "pattern": "( told| tell|S| telling| tells)",
+  "pos_r_squared": 0.9881998300552368,
+  "r_squared": 0.9882878661155701
+}

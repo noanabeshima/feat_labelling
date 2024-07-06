@@ -1,0 +1,5 @@
+{
+  "pattern": "( Bob|Bob| Pete|Larry|S)",
+  "pos_r_squared": 0.9982585906982422,
+  "r_squared": 0.9977854490280151
+}

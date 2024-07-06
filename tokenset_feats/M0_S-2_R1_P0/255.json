@@ -1,0 +1,5 @@
+{
+  "pattern": "( got| get| gets| receive|Of)",
+  "pos_r_squared": 0.9949241280555725,
+  "r_squared": 0.9948853850364685
+}

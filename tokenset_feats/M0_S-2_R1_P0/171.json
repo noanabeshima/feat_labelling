@@ -1,0 +1,5 @@
+{
+  "pattern": "(\"| cr| to| simply|')",
+  "r_squared": 0.9975578784942627,
+  "pos_r_squared": 0.99772709608078
+}

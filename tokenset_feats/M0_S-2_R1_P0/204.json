@@ -1,0 +1,5 @@
+{
+  "pattern": "( down| bottom| scar| dropping| stopping)",
+  "pos_r_squared": 0.9995137453079224,
+  "r_squared": 0.9994631409645081
+}

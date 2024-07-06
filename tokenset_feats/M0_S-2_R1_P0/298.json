@@ -1,0 +1,5 @@
+{
+  "pattern": "( inside| Inside|Inside| enter| apart)",
+  "pos_r_squared": 0.9965226054191589,
+  "r_squared": 0.9966959357261658
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( park| pretty| sunny| woods| enjoy)",
+  "r_squared": 0.9965600371360779,
+  "pos_r_squared": 0.9988770484924316
+}

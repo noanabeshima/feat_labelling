@@ -1,0 +1,5 @@
+{
+  "pattern": "( took| taking| steal| taken| takes)",
+  "pos_r_squared": 0.9973287582397461,
+  "r_squared": 0.9974305033683777
+}

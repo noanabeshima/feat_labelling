@@ -1,0 +1,5 @@
+{
+  "pattern": "( were| was|C| join| matters)",
+  "r_squared": 0.9973966479301453,
+  "pos_r_squared": 0.9991615414619446
+}

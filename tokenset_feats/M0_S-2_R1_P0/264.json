@@ -1,0 +1,5 @@
+{
+  "pattern": "( car| automobile| Ted|Car|Ar)",
+  "pos_r_squared": 0.9980989098548889,
+  "r_squared": 0.9978575110435486
+}

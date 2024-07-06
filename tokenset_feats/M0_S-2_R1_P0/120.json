@@ -1,0 +1,5 @@
+{
+  "pattern": "( ball| balls| Shadow| Circle| Bounce)",
+  "r_squared": 0.9885687828063965,
+  "pos_r_squared": 0.9886341094970703
+}

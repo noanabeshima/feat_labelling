@@ -1,0 +1,5 @@
+{
+  "pattern": "( me| I| us|ed| down)",
+  "pos_r_squared": 0.9995853304862976,
+  "r_squared": 0.9996353387832642
+}

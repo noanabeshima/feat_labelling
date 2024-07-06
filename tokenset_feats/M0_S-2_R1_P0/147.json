@@ -1,0 +1,5 @@
+{
+  "pattern": "( found| finding| Fin| discovered| discovery)",
+  "r_squared": 0.987941563129425,
+  "pos_r_squared": 0.9894581437110901
+}

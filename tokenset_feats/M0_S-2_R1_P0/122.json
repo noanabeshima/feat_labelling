@@ -1,0 +1,5 @@
+{
+  "pattern": "( liked| likes| ruining| Around)",
+  "r_squared": 0.9983444809913635,
+  "pos_r_squared": 0.9986546635627747
+}

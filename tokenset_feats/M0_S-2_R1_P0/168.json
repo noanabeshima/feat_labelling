@@ -1,0 +1,5 @@
+{
+  "pattern": "( lived| live| belongs| lives| living)",
+  "r_squared": 0.9986726641654968,
+  "pos_r_squared": 0.9986176490783691
+}

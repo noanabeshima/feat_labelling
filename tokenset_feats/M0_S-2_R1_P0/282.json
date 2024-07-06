@@ -1,0 +1,5 @@
+{
+  "pattern": "( some| few| any| Some| carefully)",
+  "pos_r_squared": 0.9975595474243164,
+  "r_squared": 0.9976279139518738
+}

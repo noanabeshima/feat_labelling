@@ -1,0 +1,5 @@
+{
+  "pattern": "( the| a| very| and| with)",
+  "r_squared": -0.00435030460357666,
+  "pos_r_squared": -0.0005307197570800781
+}

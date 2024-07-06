@@ -1,0 +1,5 @@
+{
+  "pattern": "(Yes| yes|I|We| cher)",
+  "pos_r_squared": 0.9960128664970398,
+  "r_squared": 0.9960300326347351
+}

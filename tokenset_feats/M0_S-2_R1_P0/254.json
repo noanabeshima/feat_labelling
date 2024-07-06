@@ -1,0 +1,5 @@
+{
+  "pattern": "( do|Do| friendly| achieve| performed)",
+  "pos_r_squared": 0.9989773631095886,
+  "r_squared": 0.9990629553794861
+}

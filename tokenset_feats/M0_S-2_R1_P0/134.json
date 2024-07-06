@@ -1,0 +1,5 @@
+{
+  "pattern": "( fun| boat| p| z| exciting)",
+  "r_squared": 0.9991863965988159,
+  "pos_r_squared": 0.9990676045417786
+}

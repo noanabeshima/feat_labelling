@@ -1,0 +1,5 @@
+{
+  "pattern": "( girl| boy| to| She|\\.)",
+  "pos_r_squared": 0.981564462184906,
+  "r_squared": 0.6249872446060181
+}

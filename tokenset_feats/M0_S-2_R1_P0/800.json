@@ -1,0 +1,5 @@
+{
+  "pattern": "( off| set| down| Up| flexible)",
+  "r_squared": 0.9987136721611023,
+  "pos_r_squared": 0.9986957311630249
+}

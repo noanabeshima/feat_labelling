@@ -1,0 +1,5 @@
+{
+  "pattern": "( Tim| little|\\.|,| Tom)",
+  "r_squared": 0.04295724630355835,
+  "pos_r_squared": 0.07203924655914307
+}

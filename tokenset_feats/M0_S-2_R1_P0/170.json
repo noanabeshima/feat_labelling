@@ -1,0 +1,5 @@
+{
+  "pattern": "( the| a| little|\\.| tree)",
+  "r_squared": 0.01130366325378418,
+  "pos_r_squared": 0.01046454906463623
+}

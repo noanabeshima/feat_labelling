@@ -1,0 +1,5 @@
+{
+  "pattern": "( made| created| makes| thick| did)",
+  "pos_r_squared": 0.9995375871658325,
+  "r_squared": 0.9994812607765198
+}

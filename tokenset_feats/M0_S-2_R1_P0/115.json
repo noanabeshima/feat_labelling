@@ -1,0 +1,5 @@
+{
+  "pattern": "( started| began| start| couple| beautiful)",
+  "r_squared": 0.9835427403450012,
+  "pos_r_squared": 0.9832280278205872
+}

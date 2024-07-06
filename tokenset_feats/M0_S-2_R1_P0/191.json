@@ -1,0 +1,5 @@
+{
+  "pattern": "( him| himself| hat| lap| he)",
+  "pos_r_squared": 0.9988431930541992,
+  "r_squared": 0.9990183115005493
+}

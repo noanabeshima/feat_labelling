@@ -1,0 +1,5 @@
+{
+  "pattern": "( sad| disappointed| sadly| unhappy| wrong)",
+  "r_squared": 0.99928218126297,
+  "pos_r_squared": 0.9992907643318176
+}

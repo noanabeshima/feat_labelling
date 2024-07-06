@@ -1,0 +1,5 @@
+{
+  "pattern": "( could| but| cannot| able| couldn)",
+  "r_squared": 0.9985561966896057,
+  "pos_r_squared": 0.9986691474914551
+}

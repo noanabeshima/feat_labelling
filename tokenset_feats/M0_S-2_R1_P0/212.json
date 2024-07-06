@@ -1,0 +1,5 @@
+{
+  "pattern": "( from| and| From| named| grass)",
+  "pos_r_squared": 0.9811917543411255,
+  "r_squared": 0.9812590479850769
+}

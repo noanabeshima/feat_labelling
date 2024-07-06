@@ -1,0 +1,5 @@
+{
+  "pattern": "( a|\\.| was| the| there)",
+  "r_squared": -0.015308260917663574,
+  "pos_r_squared": -0.0012716054916381836
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( friend| neighbor| Loop| toy| grandson)",
+  "r_squared": 0.9973678588867188,
+  "pos_r_squared": 0.9984991550445557
+}

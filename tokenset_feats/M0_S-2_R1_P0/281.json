@@ -1,0 +1,5 @@
+{
+  "pattern": "( know| sure| knowing| knows| unsure)",
+  "pos_r_squared": 0.9992008209228516,
+  "r_squared": 0.9991943836212158
+}

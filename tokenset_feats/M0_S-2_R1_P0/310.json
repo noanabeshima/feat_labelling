@@ -1,0 +1,5 @@
+{
+  "pattern": "( because| though| sure|because|Because)",
+  "pos_r_squared": 0.9961395859718323,
+  "r_squared": 0.9958904385566711
+}

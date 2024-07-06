@@ -1,0 +1,5 @@
+{
+  "pattern": "( But|But|One| but| unexpected)",
+  "r_squared": 0.9958958029747009,
+  "pos_r_squared": 0.995620608329773
+}

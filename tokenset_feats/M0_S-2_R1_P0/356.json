@@ -1,0 +1,5 @@
+{
+  "pattern": "( man| boy| paid| Bob| lady)",
+  "pos_r_squared": 0.9949867725372314,
+  "r_squared": 0.9964602589607239
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( new| fresh|hog| invites|this)",
+  "pos_r_squared": 0.9991057515144348,
+  "r_squared": 0.9990477561950684
+}

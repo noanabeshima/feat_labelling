@@ -1,0 +1,5 @@
+{
+  "pattern": "( old| ancient| elderly| broken| store)",
+  "pos_r_squared": 0.9936928749084473,
+  "r_squared": 0.9913036227226257
+}

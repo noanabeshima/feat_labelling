@@ -1,0 +1,5 @@
+{
+  "pattern": "( asked| ask| asks| asking| once)",
+  "r_squared": 0.9979404807090759,
+  "pos_r_squared": 0.9979389905929565
+}

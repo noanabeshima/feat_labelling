@@ -1,0 +1,5 @@
+{
+  "pattern": "( fast| faster| fastest| quick| path)",
+  "pos_r_squared": 0.988351583480835,
+  "r_squared": 0.9884470701217651
+}

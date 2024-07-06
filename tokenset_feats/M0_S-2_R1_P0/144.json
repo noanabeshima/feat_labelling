@@ -1,0 +1,5 @@
+{
+  "pattern": "( be| being|Be| was| farm)",
+  "r_squared": 0.9901748895645142,
+  "pos_r_squared": 0.9901496767997742
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( home| homes| den| destination| town)",
+  "pos_r_squared": 0.9992110133171082,
+  "r_squared": 0.9992865324020386
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( get| getting| reach| enough|ir)",
+  "pos_r_squared": 0.9963533878326416,
+  "r_squared": 0.9964227080345154
+}

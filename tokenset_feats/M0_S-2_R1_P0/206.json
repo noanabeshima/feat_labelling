@@ -1,0 +1,5 @@
+{
+  "pattern": "( played| cared| plays|Great| catches)",
+  "pos_r_squared": 0.9996986985206604,
+  "r_squared": 0.9996429681777954
+}

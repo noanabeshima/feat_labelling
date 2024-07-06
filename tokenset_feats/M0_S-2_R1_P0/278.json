@@ -1,0 +1,5 @@
+{
+  "pattern": "( my|My| My| his| me)",
+  "pos_r_squared": 0.9988982677459717,
+  "r_squared": 0.9990178346633911
+}

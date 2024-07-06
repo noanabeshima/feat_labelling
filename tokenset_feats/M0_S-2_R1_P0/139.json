@@ -1,0 +1,5 @@
+{
+  "pattern": "( Max|Max| Rover|Billy| aimed)",
+  "r_squared": 0.9979966282844543,
+  "pos_r_squared": 0.9980305433273315
+}

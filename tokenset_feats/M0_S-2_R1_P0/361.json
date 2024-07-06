@@ -1,0 +1,5 @@
+{
+  "pattern": "( long| short| tr| hard| longest)",
+  "pos_r_squared": 0.9980805516242981,
+  "r_squared": 0.9982622861862183
+}

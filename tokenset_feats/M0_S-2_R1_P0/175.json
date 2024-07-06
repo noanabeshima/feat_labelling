@@ -1,0 +1,5 @@
+{
+  "pattern": "(Once| upon| time| bird| car)",
+  "r_squared": 0.016773641109466553,
+  "pos_r_squared": 0.03156232833862305
+}

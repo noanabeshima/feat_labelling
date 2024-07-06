@@ -1,0 +1,5 @@
+{
+  "pattern": "( looked| looks| seemed| stared| turned)",
+  "r_squared": 0.9922450184822083,
+  "pos_r_squared": 0.9922365546226501
+}

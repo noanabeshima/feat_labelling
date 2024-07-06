@@ -1,0 +1,5 @@
+{
+  "pattern": "( would| wouldn|'d| visited|z)",
+  "pos_r_squared": 0.9956424236297607,
+  "r_squared": 0.9920464754104614
+}

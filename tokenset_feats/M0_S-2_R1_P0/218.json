@@ -1,0 +1,5 @@
+{
+  "pattern": "( box| boxes| Box| cardboard| same)",
+  "pos_r_squared": 0.9993749260902405,
+  "r_squared": 0.9993218779563904
+}

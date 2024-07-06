@@ -1,0 +1,5 @@
+{
+  "pattern": "( like|Fine| hate| avoid| hates)",
+  "r_squared": 0.9956947565078735,
+  "pos_r_squared": 0.9969509243965149
+}

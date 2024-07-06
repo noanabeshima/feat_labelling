@@ -1,0 +1,5 @@
+{
+  "pattern": "( toy| favorite| gone| pet| treasure)",
+  "r_squared": 0.9993484020233154,
+  "pos_r_squared": 0.9993950128555298
+}

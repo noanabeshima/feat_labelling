@@ -1,0 +1,5 @@
+{
+  "pattern": "( came| comes| swoop| stops| broke)",
+  "r_squared": 0.9993270039558411,
+  "pos_r_squared": 0.9990330338478088
+}

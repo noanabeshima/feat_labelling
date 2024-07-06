@@ -1,0 +1,5 @@
+{
+  "pattern": "( thought| think| thinks| thinking| believed)",
+  "r_squared": 0.998447835445404,
+  "pos_r_squared": 0.9986505508422852
+}

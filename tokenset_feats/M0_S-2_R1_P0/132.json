@@ -1,0 +1,5 @@
+{
+  "pattern": "( little| bird| cat| man| Spot)",
+  "r_squared": 0.123995840549469,
+  "pos_r_squared": 0.12174540758132935
+}

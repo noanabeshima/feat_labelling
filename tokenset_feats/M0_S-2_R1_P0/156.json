@@ -1,0 +1,5 @@
+{
+  "pattern": "( can| top| couldn| could| choice)",
+  "r_squared": 0.9993957877159119,
+  "pos_r_squared": 0.9994205236434937
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( things| everything| stuff| furniture| treasures)",
+  "pos_r_squared": 0.9955025911331177,
+  "r_squared": 0.9954557418823242
+}

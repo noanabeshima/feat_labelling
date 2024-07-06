@@ -1,0 +1,5 @@
+{
+  "pattern": "( out| inside| free| up| outside)",
+  "r_squared": 0.9953009486198425,
+  "pos_r_squared": 0.9953093528747559
+}

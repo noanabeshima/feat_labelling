@@ -1,0 +1,5 @@
+{
+  "pattern": "( then| pur| afterwards| aimed| and)",
+  "pos_r_squared": 0.998248815536499,
+  "r_squared": 0.9983677864074707
+}

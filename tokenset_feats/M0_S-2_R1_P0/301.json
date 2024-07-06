@@ -1,0 +1,5 @@
+{
+  "pattern": "( water| watered| j| milk| D)",
+  "pos_r_squared": 0.9962642788887024,
+  "r_squared": 0.9961936473846436
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "('t| not|Un| barely| hardly)",
+  "r_squared": 0.9994120001792908,
+  "pos_r_squared": 0.9992876052856445
+}

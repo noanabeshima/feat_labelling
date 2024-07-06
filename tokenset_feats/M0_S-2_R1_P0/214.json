@@ -1,0 +1,5 @@
+{
+  "pattern": "( have|Lu| having| do| much)",
+  "pos_r_squared": 0.9952348470687866,
+  "r_squared": 0.9952303767204285
+}

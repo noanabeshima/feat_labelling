@@ -1,0 +1,5 @@
+{
+  "pattern": "( into| entered| actually| filled| became)",
+  "pos_r_squared": 0.9991593956947327,
+  "r_squared": 0.9992114901542664
+}

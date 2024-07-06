@@ -1,0 +1,5 @@
+{
+  "pattern": "( together| Together|Together| outdoors| company)",
+  "r_squared": 0.9987287521362305,
+  "pos_r_squared": 0.9988337159156799
+}
