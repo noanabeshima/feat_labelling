@@ -29,6 +29,7 @@ def test_pattern(mlp_name, feat_idx, pattern):
     r_squared = 1 - test_errs.var()/test_acts.var()
     return r_squared
 
+@ray.remote(num_cpus=1)
 def process_feat(feat_idx):
     feat_acts = load_sparse_feat_acts(f'{MLP_DIR}/{MLP_NAME}/{feat_idx}.pt').to_sparse_coo()
     indices = feat_acts.indices()[:,:600]
