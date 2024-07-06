@@ -17,61 +17,82 @@ from utils import all_tok_ids
 import os
 from tqdm import tqdm
 import ray
+import time
 
-ray.init(ignore_reinit_error=True)
+ray.init(ignore_reinit_error=True, num_cpus=1)
 
-def test_pattern(mlp_name, feat_idx, pattern):
-    train_acts, train_tok_ids, test_acts, test_tok_ids = load_feat_splits(MLP_NAME, feat_idx, train_amt=0.8)
-    synth = tokre.SynthFeat(pattern)
-    synth.train(train_acts, train_tok_ids)
-    synth_test_acts = synth.get_acts(test_tok_ids)
-    test_errs = test_acts - synth_test_acts
-    r_squared = 1 - test_errs.var()/test_acts.var()
-    return r_squared
+
 
 @ray.remote(num_cpus=1)
-def process_feat(feat_idx):
-    feat_acts = load_sparse_feat_acts(f'{MLP_DIR}/{MLP_NAME}/{feat_idx}.pt').to_sparse_coo()
-    indices = feat_acts.indices()[:,:600]
-    active_tok_ids = all_tok_ids[indices[0], indices[1]]
+class Actor:
+    def __init__(self):
+        dataset = load_dataset('noanabeshima/TinyModelTokIds', split='train[:13%]')
+        self.all_tok_ids = torch.tensor(dataset['tok_ids'])
 
-    uniq, counts = torch.unique(active_tok_ids, return_counts=True)
-    
-    num_unique = uniq.shape[0]
-    topk_counts, _topk_indices = counts.topk(k=min(num_unique, 5))
-    topk_ids = uniq[_topk_indices]
+    def process_feat(self, feat_idx):
+        feat_acts = load_sparse_feat_acts(f'{MLP_DIR}/{MLP_NAME}/{feat_idx}.pt').to_sparse_coo()
+        indices = feat_acts.indices()[:,:600]
+        active_tok_ids = self.all_tok_ids[indices[0], indices[1]]
 
-    pattern = "(" + "|".join([tokre.escape(tok) for tok in tiny_model.raw_toks[topk_ids]]) + ")"
-    try:
+        uniq, counts = torch.unique(active_tok_ids, return_counts=True)
         
-        pos_r_squared = test_pattern(MLP_NAME, feat_idx, pattern + '[pos]')
+        num_unique = uniq.shape[0]
+        topk_counts, _topk_indices = counts.topk(k=min(num_unique, 5))
+        topk_ids = uniq[_topk_indices]
 
-        data = {
-            'pattern': pattern,
-            'pos_r_squared': pos_r_squared.item()
-        }
+        pattern = "(" + "|".join([tokre.escape(tok) for tok in tiny_model.raw_toks[topk_ids]]) + ")"
+        try:
+            
+            pos_r_squared = self.test_pattern(MLP_NAME, feat_idx, pattern + '[pos]')
 
-        if pos_r_squared > 0.98:
-            r_squared = test_pattern(MLP_NAME, feat_idx, pattern)
-            data['r_squared'] = r_squared.item()
-        
-        
-        output_dir = os.path.join('tokenset_feats', MLP_NAME)
-        os.makedirs(output_dir, exist_ok=True)
+            data = {
+                'pattern': pattern,
+                'pos_r_squared': pos_r_squared.item()
+            }
 
-        output_path = os.path.join(output_dir, f'{feat_idx}.json')
-        with open(output_path, 'w') as f:
-            json.dump(data, f, indent=2)
-    except Exception as e:
-        print(pattern)
-        raise e
+            if pos_r_squared > 0.98:
+                r_squared = self.test_pattern(MLP_NAME, feat_idx, pattern)
+                data['r_squared'] = r_squared.item()
+            
+            
+            output_dir = os.path.join('tokenset_feats', MLP_NAME)
+            os.makedirs(output_dir, exist_ok=True)
 
-results = []
+            output_path = os.path.join(output_dir, f'{feat_idx}.json')
+            with open(output_path, 'w') as f:
+                json.dump(data, f, indent=2)
+        except Exception as e:
+            print(pattern)
+            print(e)
+            print(str(e))
+            raise e
+
+    def test_pattern(self, mlp_name, feat_idx, pattern, train_amt=0.8):
+        acts = load_sparse_feat_acts(f'mlp_map_test/{mlp_name}/{feat_idx}.pt').to_dense()
+        split_idx = int(acts.shape[0]*train_amt)
+
+        train_acts, test_acts = acts[:split_idx], acts[split_idx:]
+        train_tok_ids, test_tok_ids = self.all_tok_ids[:split_idx], self.all_tok_ids[split_idx:acts.shape[0]]
+        print('b')
+        synth = tokre.SynthFeat(pattern)
+        # print('c')
+        # synth.train(train_acts, train_tok_ids)
+        # print('d')
+        # synth_test_acts = synth.get_acts(test_tok_ids)
+        # print('e')
+        # test_errs = test_acts - synth_test_acts
+        # print('f')
+        # r_squared = 1 - test_errs.var()/test_acts.var()
+        # print('g')
+        # return r_squared
+
+actors = [Actor.remote() for _ in range(1)]
+
+unprocessed_feats = []
 for feat_idx in tqdm(range(100, TOT_FEATS)):
     if f'{feat_idx}.json' in os.listdir(f'tokenset_feats/{MLP_NAME}'):
         continue
-    results.append(process_feat.remote(feat_idx))
+    unprocessed_feats.append(feat_idx)
 
-ray.get(results)
-    
+results = ray.get([actors[i%len(actors)].process_feat.remote(feat_idx) for i, feat_idx in enumerate(unprocessed_feats)])
 
