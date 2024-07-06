@@ -2,7 +2,7 @@ from functools import lru_cache
 from huggingface_hub import hf_hub_download
 import torch
 import tiny_model
-import pysvelte
+# import pysvelte
 from datasets import load_dataset
 
 dataset = load_dataset('noanabeshima/TinyModelTokIds', split='train[:13%]')
@@ -74,23 +74,23 @@ def load_feat_splits(mlp_name, feat_idx, train_amt=0.8):
 
     return train_acts, train_tok_ids, test_acts, test_tok_ids
 
-def see_feat(mlp_name, feat, no_zero_docs=True, **kwargs):
-    feat_acts, tok_ids, toks  = load_feat_data(f"{mlp_name}", feat_idx=feat, no_zero_docs=no_zero_docs)
+# def see_feat(mlp_name, feat, no_zero_docs=True, **kwargs):
+#     feat_acts, tok_ids, toks  = load_feat_data(f"{mlp_name}", feat_idx=feat, no_zero_docs=no_zero_docs)
 
-    return pysvelte.WeightedDocs(acts=feat_acts.tolist(), docs=toks.tolist(), **kwargs)
+#     return pysvelte.WeightedDocs(acts=feat_acts.tolist(), docs=toks.tolist(), **kwargs)
 
-def weighted_docs(acts, doc_ids, **kwargs):
-    if isinstance(acts, list):
-        acts = torch.tensor(acts)
+# def weighted_docs(acts, doc_ids, **kwargs):
+#     if isinstance(acts, list):
+#         acts = torch.tensor(acts)
     
-    if isinstance(doc_ids, list):
-        docs = torch.tensor(doc_ids)
+#     if isinstance(doc_ids, list):
+#         docs = torch.tensor(doc_ids)
     
-    docs = tiny_model.toks[doc_ids]
+#     docs = tiny_model.toks[doc_ids]
 
-    if len(acts.shape) == 1:
-        acts = acts[None]
-    if len(docs.shape) == 1:
-        docs = docs[None]
+#     if len(acts.shape) == 1:
+#         acts = acts[None]
+#     if len(docs.shape) == 1:
+#         docs = docs[None]
     
-    return pysvelte.WeightedDocs(acts=acts.tolist(), docs=docs.tolist(), **kwargs)
+#     return pysvelte.WeightedDocs(acts=acts.tolist(), docs=docs.tolist(), **kwargs)
