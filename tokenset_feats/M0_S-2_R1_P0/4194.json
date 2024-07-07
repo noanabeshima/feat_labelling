@@ -1,0 +1,5 @@
+{
+  "pattern": "( helpless| dead|berry|O|Da)",
+  "pos_r_squared": 0.9970265030860901,
+  "r_squared": 0.99650639295578
+}

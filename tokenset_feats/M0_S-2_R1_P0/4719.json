@@ -1,0 +1,5 @@
+{
+  "pattern": "( offered| encouraged| offering| offers)",
+  "pos_r_squared": 0.9981955885887146,
+  "r_squared": 0.9979292750358582
+}

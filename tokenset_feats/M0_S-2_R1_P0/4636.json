@@ -1,0 +1,5 @@
+{
+  "pattern": "( pain| strength| warmth|int|immer)",
+  "pos_r_squared": 0.9967330694198608,
+  "r_squared": 0.9965241551399231
+}

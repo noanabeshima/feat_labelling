@@ -1,0 +1,5 @@
+{
+  "pattern": "( searched|Up| searches| hugged)",
+  "pos_r_squared": 0.9989033937454224,
+  "r_squared": 0.9990604519844055
+}

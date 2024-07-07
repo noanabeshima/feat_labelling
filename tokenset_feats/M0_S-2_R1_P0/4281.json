@@ -1,0 +1,5 @@
+{
+  "pattern": "( complete| completed| finishing| completing| disturbing)",
+  "pos_r_squared": 0.998507559299469,
+  "r_squared": 0.9982917904853821
+}

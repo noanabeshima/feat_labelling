@@ -1,0 +1,5 @@
+{
+  "pattern": "( guard| cop| leash| rac| tro)",
+  "pos_r_squared": 0.9930869340896606,
+  "r_squared": 0.9860309958457947
+}

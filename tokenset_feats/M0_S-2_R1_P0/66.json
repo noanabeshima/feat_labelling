@@ -1,0 +1,5 @@
+{
+  "pattern": "( little| there| was| a| big)",
+  "pos_r_squared": 0.9922845959663391,
+  "r_squared": 0.5684024095535278
+}

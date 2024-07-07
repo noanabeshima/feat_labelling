@@ -1,0 +1,4 @@
+{
+  "pattern": "( clean| dry| fix| cleaned| tidy)",
+  "pos_r_squared": 0.5484476685523987
+}

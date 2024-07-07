@@ -1,0 +1,5 @@
+{
+  "pattern": "( moral| teaches| Wh|oral| explains)",
+  "pos_r_squared": 0.999006450176239,
+  "r_squared": 0.998898446559906
+}

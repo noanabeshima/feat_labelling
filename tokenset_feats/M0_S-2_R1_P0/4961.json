@@ -1,0 +1,5 @@
+{
+  "pattern": "( tutor| dentist| coach|Prin| Teach)",
+  "pos_r_squared": 0.9982973337173462,
+  "r_squared": 0.9952852725982666
+}

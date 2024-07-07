@@ -1,0 +1,5 @@
+{
+  "pattern": "( toast|aster| knit| breakfast| Sorry)",
+  "pos_r_squared": 0.9984646439552307,
+  "r_squared": 0.997556209564209
+}

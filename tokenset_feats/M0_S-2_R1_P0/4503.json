@@ -1,0 +1,5 @@
+{
+  "pattern": "( hunter| digs| hunters| dug| aimed)",
+  "pos_r_squared": 0.9978945851325989,
+  "r_squared": 0.9973370432853699
+}

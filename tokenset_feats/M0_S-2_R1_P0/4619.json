@@ -1,0 +1,5 @@
+{
+  "pattern": "( fork| spoon| plate| tool| forks)",
+  "pos_r_squared": 0.9987876415252686,
+  "r_squared": 0.9980271458625793
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( diary|aries| hidden|iri|chair)",
+  "pos_r_squared": 0.9975684285163879,
+  "r_squared": 0.9984029531478882
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( Wednesday| Sunday| Tuesday| Love| Saturday)",
+  "pos_r_squared": 0.9931804537773132,
+  "r_squared": 0.9929138422012329
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(rot|rots| robot| hello| ge)",
+  "pos_r_squared": 0.9954095482826233,
+  "r_squared": 0.9925673604011536
+}

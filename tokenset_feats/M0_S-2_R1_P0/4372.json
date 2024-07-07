@@ -1,0 +1,4 @@
+{
+  "pattern": "( mentioned| reveal| revealed| mention| delivered)",
+  "pos_r_squared": 0.9792478084564209
+}

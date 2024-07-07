@@ -1,0 +1,5 @@
+{
+  "pattern": "( '| s| felt| building|As)",
+  "pos_r_squared": 0.9946461915969849,
+  "r_squared": 0.9988733530044556
+}

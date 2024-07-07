@@ -1,0 +1,5 @@
+{
+  "pattern": "( alert| east|oom| west| exit)",
+  "pos_r_squared": 0.9846004843711853,
+  "r_squared": 0.9840092062950134
+}

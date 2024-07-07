@@ -1,0 +1,5 @@
+{
+  "pattern": "( lit| curled|Wow| light| before)",
+  "pos_r_squared": 0.9955654740333557,
+  "r_squared": 0.9961670637130737
+}

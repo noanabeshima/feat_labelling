@@ -1,0 +1,5 @@
+{
+  "pattern": "( shark| dragons| sharks| owl| spider)",
+  "pos_r_squared": 0.9941105842590332,
+  "r_squared": 0.9914537668228149
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( attach| manage| attached| easy| lead)",
+  "pos_r_squared": 0.9849408268928528,
+  "r_squared": 0.9850165843963623
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( perform| performing| performed| performance| displayed)",
+  "pos_r_squared": 0.998714804649353,
+  "r_squared": 0.998247504234314
+}

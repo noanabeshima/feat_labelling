@@ -1,0 +1,5 @@
+{
+  "pattern": "( drawer| shed| floor| footprints| paper)",
+  "pos_r_squared": 0.9890363216400146,
+  "r_squared": 0.9896429777145386
+}

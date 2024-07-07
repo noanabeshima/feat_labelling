@@ -1,0 +1,5 @@
+{
+  "pattern": "( guilty| fault| slipped| tempted| tempting)",
+  "pos_r_squared": 0.9972526431083679,
+  "r_squared": 0.9972279071807861
+}

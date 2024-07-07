@@ -1,0 +1,5 @@
+{
+  "pattern": "( determined| prove| desperate| hopeful| vowed)",
+  "pos_r_squared": 0.9990156888961792,
+  "r_squared": 0.9982858300209045
+}

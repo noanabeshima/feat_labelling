@@ -1,0 +1,5 @@
+{
+  "pattern": "( purse|packs| wallet| notebook| zo)",
+  "pos_r_squared": 0.9975011348724365,
+  "r_squared": 0.9975797533988953
+}

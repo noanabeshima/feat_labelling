@@ -1,0 +1,5 @@
+{
+  "pattern": "(oo| cow| pet| donkey| helper)",
+  "pos_r_squared": 0.9986547231674194,
+  "r_squared": 0.9987592101097107
+}

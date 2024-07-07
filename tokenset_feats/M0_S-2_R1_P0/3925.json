@@ -1,0 +1,5 @@
+{
+  "pattern": "( parents| moms| described| felt| pages)",
+  "pos_r_squared": 0.9985682964324951,
+  "r_squared": 0.9983707070350647
+}

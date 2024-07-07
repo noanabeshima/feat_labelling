@@ -1,0 +1,5 @@
+{
+  "pattern": "( solve| solved| solving| completing| OK)",
+  "pos_r_squared": 0.9981307983398438,
+  "r_squared": 0.9975950121879578
+}

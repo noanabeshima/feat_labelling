@@ -1,0 +1,5 @@
+{
+  "pattern": "( island|alk| Park|Hey| take)",
+  "pos_r_squared": 0.9926725029945374,
+  "r_squared": 0.9918321967124939
+}

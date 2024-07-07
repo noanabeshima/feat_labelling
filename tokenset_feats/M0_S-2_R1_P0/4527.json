@@ -1,0 +1,5 @@
+{
+  "pattern": "( gem| gems| pepper| jewel| dragon)",
+  "pos_r_squared": 0.9976422786712646,
+  "r_squared": 0.9973263740539551
+}

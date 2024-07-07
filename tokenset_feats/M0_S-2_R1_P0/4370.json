@@ -1,0 +1,5 @@
+{
+  "pattern": "( watching|Watch| watches| Watch|ps)",
+  "pos_r_squared": 0.9901033639907837,
+  "r_squared": 0.9901036024093628
+}

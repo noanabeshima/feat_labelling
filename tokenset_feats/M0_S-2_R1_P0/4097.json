@@ -1,0 +1,5 @@
+{
+  "pattern": "( journey| journeys| approach| voyage| favor)",
+  "pos_r_squared": 0.998998761177063,
+  "r_squared": 0.9987044930458069
+}

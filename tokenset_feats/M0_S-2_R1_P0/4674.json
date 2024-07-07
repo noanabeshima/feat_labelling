@@ -1,0 +1,5 @@
+{
+  "pattern": "( vendor| sport| pupil| pupils| sports)",
+  "pos_r_squared": 0.9890430569648743,
+  "r_squared": 0.9888888597488403
+}

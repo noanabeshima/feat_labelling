@@ -1,0 +1,5 @@
+{
+  "pattern": "( deliver| delivered| delivering| delivery| mailed)",
+  "pos_r_squared": 0.9988471865653992,
+  "r_squared": 0.9986133575439453
+}

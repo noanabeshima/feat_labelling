@@ -1,0 +1,5 @@
+{
+  "pattern": "( working| worked| playing| work| raining)",
+  "pos_r_squared": 0.995816707611084,
+  "r_squared": 0.995776891708374
+}

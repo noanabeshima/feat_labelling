@@ -1,0 +1,4 @@
+{
+  "pattern": "( today| Today|Today| yesterday| food)",
+  "pos_r_squared": 0.9636121988296509
+}

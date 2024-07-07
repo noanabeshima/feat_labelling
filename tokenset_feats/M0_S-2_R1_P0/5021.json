@@ -1,0 +1,5 @@
+{
+  "pattern": "( sailor| sailors| Crane|or| Captain)",
+  "pos_r_squared": 0.9962895512580872,
+  "r_squared": 0.9924015998840332
+}

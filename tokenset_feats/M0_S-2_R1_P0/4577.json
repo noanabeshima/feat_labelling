@@ -1,0 +1,5 @@
+{
+  "pattern": "( TV| television| matters|ST)",
+  "pos_r_squared": 0.9968478679656982,
+  "r_squared": 0.9935017824172974
+}

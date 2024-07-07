@@ -1,0 +1,5 @@
+{
+  "pattern": "( rode| riding| rides| ride| drives)",
+  "pos_r_squared": 0.9899128675460815,
+  "r_squared": 0.9904945492744446
+}

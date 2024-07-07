@@ -1,0 +1,5 @@
+{
+  "pattern": "( festival| gym| stadium| event| known)",
+  "pos_r_squared": 0.9877636432647705,
+  "r_squared": 0.985234260559082
+}

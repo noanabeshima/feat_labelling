@@ -1,0 +1,5 @@
+{
+  "pattern": "( a|\\.| an| with| Lily)",
+  "pos_r_squared": 0.9849615693092346,
+  "r_squared": 0.17226922512054443
+}

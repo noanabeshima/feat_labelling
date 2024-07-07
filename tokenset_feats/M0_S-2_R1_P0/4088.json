@@ -1,0 +1,5 @@
+{
+  "pattern": "( study| studied| studying| school| discussed)",
+  "pos_r_squared": 0.9934378266334534,
+  "r_squared": 0.994780421257019
+}

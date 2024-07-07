@@ -1,0 +1,5 @@
+{
+  "pattern": "( lawn| pitch|un| yard| driveway)",
+  "pos_r_squared": 0.9958961009979248,
+  "r_squared": 0.9943881630897522
+}

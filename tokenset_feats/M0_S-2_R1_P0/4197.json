@@ -1,0 +1,5 @@
+{
+  "pattern": "( hedge| handy| flowers| hamm| mill)",
+  "pos_r_squared": 0.998242199420929,
+  "r_squared": 0.9980917572975159
+}

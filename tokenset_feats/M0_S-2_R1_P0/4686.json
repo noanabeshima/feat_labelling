@@ -1,0 +1,5 @@
+{
+  "pattern": "( desk| desks| vendors| Robot)",
+  "pos_r_squared": 0.9973766207695007,
+  "r_squared": 0.9969232082366943
+}

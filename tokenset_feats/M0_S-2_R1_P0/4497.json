@@ -1,0 +1,5 @@
+{
+  "pattern": "( rake|aking|aked| helicopter| cabin)",
+  "pos_r_squared": 0.9964116215705872,
+  "r_squared": 0.9964695572853088
+}

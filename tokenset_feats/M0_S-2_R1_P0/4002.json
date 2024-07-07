@@ -1,0 +1,5 @@
+{
+  "pattern": "( tire| tires| repaired| taped| glued)",
+  "pos_r_squared": 0.9978851675987244,
+  "r_squared": 0.996677815914154
+}

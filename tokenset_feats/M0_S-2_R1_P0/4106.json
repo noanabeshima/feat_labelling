@@ -1,0 +1,5 @@
+{
+  "pattern": "( late| erupted| fired| disaster| tragedy)",
+  "pos_r_squared": 0.9986056685447693,
+  "r_squared": 0.9960404634475708
+}

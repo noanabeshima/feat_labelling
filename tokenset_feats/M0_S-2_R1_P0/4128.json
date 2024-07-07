@@ -1,0 +1,5 @@
+{
+  "pattern": "( Just| just|'m|They|On)",
+  "pos_r_squared": 0.9947126507759094,
+  "r_squared": 0.9947112798690796
+}

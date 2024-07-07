@@ -1,0 +1,5 @@
+{
+  "pattern": "( While|While| ger| After| while)",
+  "pos_r_squared": 0.9948106408119202,
+  "r_squared": 0.9942647814750671
+}

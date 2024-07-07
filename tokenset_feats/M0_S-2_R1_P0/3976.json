@@ -1,0 +1,5 @@
+{
+  "pattern": "( maze| witch|azes| surrounded| Poor)",
+  "pos_r_squared": 0.9986850619316101,
+  "r_squared": 0.998757004737854
+}

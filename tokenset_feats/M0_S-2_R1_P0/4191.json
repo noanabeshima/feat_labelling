@@ -1,0 +1,5 @@
+{
+  "pattern": "( math| like| homework| junk| Loop)",
+  "pos_r_squared": 0.9859573841094971,
+  "r_squared": 0.9863396286964417
+}

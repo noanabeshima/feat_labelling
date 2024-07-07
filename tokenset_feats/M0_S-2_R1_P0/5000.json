@@ -1,0 +1,5 @@
+{
+  "pattern": "( dictionary|anga| Dictionary|ictionary|ona)",
+  "pos_r_squared": 0.9975438117980957,
+  "r_squared": 0.9949555993080139
+}

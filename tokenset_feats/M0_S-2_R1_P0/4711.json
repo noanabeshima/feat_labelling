@@ -1,0 +1,5 @@
+{
+  "pattern": "( message| rays|Friends| whispers| deliver)",
+  "pos_r_squared": 0.9948323369026184,
+  "r_squared": 0.9949202537536621
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( spent| spend| spending| loved| remembers)",
+  "pos_r_squared": 0.9933090806007385,
+  "r_squared": 0.9935005903244019
+}

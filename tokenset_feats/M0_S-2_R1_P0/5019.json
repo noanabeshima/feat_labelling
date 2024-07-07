@@ -1,0 +1,5 @@
+{
+  "pattern": "( tooth| born|Found| Tooth| animal)",
+  "pos_r_squared": 0.9971548318862915,
+  "r_squared": 0.9972187280654907
+}

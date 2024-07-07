@@ -1,0 +1,5 @@
+{
+  "pattern": "( mosquito| rat| bakery| mosquitoes| Rat)",
+  "pos_r_squared": 0.9952508211135864,
+  "r_squared": 0.9939932227134705
+}

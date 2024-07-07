@@ -1,0 +1,5 @@
+{
+  "pattern": "( journey| content| journeys| quest| find)",
+  "pos_r_squared": 0.995854377746582,
+  "r_squared": 0.9974457621574402
+}

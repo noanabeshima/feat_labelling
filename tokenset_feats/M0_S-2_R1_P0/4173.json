@@ -1,0 +1,5 @@
+{
+  "pattern": "( sheet| colours| colour| everyday| coloured)",
+  "pos_r_squared": 0.9894766807556152,
+  "r_squared": 0.9892902970314026
+}

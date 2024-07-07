@@ -1,0 +1,5 @@
+{
+  "pattern": "( pan|ST| available|ins| Cur)",
+  "pos_r_squared": 0.9976357817649841,
+  "r_squared": 0.9961267113685608
+}

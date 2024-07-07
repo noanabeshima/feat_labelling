@@ -1,0 +1,5 @@
+{
+  "pattern": "( slipped| slips|After| though|Warning)",
+  "pos_r_squared": 0.9977761507034302,
+  "r_squared": 0.9974319338798523
+}

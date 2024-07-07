@@ -1,0 +1,5 @@
+{
+  "pattern": "( hello|hello| blues| exc|lost)",
+  "pos_r_squared": 0.9983924627304077,
+  "r_squared": 0.998131275177002
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( fearful|Say| fears| fearless)",
+  "pos_r_squared": 0.9984250664710999,
+  "r_squared": 0.9972509145736694
+}

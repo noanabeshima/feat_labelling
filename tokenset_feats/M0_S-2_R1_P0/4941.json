@@ -1,0 +1,5 @@
+{
+  "pattern": "( goal| score| farther| scored| three)",
+  "pos_r_squared": 0.9834863543510437,
+  "r_squared": 0.9829429388046265
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Stop| Stop| watch|Prin| exact)",
+  "pos_r_squared": 0.9960820078849792,
+  "r_squared": 0.989086925983429
+}

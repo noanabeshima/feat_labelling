@@ -1,0 +1,5 @@
+{
+  "pattern": "( afraid| terrified| wary| preferred| uneasy)",
+  "pos_r_squared": 0.9965255260467529,
+  "r_squared": 0.9966239929199219
+}

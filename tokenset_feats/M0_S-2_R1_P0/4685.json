@@ -1,0 +1,5 @@
+{
+  "pattern": "( screw| file| Mind| screws| bits)",
+  "pos_r_squared": 0.9885122776031494,
+  "r_squared": 0.988187849521637
+}

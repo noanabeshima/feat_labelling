@@ -1,0 +1,5 @@
+{
+  "pattern": "( wash|ush| washed|Hi)",
+  "pos_r_squared": 0.9981396198272705,
+  "r_squared": 0.9975431561470032
+}

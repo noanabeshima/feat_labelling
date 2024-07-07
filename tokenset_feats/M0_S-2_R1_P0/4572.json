@@ -1,0 +1,5 @@
+{
+  "pattern": "( raft| ourselves| teams| sled|eb)",
+  "pos_r_squared": 0.9961829781532288,
+  "r_squared": 0.9964325428009033
+}

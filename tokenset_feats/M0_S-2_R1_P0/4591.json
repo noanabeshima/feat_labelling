@@ -1,0 +1,5 @@
+{
+  "pattern": "( sailed| sailing|ST| soccer| conf)",
+  "pos_r_squared": 0.9983752369880676,
+  "r_squared": 0.9982549548149109
+}

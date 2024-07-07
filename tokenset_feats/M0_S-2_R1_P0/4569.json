@@ -1,0 +1,5 @@
+{
+  "pattern": "( judge| Judge|Zero| fault|isdom)",
+  "pos_r_squared": 0.9964839220046997,
+  "r_squared": 0.9935517907142639
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( question| request| requested| requests|ST)",
+  "pos_r_squared": 0.9977221488952637,
+  "r_squared": 0.9967370629310608
+}

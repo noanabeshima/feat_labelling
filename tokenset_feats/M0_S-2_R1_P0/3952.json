@@ -1,0 +1,5 @@
+{
+  "pattern": "( carrot| wal| apple|ipop| cookie)",
+  "pos_r_squared": 0.9924211502075195,
+  "r_squared": 0.9860334396362305
+}

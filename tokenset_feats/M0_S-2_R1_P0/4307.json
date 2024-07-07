@@ -1,0 +1,5 @@
+{
+  "pattern": "( interesting| fascinating| agreeing)",
+  "pos_r_squared": 0.9919262528419495,
+  "r_squared": 0.9879109859466553
+}

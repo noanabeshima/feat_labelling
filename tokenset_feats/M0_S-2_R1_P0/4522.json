@@ -1,0 +1,5 @@
+{
+  "pattern": "( horn|o| alarm| slammed| friend)",
+  "pos_r_squared": 0.9932968020439148,
+  "r_squared": 0.9945592284202576
+}

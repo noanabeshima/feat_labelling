@@ -1,0 +1,5 @@
+{
+  "pattern": "( painting|ishing| preparing| paintings| laying)",
+  "pos_r_squared": 0.9826210737228394,
+  "r_squared": 0.9821041226387024
+}

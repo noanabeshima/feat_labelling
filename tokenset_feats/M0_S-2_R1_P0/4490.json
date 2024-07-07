@@ -1,0 +1,5 @@
+{
+  "pattern": "( smiles|ir|ST| young| Love)",
+  "pos_r_squared": 0.9970088005065918,
+  "r_squared": 0.9980935454368591
+}

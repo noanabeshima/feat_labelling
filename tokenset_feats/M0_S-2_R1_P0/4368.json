@@ -1,0 +1,5 @@
+{
+  "pattern": "( glow| matters|rs|ST| except)",
+  "pos_r_squared": 0.9975935220718384,
+  "r_squared": 0.9961946606636047
+}

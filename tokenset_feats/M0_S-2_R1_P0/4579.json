@@ -1,0 +1,5 @@
+{
+  "pattern": "( marry| married| plus| ste| meet)",
+  "pos_r_squared": 0.9984420537948608,
+  "r_squared": 0.9985140562057495
+}

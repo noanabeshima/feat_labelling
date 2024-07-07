@@ -1,0 +1,4 @@
+{
+  "pattern": "( alert| cheerful| attention| startled| scared)",
+  "pos_r_squared": 0.9590659141540527
+}

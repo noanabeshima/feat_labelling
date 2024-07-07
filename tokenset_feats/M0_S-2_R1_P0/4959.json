@@ -1,0 +1,5 @@
+{
+  "pattern": "( screw| screws| bits|cases| supportive)",
+  "pos_r_squared": 0.9979292750358582,
+  "r_squared": 0.997894823551178
+}

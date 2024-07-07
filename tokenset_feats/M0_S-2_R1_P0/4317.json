@@ -1,0 +1,5 @@
+{
+  "pattern": "( dug| digs|lost| dad)",
+  "pos_r_squared": 0.9970802664756775,
+  "r_squared": 0.9986200928688049
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Every|Each| also|Whenever| Every)",
+  "pos_r_squared": 0.9976015090942383,
+  "r_squared": 0.9977250099182129
+}

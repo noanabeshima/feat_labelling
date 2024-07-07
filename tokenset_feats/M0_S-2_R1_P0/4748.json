@@ -1,0 +1,5 @@
+{
+  "pattern": "( Maybe| Only| fore|And| Mos)",
+  "pos_r_squared": 0.9963575601577759,
+  "r_squared": 0.9970880746841431
+}

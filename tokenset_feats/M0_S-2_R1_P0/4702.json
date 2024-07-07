@@ -1,0 +1,5 @@
+{
+  "pattern": "( tomorrow|Bad|Tomorrow| Tomorrow| gru)",
+  "pos_r_squared": 0.9982674717903137,
+  "r_squared": 0.9982040524482727
+}

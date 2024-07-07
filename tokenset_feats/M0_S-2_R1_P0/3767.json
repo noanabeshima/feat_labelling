@@ -1,0 +1,5 @@
+{
+  "pattern": "( thinks| eight|raid| think| thought)",
+  "pos_r_squared": 0.9931135773658752,
+  "r_squared": 0.9975691437721252
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( From| Around| known|Th| pretended)",
+  "pos_r_squared": 0.9975188374519348,
+  "r_squared": 0.9976154565811157
+}

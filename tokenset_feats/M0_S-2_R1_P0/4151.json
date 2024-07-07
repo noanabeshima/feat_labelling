@@ -1,0 +1,4 @@
+{
+  "pattern": "( move| talk| shake|Hello| change)",
+  "pos_r_squared": 0.23590326309204102
+}

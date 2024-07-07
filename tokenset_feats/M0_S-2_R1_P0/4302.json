@@ -1,0 +1,5 @@
+{
+  "pattern": "( matter|agg|Thanks| thanks| compared)",
+  "pos_r_squared": 0.9995221495628357,
+  "r_squared": 0.9993003606796265
+}

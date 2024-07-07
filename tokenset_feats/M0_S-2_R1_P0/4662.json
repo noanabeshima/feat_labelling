@@ -1,0 +1,5 @@
+{
+  "pattern": "( five| none|Not| These| 5)",
+  "pos_r_squared": 0.9843756556510925,
+  "r_squared": 0.9841562509536743
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( answered| answering| L| fore)",
+  "pos_r_squared": 0.9962640404701233,
+  "r_squared": 0.9969936609268188
+}

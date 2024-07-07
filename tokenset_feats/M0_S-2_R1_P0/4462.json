@@ -1,0 +1,5 @@
+{
+  "pattern": "( harbor| port| sailor| station| reef)",
+  "pos_r_squared": 0.9952686429023743,
+  "r_squared": 0.9951358437538147
+}

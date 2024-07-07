@@ -1,0 +1,5 @@
+{
+  "pattern": "( happening| doing| Mr| happen| freshly)",
+  "pos_r_squared": 0.99196857213974,
+  "r_squared": 0.9925152063369751
+}

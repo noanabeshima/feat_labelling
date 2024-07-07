@@ -1,0 +1,5 @@
+{
+  "pattern": "( lab| leader| Dr| scientist| Duke)",
+  "pos_r_squared": 0.9948840141296387,
+  "r_squared": 0.993940532207489
+}

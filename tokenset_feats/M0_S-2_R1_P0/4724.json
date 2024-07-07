@@ -1,0 +1,5 @@
+{
+  "pattern": "( forth| matters| mattered| available| ours)",
+  "pos_r_squared": 0.9983963966369629,
+  "r_squared": 0.9980675578117371
+}

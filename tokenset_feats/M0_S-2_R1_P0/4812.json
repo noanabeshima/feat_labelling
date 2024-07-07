@@ -1,0 +1,5 @@
+{
+  "pattern": "( o| N| babies| oats| stayed)",
+  "pos_r_squared": 0.9987258911132812,
+  "r_squared": 0.9990900754928589
+}

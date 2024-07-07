@@ -1,0 +1,5 @@
+{
+  "pattern": "( expensive| knives| afford|end| Ste)",
+  "pos_r_squared": 0.9970479011535645,
+  "r_squared": 0.9970769882202148
+}
