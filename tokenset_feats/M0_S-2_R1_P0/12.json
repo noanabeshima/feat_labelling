@@ -1,0 +1,5 @@
+{
+  "pattern": "(\\.| playing| to| toy| with)",
+  "pos_r_squared": 0.9984725117683411,
+  "r_squared": 0.33380675315856934
+}

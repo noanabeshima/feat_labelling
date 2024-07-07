@@ -1,0 +1,5 @@
+{
+  "pattern": "( there| upon| There| depend| bug)",
+  "pos_r_squared": 0.9937745928764343,
+  "r_squared": 0.9600875377655029
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( time|Once| upon| there| on)",
+  "pos_r_squared": 0.9973624348640442,
+  "r_squared": 0.9610350131988525
+}

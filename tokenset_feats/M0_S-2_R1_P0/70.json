@@ -1,0 +1,5 @@
+{
+  "pattern": "( went| goes| gone| asked| traveled)",
+  "pos_r_squared": 0.9988405704498291,
+  "r_squared": 0.9982365369796753
+}

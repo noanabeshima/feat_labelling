@@ -1,0 +1,5 @@
+{
+  "pattern": "(Once| upon|,| to| for)",
+  "pos_r_squared": 0.999812662601471,
+  "r_squared": 0.9974003434181213
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( wanted| wants| started|der| wanting)",
+  "pos_r_squared": 0.998441755771637,
+  "r_squared": 0.9986425042152405
+}

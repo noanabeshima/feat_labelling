@@ -1,0 +1,5 @@
+{
+  "pattern": "( They| they|They| and| each)",
+  "pos_r_squared": 0.9985847473144531,
+  "r_squared": 0.998333752155304
+}

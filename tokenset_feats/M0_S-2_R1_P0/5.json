@@ -1,0 +1,5 @@
+{
+  "pattern": "( the| to| The| her| some)",
+  "pos_r_squared": 0.998794674873352,
+  "r_squared": 0.9984498023986816
+}

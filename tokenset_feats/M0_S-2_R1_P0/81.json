@@ -1,0 +1,5 @@
+{
+  "pattern": "( bird| chicken| raven|rot| pigeon)",
+  "pos_r_squared": 0.9925718903541565,
+  "r_squared": 0.9924010038375854
+}

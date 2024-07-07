@@ -1,0 +1,5 @@
+{
+  "pattern": "( he| they| she|oy|she)",
+  "pos_r_squared": 0.9972584247589111,
+  "r_squared": 0.996894121170044
+}

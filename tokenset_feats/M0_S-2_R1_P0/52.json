@@ -1,0 +1,5 @@
+{
+  "pattern": "( had| has|Lu|'d| hadn)",
+  "pos_r_squared": 0.9989314079284668,
+  "r_squared": 0.995715320110321
+}

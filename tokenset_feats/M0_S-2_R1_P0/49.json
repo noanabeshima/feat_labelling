@@ -1,0 +1,5 @@
+{
+  "pattern": "( saw| spotted| unexpected| sees| asked)",
+  "pos_r_squared": 0.9988722205162048,
+  "r_squared": 0.9989641904830933
+}

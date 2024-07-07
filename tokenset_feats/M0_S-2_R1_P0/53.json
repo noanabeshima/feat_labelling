@@ -1,0 +1,5 @@
+{
+  "pattern": "( mom| Mom|Mom| mother| mum)",
+  "pos_r_squared": 0.9845850467681885,
+  "r_squared": 0.9844614267349243
+}

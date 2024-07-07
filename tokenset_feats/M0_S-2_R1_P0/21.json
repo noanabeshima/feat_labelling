@@ -1,0 +1,5 @@
+{
+  "pattern": "( it| It| indeed| creation| coming)",
+  "pos_r_squared": 0.9988043904304504,
+  "r_squared": 0.9990717172622681
+}

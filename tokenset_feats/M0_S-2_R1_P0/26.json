@@ -1,0 +1,5 @@
+{
+  "pattern": "( with| did| pupils| With| snake)",
+  "pos_r_squared": 0.9988346695899963,
+  "r_squared": 0.9982162117958069
+}

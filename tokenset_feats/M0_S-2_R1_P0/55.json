@@ -1,0 +1,5 @@
+{
+  "pattern": "( not|'t| cannot| useful| never)",
+  "pos_r_squared": 0.9932949542999268,
+  "r_squared": 0.9932283759117126
+}

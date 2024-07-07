@@ -1,0 +1,5 @@
+{
+  "pattern": "( day| park| together| days| say)",
+  "pos_r_squared": 0.9951311945915222,
+  "r_squared": 0.7986921668052673
+}

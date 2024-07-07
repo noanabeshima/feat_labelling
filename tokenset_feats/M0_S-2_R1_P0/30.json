@@ -1,0 +1,5 @@
+{
+  "pattern": "( big| grand| small| biggest|free)",
+  "pos_r_squared": 0.997647762298584,
+  "r_squared": 0.9969850778579712
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( and| or| very| shopping|and)",
+  "pos_r_squared": 0.9991812705993652,
+  "r_squared": 0.9980814456939697
+}

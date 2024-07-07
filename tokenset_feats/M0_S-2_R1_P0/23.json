@@ -1,0 +1,5 @@
+{
+  "pattern": "( in| on| to| with| pots)",
+  "pos_r_squared": 0.9987889528274536,
+  "r_squared": 0.9964047074317932
+}

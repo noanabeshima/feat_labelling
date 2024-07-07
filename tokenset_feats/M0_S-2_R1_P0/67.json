@@ -1,0 +1,5 @@
+{
+  "pattern": "( Tom|Tom| Tommy| Charlie| listening)",
+  "pos_r_squared": 0.9994757175445557,
+  "r_squared": 0.9991490840911865
+}
