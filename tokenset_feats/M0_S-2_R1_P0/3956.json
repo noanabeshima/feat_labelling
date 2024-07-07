@@ -1,0 +1,5 @@
+{
+  "pattern": "( rat| mice| Rat| cops| rats)",
+  "pos_r_squared": 0.994999349117279,
+  "r_squared": 0.9929684400558472
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( lock|Stay| grip| Wait| patience)",
+  "pos_r_squared": 0.9931491613388062,
+  "r_squared": 0.9903880953788757
+}

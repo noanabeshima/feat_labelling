@@ -1,0 +1,5 @@
+{
+  "pattern": "( stack| students| stacked| stacks| bully)",
+  "pos_r_squared": 0.9908231496810913,
+  "r_squared": 0.9908099174499512
+}

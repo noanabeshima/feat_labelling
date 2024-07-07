@@ -1,0 +1,5 @@
+{
+  "pattern": "( dropped| released| drops| displayed| drop)",
+  "pos_r_squared": 0.99614018201828,
+  "r_squared": 0.9961242079734802
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( hero| heroes| soldier)",
+  "pos_r_squared": 0.9978571534156799,
+  "r_squared": 0.9973611831665039
+}

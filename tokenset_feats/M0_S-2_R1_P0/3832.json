@@ -1,0 +1,5 @@
+{
+  "pattern": "( crazy| fed| mess| bye| celebrated)",
+  "pos_r_squared": 0.9957615733146667,
+  "r_squared": 0.9953537583351135
+}

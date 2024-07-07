@@ -1,0 +1,5 @@
+{
+  "pattern": "( free| freed)",
+  "pos_r_squared": 0.9986793994903564,
+  "r_squared": 0.9983172416687012
+}

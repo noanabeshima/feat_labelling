@@ -1,0 +1,5 @@
+{
+  "pattern": "( Bird|Bird| builders| spe|Prin)",
+  "pos_r_squared": 0.9962011575698853,
+  "r_squared": 0.9948883652687073
+}

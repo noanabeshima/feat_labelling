@@ -1,0 +1,5 @@
+{
+  "pattern": "( stage| table| showed| beam| theater)",
+  "pos_r_squared": 0.9952330589294434,
+  "r_squared": 0.9966768622398376
+}

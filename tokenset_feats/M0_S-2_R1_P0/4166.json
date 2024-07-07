@@ -1,0 +1,5 @@
+{
+  "pattern": "( mint| herbs| pens| cand| minerals)",
+  "pos_r_squared": 0.9864500761032104,
+  "r_squared": 0.986499011516571
+}

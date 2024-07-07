@@ -1,0 +1,5 @@
+{
+  "pattern": "(an| pupil|ans| pupils| student)",
+  "pos_r_squared": 0.9964901208877563,
+  "r_squared": 0.9942691922187805
+}

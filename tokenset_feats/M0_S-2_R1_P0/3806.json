@@ -1,0 +1,4 @@
+{
+  "pattern": "(Yes| agreed|No|Look| yes)",
+  "pos_r_squared": 0.2900347113609314
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( stable| shelter| network| collection| flags)",
+  "pos_r_squared": 0.9125531315803528
+}

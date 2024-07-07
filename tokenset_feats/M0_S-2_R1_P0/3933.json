@@ -1,0 +1,5 @@
+{
+  "pattern": "( map|Find| piece|que| rocks)",
+  "pos_r_squared": 0.9964602589607239,
+  "r_squared": 0.9954968690872192
+}

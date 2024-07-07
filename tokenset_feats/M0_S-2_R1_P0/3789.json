@@ -1,0 +1,4 @@
+{
+  "pattern": "( ambulance| baseball| automobile| trash| fresh)",
+  "pos_r_squared": 0.8359888792037964
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( motorcycle| comet| mattress| television| sunrise)",
+  "pos_r_squared": 0.9842944741249084,
+  "r_squared": 0.9833459258079529
+}

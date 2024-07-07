@@ -1,0 +1,4 @@
+{
+  "pattern": "( restaurant| shelter| shelves| customer| flavor)",
+  "pos_r_squared": 0.9470751881599426
+}

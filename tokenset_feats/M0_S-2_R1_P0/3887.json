@@ -1,0 +1,5 @@
+{
+  "pattern": "( rag| learnt| waste| tissue| radio)",
+  "pos_r_squared": 0.9961212873458862,
+  "r_squared": 0.9968385100364685
+}

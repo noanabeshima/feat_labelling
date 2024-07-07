@@ -1,0 +1,5 @@
+{
+  "pattern": "( drove| drives| aiming| plugged| drive)",
+  "pos_r_squared": 0.9978770017623901,
+  "r_squared": 0.9977548122406006
+}

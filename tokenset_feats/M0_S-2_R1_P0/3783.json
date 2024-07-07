@@ -1,0 +1,5 @@
+{
+  "pattern": "( guitar|ophone| guitars| soccer| violin)",
+  "pos_r_squared": 0.9982636570930481,
+  "r_squared": 0.9979217648506165
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( Z|\\[UNK\\]| Zoom|ll| O)",
+  "pos_r_squared": 0.03115779161453247
+}

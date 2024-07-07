@@ -1,0 +1,5 @@
+{
+  "pattern": "( shape| size| age| shaped| sizes)",
+  "pos_r_squared": 0.9849328994750977,
+  "r_squared": 0.9849051237106323
+}

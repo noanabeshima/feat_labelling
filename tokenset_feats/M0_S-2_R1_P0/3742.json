@@ -1,0 +1,5 @@
+{
+  "pattern": "( arrow| arrows| bullet| similar| Bobby)",
+  "pos_r_squared": 0.9967848658561707,
+  "r_squared": 0.9976826906204224
+}

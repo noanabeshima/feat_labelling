@@ -1,0 +1,5 @@
+{
+  "pattern": "( Po| Su|Ab| brace| Co)",
+  "pos_r_squared": 0.9932568073272705,
+  "r_squared": 0.9925311803817749
+}

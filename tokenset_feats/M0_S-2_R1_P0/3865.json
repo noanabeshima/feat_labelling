@@ -1,0 +1,5 @@
+{
+  "pattern": "( split| half| shrinking| numbered| increasing)",
+  "pos_r_squared": 0.9867334365844727,
+  "r_squared": 0.9869012832641602
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( carried| carries|Twe| por| take)",
+  "pos_r_squared": 0.9976173043251038,
+  "r_squared": 0.9986180663108826
+}

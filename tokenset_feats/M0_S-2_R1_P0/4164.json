@@ -1,0 +1,5 @@
+{
+  "pattern": "( pit| drain| cliff| rail| hawk)",
+  "pos_r_squared": 0.9891980290412903,
+  "r_squared": 0.9894419312477112
+}

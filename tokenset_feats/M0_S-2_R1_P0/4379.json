@@ -1,0 +1,5 @@
+{
+  "pattern": "( muff| slur| pizz| souven| gob)",
+  "pos_r_squared": 0.9988697171211243,
+  "r_squared": 0.9982262849807739
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Give| Give|Deal| Drop)",
+  "pos_r_squared": 0.9984840154647827,
+  "r_squared": 0.9984602332115173
+}

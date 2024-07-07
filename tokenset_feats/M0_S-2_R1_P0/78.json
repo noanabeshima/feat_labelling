@@ -1,0 +1,5 @@
+{
+  "pattern": "( It|It| puzzle| Its| its)",
+  "pos_r_squared": 0.9990004301071167,
+  "r_squared": 0.9988439679145813
+}

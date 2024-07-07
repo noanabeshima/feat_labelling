@@ -1,0 +1,5 @@
+{
+  "pattern": "( gloomy| cloudy| rainy| matters| gloom)",
+  "pos_r_squared": 0.9987933039665222,
+  "r_squared": 0.9981778860092163
+}

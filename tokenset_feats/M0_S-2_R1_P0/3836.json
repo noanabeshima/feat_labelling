@@ -1,0 +1,5 @@
+{
+  "pattern": "( write| writing| writer| mailing)",
+  "pos_r_squared": 0.9963057041168213,
+  "r_squared": 0.9863784909248352
+}

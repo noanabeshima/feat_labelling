@@ -1,0 +1,5 @@
+{
+  "pattern": "( sheet| sheets| ties| building| short)",
+  "pos_r_squared": 0.9969918727874756,
+  "r_squared": 0.9955551028251648
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( watched| says| messy|\\[UNK\\]| agreed)",
+  "pos_r_squared": 0.0010834336280822754
+}

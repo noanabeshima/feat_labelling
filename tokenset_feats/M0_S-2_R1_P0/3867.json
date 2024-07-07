@@ -1,0 +1,5 @@
+{
+  "pattern": "( mug|ugs|Mine|--|dog)",
+  "pos_r_squared": 0.997527539730072,
+  "r_squared": 0.9965662360191345
+}

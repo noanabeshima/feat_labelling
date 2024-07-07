@@ -1,0 +1,5 @@
+{
+  "pattern": "( tri| sne|Park|O|ST)",
+  "pos_r_squared": 0.9992837309837341,
+  "r_squared": 0.9993840456008911
+}

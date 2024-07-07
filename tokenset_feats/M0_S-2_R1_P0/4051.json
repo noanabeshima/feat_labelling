@@ -1,0 +1,4 @@
+{
+  "pattern": "( order| ordered| pump| rows| delivered)",
+  "pos_r_squared": 0.9673622250556946
+}

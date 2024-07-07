@@ -1,0 +1,5 @@
+{
+  "pattern": "( offered| offer| handing| offering| willing)",
+  "pos_r_squared": 0.9922381043434143,
+  "r_squared": 0.9926435947418213
+}

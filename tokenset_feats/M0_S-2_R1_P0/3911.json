@@ -1,0 +1,5 @@
+{
+  "pattern": "( blinked| forward| blink| blinking| reversed)",
+  "pos_r_squared": 0.9933872222900391,
+  "r_squared": 0.993509829044342
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( serious| checkout| alley|Park| register)",
+  "pos_r_squared": 0.9986181855201721,
+  "r_squared": 0.9985916018486023
+}

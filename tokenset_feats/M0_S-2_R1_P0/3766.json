@@ -1,0 +1,5 @@
+{
+  "pattern": "( locked| trapped| frozen| dragged| cost)",
+  "pos_r_squared": 0.987758219242096,
+  "r_squared": 0.9878271818161011
+}

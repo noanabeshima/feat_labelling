@@ -1,0 +1,5 @@
+{
+  "pattern": "( golf| chess| cheated|hog| scoring)",
+  "pos_r_squared": 0.9964470863342285,
+  "r_squared": 0.9931646585464478
+}

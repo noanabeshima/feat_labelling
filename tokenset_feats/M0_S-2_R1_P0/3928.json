@@ -1,0 +1,5 @@
+{
+  "pattern": "(el|els| Mind| pret| don)",
+  "pos_r_squared": 0.9904014468193054,
+  "r_squared": 0.9925775527954102
+}

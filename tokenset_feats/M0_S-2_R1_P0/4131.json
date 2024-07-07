@@ -1,0 +1,5 @@
+{
+  "pattern": "( rod| tails| rods|Using)",
+  "pos_r_squared": 0.9987537264823914,
+  "r_squared": 0.998263955116272
+}

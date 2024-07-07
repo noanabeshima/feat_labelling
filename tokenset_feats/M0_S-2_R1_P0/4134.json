@@ -1,0 +1,5 @@
+{
+  "pattern": "( exploring| explored| wandering| visiting| everyday)",
+  "pos_r_squared": 0.9952609539031982,
+  "r_squared": 0.9948891401290894
+}

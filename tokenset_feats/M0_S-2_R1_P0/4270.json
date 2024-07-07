@@ -1,0 +1,5 @@
+{
+  "pattern": "( questions| fears| closely| seeds| mysteries)",
+  "pos_r_squared": 0.9990345239639282,
+  "r_squared": 0.998898983001709
+}

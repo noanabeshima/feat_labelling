@@ -1,0 +1,5 @@
+{
+  "pattern": "( finish| finishing| real|Eat| un)",
+  "pos_r_squared": 0.9978322386741638,
+  "r_squared": 0.9979172348976135
+}

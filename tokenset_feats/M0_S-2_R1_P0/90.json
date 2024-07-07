@@ -1,0 +1,5 @@
+{
+  "pattern": "( loved| love| liked| loves| applauded)",
+  "pos_r_squared": 0.9987154006958008,
+  "r_squared": 0.997667133808136
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( happy| happily| glad| cheerful| relieved)",
+  "pos_r_squared": 0.9938343167304993,
+  "r_squared": 0.993732750415802
+}

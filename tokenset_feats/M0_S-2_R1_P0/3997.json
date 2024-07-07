@@ -1,0 +1,5 @@
+{
+  "pattern": "( half| replace| replaced|Instead| swap)",
+  "pos_r_squared": 0.99679034948349,
+  "r_squared": 0.9967756867408752
+}

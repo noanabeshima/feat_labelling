@@ -1,0 +1,5 @@
+{
+  "pattern": "( hold|Hold| Hold|Rock|Grab)",
+  "pos_r_squared": 0.9965618252754211,
+  "r_squared": 0.9965139627456665
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( photo| photos| writes| castles| part)",
+  "pos_r_squared": 0.9978458881378174,
+  "r_squared": 0.9980677962303162
+}

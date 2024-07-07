@@ -1,0 +1,5 @@
+{
+  "pattern": "( lights| glasses| lear|dis| fire)",
+  "pos_r_squared": 0.9986101984977722,
+  "r_squared": 0.9990408420562744
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( spaghetti| steak| sausage|ages|aks)",
+  "pos_r_squared": 0.9955917596817017,
+  "r_squared": 0.9941378235816956
+}

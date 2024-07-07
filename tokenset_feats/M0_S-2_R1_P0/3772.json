@@ -1,0 +1,5 @@
+{
+  "pattern": "( hall| chamber| valley| hallway| waterfall)",
+  "pos_r_squared": 0.9898443818092346,
+  "r_squared": 0.9895797967910767
+}

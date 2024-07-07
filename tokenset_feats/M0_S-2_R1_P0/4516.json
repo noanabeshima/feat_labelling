@@ -1,0 +1,4 @@
+{
+  "pattern": "( trade| traded| switched| chatting| bob)",
+  "pos_r_squared": 0.9757037162780762
+}

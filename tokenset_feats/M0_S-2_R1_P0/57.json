@@ -1,0 +1,5 @@
+{
+  "pattern": "('s|'| together| burying| garbage)",
+  "pos_r_squared": 0.9958734512329102,
+  "r_squared": 0.9985817074775696
+}

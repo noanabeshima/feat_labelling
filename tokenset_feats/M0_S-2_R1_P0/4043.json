@@ -1,0 +1,5 @@
+{
+  "pattern": "( travel| traveled| travelled| travelling| travels)",
+  "pos_r_squared": 0.9816028475761414,
+  "r_squared": 0.9813120365142822
+}

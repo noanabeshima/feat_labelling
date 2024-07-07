@@ -1,0 +1,5 @@
+{
+  "pattern": "( friends| friend| neighbors|Fine| meet)",
+  "pos_r_squared": 0.9976183772087097,
+  "r_squared": 0.9983587265014648
+}

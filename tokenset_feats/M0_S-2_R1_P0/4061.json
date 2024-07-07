@@ -1,0 +1,5 @@
+{
+  "pattern": "( attic| junk| dusty| basement| Sundays)",
+  "pos_r_squared": 0.9966659545898438,
+  "r_squared": 0.9963777661323547
+}

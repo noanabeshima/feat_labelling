@@ -1,0 +1,5 @@
+{
+  "pattern": "( refused| welcomed| refuse| delivered| hesitant)",
+  "pos_r_squared": 0.9825112223625183,
+  "r_squared": 0.9825212359428406
+}

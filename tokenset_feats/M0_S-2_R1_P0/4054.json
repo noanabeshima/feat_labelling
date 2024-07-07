@@ -1,0 +1,5 @@
+{
+  "pattern": "(O| Zig| mis| Ash| sl)",
+  "pos_r_squared": 0.9914389252662659,
+  "r_squared": 0.9912939667701721
+}

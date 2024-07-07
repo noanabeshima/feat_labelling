@@ -1,0 +1,5 @@
+{
+  "pattern": "( yarn| wool|Snow|Like| knit)",
+  "pos_r_squared": 0.9975857734680176,
+  "r_squared": 0.9957621097564697
+}

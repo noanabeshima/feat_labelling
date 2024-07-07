@@ -1,0 +1,4 @@
+{
+  "pattern": "( remove| pick| blocking| removed| cleaned)",
+  "pos_r_squared": 0.953821063041687
+}

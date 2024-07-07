@@ -1,0 +1,5 @@
+{
+  "pattern": "( loop| loops|Bon|look| por)",
+  "pos_r_squared": 0.9984487295150757,
+  "r_squared": 0.9976286888122559
+}

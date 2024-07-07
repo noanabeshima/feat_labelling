@@ -1,0 +1,5 @@
+{
+  "pattern": "( yarn|me|ine|Miss| cables)",
+  "pos_r_squared": 0.9949688911437988,
+  "r_squared": 0.9933803677558899
+}

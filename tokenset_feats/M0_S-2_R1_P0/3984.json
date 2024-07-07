@@ -1,0 +1,5 @@
+{
+  "pattern": "( balance| walk| balancing| farther| balanced)",
+  "pos_r_squared": 0.9929512739181519,
+  "r_squared": 0.9933900833129883
+}

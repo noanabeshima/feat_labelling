@@ -1,0 +1,5 @@
+{
+  "pattern": "( mel| novel| pige|obb| films)",
+  "pos_r_squared": 0.9884262681007385,
+  "r_squared": 0.9888565540313721
+}

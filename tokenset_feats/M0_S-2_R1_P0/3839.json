@@ -1,0 +1,5 @@
+{
+  "pattern": "( computer| computers| desk| F| pe)",
+  "pos_r_squared": 0.9966707825660706,
+  "r_squared": 0.9986481070518494
+}

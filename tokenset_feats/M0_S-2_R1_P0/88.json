@@ -1,0 +1,5 @@
+{
+  "pattern": "( up| out| kn|Spe| interested)",
+  "pos_r_squared": 0.9988628029823303,
+  "r_squared": 0.9992130994796753
+}

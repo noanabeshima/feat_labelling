@@ -1,0 +1,5 @@
+{
+  "pattern": "( bottom| base| heroes| Down| pad)",
+  "pos_r_squared": 0.9989736676216125,
+  "r_squared": 0.9988192319869995
+}

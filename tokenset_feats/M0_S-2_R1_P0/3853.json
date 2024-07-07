@@ -1,0 +1,5 @@
+{
+  "pattern": "( allowed| permit| allow| permitted| buys)",
+  "pos_r_squared": 0.9969266653060913,
+  "r_squared": 0.9968643188476562
+}

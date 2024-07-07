@@ -1,0 +1,5 @@
+{
+  "pattern": "( meal| meals| guests| feast|uddled)",
+  "pos_r_squared": 0.9986890554428101,
+  "r_squared": 0.9984230995178223
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Before| Before| checks| checked| prevent)",
+  "pos_r_squared": 0.9979437589645386,
+  "r_squared": 0.9978271126747131
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( corn| flags| buying| pineapple| threatening)",
+  "pos_r_squared": 0.9982101321220398,
+  "r_squared": 0.9979385137557983
+}

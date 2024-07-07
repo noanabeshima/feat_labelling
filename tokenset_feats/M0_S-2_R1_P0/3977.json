@@ -1,0 +1,5 @@
+{
+  "pattern": "( group| groups| blocking| team| else)",
+  "pos_r_squared": 0.9982990622520447,
+  "r_squared": 0.9974629282951355
+}
