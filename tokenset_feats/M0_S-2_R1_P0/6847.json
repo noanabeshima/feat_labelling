@@ -1,0 +1,5 @@
+{
+  "pattern": "( boun| Next|Thanks| thanks| Until)",
+  "pos_r_squared": 0.9924963712692261,
+  "r_squared": 0.9921456575393677
+}

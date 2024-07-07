@@ -1,0 +1,5 @@
+{
+  "pattern": "( climbing| diving| map|lim| examining)",
+  "pos_r_squared": 0.9895910620689392,
+  "r_squared": 0.9894943237304688
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( received| receive| tant| fell| spe)",
+  "pos_r_squared": 0.9897685050964355,
+  "r_squared": 0.9918647408485413
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( further|\\.'| farther|Warning|Tyler)",
+  "pos_r_squared": 0.9943453073501587,
+  "r_squared": 0.9947424530982971
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( rug| carpet| blanket| plate| rag)",
+  "pos_r_squared": 0.9985365867614746,
+  "r_squared": 0.9984819293022156
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( grocery|Tyler|ol| building| Mary)",
+  "pos_r_squared": 0.9957841038703918,
+  "r_squared": 0.995735228061676
+}

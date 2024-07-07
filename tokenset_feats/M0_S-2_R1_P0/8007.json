@@ -1,0 +1,5 @@
+{
+  "pattern": "( seeker|suit|suits| jumper| team)",
+  "pos_r_squared": 0.9922246336936951,
+  "r_squared": 0.9917018413543701
+}

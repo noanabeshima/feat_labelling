@@ -1,0 +1,5 @@
+{
+  "pattern": "( release| released| freed| releasing| attracted)",
+  "pos_r_squared": 0.983481764793396,
+  "r_squared": 0.9834166169166565
+}

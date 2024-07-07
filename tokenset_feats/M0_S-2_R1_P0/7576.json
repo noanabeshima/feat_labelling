@@ -1,0 +1,5 @@
+{
+  "pattern": "( draws| drew| draw| finds| Now)",
+  "pos_r_squared": 0.989213228225708,
+  "r_squared": 0.9901164770126343
+}

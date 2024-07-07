@@ -1,0 +1,5 @@
+{
+  "pattern": "( spent| explored| spend| means| gr)",
+  "pos_r_squared": 0.9974517226219177,
+  "r_squared": 0.9978443384170532
+}

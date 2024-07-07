@@ -1,0 +1,5 @@
+{
+  "pattern": "( player| scientist| lit|F| players)",
+  "pos_r_squared": 0.9986829161643982,
+  "r_squared": 0.997672975063324
+}

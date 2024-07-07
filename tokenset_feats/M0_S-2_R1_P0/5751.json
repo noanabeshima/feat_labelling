@@ -1,0 +1,5 @@
+{
+  "pattern": "( during|Under|For| For| During)",
+  "pos_r_squared": 0.9979339838027954,
+  "r_squared": 0.9961653351783752
+}

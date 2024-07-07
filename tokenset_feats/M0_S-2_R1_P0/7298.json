@@ -1,0 +1,5 @@
+{
+  "pattern": "( lecture| teaching| feeding| serving| lectures)",
+  "pos_r_squared": 0.9915769100189209,
+  "r_squared": 0.9905362129211426
+}

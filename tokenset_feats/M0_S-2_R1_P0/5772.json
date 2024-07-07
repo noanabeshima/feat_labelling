@@ -1,0 +1,5 @@
+{
+  "pattern": "( attach| attached| introduced| glued| attaching)",
+  "pos_r_squared": 0.9940256476402283,
+  "r_squared": 0.9925199151039124
+}

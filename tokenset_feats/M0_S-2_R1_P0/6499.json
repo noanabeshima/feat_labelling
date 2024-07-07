@@ -1,0 +1,5 @@
+{
+  "pattern": "( bags| stuff| groceries| hi| camping)",
+  "pos_r_squared": 0.9955875277519226,
+  "r_squared": 0.9941751956939697
+}

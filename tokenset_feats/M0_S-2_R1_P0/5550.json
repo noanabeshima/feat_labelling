@@ -1,0 +1,5 @@
+{
+  "pattern": "( trail| beam| hunters| sparks| airplanes)",
+  "pos_r_squared": 0.9922724366188049,
+  "r_squared": 0.9916941523551941
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( saved| rescued| saving| must| unf)",
+  "pos_r_squared": 0.997945249080658,
+  "r_squared": 0.9979321956634521
+}

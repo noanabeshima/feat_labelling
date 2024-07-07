@@ -1,0 +1,5 @@
+{
+  "pattern": "(iflower|\\n| nearby|ST| inspect)",
+  "pos_r_squared": 0.9933745265007019,
+  "r_squared": 0.9797487854957581
+}

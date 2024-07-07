@@ -1,0 +1,5 @@
+{
+  "pattern": "( pulls| pulled| pull| pulling|Pull)",
+  "pos_r_squared": 0.9941999912261963,
+  "r_squared": 0.9963024854660034
+}

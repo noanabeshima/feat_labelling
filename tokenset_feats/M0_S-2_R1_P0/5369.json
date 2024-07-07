@@ -1,0 +1,5 @@
+{
+  "pattern": "( often| rarely| Tues| spe| sometime)",
+  "pos_r_squared": 0.9973440766334534,
+  "r_squared": 0.9959220886230469
+}

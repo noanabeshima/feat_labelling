@@ -1,0 +1,5 @@
+{
+  "pattern": "( re| por|Bad| plugged| fore)",
+  "pos_r_squared": 0.9990580081939697,
+  "r_squared": 0.9982461929321289
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( potato| beef| potatoes| worn| costs)",
+  "pos_r_squared": 0.9931351542472839,
+  "r_squared": 0.9930310845375061
+}

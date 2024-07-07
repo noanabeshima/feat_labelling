@@ -1,0 +1,5 @@
+{
+  "pattern": "( presents| gifts| toys|zy| apologised)",
+  "pos_r_squared": 0.9837980270385742,
+  "r_squared": 0.9880288243293762
+}

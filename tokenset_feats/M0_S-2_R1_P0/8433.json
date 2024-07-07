@@ -1,0 +1,5 @@
+{
+  "pattern": "( tonight|Tonight| Tonight)",
+  "pos_r_squared": 0.9951955080032349,
+  "r_squared": 0.9777211546897888
+}

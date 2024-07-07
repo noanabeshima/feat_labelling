@@ -1,0 +1,5 @@
+{
+  "pattern": "( alert|ab| toys|ocular|In)",
+  "pos_r_squared": 0.9989528656005859,
+  "r_squared": 0.9987179636955261
+}

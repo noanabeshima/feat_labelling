@@ -1,0 +1,5 @@
+{
+  "pattern": "( restaurant| meals| cafe|sets|Without)",
+  "pos_r_squared": 0.9957779049873352,
+  "r_squared": 0.9926931262016296
+}

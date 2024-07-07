@@ -1,0 +1,5 @@
+{
+  "pattern": "( tour| tours| maps| aboard|Tomorrow)",
+  "pos_r_squared": 0.9857832193374634,
+  "r_squared": 0.9852228760719299
+}

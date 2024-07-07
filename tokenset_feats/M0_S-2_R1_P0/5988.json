@@ -1,0 +1,5 @@
+{
+  "pattern": "( shore| safety| emergencies| light| tragedy)",
+  "pos_r_squared": 0.9951047301292419,
+  "r_squared": 0.9894992709159851
+}

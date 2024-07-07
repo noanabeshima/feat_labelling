@@ -1,0 +1,5 @@
+{
+  "pattern": "( spots| space| pictures| dots| named)",
+  "pos_r_squared": 0.9982737302780151,
+  "r_squared": 0.9975892901420593
+}

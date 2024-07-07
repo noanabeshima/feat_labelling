@@ -1,0 +1,5 @@
+{
+  "pattern": "( exclaimed| gasped| widened|ivering| bare)",
+  "pos_r_squared": 0.9949427843093872,
+  "r_squared": 0.9950295686721802
+}

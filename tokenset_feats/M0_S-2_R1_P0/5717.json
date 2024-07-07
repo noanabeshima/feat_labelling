@@ -1,0 +1,5 @@
+{
+  "pattern": "( suffer| suffering| tremb| gained| suffered)",
+  "pos_r_squared": 0.9975813627243042,
+  "r_squared": 0.9972888231277466
+}

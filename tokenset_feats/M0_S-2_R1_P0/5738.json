@@ -1,0 +1,5 @@
+{
+  "pattern": "( float| fly| Hanna|'d| floated)",
+  "pos_r_squared": 0.9982926845550537,
+  "r_squared": 0.9964233040809631
+}

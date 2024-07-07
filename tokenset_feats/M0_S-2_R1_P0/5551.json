@@ -1,0 +1,5 @@
+{
+  "pattern": "( create| created| creating|Prin|THE)",
+  "pos_r_squared": 0.9959011673927307,
+  "r_squared": 0.9948117136955261
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( opinion|board| opinions| date|book)",
+  "pos_r_squared": 0.9970123171806335,
+  "r_squared": 0.9965540170669556
+}

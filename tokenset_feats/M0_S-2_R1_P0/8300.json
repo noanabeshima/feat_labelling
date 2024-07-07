@@ -1,0 +1,5 @@
+{
+  "pattern": "( lines| squares| square| shapes| stripes)",
+  "pos_r_squared": 0.9818270802497864,
+  "r_squared": 0.9841250777244568
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( mistakes| towers| feel| happens| earthquakes)",
+  "pos_r_squared": 0.9964410662651062,
+  "r_squared": 0.998590350151062
+}

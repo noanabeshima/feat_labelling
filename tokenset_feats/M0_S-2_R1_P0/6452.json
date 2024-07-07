@@ -1,0 +1,4 @@
+{
+  "pattern": "( winner| owned| ours| must| yesterday)",
+  "pos_r_squared": 0.8944045901298523
+}

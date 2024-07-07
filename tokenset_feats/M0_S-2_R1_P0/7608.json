@@ -1,0 +1,5 @@
+{
+  "pattern": "( operation| exercises| doctor| equipment| Mos)",
+  "pos_r_squared": 0.9927659034729004,
+  "r_squared": 0.9928458333015442
+}

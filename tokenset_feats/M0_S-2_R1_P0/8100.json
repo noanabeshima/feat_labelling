@@ -1,0 +1,5 @@
+{
+  "pattern": "( disagreed|At| disagree| asks| yes)",
+  "pos_r_squared": 0.9938541054725647,
+  "r_squared": 0.9915734529495239
+}

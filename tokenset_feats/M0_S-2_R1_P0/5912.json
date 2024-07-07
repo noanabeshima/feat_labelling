@@ -1,0 +1,5 @@
+{
+  "pattern": "( handed| handing| gave| Here| dropped)",
+  "pos_r_squared": 0.9946480989456177,
+  "r_squared": 0.9974913597106934
+}

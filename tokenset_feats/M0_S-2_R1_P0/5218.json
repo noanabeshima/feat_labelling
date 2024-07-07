@@ -1,0 +1,5 @@
+{
+  "pattern": "( complain| struggle| struggled| complained| complaining)",
+  "pos_r_squared": 0.9882193803787231,
+  "r_squared": 0.9880524277687073
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( ignore|Da| refuse| park|With)",
+  "pos_r_squared": 0.9921473860740662,
+  "r_squared": 0.9954988956451416
+}

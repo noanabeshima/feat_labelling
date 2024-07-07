@@ -1,0 +1,5 @@
+{
+  "pattern": "( remain| stay| remained| stayed| reliable)",
+  "pos_r_squared": 0.9867114424705505,
+  "r_squared": 0.988759458065033
+}

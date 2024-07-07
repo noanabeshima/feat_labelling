@@ -1,0 +1,5 @@
+{
+  "pattern": "( jokes| another| And| robbers| sly)",
+  "pos_r_squared": 0.9930905103683472,
+  "r_squared": 0.9939579963684082
+}

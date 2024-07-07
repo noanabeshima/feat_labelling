@@ -1,0 +1,5 @@
+{
+  "pattern": "( awake| wakes| arrives| waking| enters)",
+  "pos_r_squared": 0.9953842759132385,
+  "r_squared": 0.978723406791687
+}

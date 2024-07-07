@@ -1,0 +1,5 @@
+{
+  "pattern": "( area| gap| pool| eat|looking)",
+  "pos_r_squared": 0.9929029941558838,
+  "r_squared": 0.9973825216293335
+}

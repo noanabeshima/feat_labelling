@@ -1,0 +1,5 @@
+{
+  "pattern": "( owners| neighbours|ople| parents| neighbour)",
+  "pos_r_squared": 0.9956366419792175,
+  "r_squared": 0.9941045641899109
+}

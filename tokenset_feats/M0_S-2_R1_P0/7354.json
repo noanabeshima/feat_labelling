@@ -1,0 +1,5 @@
+{
+  "pattern": "( advice| food| warnings|\\.'| hero)",
+  "pos_r_squared": 0.9864107370376587,
+  "r_squared": 0.986970841884613
+}

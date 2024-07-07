@@ -1,0 +1,5 @@
+{
+  "pattern": "(keeper| keeper| seller| clerk|ter)",
+  "pos_r_squared": 0.9980511665344238,
+  "r_squared": 0.9980695247650146
+}

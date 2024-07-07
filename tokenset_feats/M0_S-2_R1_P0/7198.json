@@ -1,0 +1,5 @@
+{
+  "pattern": "(Ready| Ready|Deal| realized|Joy)",
+  "pos_r_squared": 0.9958566427230835,
+  "r_squared": 0.9962286949157715
+}

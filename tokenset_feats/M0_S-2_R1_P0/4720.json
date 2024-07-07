@@ -1,0 +1,5 @@
+{
+  "pattern": "( pepper| peppers| the| followed| pret)",
+  "pos_r_squared": 0.9955668449401855,
+  "r_squared": 0.9919147491455078
+}

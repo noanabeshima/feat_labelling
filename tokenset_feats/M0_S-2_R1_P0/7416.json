@@ -1,0 +1,5 @@
+{
+  "pattern": "( fishing| camping| hunting| workshop| builders)",
+  "pos_r_squared": 0.9959784150123596,
+  "r_squared": 0.9948859810829163
+}

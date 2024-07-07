@@ -1,0 +1,5 @@
+{
+  "pattern": "( dishes|Warning| my|La| starts)",
+  "pos_r_squared": 0.9916237592697144,
+  "r_squared": 0.9900263547897339
+}

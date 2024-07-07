@@ -1,0 +1,5 @@
+{
+  "pattern": "( ahead| try| thing)",
+  "pos_r_squared": 0.9932802319526672,
+  "r_squared": 0.9924941658973694
+}

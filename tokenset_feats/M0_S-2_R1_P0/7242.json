@@ -1,0 +1,5 @@
+{
+  "pattern": "( acted|place| SPL| \\()",
+  "pos_r_squared": 0.9959658980369568,
+  "r_squared": 0.9633861780166626
+}

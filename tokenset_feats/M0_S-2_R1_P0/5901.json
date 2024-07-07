@@ -1,0 +1,5 @@
+{
+  "pattern": "( missile| finds| missiles| bomb| builders)",
+  "pos_r_squared": 0.9903839230537415,
+  "r_squared": 0.9885790944099426
+}

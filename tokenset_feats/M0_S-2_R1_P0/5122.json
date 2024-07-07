@@ -1,0 +1,5 @@
+{
+  "pattern": "(lf| tours| Gru| tour|Bon)",
+  "pos_r_squared": 0.9973123073577881,
+  "r_squared": 0.9942124485969543
+}

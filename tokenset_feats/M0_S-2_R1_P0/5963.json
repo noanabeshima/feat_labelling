@@ -1,0 +1,5 @@
+{
+  "pattern": "( forget| forgot|ets| forgetting| Looking)",
+  "pos_r_squared": 0.9940215349197388,
+  "r_squared": 0.9937704801559448
+}

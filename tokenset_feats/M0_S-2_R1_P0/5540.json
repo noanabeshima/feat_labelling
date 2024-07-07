@@ -1,0 +1,5 @@
+{
+  "pattern": "( Smith| pol|anny| Jones|gly)",
+  "pos_r_squared": 0.9935422539710999,
+  "r_squared": 0.9919458627700806
+}

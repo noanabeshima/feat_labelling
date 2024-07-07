@@ -1,0 +1,5 @@
+{
+  "pattern": "( mall| shops|cast| stores| magnet)",
+  "pos_r_squared": 0.997880756855011,
+  "r_squared": 0.9963993430137634
+}

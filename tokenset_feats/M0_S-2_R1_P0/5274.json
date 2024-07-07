@@ -1,0 +1,5 @@
+{
+  "pattern": "( add| adding|On| the|Miss)",
+  "pos_r_squared": 0.9812026619911194,
+  "r_squared": 0.9933372139930725
+}

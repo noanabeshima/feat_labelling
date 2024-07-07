@@ -1,0 +1,5 @@
+{
+  "pattern": "(Have| have| Spe| sock|ally)",
+  "pos_r_squared": 0.991647481918335,
+  "r_squared": 0.9925615787506104
+}

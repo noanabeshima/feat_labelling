@@ -1,0 +1,5 @@
+{
+  "pattern": "( learning|board| ancient| supposed| learn)",
+  "pos_r_squared": 0.992890477180481,
+  "r_squared": 0.9920422434806824
+}

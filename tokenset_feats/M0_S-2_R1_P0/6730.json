@@ -1,0 +1,5 @@
+{
+  "pattern": "( trusted| counts| trust| gained| lowered)",
+  "pos_r_squared": 0.988498866558075,
+  "r_squared": 0.9876777529716492
+}

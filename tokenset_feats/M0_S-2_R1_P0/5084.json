@@ -1,0 +1,5 @@
+{
+  "pattern": "( though| Because| however| a| birds)",
+  "pos_r_squared": 0.9861260056495667,
+  "r_squared": 0.9854378700256348
+}

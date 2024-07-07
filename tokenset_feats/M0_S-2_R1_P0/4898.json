@@ -1,0 +1,5 @@
+{
+  "pattern": "( strawberry| vegetable| Ally| Amen|Am)",
+  "pos_r_squared": 0.9966582655906677,
+  "r_squared": 0.9964333772659302
+}

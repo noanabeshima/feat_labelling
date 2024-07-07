@@ -1,0 +1,5 @@
+{
+  "pattern": "( encourage| encouraged| encouraging| applauded| tested)",
+  "pos_r_squared": 0.9933819770812988,
+  "r_squared": 0.991906464099884
+}

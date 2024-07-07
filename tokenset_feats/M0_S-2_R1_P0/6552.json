@@ -1,0 +1,5 @@
+{
+  "pattern": "( shed| X| ham| cast| peeled)",
+  "pos_r_squared": 0.9920750856399536,
+  "r_squared": 0.9919989705085754
+}

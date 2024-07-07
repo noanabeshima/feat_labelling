@@ -1,0 +1,5 @@
+{
+  "pattern": "( model|ST|arrow| stub| Ve)",
+  "pos_r_squared": 0.9956837892532349,
+  "r_squared": 0.9948358535766602
+}

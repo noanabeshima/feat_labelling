@@ -1,0 +1,4 @@
+{
+  "pattern": "( spilled| spill| print| spilling| dripping)",
+  "pos_r_squared": 0.9712817668914795
+}

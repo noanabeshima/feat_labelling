@@ -1,0 +1,5 @@
+{
+  "pattern": "( nervous| Mos| freshly|\\n)",
+  "pos_r_squared": 0.9882035255432129,
+  "r_squared": 0.9887099862098694
+}

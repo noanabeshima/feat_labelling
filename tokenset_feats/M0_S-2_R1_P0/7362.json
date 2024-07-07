@@ -1,0 +1,5 @@
+{
+  "pattern": "(Time| Time| People|People| Park)",
+  "pos_r_squared": 0.99574875831604,
+  "r_squared": 0.9905211329460144
+}

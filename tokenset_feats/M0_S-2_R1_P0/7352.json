@@ -1,0 +1,5 @@
+{
+  "pattern": "( neighborhood| neighbors|Tyler| town| artist)",
+  "pos_r_squared": 0.9967257976531982,
+  "r_squared": 0.9939175248146057
+}

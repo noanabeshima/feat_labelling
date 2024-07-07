@@ -1,0 +1,5 @@
+{
+  "pattern": "( press| pressed| pressing| lean| presses)",
+  "pos_r_squared": 0.9944534301757812,
+  "r_squared": 0.9950143098831177
+}

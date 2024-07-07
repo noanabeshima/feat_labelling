@@ -1,0 +1,5 @@
+{
+  "pattern": "( cand|Bet| slur| ste| opportunities)",
+  "pos_r_squared": 0.9940009117126465,
+  "r_squared": 0.9878829717636108
+}

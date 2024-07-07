@@ -1,0 +1,5 @@
+{
+  "pattern": "( nods| agrees| aside| nodding| agreeing)",
+  "pos_r_squared": 0.9984797835350037,
+  "r_squared": 0.9981290698051453
+}

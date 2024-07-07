@@ -1,0 +1,5 @@
+{
+  "pattern": "(amas| backed|suits| cheeks| tomorrow)",
+  "pos_r_squared": 0.9983737468719482,
+  "r_squared": 0.9954774379730225
+}

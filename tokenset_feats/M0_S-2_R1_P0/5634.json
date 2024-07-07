@@ -1,0 +1,5 @@
+{
+  "pattern": "( using| uses| have| used| pret)",
+  "pos_r_squared": 0.9903977513313293,
+  "r_squared": 0.9907783269882202
+}

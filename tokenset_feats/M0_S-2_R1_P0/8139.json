@@ -1,0 +1,5 @@
+{
+  "pattern": "( cartoons| matters| shortcut| sale| characters)",
+  "pos_r_squared": 0.9926252365112305,
+  "r_squared": 0.9892243146896362
+}

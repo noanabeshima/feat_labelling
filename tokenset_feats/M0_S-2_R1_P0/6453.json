@@ -1,0 +1,5 @@
+{
+  "pattern": "( holiday| vacation| getting| holidays| air)",
+  "pos_r_squared": 0.9950132369995117,
+  "r_squared": 0.9947153925895691
+}

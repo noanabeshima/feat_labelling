@@ -1,0 +1,5 @@
+{
+  "pattern": "( network| blocking| blocked| joining| Teach)",
+  "pos_r_squared": 0.995150625705719,
+  "r_squared": 0.9928447604179382
+}

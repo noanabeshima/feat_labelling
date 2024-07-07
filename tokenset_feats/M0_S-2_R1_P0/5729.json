@@ -1,0 +1,5 @@
+{
+  "pattern": "( calendar| journal| invitations| stickers|ocular)",
+  "pos_r_squared": 0.997074544429779,
+  "r_squared": 0.9974954128265381
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( discover|lost|Warning)",
+  "pos_r_squared": 0.9866769313812256,
+  "r_squared": 0.9801197052001953
+}

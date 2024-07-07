@@ -1,0 +1,5 @@
+{
+  "pattern": "( holds| holding| wears| held| heroes)",
+  "pos_r_squared": 0.9974067807197571,
+  "r_squared": 0.9979430437088013
+}

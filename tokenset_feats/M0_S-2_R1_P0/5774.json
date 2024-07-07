@@ -1,0 +1,5 @@
+{
+  "pattern": "( chickens| birds| Tues| ants|Ted)",
+  "pos_r_squared": 0.9935068488121033,
+  "r_squared": 0.9882497787475586
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( pupil| pupils| tours| School| compliment)",
+  "pos_r_squared": 0.9974699020385742,
+  "r_squared": 0.9943193197250366
+}

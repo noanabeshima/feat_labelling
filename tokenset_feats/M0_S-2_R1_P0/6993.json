@@ -1,0 +1,5 @@
+{
+  "pattern": "( fields| rivers| farmers|adows| forests)",
+  "pos_r_squared": 0.9887827038764954,
+  "r_squared": 0.9878565073013306
+}

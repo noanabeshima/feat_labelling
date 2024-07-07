@@ -1,0 +1,5 @@
+{
+  "pattern": "( mark| marks| marked| marking| markings)",
+  "pos_r_squared": 0.9987804293632507,
+  "r_squared": 0.9985610842704773
+}

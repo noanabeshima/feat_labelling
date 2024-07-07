@@ -1,0 +1,4 @@
+{
+  "pattern": "( Both| traded|ib| neither|po)",
+  "pos_r_squared": 0.6912581920623779
+}

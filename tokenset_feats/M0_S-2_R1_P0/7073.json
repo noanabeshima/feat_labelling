@@ -1,0 +1,5 @@
+{
+  "pattern": "( bridges| stations| bridge|angles|ets)",
+  "pos_r_squared": 0.998612642288208,
+  "r_squared": 0.9969743490219116
+}

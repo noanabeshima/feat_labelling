@@ -1,0 +1,5 @@
+{
+  "pattern": "( helpless|,|\\.|Then| He)",
+  "pos_r_squared": 0.986292839050293,
+  "r_squared": 0.9832379817962646
+}

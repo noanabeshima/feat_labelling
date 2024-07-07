@@ -1,0 +1,5 @@
+{
+  "pattern": "( paid| pays| paying| pay| scored)",
+  "pos_r_squared": 0.9972978830337524,
+  "r_squared": 0.9968886375427246
+}

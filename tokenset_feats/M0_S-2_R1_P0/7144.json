@@ -1,0 +1,5 @@
+{
+  "pattern": "( demanded| demanding| demand| suggesting| blues)",
+  "pos_r_squared": 0.9907838106155396,
+  "r_squared": 0.988305389881134
+}

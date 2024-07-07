@@ -1,0 +1,5 @@
+{
+  "pattern": "( Tweet| Sky|Tweet|ves|Joy)",
+  "pos_r_squared": 0.9974560141563416,
+  "r_squared": 0.9964151382446289
+}

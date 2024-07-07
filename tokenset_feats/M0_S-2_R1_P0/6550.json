@@ -1,0 +1,5 @@
+{
+  "pattern": "( calling|\\.'| call| called)",
+  "pos_r_squared": 0.9851898550987244,
+  "r_squared": 0.989631175994873
+}

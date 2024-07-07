@@ -1,0 +1,5 @@
+{
+  "pattern": "( symbol| symbols| scored| image| mark)",
+  "pos_r_squared": 0.9976939558982849,
+  "r_squared": 0.9978523254394531
+}

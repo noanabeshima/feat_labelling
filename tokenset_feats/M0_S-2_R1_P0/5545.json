@@ -1,0 +1,5 @@
+{
+  "pattern": "( letters| packages| knives|obs| gre)",
+  "pos_r_squared": 0.9978212714195251,
+  "r_squared": 0.9969437718391418
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( drops| dropping| invites| dropped| drop)",
+  "pos_r_squared": 0.9909259080886841,
+  "r_squared": 0.9913710355758667
+}

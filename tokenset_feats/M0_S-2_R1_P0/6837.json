@@ -1,0 +1,5 @@
+{
+  "pattern": "( trash| lock| wind| Wh| garbage)",
+  "pos_r_squared": 0.9936698079109192,
+  "r_squared": 0.9935897588729858
+}

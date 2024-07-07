@@ -1,0 +1,5 @@
+{
+  "pattern": "( memory| view| microscope|sets| deaf)",
+  "pos_r_squared": 0.9912698864936829,
+  "r_squared": 0.9909895658493042
+}

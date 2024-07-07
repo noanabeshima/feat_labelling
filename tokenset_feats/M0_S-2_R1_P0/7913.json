@@ -1,0 +1,5 @@
+{
+  "pattern": "( trophy| medal| jet| costs| cake)",
+  "pos_r_squared": 0.9853700399398804,
+  "r_squared": 0.9848875403404236
+}

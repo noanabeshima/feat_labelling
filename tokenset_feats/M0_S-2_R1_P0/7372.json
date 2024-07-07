@@ -1,0 +1,5 @@
+{
+  "pattern": "( display| displayed| mer| displaying| exact)",
+  "pos_r_squared": 0.9918037056922913,
+  "r_squared": 0.9884114265441895
+}

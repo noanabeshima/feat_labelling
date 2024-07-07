@@ -1,0 +1,5 @@
+{
+  "pattern": "( ours| Someone| theirs|Someone)",
+  "pos_r_squared": 0.9947870373725891,
+  "r_squared": 0.9951227903366089
+}

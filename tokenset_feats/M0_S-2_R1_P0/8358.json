@@ -1,0 +1,5 @@
+{
+  "pattern": "( Car| Cart|ma| toy| pick)",
+  "pos_r_squared": 0.9917998909950256,
+  "r_squared": 0.9946374893188477
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( furniture|looking| looks| space| things)",
+  "pos_r_squared": 0.9937127828598022,
+  "r_squared": 0.9948952198028564
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( zero|Zero|zero| freshly| fifty)",
+  "pos_r_squared": 0.9946200251579285,
+  "r_squared": 0.9863677620887756
+}

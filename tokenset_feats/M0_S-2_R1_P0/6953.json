@@ -1,0 +1,5 @@
+{
+  "pattern": "( ruler| marker| potion| shortcut| measure)",
+  "pos_r_squared": 0.9953180551528931,
+  "r_squared": 0.9956951141357422
+}

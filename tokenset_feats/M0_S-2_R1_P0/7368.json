@@ -1,0 +1,5 @@
+{
+  "pattern": "( sk|bye|unk| speaks| avoid)",
+  "pos_r_squared": 0.9871029853820801,
+  "r_squared": 0.9819860458374023
+}

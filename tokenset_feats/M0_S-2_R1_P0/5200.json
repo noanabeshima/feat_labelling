@@ -1,0 +1,4 @@
+{
+  "pattern": "( sent| expect| lots| field| flying)",
+  "pos_r_squared": 0.7258297204971313
+}

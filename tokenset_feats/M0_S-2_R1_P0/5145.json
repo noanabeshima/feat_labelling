@@ -1,0 +1,4 @@
+{
+  "pattern": "( wine| weight| poison|\\n| valued)",
+  "pos_r_squared": 0.9197399616241455
+}

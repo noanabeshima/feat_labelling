@@ -1,0 +1,5 @@
+{
+  "pattern": "( froze|Free| lifted|Stop| lowers)",
+  "pos_r_squared": 0.9960357546806335,
+  "r_squared": 0.9964433908462524
+}

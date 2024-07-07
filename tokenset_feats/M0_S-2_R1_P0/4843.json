@@ -1,0 +1,5 @@
+{
+  "pattern": "( meant| means| daily| amaz| caused)",
+  "pos_r_squared": 0.9863829612731934,
+  "r_squared": 0.9892392158508301
+}

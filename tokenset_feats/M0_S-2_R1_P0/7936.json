@@ -1,0 +1,5 @@
+{
+  "pattern": "( cubes| lamps| dump| grain| sa)",
+  "pos_r_squared": 0.9951534271240234,
+  "r_squared": 0.9917330145835876
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( rolling| roll| Fl| Spot| melting)",
+  "pos_r_squared": 0.9977314472198486,
+  "r_squared": 0.9975607395172119
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( parked| Bing| parking| Nem| pret)",
+  "pos_r_squared": 0.9952486157417297,
+  "r_squared": 0.991958498954773
+}

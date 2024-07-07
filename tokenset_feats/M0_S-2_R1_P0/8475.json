@@ -1,0 +1,5 @@
+{
+  "pattern": "( farther| far| different| exact|guard)",
+  "pos_r_squared": 0.9980229139328003,
+  "r_squared": 0.9971045851707458
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(ray|rays|\\.|Send| Mos)",
+  "pos_r_squared": 0.9937610030174255,
+  "r_squared": 0.9890902638435364
+}

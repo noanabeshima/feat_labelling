@@ -1,0 +1,5 @@
+{
+  "pattern": "( tour| month| while| tours|Years)",
+  "pos_r_squared": 0.9904491901397705,
+  "r_squared": 0.9863652586936951
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( offer|Joy| offers| offering)",
+  "pos_r_squared": 0.9918305277824402,
+  "r_squared": 0.98356032371521
+}

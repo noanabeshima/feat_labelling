@@ -1,0 +1,5 @@
+{
+  "pattern": "( roared|sed|acked|acking| Was)",
+  "pos_r_squared": 0.9900987148284912,
+  "r_squared": 0.9895057678222656
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( spilled| spill| dripping| spilling| leaking)",
+  "pos_r_squared": 0.9877178072929382,
+  "r_squared": 0.9876924753189087
+}

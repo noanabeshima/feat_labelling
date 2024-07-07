@@ -1,0 +1,5 @@
+{
+  "pattern": "( marched| marching|Tyler| Pep| the)",
+  "pos_r_squared": 0.9978505373001099,
+  "r_squared": 0.9929933547973633
+}

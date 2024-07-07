@@ -1,0 +1,5 @@
+{
+  "pattern": "( same| favorite|\\.| a| to)",
+  "pos_r_squared": 0.9911357760429382,
+  "r_squared": 0.986571729183197
+}

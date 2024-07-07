@@ -1,0 +1,5 @@
+{
+  "pattern": "( examined| examining| inspected| examine| checking)",
+  "pos_r_squared": 0.9936978816986084,
+  "r_squared": 0.9935422539710999
+}

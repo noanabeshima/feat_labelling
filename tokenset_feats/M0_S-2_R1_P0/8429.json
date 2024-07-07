@@ -1,0 +1,5 @@
+{
+  "pattern": "( floors| keys| animals| freshly| bob)",
+  "pos_r_squared": 0.9966357946395874,
+  "r_squared": 0.9973681569099426
+}

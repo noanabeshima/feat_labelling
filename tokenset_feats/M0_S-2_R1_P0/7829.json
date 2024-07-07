@@ -1,0 +1,5 @@
+{
+  "pattern": "( quite|ST| banner|book|Run)",
+  "pos_r_squared": 0.9948247671127319,
+  "r_squared": 0.9921347498893738
+}

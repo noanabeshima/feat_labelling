@@ -1,0 +1,5 @@
+{
+  "pattern": "(ittens| builders| Bugs|azes| folders)",
+  "pos_r_squared": 0.9889852404594421,
+  "r_squared": 0.9670352935791016
+}

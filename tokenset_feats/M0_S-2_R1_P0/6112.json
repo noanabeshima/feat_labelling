@@ -1,0 +1,5 @@
+{
+  "pattern": "( recommend| suggest| recommended| provide| warn)",
+  "pos_r_squared": 0.9973210096359253,
+  "r_squared": 0.9972420334815979
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( cart| ste|Her| his| freshly)",
+  "pos_r_squared": 0.983447253704071,
+  "r_squared": 0.9786546230316162
+}

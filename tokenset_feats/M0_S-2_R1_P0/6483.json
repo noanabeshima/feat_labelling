@@ -1,0 +1,5 @@
+{
+  "pattern": "( examine| attractive| further| tested| settle)",
+  "pos_r_squared": 0.9935007691383362,
+  "r_squared": 0.9923996329307556
+}

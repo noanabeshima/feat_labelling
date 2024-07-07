@@ -1,0 +1,5 @@
+{
+  "pattern": "( country|ved| Mos| camps|\\n)",
+  "pos_r_squared": 0.9836035966873169,
+  "r_squared": 0.994860827922821
+}

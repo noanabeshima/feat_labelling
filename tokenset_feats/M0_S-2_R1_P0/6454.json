@@ -1,0 +1,5 @@
+{
+  "pattern": "( operation|band| invention|ST| addition)",
+  "pos_r_squared": 0.9968213438987732,
+  "r_squared": 0.983224093914032
+}

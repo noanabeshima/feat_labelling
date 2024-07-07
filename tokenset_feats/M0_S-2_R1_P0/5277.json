@@ -1,0 +1,5 @@
+{
+  "pattern": "( sandbox| silence| mess| recorder| The)",
+  "pos_r_squared": 0.9924708604812622,
+  "r_squared": 0.9926469326019287
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( goal| goals| builders| here| stool)",
+  "pos_r_squared": 0.9899888634681702,
+  "r_squared": 0.9947519302368164
+}

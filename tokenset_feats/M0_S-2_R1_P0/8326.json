@@ -1,0 +1,5 @@
+{
+  "pattern": "( Put| Turn|Put| Leave| Ve)",
+  "pos_r_squared": 0.9945981502532959,
+  "r_squared": 0.9915165305137634
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( clock| train| for| books| pilot)",
+  "pos_r_squared": 0.7347002029418945
+}

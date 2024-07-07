@@ -1,0 +1,5 @@
+{
+  "pattern": "( panic| panicked| Amy| march| heroes)",
+  "pos_r_squared": 0.9885445833206177,
+  "r_squared": 0.9971394538879395
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( trains|anes| train| rails| and)",
+  "pos_r_squared": 0.9606879353523254
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Mary|Jen|Ted| Mary|alks)",
+  "pos_r_squared": 0.9966316819190979,
+  "r_squared": 0.9917124509811401
+}

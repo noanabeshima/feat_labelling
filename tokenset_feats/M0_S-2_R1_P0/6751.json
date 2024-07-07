@@ -1,0 +1,5 @@
+{
+  "pattern": "( wool| much| he| loaf|\\.')",
+  "pos_r_squared": 0.9970088601112366,
+  "r_squared": 0.993886411190033
+}

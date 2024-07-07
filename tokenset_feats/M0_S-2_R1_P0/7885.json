@@ -1,0 +1,5 @@
+{
+  "pattern": "( hi| slowed| calmed|Run| cooled)",
+  "pos_r_squared": 0.9945573806762695,
+  "r_squared": 0.9947125315666199
+}

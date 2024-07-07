@@ -1,0 +1,5 @@
+{
+  "pattern": "( pushing| objects| gonna| push| refreshing)",
+  "pos_r_squared": 0.9853265285491943,
+  "r_squared": 0.9858403205871582
+}

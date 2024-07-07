@@ -1,0 +1,5 @@
+{
+  "pattern": "( pray| prayed| praying| prayer| sell)",
+  "pos_r_squared": 0.9932717084884644,
+  "r_squared": 0.9938419461250305
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Wh| lecture| lectures| promises| talking)",
+  "pos_r_squared": 0.9961797595024109,
+  "r_squared": 0.9968676567077637
+}

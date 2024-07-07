@@ -1,0 +1,5 @@
+{
+  "pattern": "( party| marriage| wedding| The|Then)",
+  "pos_r_squared": 0.9811874032020569,
+  "r_squared": 0.9818434715270996
+}

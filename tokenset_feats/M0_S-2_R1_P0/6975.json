@@ -1,0 +1,5 @@
+{
+  "pattern": "( myself| ourselves|upid| himself|ami)",
+  "pos_r_squared": 0.9982395768165588,
+  "r_squared": 0.9988124966621399
+}

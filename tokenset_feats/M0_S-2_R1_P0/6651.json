@@ -1,0 +1,5 @@
+{
+  "pattern": "( planned| plan| planning| wrote| plans)",
+  "pos_r_squared": 0.995029866695404,
+  "r_squared": 0.9949811100959778
+}

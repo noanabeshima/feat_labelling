@@ -1,0 +1,5 @@
+{
+  "pattern": "( awake|int|ized|icker| awoke)",
+  "pos_r_squared": 0.9938216805458069,
+  "r_squared": 0.9899480938911438
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( Give|Oh| Get|Give|Change)",
+  "pos_r_squared": 0.996476411819458,
+  "r_squared": 0.9964474439620972
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( permit| prevent| punish| rescued| permitted)",
+  "pos_r_squared": 0.9865262508392334,
+  "r_squared": 0.9861189723014832
+}

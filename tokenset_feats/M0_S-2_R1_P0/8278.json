@@ -1,0 +1,5 @@
+{
+  "pattern": "( pans| queens|rings| forks| Shirley)",
+  "pos_r_squared": 0.9974273443222046,
+  "r_squared": 0.9932122826576233
+}

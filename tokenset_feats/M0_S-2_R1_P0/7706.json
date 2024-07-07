@@ -1,0 +1,5 @@
+{
+  "pattern": "( scoop|oops| dump| piled| dumped)",
+  "pos_r_squared": 0.9916062951087952,
+  "r_squared": 0.9917096495628357
+}

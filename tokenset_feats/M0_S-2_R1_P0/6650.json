@@ -1,0 +1,5 @@
+{
+  "pattern": "( mistake| mistakes| destination| results| chance)",
+  "pos_r_squared": 0.9946655035018921,
+  "r_squared": 0.9944493174552917
+}

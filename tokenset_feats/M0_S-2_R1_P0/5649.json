@@ -1,0 +1,5 @@
+{
+  "pattern": "( struggle| struggled| struggling| suffering| succeeded)",
+  "pos_r_squared": 0.9887197017669678,
+  "r_squared": 0.9885161519050598
+}

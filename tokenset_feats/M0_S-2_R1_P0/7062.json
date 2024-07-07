@@ -1,0 +1,5 @@
+{
+  "pattern": "(To| twice|For| tagged| Sorry)",
+  "pos_r_squared": 0.9900225400924683,
+  "r_squared": 0.9882897138595581
+}

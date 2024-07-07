@@ -1,0 +1,5 @@
+{
+  "pattern": "(Fl| Wh| Buzz| Fl|ettle)",
+  "pos_r_squared": 0.9884724617004395,
+  "r_squared": 0.9904386401176453
+}

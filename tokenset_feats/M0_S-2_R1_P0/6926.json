@@ -1,0 +1,5 @@
+{
+  "pattern": "( slim| lump| hamm|guard|Found)",
+  "pos_r_squared": 0.997478723526001,
+  "r_squared": 0.9688718914985657
+}

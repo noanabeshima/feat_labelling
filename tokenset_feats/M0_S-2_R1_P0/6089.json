@@ -1,0 +1,5 @@
+{
+  "pattern": "(une| apple|berry|,|get)",
+  "pos_r_squared": 0.9859215021133423,
+  "r_squared": 0.9706626534461975
+}

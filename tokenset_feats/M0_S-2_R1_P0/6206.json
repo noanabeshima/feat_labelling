@@ -1,0 +1,5 @@
+{
+  "pattern": "( victory| Victory| wins| tiger| treasure)",
+  "pos_r_squared": 0.9989895224571228,
+  "r_squared": 0.9929353594779968
+}

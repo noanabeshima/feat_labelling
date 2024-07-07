@@ -1,0 +1,5 @@
+{
+  "pattern": "( kingdom| barely| nearly| lately| recently)",
+  "pos_r_squared": 0.9973400831222534,
+  "r_squared": 0.9949063062667847
+}

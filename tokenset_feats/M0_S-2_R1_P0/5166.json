@@ -1,0 +1,4 @@
+{
+  "pattern": "( reward| punish| punished| old| yesterday)",
+  "pos_r_squared": 0.9260640144348145
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( thunder|ST|Run| lightning|\\.')",
+  "pos_r_squared": 0.9838268160820007,
+  "r_squared": 0.9804748892784119
+}

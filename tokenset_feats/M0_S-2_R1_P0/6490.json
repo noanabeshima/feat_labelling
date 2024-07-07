@@ -1,0 +1,5 @@
+{
+  "pattern": "( freeze| freezing|Free| losing| forward)",
+  "pos_r_squared": 0.9983921647071838,
+  "r_squared": 0.9980286955833435
+}

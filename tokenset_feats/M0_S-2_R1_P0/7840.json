@@ -1,0 +1,5 @@
+{
+  "pattern": "(n| Gor|place| clos|ke)",
+  "pos_r_squared": 0.9974015951156616,
+  "r_squared": 0.9685859084129333
+}

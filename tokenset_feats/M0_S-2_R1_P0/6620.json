@@ -1,0 +1,5 @@
+{
+  "pattern": "( minute| in| hur| new| holiday)",
+  "pos_r_squared": 0.9976072311401367,
+  "r_squared": 0.9957333207130432
+}

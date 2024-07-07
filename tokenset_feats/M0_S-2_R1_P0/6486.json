@@ -1,0 +1,5 @@
+{
+  "pattern": "( bars| robbers| court| belts| Park)",
+  "pos_r_squared": 0.9961102604866028,
+  "r_squared": 0.9511420726776123
+}

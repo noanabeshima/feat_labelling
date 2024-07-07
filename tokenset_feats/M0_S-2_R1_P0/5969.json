@@ -1,0 +1,5 @@
+{
+  "pattern": "( tank| tanks| ste| Of|De)",
+  "pos_r_squared": 0.9922254681587219,
+  "r_squared": 0.990149736404419
+}

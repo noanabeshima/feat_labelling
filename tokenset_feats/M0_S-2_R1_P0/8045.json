@@ -1,0 +1,5 @@
+{
+  "pattern": "( ripe| clean|oming| peeled| pick)",
+  "pos_r_squared": 0.9858271479606628,
+  "r_squared": 0.9919308423995972
+}

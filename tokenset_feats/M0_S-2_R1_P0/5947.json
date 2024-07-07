@@ -1,0 +1,5 @@
+{
+  "pattern": "( display|V|mine| displaying| Ana)",
+  "pos_r_squared": 0.9948743581771851,
+  "r_squared": 0.9944109916687012
+}

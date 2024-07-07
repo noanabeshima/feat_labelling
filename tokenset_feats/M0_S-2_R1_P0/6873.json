@@ -1,0 +1,5 @@
+{
+  "pattern": "(By|bye|Luckily| watering|ade)",
+  "pos_r_squared": 0.9957772493362427,
+  "r_squared": 0.9956766366958618
+}

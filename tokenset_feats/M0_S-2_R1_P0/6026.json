@@ -1,0 +1,5 @@
+{
+  "pattern": "( slept| matters|ST| brothers| childhood)",
+  "pos_r_squared": 0.9920112490653992,
+  "r_squared": 0.9912999868392944
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( mountain| mountains| logs| inches| moons)",
+  "pos_r_squared": 0.9880682229995728,
+  "r_squared": 0.9858428835868835
+}

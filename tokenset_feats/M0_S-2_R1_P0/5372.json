@@ -1,0 +1,5 @@
+{
+  "pattern": "( mystery| ringing| mysteries| plot|What)",
+  "pos_r_squared": 0.9966703653335571,
+  "r_squared": 0.9982550740242004
+}

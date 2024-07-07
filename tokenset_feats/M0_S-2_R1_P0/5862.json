@@ -1,0 +1,5 @@
+{
+  "pattern": "( hoping| wishing| Maybe| wanted| promising)",
+  "pos_r_squared": 0.9933773875236511,
+  "r_squared": 0.9952142238616943
+}

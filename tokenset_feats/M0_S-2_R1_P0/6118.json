@@ -1,0 +1,5 @@
+{
+  "pattern": "( spend|suits|\\n| rabbit| discuss)",
+  "pos_r_squared": 0.9949067234992981,
+  "r_squared": 0.9932296872138977
+}

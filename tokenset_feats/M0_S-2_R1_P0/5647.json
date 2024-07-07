@@ -1,0 +1,5 @@
+{
+  "pattern": "( helper| helpers| chip|Am|New)",
+  "pos_r_squared": 0.9978513121604919,
+  "r_squared": 0.9940390586853027
+}

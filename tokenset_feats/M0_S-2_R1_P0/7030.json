@@ -1,0 +1,5 @@
+{
+  "pattern": "( herb| Ther| natural| mushroom)",
+  "pos_r_squared": 0.9974482655525208,
+  "r_squared": 0.9975377917289734
+}

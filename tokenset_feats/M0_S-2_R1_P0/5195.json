@@ -1,0 +1,5 @@
+{
+  "pattern": "( frame| circus| man| frames|paste)",
+  "pos_r_squared": 0.9965214133262634,
+  "r_squared": 0.9951708316802979
+}

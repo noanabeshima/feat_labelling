@@ -1,0 +1,5 @@
+{
+  "pattern": "( hers| theirs| clothes| piece| shells)",
+  "pos_r_squared": 0.9831061959266663,
+  "r_squared": 0.9824042916297913
+}

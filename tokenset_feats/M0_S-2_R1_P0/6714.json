@@ -1,0 +1,5 @@
+{
+  "pattern": "( appear| ours| arrive| grows| seems)",
+  "pos_r_squared": 0.9812864661216736,
+  "r_squared": 0.9809183478355408
+}

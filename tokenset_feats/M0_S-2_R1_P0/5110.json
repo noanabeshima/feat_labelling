@@ -1,0 +1,5 @@
+{
+  "pattern": "( wrote| Spe| paper| words|cil)",
+  "pos_r_squared": 0.9968259930610657,
+  "r_squared": 0.9923104047775269
+}

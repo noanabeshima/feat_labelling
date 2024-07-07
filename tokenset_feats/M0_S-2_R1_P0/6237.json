@@ -1,0 +1,4 @@
+{
+  "pattern": "( flood| fog| step| tide| harm)",
+  "pos_r_squared": 0.9675573706626892
+}

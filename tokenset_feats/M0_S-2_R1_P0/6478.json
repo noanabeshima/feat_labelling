@@ -1,0 +1,5 @@
+{
+  "pattern": "( blink| blinked| Mark| blinking|ap)",
+  "pos_r_squared": 0.9961957931518555,
+  "r_squared": 0.9943025708198547
+}

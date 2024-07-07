@@ -1,0 +1,5 @@
+{
+  "pattern": "( exc|ign| year| camps)",
+  "pos_r_squared": 0.9991264939308167,
+  "r_squared": 0.998852550983429
+}

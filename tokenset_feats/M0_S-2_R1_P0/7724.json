@@ -1,0 +1,5 @@
+{
+  "pattern": "( perfectly| successfully|bug|stick| Of)",
+  "pos_r_squared": 0.9962630867958069,
+  "r_squared": 0.9718365669250488
+}

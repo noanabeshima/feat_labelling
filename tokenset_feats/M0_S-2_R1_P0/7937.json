@@ -1,0 +1,5 @@
+{
+  "pattern": "( goal| builders|Tyler| hamm| Mos)",
+  "pos_r_squared": 0.9886854290962219,
+  "r_squared": 0.9764987230300903
+}

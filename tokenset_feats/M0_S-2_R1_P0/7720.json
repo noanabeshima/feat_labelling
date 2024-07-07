@@ -1,0 +1,5 @@
+{
+  "pattern": "( squares| castles| Fred| two| bridges)",
+  "pos_r_squared": 0.9952958822250366,
+  "r_squared": 0.9962289333343506
+}

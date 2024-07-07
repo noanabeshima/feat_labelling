@@ -1,0 +1,5 @@
+{
+  "pattern": "( Wo| po| Depend|Toy| unf)",
+  "pos_r_squared": 0.9925128221511841,
+  "r_squared": 0.9598116874694824
+}

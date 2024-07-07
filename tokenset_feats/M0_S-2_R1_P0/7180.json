@@ -1,0 +1,5 @@
+{
+  "pattern": "(See| See| learned| ''|'')",
+  "pos_r_squared": 0.9839308857917786,
+  "r_squared": 0.9843037724494934
+}

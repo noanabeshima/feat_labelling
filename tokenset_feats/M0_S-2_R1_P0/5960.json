@@ -1,0 +1,5 @@
+{
+  "pattern": "( camp| camping| hamm| fore)",
+  "pos_r_squared": 0.996874988079071,
+  "r_squared": 0.9901261925697327
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( reveal| revealed|ettle| tant|ched)",
+  "pos_r_squared": 0.9801765084266663,
+  "r_squared": 0.9845514893531799
+}

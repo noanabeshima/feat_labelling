@@ -1,0 +1,5 @@
+{
+  "pattern": "( arrive| arrives| stops| arriving| shouts)",
+  "pos_r_squared": 0.9976708889007568,
+  "r_squared": 0.9974558353424072
+}

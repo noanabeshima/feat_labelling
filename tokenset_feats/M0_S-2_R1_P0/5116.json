@@ -1,0 +1,5 @@
+{
+  "pattern": "( tools| supplies| instruments| materials| kit)",
+  "pos_r_squared": 0.9953400492668152,
+  "r_squared": 0.9935505390167236
+}

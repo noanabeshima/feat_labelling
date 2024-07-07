@@ -1,0 +1,5 @@
+{
+  "pattern": "( city|nam| A| ramps| scared)",
+  "pos_r_squared": 0.9923461079597473,
+  "r_squared": 0.9825678467750549
+}

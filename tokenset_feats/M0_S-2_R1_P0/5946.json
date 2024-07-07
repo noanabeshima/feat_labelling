@@ -1,0 +1,5 @@
+{
+  "pattern": "( ceiling| floor| shelf| catch| sky)",
+  "pos_r_squared": 0.9957126379013062,
+  "r_squared": 0.9940752983093262
+}

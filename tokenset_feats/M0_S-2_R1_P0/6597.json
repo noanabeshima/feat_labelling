@@ -1,0 +1,5 @@
+{
+  "pattern": "( exercise| exercises| exercising| noises| stretch)",
+  "pos_r_squared": 0.9906812310218811,
+  "r_squared": 0.9901854395866394
+}

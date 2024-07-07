@@ -1,0 +1,5 @@
+{
+  "pattern": "( page| spells| recipes|band)",
+  "pos_r_squared": 0.9932213425636292,
+  "r_squared": 0.9866602420806885
+}

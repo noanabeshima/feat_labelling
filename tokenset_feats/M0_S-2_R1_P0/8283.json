@@ -1,0 +1,5 @@
+{
+  "pattern": "( age| just| ordinary| class| family)",
+  "pos_r_squared": 0.9961680769920349,
+  "r_squared": 0.9971463084220886
+}

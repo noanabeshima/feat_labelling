@@ -1,0 +1,5 @@
+{
+  "pattern": "( quit|Of| remained| here| surrender)",
+  "pos_r_squared": 0.9819685220718384,
+  "r_squared": 0.9817023277282715
+}

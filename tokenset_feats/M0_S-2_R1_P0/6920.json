@@ -1,0 +1,5 @@
+{
+  "pattern": "( weighed| delivered| weighs| weigh| circled)",
+  "pos_r_squared": 0.9943801164627075,
+  "r_squared": 0.9959667325019836
+}

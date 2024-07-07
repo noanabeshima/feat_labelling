@@ -1,0 +1,5 @@
+{
+  "pattern": "( guessed| hides| hidden| hid| guesses)",
+  "pos_r_squared": 0.9930527806282043,
+  "r_squared": 0.9930508732795715
+}

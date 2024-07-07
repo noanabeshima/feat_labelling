@@ -1,0 +1,5 @@
+{
+  "pattern": "( Is|An| Was|Here| freshly)",
+  "pos_r_squared": 0.9966188669204712,
+  "r_squared": 0.9950203895568848
+}

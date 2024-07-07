@@ -1,0 +1,5 @@
+{
+  "pattern": "( oxygen| Oxy| batteries|gen|Send)",
+  "pos_r_squared": 0.9978092908859253,
+  "r_squared": 0.9938251376152039
+}

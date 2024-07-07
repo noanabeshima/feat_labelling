@@ -1,0 +1,4 @@
+{
+  "pattern": "( sell| selling|use| sold| bike)",
+  "pos_r_squared": 0.923357367515564
+}

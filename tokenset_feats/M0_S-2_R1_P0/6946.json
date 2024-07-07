@@ -1,0 +1,5 @@
+{
+  "pattern": "( spell| spells| Clim| mil|Warning)",
+  "pos_r_squared": 0.9908645153045654,
+  "r_squared": 0.9904079437255859
+}

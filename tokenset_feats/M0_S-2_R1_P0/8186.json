@@ -1,0 +1,5 @@
+{
+  "pattern": "( burned| burnt| heated| burns| cooled)",
+  "pos_r_squared": 0.9934074878692627,
+  "r_squared": 0.9737051725387573
+}

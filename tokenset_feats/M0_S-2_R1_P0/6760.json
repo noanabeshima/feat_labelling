@@ -1,0 +1,5 @@
+{
+  "pattern": "(ometer| Start|Cow| losing|rim)",
+  "pos_r_squared": 0.99746173620224,
+  "r_squared": 0.9963783025741577
+}

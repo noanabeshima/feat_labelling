@@ -1,0 +1,5 @@
+{
+  "pattern": "( laid| plugged|inc| ramps|place)",
+  "pos_r_squared": 0.9964718222618103,
+  "r_squared": 0.9920864105224609
+}

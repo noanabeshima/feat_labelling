@@ -1,0 +1,4 @@
+{
+  "pattern": "( price| answers| adm| ham| he)",
+  "pos_r_squared": 0.5204384326934814
+}

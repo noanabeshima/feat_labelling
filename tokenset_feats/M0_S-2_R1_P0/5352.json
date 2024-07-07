@@ -1,0 +1,5 @@
+{
+  "pattern": "( fan| builders| sho|ST|mill)",
+  "pos_r_squared": 0.992238461971283,
+  "r_squared": 0.9910987615585327
+}

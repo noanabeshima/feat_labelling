@@ -1,0 +1,5 @@
+{
+  "pattern": "( stable| Around| spe| sale| let)",
+  "pos_r_squared": 0.9952297210693359,
+  "r_squared": 0.9937563538551331
+}

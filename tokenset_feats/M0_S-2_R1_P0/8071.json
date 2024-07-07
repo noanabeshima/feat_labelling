@@ -1,0 +1,5 @@
+{
+  "pattern": "( turning| flipping| fitting| flip| turn)",
+  "pos_r_squared": 0.9983487725257874,
+  "r_squared": 0.9984645843505859
+}

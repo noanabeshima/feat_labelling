@@ -1,0 +1,5 @@
+{
+  "pattern": "( video| videos| puzzle| movie| film)",
+  "pos_r_squared": 0.9926277995109558,
+  "r_squared": 0.9919722080230713
+}

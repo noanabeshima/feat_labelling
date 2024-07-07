@@ -1,0 +1,5 @@
+{
+  "pattern": "( placed| put| spread| used| placing)",
+  "pos_r_squared": 0.9972631335258484,
+  "r_squared": 0.996198832988739
+}

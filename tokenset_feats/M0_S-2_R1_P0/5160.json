@@ -1,0 +1,5 @@
+{
+  "pattern": "( succeed| succeeded| wins|umm| shines)",
+  "pos_r_squared": 0.9911014437675476,
+  "r_squared": 0.9910650849342346
+}

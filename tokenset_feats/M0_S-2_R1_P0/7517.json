@@ -1,0 +1,4 @@
+{
+  "pattern": "( loaded| load| included| balanced| insist)",
+  "pos_r_squared": 0.9657453894615173
+}

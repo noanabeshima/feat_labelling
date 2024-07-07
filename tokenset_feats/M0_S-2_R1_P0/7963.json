@@ -1,0 +1,5 @@
+{
+  "pattern": "( sides| swords| ramps| leaves| crosses)",
+  "pos_r_squared": 0.9954940676689148,
+  "r_squared": 0.9958761930465698
+}

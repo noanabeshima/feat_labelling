@@ -1,0 +1,5 @@
+{
+  "pattern": "( trains| depend| je| different| generous)",
+  "pos_r_squared": 0.9954732060432434,
+  "r_squared": 0.9925938248634338
+}

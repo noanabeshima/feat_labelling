@@ -1,0 +1,5 @@
+{
+  "pattern": "( speak| speaking| chat| pleaded| chatting)",
+  "pos_r_squared": 0.9924528002738953,
+  "r_squared": 0.9909758567810059
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(time|alks|date|Kn|away)",
+  "pos_r_squared": 0.9960946440696716,
+  "r_squared": 0.9957692623138428
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( foolish| teasing|ST| stubborn| sly)",
+  "pos_r_squared": 0.9990251660346985,
+  "r_squared": 0.9989960193634033
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( message|Friends| matters|ST| Much)",
+  "pos_r_squared": 0.989288866519928,
+  "r_squared": 0.9890527725219727
+}

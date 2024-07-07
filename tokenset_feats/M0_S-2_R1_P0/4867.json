@@ -1,0 +1,4 @@
+{
+  "pattern": "( history| attention| heads| fires| directions)",
+  "pos_r_squared": 0.3709835410118103
+}

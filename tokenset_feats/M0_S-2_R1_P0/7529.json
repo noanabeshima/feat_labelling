@@ -1,0 +1,5 @@
+{
+  "pattern": "( guessed| guessing| guess| guesses| said)",
+  "pos_r_squared": 0.9900118112564087,
+  "r_squared": 0.9865695834159851
+}

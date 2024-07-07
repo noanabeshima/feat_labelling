@@ -1,0 +1,5 @@
+{
+  "pattern": "( regret|Warning|Care| heaven| foolish)",
+  "pos_r_squared": 0.9932991862297058,
+  "r_squared": 0.9922674894332886
+}

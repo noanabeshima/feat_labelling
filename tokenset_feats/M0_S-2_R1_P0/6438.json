@@ -1,0 +1,5 @@
+{
+  "pattern": "( wine| judge|wine| Wine| tea)",
+  "pos_r_squared": 0.9976940155029297,
+  "r_squared": 0.9984399676322937
+}

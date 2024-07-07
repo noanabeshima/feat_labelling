@@ -1,0 +1,5 @@
+{
+  "pattern": "( questions| counts| her|Warning|Prin)",
+  "pos_r_squared": 0.9897691011428833,
+  "r_squared": 0.9871488213539124
+}

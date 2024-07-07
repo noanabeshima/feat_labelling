@@ -1,0 +1,5 @@
+{
+  "pattern": "( remove|pack| reverse| lift| shrug)",
+  "pos_r_squared": 0.9978888630867004,
+  "r_squared": 0.997793972492218
+}

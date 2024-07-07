@@ -1,0 +1,5 @@
+{
+  "pattern": "(actus| desert| they|ST|ed)",
+  "pos_r_squared": 0.9898618459701538,
+  "r_squared": 0.9860135316848755
+}

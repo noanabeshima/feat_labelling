@@ -1,0 +1,5 @@
+{
+  "pattern": "(Mr| Wh|Run|\"| tired)",
+  "pos_r_squared": 0.9938929677009583,
+  "r_squared": 0.9962374567985535
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( disagree| stumble| spy| listen| exact)",
+  "pos_r_squared": 0.9952878952026367,
+  "r_squared": 0.9976720213890076
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( ahead| front| ends|ST| might)",
+  "pos_r_squared": 0.9987622499465942,
+  "r_squared": 0.9987869262695312
+}

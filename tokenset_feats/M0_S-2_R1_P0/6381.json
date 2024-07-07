@@ -1,0 +1,5 @@
+{
+  "pattern": "( washing| plugged| weighing| weigh| drying)",
+  "pos_r_squared": 0.998102068901062,
+  "r_squared": 0.9980189204216003
+}

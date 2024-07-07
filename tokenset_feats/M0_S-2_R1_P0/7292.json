@@ -1,0 +1,5 @@
+{
+  "pattern": "(aps| firefighters| fans|ps|ars)",
+  "pos_r_squared": 0.9851093292236328,
+  "r_squared": 0.981025218963623
+}

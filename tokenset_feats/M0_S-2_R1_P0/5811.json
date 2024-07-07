@@ -1,0 +1,5 @@
+{
+  "pattern": "( finding| seeking| discovering|Lost|Do)",
+  "pos_r_squared": 0.9943531155586243,
+  "r_squared": 0.9931201934814453
+}

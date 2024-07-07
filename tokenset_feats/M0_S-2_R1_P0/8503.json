@@ -1,0 +1,5 @@
+{
+  "pattern": "( warn| watch)",
+  "pos_r_squared": 0.9895824790000916,
+  "r_squared": 0.988410472869873
+}

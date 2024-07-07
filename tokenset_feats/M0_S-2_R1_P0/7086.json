@@ -1,0 +1,5 @@
+{
+  "pattern": "( rides| earlier| floors|ide| vendors)",
+  "pos_r_squared": 0.9945521950721741,
+  "r_squared": 0.9794893264770508
+}

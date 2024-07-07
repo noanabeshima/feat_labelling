@@ -1,0 +1,5 @@
+{
+  "pattern": "( attention| introduced|icker|Friends| date)",
+  "pos_r_squared": 0.9916024208068848,
+  "r_squared": 0.9888898730278015
+}

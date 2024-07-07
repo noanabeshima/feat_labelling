@@ -1,0 +1,5 @@
+{
+  "pattern": "( camp| camping| tent| flashlight| raft)",
+  "pos_r_squared": 0.9954544305801392,
+  "r_squared": 0.9911242127418518
+}

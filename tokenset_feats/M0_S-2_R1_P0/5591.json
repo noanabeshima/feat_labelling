@@ -1,0 +1,5 @@
+{
+  "pattern": "( stomach| coat| knee| raft| ankle)",
+  "pos_r_squared": 0.9927072525024414,
+  "r_squared": 0.9935958981513977
+}

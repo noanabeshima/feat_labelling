@@ -1,0 +1,5 @@
+{
+  "pattern": "( coal| was|Th| chalk)",
+  "pos_r_squared": 0.9923292994499207,
+  "r_squared": 0.9898059368133545
+}

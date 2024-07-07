@@ -1,0 +1,5 @@
+{
+  "pattern": "( rain| Rain|Rain| Mail|Mix)",
+  "pos_r_squared": 0.9928030371665955,
+  "r_squared": 0.9948787093162537
+}

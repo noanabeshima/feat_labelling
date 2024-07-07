@@ -1,0 +1,5 @@
+{
+  "pattern": "( yield|ield| yielded|anga| yielding)",
+  "pos_r_squared": 0.9976430535316467,
+  "r_squared": 0.9948278665542603
+}

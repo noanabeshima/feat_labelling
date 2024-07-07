@@ -1,0 +1,5 @@
+{
+  "pattern": "( movies| films| movie|Kn| book)",
+  "pos_r_squared": 0.9928919672966003,
+  "r_squared": 0.99424809217453
+}

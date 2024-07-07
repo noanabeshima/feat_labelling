@@ -1,0 +1,5 @@
+{
+  "pattern": "(Every| Everyday| everyday|So| mornings)",
+  "pos_r_squared": 0.9972949028015137,
+  "r_squared": 0.9970747232437134
+}

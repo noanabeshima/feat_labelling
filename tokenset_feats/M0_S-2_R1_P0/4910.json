@@ -1,0 +1,5 @@
+{
+  "pattern": "(owed|ow| dot|owing|pered)",
+  "pos_r_squared": 0.9836552143096924,
+  "r_squared": 0.9846596121788025
+}

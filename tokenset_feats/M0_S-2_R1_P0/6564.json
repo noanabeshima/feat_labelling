@@ -1,0 +1,5 @@
+{
+  "pattern": "( menu|oons| pens| dives)",
+  "pos_r_squared": 0.9947961568832397,
+  "r_squared": 0.9960388541221619
+}

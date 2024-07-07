@@ -1,0 +1,5 @@
+{
+  "pattern": "( lesson| lessons| things| mil| loud)",
+  "pos_r_squared": 0.9976099729537964,
+  "r_squared": 0.9967280626296997
+}

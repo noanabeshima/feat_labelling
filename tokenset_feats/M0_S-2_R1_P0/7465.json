@@ -1,0 +1,5 @@
+{
+  "pattern": "( badly| matters| cal| Bing|Car)",
+  "pos_r_squared": 0.9911405444145203,
+  "r_squared": 0.9885905981063843
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( counter|tr| mar| Mos| sale)",
+  "pos_r_squared": 0.9923491477966309,
+  "r_squared": 0.9927949905395508
+}

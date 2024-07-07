@@ -1,0 +1,5 @@
+{
+  "pattern": "( nowhere| somewhere| appeared| under|Down)",
+  "pos_r_squared": 0.9986345171928406,
+  "r_squared": 0.9983513355255127
+}

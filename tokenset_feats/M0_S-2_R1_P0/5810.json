@@ -1,0 +1,5 @@
+{
+  "pattern": "( coins|Tyler| Bob|But| But)",
+  "pos_r_squared": 0.9819914102554321,
+  "r_squared": 0.9886602759361267
+}

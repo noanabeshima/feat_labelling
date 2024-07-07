@@ -1,0 +1,5 @@
+{
+  "pattern": "( study| studied| Fl| books| studying)",
+  "pos_r_squared": 0.9956796169281006,
+  "r_squared": 0.9938126802444458
+}

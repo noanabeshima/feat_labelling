@@ -1,0 +1,5 @@
+{
+  "pattern": "( grapes|ate| named| builders| nearest)",
+  "pos_r_squared": 0.9831727743148804,
+  "r_squared": 0.9845519661903381
+}

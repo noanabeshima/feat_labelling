@@ -1,0 +1,5 @@
+{
+  "pattern": "( hall| halls| spider| opportunities)",
+  "pos_r_squared": 0.9928669929504395,
+  "r_squared": 0.985308051109314
+}

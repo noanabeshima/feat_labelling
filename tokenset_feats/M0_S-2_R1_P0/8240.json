@@ -1,0 +1,5 @@
+{
+  "pattern": "(lets|rings| bracelet| number| bulbs)",
+  "pos_r_squared": 0.9913914799690247,
+  "r_squared": 0.990056037902832
+}

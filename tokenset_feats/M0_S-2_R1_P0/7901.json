@@ -1,0 +1,5 @@
+{
+  "pattern": "( sigh| grab| prepare| question| dress)",
+  "pos_r_squared": 0.9945916533470154,
+  "r_squared": 0.9937189817428589
+}

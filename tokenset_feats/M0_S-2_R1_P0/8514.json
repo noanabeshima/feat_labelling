@@ -1,0 +1,4 @@
+{
+  "pattern": "( Some| included| some| expected|Some)",
+  "pos_r_squared": 0.8584356904029846
+}

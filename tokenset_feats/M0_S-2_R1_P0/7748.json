@@ -1,0 +1,5 @@
+{
+  "pattern": "(Pe| journeys|Re| Tri| Ve)",
+  "pos_r_squared": 0.9953669309616089,
+  "r_squared": 0.9664232730865479
+}

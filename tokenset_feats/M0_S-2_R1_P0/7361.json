@@ -1,0 +1,4 @@
+{
+  "pattern": "( expect| was| expecting|Like| expected)",
+  "pos_r_squared": 0.9418522119522095
+}

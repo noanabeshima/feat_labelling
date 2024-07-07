@@ -1,0 +1,5 @@
+{
+  "pattern": "( memory| memories| reminder| reminding|sets)",
+  "pos_r_squared": 0.9970577359199524,
+  "r_squared": 0.9954255819320679
+}

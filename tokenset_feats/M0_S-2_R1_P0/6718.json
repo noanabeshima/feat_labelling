@@ -1,0 +1,5 @@
+{
+  "pattern": "( changed| about| pret)",
+  "pos_r_squared": 0.9837210178375244,
+  "r_squared": 0.9754812717437744
+}

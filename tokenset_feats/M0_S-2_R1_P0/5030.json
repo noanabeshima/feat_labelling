@@ -1,0 +1,5 @@
+{
+  "pattern": "( pain| hurt| feel| sick| hello)",
+  "pos_r_squared": 0.9952408075332642,
+  "r_squared": 0.9977774620056152
+}

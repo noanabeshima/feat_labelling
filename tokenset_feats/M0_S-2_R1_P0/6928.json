@@ -1,0 +1,5 @@
+{
+  "pattern": "(eled| kneeling| praying| explaining|elt)",
+  "pos_r_squared": 0.9968947768211365,
+  "r_squared": 0.9961479306221008
+}

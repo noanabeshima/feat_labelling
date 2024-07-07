@@ -1,0 +1,5 @@
+{
+  "pattern": "( shrugged| shrug| Slow| Doll| imag)",
+  "pos_r_squared": 0.9986293911933899,
+  "r_squared": 0.9966840147972107
+}

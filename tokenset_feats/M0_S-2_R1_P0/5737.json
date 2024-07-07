@@ -1,0 +1,4 @@
+{
+  "pattern": "( go|\\n| sn| set| somewhere)",
+  "pos_r_squared": -0.00011289119720458984
+}

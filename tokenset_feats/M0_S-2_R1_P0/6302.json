@@ -1,0 +1,5 @@
+{
+  "pattern": "( Sunny| Coco|up| Rocky|Wednesday)",
+  "pos_r_squared": 0.9873361587524414,
+  "r_squared": 0.9792182445526123
+}

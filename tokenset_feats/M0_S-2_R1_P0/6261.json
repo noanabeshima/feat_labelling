@@ -1,0 +1,5 @@
+{
+  "pattern": "( falling| rising| flowing|pping| closing)",
+  "pos_r_squared": 0.997636616230011,
+  "r_squared": 0.996975839138031
+}

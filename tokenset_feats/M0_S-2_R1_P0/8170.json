@@ -1,0 +1,5 @@
+{
+  "pattern": "( pens| desks|alks|bers| cabinets)",
+  "pos_r_squared": 0.9951721429824829,
+  "r_squared": 0.9702425003051758
+}

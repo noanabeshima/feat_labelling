@@ -1,0 +1,5 @@
+{
+  "pattern": "( fashion| cal| stuff| and| be)",
+  "pos_r_squared": 0.9904752969741821,
+  "r_squared": 0.9742153882980347
+}

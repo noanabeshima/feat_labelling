@@ -1,0 +1,4 @@
+{
+  "pattern": "( sunrise| sunset| tallest|you| Moon)",
+  "pos_r_squared": 0.8710428476333618
+}

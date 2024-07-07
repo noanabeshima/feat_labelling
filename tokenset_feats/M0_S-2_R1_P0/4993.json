@@ -1,0 +1,5 @@
+{
+  "pattern": "( staff|mill|ople| soldier)",
+  "pos_r_squared": 0.9987475872039795,
+  "r_squared": 0.9965295195579529
+}

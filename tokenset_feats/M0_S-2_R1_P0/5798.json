@@ -1,0 +1,5 @@
+{
+  "pattern": "( port| university| University| whales|iversity)",
+  "pos_r_squared": 0.9955725073814392,
+  "r_squared": 0.9929800629615784
+}

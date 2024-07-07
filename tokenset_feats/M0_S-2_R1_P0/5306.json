@@ -1,0 +1,5 @@
+{
+  "pattern": "( lions| lion| chickens| burgers| heroes)",
+  "pos_r_squared": 0.9975417256355286,
+  "r_squared": 0.9957461357116699
+}

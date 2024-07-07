@@ -1,0 +1,5 @@
+{
+  "pattern": "( plain| fact| blank|ka| unlike)",
+  "pos_r_squared": 0.9929776787757874,
+  "r_squared": 0.976696789264679
+}

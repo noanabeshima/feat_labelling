@@ -1,0 +1,5 @@
+{
+  "pattern": "( slides| ponds| drink| Here)",
+  "pos_r_squared": 0.9959552884101868,
+  "r_squared": 0.995814859867096
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( crown| handful| neigh|ST| tea)",
+  "pos_r_squared": 0.9963123798370361,
+  "r_squared": 0.9953423142433167
+}

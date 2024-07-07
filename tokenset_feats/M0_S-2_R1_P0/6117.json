@@ -1,0 +1,5 @@
+{
+  "pattern": "( sleeping|ST| childhood)",
+  "pos_r_squared": 0.9959373474121094,
+  "r_squared": 0.9948300123214722
+}

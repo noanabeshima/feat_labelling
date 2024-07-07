@@ -1,0 +1,5 @@
+{
+  "pattern": "(Bird| ge|Tree|Fish|atch)",
+  "pos_r_squared": 0.9875954389572144,
+  "r_squared": 0.9853913187980652
+}

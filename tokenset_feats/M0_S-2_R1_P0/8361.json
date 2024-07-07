@@ -1,0 +1,5 @@
+{
+  "pattern": "(ck| caused|cks|cking|bs)",
+  "pos_r_squared": 0.9932225346565247,
+  "r_squared": 0.9747133851051331
+}

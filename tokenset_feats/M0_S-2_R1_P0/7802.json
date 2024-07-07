@@ -1,0 +1,5 @@
+{
+  "pattern": "( particular|cast| valuable|ST|Found)",
+  "pos_r_squared": 0.9882736206054688,
+  "r_squared": 0.9009581208229065
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( rust|eed|uttering| hovering|overed)",
+  "pos_r_squared": 0.9901775121688843,
+  "r_squared": 0.9869571328163147
+}

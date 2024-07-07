@@ -1,0 +1,5 @@
+{
+  "pattern": "( mushroom| mushrooms| ins|ST|oat)",
+  "pos_r_squared": 0.998339056968689,
+  "r_squared": 0.9974052309989929
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( revealed| opinion| bur| drain| wider)",
+  "pos_r_squared": 0.9965673089027405,
+  "r_squared": 0.9967069029808044
+}

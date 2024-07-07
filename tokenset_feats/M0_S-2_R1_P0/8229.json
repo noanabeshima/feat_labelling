@@ -1,0 +1,5 @@
+{
+  "pattern": "( Aunt|unt| aunt|eddy|Park)",
+  "pos_r_squared": 0.9940814971923828,
+  "r_squared": 0.9930464625358582
+}

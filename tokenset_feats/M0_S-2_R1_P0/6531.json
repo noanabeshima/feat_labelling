@@ -1,0 +1,5 @@
+{
+  "pattern": "( exit| Leave|exit| thanking|Exit)",
+  "pos_r_squared": 0.9980082511901855,
+  "r_squared": 0.9887516498565674
+}

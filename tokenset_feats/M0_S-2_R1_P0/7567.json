@@ -1,0 +1,5 @@
+{
+  "pattern": "( recognized| indeed|stick|Found|Yellow)",
+  "pos_r_squared": 0.9879295229911804,
+  "r_squared": 0.8914363980293274
+}

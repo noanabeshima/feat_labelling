@@ -1,0 +1,5 @@
+{
+  "pattern": "( officer| day| policeman| worker| felt)",
+  "pos_r_squared": 0.9905315637588501,
+  "r_squared": 0.9952176809310913
+}

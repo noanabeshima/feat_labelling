@@ -1,0 +1,5 @@
+{
+  "pattern": "( gain| grant| gained| earn| earned)",
+  "pos_r_squared": 0.9960435032844543,
+  "r_squared": 0.9959969520568848
+}

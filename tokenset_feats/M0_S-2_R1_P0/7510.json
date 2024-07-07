@@ -1,0 +1,5 @@
+{
+  "pattern": "( follows| follow| joined| followed| hears)",
+  "pos_r_squared": 0.9882878065109253,
+  "r_squared": 0.9871878027915955
+}

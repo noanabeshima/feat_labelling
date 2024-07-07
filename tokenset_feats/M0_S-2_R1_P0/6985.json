@@ -1,0 +1,5 @@
+{
+  "pattern": "( flavor| flavors|alks| flavour| flavours)",
+  "pos_r_squared": 0.9953447580337524,
+  "r_squared": 0.9397658705711365
+}

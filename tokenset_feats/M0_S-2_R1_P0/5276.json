@@ -1,0 +1,5 @@
+{
+  "pattern": "( butterflies| astronauts| superheroes| butterfly|!')",
+  "pos_r_squared": 0.9978887438774109,
+  "r_squared": 0.9978706240653992
+}

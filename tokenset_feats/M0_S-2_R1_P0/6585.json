@@ -1,0 +1,5 @@
+{
+  "pattern": "( wipe| wiping| wipes| rub| mark)",
+  "pos_r_squared": 0.9975774884223938,
+  "r_squared": 0.9971601963043213
+}

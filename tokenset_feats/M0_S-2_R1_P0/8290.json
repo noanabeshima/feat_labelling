@@ -1,0 +1,5 @@
+{
+  "pattern": "( keeper| man| manager| people| have)",
+  "pos_r_squared": 0.9915352463722229,
+  "r_squared": 0.990500271320343
+}

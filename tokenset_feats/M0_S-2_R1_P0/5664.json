@@ -1,0 +1,5 @@
+{
+  "pattern": "( baseball| sports| musical| away)",
+  "pos_r_squared": 0.996911883354187,
+  "r_squared": 0.9961869716644287
+}

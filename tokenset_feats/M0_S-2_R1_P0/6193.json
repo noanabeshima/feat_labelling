@@ -1,0 +1,5 @@
+{
+  "pattern": "( restaurant|kids| beat| princes| mechanics)",
+  "pos_r_squared": 0.997249960899353,
+  "r_squared": 0.9968842267990112
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( flat| gear| traffic| roof|Ice)",
+  "pos_r_squared": 0.9878571033477783,
+  "r_squared": 0.9879191517829895
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( snowball| block| tissue| Stick)",
+  "pos_r_squared": 0.9984578490257263,
+  "r_squared": 0.969864010810852
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( closet| den|ST| fore| inside)",
+  "pos_r_squared": 0.9948285818099976,
+  "r_squared": 0.9932400584220886
+}

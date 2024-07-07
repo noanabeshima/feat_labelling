@@ -1,0 +1,5 @@
+{
+  "pattern": "( problems| solving| found|que| childhood)",
+  "pos_r_squared": 0.9801725149154663,
+  "r_squared": 0.9772642850875854
+}

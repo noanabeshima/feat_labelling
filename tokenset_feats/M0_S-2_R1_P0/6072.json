@@ -1,0 +1,5 @@
+{
+  "pattern": "( popped| y| candles|-| p)",
+  "pos_r_squared": 0.9975494742393494,
+  "r_squared": 0.996751070022583
+}

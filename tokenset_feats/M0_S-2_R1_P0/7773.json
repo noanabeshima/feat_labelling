@@ -1,0 +1,5 @@
+{
+  "pattern": "( bet| otherwise|Maybe| make| plus)",
+  "pos_r_squared": 0.9968501925468445,
+  "r_squared": 0.99705970287323
+}

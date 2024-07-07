@@ -1,0 +1,4 @@
+{
+  "pattern": "( person| bar| cool| human| animal)",
+  "pos_r_squared": 0.9162485599517822
+}

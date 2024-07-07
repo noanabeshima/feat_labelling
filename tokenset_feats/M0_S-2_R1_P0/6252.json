@@ -1,0 +1,5 @@
+{
+  "pattern": "( those| them| others| These| town)",
+  "pos_r_squared": 0.9955140352249146,
+  "r_squared": 0.9979478716850281
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( starts| has|ents| asks| screams)",
+  "pos_r_squared": 0.9880803227424622,
+  "r_squared": 0.9906662702560425
+}

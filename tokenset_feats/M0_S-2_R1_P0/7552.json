@@ -1,0 +1,5 @@
+{
+  "pattern": "( structure| Mos| ahead| tent| skeleton)",
+  "pos_r_squared": 0.9814593195915222,
+  "r_squared": 0.979084312915802
+}

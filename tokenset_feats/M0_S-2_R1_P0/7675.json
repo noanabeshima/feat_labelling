@@ -1,0 +1,5 @@
+{
+  "pattern": "( replied| reply| pair| responded| answer)",
+  "pos_r_squared": 0.998414158821106,
+  "r_squared": 0.9978830218315125
+}

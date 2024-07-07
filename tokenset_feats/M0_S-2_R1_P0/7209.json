@@ -1,0 +1,5 @@
+{
+  "pattern": "( shut| slammed|Turn|Shut|ST)",
+  "pos_r_squared": 0.9910158514976501,
+  "r_squared": 0.9895787239074707
+}

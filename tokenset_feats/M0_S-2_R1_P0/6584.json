@@ -1,0 +1,5 @@
+{
+  "pattern": "( row| rows| trailer|order|Warning)",
+  "pos_r_squared": 0.9962452054023743,
+  "r_squared": 0.9957911372184753
+}

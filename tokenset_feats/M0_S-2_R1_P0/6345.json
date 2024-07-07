@@ -1,0 +1,4 @@
+{
+  "pattern": "( days| week| weeks|days| worked)",
+  "pos_r_squared": 0.9304585456848145
+}

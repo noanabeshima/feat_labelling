@@ -1,0 +1,5 @@
+{
+  "pattern": "( eagerly| patiently| nervously|iously| also)",
+  "pos_r_squared": 0.9927043318748474,
+  "r_squared": 0.9937995076179504
+}

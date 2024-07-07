@@ -1,0 +1,5 @@
+{
+  "pattern": "( picking| fruit| playground| peel|Pick)",
+  "pos_r_squared": 0.9938634037971497,
+  "r_squared": 0.9949185848236084
+}

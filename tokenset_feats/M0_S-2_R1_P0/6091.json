@@ -1,0 +1,5 @@
+{
+  "pattern": "(ind|Sp|incre|V)",
+  "pos_r_squared": 0.9971427321434021,
+  "r_squared": 0.9977049827575684
+}

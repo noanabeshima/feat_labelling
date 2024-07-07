@@ -1,0 +1,5 @@
+{
+  "pattern": "( guard| remain| remained| hides| Stay)",
+  "pos_r_squared": 0.9827800989151001,
+  "r_squared": 0.978681206703186
+}

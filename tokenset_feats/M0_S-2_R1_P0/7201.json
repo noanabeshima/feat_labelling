@@ -1,0 +1,5 @@
+{
+  "pattern": "( forgive|ave| apologised| join| apologize)",
+  "pos_r_squared": 0.9913164973258972,
+  "r_squared": 0.991751492023468
+}

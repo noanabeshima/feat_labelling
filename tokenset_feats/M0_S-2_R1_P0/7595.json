@@ -1,0 +1,5 @@
+{
+  "pattern": "(Buzz| Buzz|Amy|Bow| ups)",
+  "pos_r_squared": 0.996885359287262,
+  "r_squared": 0.9970017075538635
+}

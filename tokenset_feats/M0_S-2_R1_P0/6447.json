@@ -1,0 +1,5 @@
+{
+  "pattern": "( traveled| destination| delivering| travelled| delivered)",
+  "pos_r_squared": 0.9967509508132935,
+  "r_squared": 0.9961221814155579
+}

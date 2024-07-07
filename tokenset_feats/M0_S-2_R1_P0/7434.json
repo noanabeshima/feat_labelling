@@ -1,0 +1,5 @@
+{
+  "pattern": "( neighbourhood| continue| neighborhood| sidewalk|isky)",
+  "pos_r_squared": 0.9974114894866943,
+  "r_squared": 0.9953608512878418
+}

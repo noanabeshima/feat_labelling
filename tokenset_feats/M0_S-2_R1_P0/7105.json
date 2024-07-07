@@ -1,0 +1,5 @@
+{
+  "pattern": "( Even|Sometimes|Even| Although| despite)",
+  "pos_r_squared": 0.9854215383529663,
+  "r_squared": 0.985141396522522
+}

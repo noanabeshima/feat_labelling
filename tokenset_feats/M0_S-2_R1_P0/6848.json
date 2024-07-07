@@ -1,0 +1,5 @@
+{
+  "pattern": "( examine|Try| examining| tested| Try)",
+  "pos_r_squared": 0.9956388473510742,
+  "r_squared": 0.9943863153457642
+}

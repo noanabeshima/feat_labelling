@@ -1,0 +1,5 @@
+{
+  "pattern": "( activities| choices| activity| tasks| routine)",
+  "pos_r_squared": 0.9945169687271118,
+  "r_squared": 0.9899108409881592
+}

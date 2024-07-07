@@ -1,0 +1,5 @@
+{
+  "pattern": "( power| ability|\\.)",
+  "pos_r_squared": 0.9812546968460083,
+  "r_squared": 0.9896185994148254
+}

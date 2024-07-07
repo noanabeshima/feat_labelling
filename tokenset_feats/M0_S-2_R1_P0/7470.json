@@ -1,0 +1,5 @@
+{
+  "pattern": "( winner| expected| worth| causing| expecting)",
+  "pos_r_squared": 0.9820328950881958,
+  "r_squared": 0.9821227788925171
+}

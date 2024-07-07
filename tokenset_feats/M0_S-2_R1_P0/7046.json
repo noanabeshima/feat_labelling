@@ -1,0 +1,5 @@
+{
+  "pattern": "( nod| shrug| nodding| bow| nodded)",
+  "pos_r_squared": 0.9923387765884399,
+  "r_squared": 0.9938743114471436
+}

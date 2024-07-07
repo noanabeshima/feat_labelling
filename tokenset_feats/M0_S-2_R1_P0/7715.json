@@ -1,0 +1,5 @@
+{
+  "pattern": "(Remember| Remember| worry| remember| remembers)",
+  "pos_r_squared": 0.9965075254440308,
+  "r_squared": 0.9963903427124023
+}

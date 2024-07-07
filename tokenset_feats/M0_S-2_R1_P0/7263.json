@@ -1,0 +1,5 @@
+{
+  "pattern": "( tip| tipped| things| stand| tips)",
+  "pos_r_squared": 0.9960045218467712,
+  "r_squared": 0.9988380074501038
+}

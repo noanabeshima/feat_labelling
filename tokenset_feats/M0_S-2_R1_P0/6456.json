@@ -1,0 +1,5 @@
+{
+  "pattern": "( axe| chop| slowed| threw| weapons)",
+  "pos_r_squared": 0.9977523684501648,
+  "r_squared": 0.9972478151321411
+}

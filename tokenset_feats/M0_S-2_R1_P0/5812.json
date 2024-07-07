@@ -1,0 +1,5 @@
+{
+  "pattern": "( laser| Laser| Oxy| Of| indeed)",
+  "pos_r_squared": 0.9941167831420898,
+  "r_squared": 0.9918368458747864
+}

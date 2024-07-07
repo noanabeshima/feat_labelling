@@ -1,0 +1,5 @@
+{
+  "pattern": "( pour| spilled|ap|itter| tea)",
+  "pos_r_squared": 0.9963610172271729,
+  "r_squared": 0.9964749217033386
+}

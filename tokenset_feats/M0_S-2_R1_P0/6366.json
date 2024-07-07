@@ -1,0 +1,5 @@
+{
+  "pattern": "( underground| upstairs| underwater| matt| basement)",
+  "pos_r_squared": 0.9990013241767883,
+  "r_squared": 0.9983688592910767
+}

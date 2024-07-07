@@ -1,0 +1,5 @@
+{
+  "pattern": "( spike| spikes|\\.'| navy)",
+  "pos_r_squared": 0.9898339509963989,
+  "r_squared": 0.9819056391716003
+}

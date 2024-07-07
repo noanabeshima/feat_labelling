@@ -1,0 +1,5 @@
+{
+  "pattern": "(pron| apr| every| early| note)",
+  "pos_r_squared": 0.9950143694877625,
+  "r_squared": 0.9923027157783508
+}

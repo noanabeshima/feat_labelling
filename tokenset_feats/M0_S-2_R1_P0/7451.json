@@ -1,0 +1,5 @@
+{
+  "pattern": "( Slowly| gradually| surely|ly|ically)",
+  "pos_r_squared": 0.9989698529243469,
+  "r_squared": 0.998142421245575
+}

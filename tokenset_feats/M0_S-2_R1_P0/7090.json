@@ -1,0 +1,5 @@
+{
+  "pattern": "( afternoon| noon| waiter| Team|:)",
+  "pos_r_squared": 0.987765371799469,
+  "r_squared": 0.9876890182495117
+}

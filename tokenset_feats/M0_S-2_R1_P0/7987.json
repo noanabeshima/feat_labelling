@@ -1,0 +1,5 @@
+{
+  "pattern": "( surrounded| sense| overwhelmed| surrounding| matters)",
+  "pos_r_squared": 0.9893876910209656,
+  "r_squared": 0.9752202033996582
+}

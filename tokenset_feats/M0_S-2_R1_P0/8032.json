@@ -1,0 +1,5 @@
+{
+  "pattern": "( St|St|place| childhood| princes)",
+  "pos_r_squared": 0.991773247718811,
+  "r_squared": 0.9264754056930542
+}

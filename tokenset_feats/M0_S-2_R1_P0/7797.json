@@ -1,0 +1,5 @@
+{
+  "pattern": "( isn| aren| worn)",
+  "pos_r_squared": 0.995612621307373,
+  "r_squared": 0.9952782988548279
+}

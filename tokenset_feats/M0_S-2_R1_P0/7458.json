@@ -1,0 +1,5 @@
+{
+  "pattern": "( third| Other| Another| other| awake)",
+  "pos_r_squared": 0.9818658232688904,
+  "r_squared": 0.9841383695602417
+}

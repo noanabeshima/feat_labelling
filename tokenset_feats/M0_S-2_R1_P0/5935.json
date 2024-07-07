@@ -1,0 +1,5 @@
+{
+  "pattern": "( seats| seat| tents| man| chairs)",
+  "pos_r_squared": 0.9978698492050171,
+  "r_squared": 0.9964826107025146
+}

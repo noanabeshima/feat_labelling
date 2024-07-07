@@ -1,0 +1,5 @@
+{
+  "pattern": "( trade| traded| switched| trading| swap)",
+  "pos_r_squared": 0.9985823631286621,
+  "r_squared": 0.9979611039161682
+}

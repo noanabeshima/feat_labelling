@@ -1,0 +1,5 @@
+{
+  "pattern": "( parts| halves| decoration|\\.'| copy)",
+  "pos_r_squared": 0.9941549301147461,
+  "r_squared": 0.992939293384552
+}

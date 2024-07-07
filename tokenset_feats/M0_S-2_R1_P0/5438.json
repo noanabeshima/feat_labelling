@@ -1,0 +1,5 @@
+{
+  "pattern": "( letters| Maybe| ste| messages| a)",
+  "pos_r_squared": 0.9970530867576599,
+  "r_squared": 0.9942991137504578
+}

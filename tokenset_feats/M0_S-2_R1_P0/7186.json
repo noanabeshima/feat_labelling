@@ -1,0 +1,5 @@
+{
+  "pattern": "( insect| helicopter| bug| Buzz| monster)",
+  "pos_r_squared": 0.9952340722084045,
+  "r_squared": 0.9941880702972412
+}

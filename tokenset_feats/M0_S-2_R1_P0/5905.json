@@ -1,0 +1,5 @@
+{
+  "pattern": "(loo| tower| sure| scared| They)",
+  "pos_r_squared": 0.9973442554473877,
+  "r_squared": 0.9962702393531799
+}

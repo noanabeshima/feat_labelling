@@ -1,0 +1,5 @@
+{
+  "pattern": "( challenge| challenged|storm| challenges| task)",
+  "pos_r_squared": 0.9975669384002686,
+  "r_squared": 0.9968950152397156
+}

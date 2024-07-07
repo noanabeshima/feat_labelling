@@ -1,0 +1,5 @@
+{
+  "pattern": "( collect| collecting| superheroes|Of| sells)",
+  "pos_r_squared": 0.9938367009162903,
+  "r_squared": 0.9934132099151611
+}

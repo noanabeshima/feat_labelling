@@ -1,0 +1,5 @@
+{
+  "pattern": "( winning| Tom| win| today|y)",
+  "pos_r_squared": 0.9929578304290771,
+  "r_squared": 0.9951905012130737
+}

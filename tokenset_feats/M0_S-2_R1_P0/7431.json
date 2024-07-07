@@ -1,0 +1,5 @@
+{
+  "pattern": "( guys| robbers| builders|Run| villains)",
+  "pos_r_squared": 0.9964749813079834,
+  "r_squared": 0.9917715191841125
+}

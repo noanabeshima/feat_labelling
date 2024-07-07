@@ -1,0 +1,5 @@
+{
+  "pattern": "( squ| slur| birth| she| ball)",
+  "pos_r_squared": 0.9980880618095398,
+  "r_squared": 0.9975866079330444
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( mentioned| requested| mention| recommended| recommend)",
+  "pos_r_squared": 0.9922329783439636,
+  "r_squared": 0.9917418956756592
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( gather| fun| like| gathering| follow)",
+  "pos_r_squared": 0.9947507381439209,
+  "r_squared": 0.9949278235435486
+}

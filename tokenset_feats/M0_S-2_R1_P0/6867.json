@@ -1,0 +1,5 @@
+{
+  "pattern": "(And|Found| plugged| keys| Bing)",
+  "pos_r_squared": 0.9954180717468262,
+  "r_squared": 0.9911832213401794
+}

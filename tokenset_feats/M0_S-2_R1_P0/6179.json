@@ -1,0 +1,5 @@
+{
+  "pattern": "( starting| parking| checking| begin| shopping)",
+  "pos_r_squared": 0.9985154867172241,
+  "r_squared": 0.9982017874717712
+}

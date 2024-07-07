@@ -1,0 +1,5 @@
+{
+  "pattern": "( rust| lap| wow| Wow| cu)",
+  "pos_r_squared": 0.9938079118728638,
+  "r_squared": 0.9900451302528381
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( chose| chosen| praised| chooses| reminder)",
+  "pos_r_squared": 0.9984055757522583,
+  "r_squared": 0.9976338744163513
+}

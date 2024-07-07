@@ -1,0 +1,5 @@
+{
+  "pattern": "( dear| darling|Dear| indeed| Sir)",
+  "pos_r_squared": 0.999123215675354,
+  "r_squared": 0.9978899359703064
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( pill| nurse|ground| plane| sometime)",
+  "pos_r_squared": 0.9938996434211731,
+  "r_squared": 0.9969483613967896
+}

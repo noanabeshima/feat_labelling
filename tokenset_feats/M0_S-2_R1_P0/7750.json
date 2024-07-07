@@ -1,0 +1,5 @@
+{
+  "pattern": "(ipt| sprint| big|add| dr)",
+  "pos_r_squared": 0.9945646524429321,
+  "r_squared": 0.9808400869369507
+}

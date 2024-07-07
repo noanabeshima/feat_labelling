@@ -1,0 +1,5 @@
+{
+  "pattern": "( Wally| Freddy| named|Danny|Henry)",
+  "pos_r_squared": 0.9859877228736877,
+  "r_squared": 0.9941789507865906
+}

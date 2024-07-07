@@ -1,0 +1,5 @@
+{
+  "pattern": "( often| parking| freshly| daily| worn)",
+  "pos_r_squared": 0.9931049942970276,
+  "r_squared": 0.9889962077140808
+}

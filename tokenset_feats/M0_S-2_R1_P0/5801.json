@@ -1,0 +1,5 @@
+{
+  "pattern": "( W| Che|W|C| worm)",
+  "pos_r_squared": 0.9955118298530579,
+  "r_squared": 0.9956021308898926
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( fetch| theirs|lost|etch| \\()",
+  "pos_r_squared": 0.9959705471992493,
+  "r_squared": 0.9877662658691406
+}

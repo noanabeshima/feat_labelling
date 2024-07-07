@@ -1,0 +1,5 @@
+{
+  "pattern": "( football| ball| Ve)",
+  "pos_r_squared": 0.9946824312210083,
+  "r_squared": 0.9938629865646362
+}

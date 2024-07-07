@@ -1,0 +1,5 @@
+{
+  "pattern": "( passed| passing| They| ko| ended)",
+  "pos_r_squared": 0.990992546081543,
+  "r_squared": 0.9903827905654907
+}

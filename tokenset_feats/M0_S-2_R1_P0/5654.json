@@ -1,0 +1,5 @@
+{
+  "pattern": "( reminded| remind| reminds| urging| reminder)",
+  "pos_r_squared": 0.9914463758468628,
+  "r_squared": 0.9911870360374451
+}

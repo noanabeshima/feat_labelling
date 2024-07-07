@@ -1,0 +1,5 @@
+{
+  "pattern": "( collected| collecting| collect| visited| visiting)",
+  "pos_r_squared": 0.9804953336715698,
+  "r_squared": 0.9802364110946655
+}

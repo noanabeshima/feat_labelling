@@ -1,0 +1,5 @@
+{
+  "pattern": "( structure| skeleton| structures| tornado| helicopter)",
+  "pos_r_squared": 0.9939227104187012,
+  "r_squared": 0.9944311380386353
+}

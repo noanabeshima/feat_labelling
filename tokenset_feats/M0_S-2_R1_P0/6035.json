@@ -1,0 +1,5 @@
+{
+  "pattern": "( yawn|ST| loaf| farewell)",
+  "pos_r_squared": 0.9948352575302124,
+  "r_squared": 0.9941896796226501
+}

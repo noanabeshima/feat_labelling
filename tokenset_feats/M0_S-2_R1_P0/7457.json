@@ -1,0 +1,5 @@
+{
+  "pattern": "( web| project|saw| puzzles| webs)",
+  "pos_r_squared": 0.9971158504486084,
+  "r_squared": 0.9975917339324951
+}

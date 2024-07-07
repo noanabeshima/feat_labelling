@@ -1,0 +1,5 @@
+{
+  "pattern": "( mystery| mysteries| threat| mysterious| solution)",
+  "pos_r_squared": 0.9982014894485474,
+  "r_squared": 0.9982510209083557
+}

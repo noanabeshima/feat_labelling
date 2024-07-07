@@ -1,0 +1,5 @@
+{
+  "pattern": "( carrying| holding| heading| showing| parking)",
+  "pos_r_squared": 0.9983457326889038,
+  "r_squared": 0.9984123706817627
+}

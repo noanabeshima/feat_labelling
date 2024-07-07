@@ -1,0 +1,5 @@
+{
+  "pattern": "( flour|w| but| kids)",
+  "pos_r_squared": 0.9809161424636841,
+  "r_squared": 0.9781681895256042
+}

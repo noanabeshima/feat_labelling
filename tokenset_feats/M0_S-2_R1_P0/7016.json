@@ -1,0 +1,5 @@
+{
+  "pattern": "( threat| ruin| motions| annoying| danger)",
+  "pos_r_squared": 0.9980149269104004,
+  "r_squared": 0.9956403970718384
+}

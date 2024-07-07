@@ -1,0 +1,4 @@
+{
+  "pattern": "( menu| wins| waiter| Roll| Day)",
+  "pos_r_squared": 0.9224188923835754
+}

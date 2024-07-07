@@ -1,0 +1,5 @@
+{
+  "pattern": "( airport| dentist| cheap| bag|ictionary)",
+  "pos_r_squared": 0.9959509372711182,
+  "r_squared": 0.9971098899841309
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( reverse| backward| backwards|reverse| reversed)",
+  "pos_r_squared": 0.9864178895950317,
+  "r_squared": 0.9863318204879761
+}

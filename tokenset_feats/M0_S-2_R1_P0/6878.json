@@ -1,0 +1,5 @@
+{
+  "pattern": "( rushed| batter| rushing| checkout| at)",
+  "pos_r_squared": 0.9917164444923401,
+  "r_squared": 0.9930371642112732
+}

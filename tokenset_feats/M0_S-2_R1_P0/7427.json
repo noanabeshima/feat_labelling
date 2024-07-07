@@ -1,0 +1,5 @@
+{
+  "pattern": "( emergency|gency|They| helpful| hero)",
+  "pos_r_squared": 0.9942514896392822,
+  "r_squared": 0.9916340708732605
+}

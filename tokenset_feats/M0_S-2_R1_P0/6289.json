@@ -1,0 +1,5 @@
+{
+  "pattern": "( straight| feat|Fr|Mir|Neigh)",
+  "pos_r_squared": 0.9978137016296387,
+  "r_squared": 0.9892027378082275
+}

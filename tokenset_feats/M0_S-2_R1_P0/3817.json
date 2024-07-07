@@ -1,0 +1,4 @@
+{
+  "pattern": "(Let| Let| let|,| should)",
+  "pos_r_squared": 0.27173149585723877
+}

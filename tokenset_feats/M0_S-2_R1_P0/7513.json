@@ -1,0 +1,5 @@
+{
+  "pattern": "( accident| babies|cca| Cookies|They)",
+  "pos_r_squared": 0.9982317686080933,
+  "r_squared": 0.9968428611755371
+}

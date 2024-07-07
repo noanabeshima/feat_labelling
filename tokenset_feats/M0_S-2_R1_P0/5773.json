@@ -1,0 +1,4 @@
+{
+  "pattern": "( chamber| rooms| beds| wolf| den)",
+  "pos_r_squared": 0.9089652895927429
+}

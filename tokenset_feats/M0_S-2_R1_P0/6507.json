@@ -1,0 +1,5 @@
+{
+  "pattern": "(N| N| Rel| nearest|Kn)",
+  "pos_r_squared": 0.995885968208313,
+  "r_squared": 0.9892786741256714
+}

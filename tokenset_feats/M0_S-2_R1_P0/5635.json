@@ -1,0 +1,5 @@
+{
+  "pattern": "( meeting| dentist| bully| meetings| lectures)",
+  "pos_r_squared": 0.999054491519928,
+  "r_squared": 0.9975700378417969
+}

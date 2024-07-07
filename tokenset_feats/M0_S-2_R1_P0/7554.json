@@ -1,0 +1,5 @@
+{
+  "pattern": "(ched|ching|ung| sock| pinch)",
+  "pos_r_squared": 0.9803106188774109,
+  "r_squared": 0.9801920652389526
+}

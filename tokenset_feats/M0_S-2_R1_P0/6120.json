@@ -1,0 +1,5 @@
+{
+  "pattern": "( agree| opinion| opinions| deciding|oll)",
+  "pos_r_squared": 0.9985443949699402,
+  "r_squared": 0.9985219836235046
+}

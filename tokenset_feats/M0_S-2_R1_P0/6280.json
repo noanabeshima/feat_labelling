@@ -1,0 +1,5 @@
+{
+  "pattern": "( whip| whipped|arn|Neigh|band)",
+  "pos_r_squared": 0.9972795844078064,
+  "r_squared": 0.9896193146705627
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( Out|Out| chances| out| later)",
+  "pos_r_squared": 0.9989330768585205,
+  "r_squared": 0.9987102746963501
+}

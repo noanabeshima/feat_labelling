@@ -1,0 +1,5 @@
+{
+  "pattern": "( skipped|ST|Tyler| resumed| swayed)",
+  "pos_r_squared": 0.9958335161209106,
+  "r_squared": 0.9950369596481323
+}

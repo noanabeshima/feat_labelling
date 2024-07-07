@@ -1,0 +1,5 @@
+{
+  "pattern": "( nicely| politely| evenly| please| Amen)",
+  "pos_r_squared": 0.9953975677490234,
+  "r_squared": 0.9952218532562256
+}

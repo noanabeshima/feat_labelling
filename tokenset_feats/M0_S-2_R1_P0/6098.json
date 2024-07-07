@@ -1,0 +1,5 @@
+{
+  "pattern": "( squeeze|ud| trigger| drink|paste)",
+  "pos_r_squared": 0.9961283206939697,
+  "r_squared": 0.9942377209663391
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( permit| permitted| lit| began| stored)",
+  "pos_r_squared": 0.9976022243499756,
+  "r_squared": 0.9980773329734802
+}

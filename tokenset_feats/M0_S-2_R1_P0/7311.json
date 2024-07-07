@@ -1,0 +1,5 @@
+{
+  "pattern": "( vegetable| Gor| corn|See| animal)",
+  "pos_r_squared": 0.9972538948059082,
+  "r_squared": 0.9976680874824524
+}

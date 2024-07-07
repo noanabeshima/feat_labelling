@@ -1,0 +1,5 @@
+{
+  "pattern": "( puts| putting| tucked|Put|ics)",
+  "pos_r_squared": 0.992928683757782,
+  "r_squared": 0.992725133895874
+}

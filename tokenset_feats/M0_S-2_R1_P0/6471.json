@@ -1,0 +1,5 @@
+{
+  "pattern": "( contest| competition|hole| compete| ability)",
+  "pos_r_squared": 0.9833934307098389,
+  "r_squared": 0.9824696779251099
+}

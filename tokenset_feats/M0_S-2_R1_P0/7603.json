@@ -1,0 +1,5 @@
+{
+  "pattern": "( whatever| wherever| entire| explore| Everywhere)",
+  "pos_r_squared": 0.9914659857749939,
+  "r_squared": 0.9924355745315552
+}

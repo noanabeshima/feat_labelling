@@ -1,0 +1,5 @@
+{
+  "pattern": "( flashlight| goggles| try|ooters|Sp)",
+  "pos_r_squared": 0.9925668239593506,
+  "r_squared": 0.9906806349754333
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( brick| bricks| messed)",
+  "pos_r_squared": 0.9984520077705383,
+  "r_squared": 0.9980549812316895
+}

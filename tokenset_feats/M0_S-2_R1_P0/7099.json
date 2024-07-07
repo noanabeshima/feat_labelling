@@ -1,0 +1,5 @@
+{
+  "pattern": "( holes| gap| bridges)",
+  "pos_r_squared": 0.9963920712471008,
+  "r_squared": 0.9953874945640564
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( calendar| Sure| backed|L| born)",
+  "pos_r_squared": 0.9932510256767273,
+  "r_squared": 0.9936199188232422
+}

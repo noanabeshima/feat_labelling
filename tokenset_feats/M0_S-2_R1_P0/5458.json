@@ -1,0 +1,4 @@
+{
+  "pattern": "(The| the| little| The|\\.)",
+  "pos_r_squared": 0.8886969089508057
+}

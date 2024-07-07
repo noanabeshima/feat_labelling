@@ -1,0 +1,5 @@
+{
+  "pattern": "( loose| mention| ig| reveal| explaining)",
+  "pos_r_squared": 0.9900878071784973,
+  "r_squared": 0.9895423650741577
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( extra| spare| Here|Only| av)",
+  "pos_r_squared": 0.9943571090698242,
+  "r_squared": 0.9904499650001526
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( aer|There| hamm| described| found)",
+  "pos_r_squared": 0.9928945302963257,
+  "r_squared": 0.9887293577194214
+}

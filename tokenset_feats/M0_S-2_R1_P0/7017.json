@@ -1,0 +1,5 @@
+{
+  "pattern": "(elt| kneeling|ne|se|el)",
+  "pos_r_squared": 0.9948236346244812,
+  "r_squared": 0.9896692037582397
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( price| cost| dollars| costs| carts)",
+  "pos_r_squared": 0.994364857673645,
+  "r_squared": 0.9925217628479004
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( tells| telling| Rat| Tell| told)",
+  "pos_r_squared": 0.9886139035224915,
+  "r_squared": 0.9869693517684937
+}

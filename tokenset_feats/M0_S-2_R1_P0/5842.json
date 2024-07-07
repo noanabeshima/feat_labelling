@@ -1,0 +1,5 @@
+{
+  "pattern": "( dresses| dressing| hops| skirts| saw)",
+  "pos_r_squared": 0.9935468435287476,
+  "r_squared": 0.9919862151145935
+}

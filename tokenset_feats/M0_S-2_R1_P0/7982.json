@@ -1,0 +1,5 @@
+{
+  "pattern": "( spaceship| party| fort| space| remote)",
+  "pos_r_squared": 0.9878780245780945,
+  "r_squared": 0.9843154549598694
+}

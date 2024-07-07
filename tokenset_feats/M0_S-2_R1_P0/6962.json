@@ -1,0 +1,5 @@
+{
+  "pattern": "( itch| worries|Uh| confusion| troubles)",
+  "pos_r_squared": 0.992067277431488,
+  "r_squared": 0.98990797996521
+}

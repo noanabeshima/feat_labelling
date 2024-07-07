@@ -1,0 +1,5 @@
+{
+  "pattern": "( rush| rushing| also| rushed| only)",
+  "pos_r_squared": 0.9958192706108093,
+  "r_squared": 0.9941291213035583
+}

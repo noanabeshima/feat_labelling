@@ -1,0 +1,5 @@
+{
+  "pattern": "( gas|tub| motor| Mack|!\\?\")",
+  "pos_r_squared": 0.9952521920204163,
+  "r_squared": 0.995357096195221
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( short| ins| grandchildren)",
+  "pos_r_squared": 0.9900832772254944,
+  "r_squared": 0.9894629716873169
+}

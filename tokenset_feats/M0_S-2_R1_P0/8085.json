@@ -1,0 +1,5 @@
+{
+  "pattern": "( rule| declared| force| ruled| host)",
+  "pos_r_squared": 0.993922233581543,
+  "r_squared": 0.9248895645141602
+}

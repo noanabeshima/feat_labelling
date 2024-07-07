@@ -1,0 +1,5 @@
+{
+  "pattern": "( return| rise| returning|Send|lost)",
+  "pos_r_squared": 0.9964683651924133,
+  "r_squared": 0.9953296184539795
+}

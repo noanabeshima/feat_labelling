@@ -1,0 +1,5 @@
+{
+  "pattern": "( baked| prepared| mailed| planned| delivered)",
+  "pos_r_squared": 0.9946684837341309,
+  "r_squared": 0.9944907426834106
+}

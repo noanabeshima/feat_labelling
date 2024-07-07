@@ -1,0 +1,5 @@
+{
+  "pattern": "( superhero| superheroes| fan| robot| generous)",
+  "pos_r_squared": 0.9956501126289368,
+  "r_squared": 0.9963957071304321
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( fort| tent|mill| wasn|allows)",
+  "pos_r_squared": 0.9961099624633789,
+  "r_squared": 0.9962751269340515
+}

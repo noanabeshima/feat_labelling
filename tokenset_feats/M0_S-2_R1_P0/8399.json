@@ -1,0 +1,5 @@
+{
+  "pattern": "( suggest| Next|st| drawn| shr)",
+  "pos_r_squared": 0.9821727275848389,
+  "r_squared": 0.9780949950218201
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( return| back| returning| slide| working)",
+  "pos_r_squared": 0.9983612895011902,
+  "r_squared": 0.9981662631034851
+}

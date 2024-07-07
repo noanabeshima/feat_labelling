@@ -1,0 +1,5 @@
+{
+  "pattern": "( upstairs| please| downstairs|Inside| nood)",
+  "pos_r_squared": 0.9990584254264832,
+  "r_squared": 0.9990029335021973
+}

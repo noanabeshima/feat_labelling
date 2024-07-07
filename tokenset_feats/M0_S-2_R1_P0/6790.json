@@ -1,0 +1,5 @@
+{
+  "pattern": "( whisper| talk| whispering| whispers| voice)",
+  "pos_r_squared": 0.990483820438385,
+  "r_squared": 0.9950847029685974
+}

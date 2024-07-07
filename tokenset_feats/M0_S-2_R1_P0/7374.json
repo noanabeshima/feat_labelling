@@ -1,0 +1,5 @@
+{
+  "pattern": "( sold| compliment| sells|Found)",
+  "pos_r_squared": 0.9979357719421387,
+  "r_squared": 0.9821601510047913
+}

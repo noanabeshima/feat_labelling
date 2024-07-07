@@ -1,0 +1,5 @@
+{
+  "pattern": "(ule| anchor| groceries| delivered|ich)",
+  "pos_r_squared": 0.9935784935951233,
+  "r_squared": 0.9898014664649963
+}

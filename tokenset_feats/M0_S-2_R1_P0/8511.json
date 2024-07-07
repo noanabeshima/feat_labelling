@@ -1,0 +1,5 @@
+{
+  "pattern": "( Quick| downstairs| Start| kitchen|Start)",
+  "pos_r_squared": 0.9868195056915283,
+  "r_squared": 0.9902591109275818
+}

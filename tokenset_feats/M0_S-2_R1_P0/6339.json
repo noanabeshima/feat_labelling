@@ -1,0 +1,5 @@
+{
+  "pattern": "( week| night| lap| tomorrow|Imagine)",
+  "pos_r_squared": 0.9928270578384399,
+  "r_squared": 0.998421847820282
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( passing| pass| passed| messing| examining)",
+  "pos_r_squared": 0.9926403760910034,
+  "r_squared": 0.9941759705543518
+}

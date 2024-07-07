@@ -1,0 +1,5 @@
+{
+  "pattern": "( refused| danger| threat| trouble| During)",
+  "pos_r_squared": 0.9947970509529114,
+  "r_squared": 0.9949910640716553
+}

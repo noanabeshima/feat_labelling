@@ -1,0 +1,5 @@
+{
+  "pattern": "( tr| sc| bl| f| played)",
+  "pos_r_squared": 0.9976983666419983,
+  "r_squared": 0.9970833659172058
+}

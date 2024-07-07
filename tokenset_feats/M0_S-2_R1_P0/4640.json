@@ -1,0 +1,5 @@
+{
+  "pattern": "( ot| upside| crit| probably| sho)",
+  "pos_r_squared": 0.9984275698661804,
+  "r_squared": 0.9976779222488403
+}

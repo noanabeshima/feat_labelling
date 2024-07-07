@@ -1,0 +1,5 @@
+{
+  "pattern": "( cows|ids|They| grandchildren| hugged)",
+  "pos_r_squared": 0.9966050386428833,
+  "r_squared": 0.9962787628173828
+}

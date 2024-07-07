@@ -1,0 +1,5 @@
+{
+  "pattern": "( disappear| appeared| ins| disappeared| frozen)",
+  "pos_r_squared": 0.9962247610092163,
+  "r_squared": 0.9961712956428528
+}

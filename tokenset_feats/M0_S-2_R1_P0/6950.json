@@ -1,0 +1,5 @@
+{
+  "pattern": "( between| plus| robot|Park| Only)",
+  "pos_r_squared": 0.9885537624359131,
+  "r_squared": 0.9868732690811157
+}

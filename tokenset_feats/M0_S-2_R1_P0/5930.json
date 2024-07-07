@@ -1,0 +1,5 @@
+{
+  "pattern": "( invited| inviting| Sale|Tyler| joined)",
+  "pos_r_squared": 0.9971755146980286,
+  "r_squared": 0.9973862767219543
+}

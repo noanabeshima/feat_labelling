@@ -1,0 +1,5 @@
+{
+  "pattern": "(During| During|At| during| earthquake)",
+  "pos_r_squared": 0.9975422024726868,
+  "r_squared": 0.9974961280822754
+}

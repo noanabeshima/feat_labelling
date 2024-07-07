@@ -1,0 +1,5 @@
+{
+  "pattern": "( broom| sweep| sweeping| torch|arrow)",
+  "pos_r_squared": 0.9944285750389099,
+  "r_squared": 0.9635574817657471
+}

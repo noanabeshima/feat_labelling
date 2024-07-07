@@ -1,0 +1,5 @@
+{
+  "pattern": "( candles| brand| exactly| markings)",
+  "pos_r_squared": 0.9963921308517456,
+  "r_squared": 0.9862421154975891
+}

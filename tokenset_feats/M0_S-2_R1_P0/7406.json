@@ -1,0 +1,5 @@
+{
+  "pattern": "( warn| introduce| warned| prevent|Warning)",
+  "pos_r_squared": 0.9958042502403259,
+  "r_squared": 0.9973264336585999
+}

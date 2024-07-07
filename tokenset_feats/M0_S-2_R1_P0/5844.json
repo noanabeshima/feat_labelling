@@ -1,0 +1,5 @@
+{
+  "pattern": "( suggested| suggest| recommended| suggestion| Shall)",
+  "pos_r_squared": 0.9918786287307739,
+  "r_squared": 0.9917123913764954
+}

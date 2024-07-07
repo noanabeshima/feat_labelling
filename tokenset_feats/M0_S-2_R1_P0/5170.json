@@ -1,0 +1,5 @@
+{
+  "pattern": "( earthquake| fle| liked| game| The)",
+  "pos_r_squared": 0.9967811703681946,
+  "r_squared": 0.9957266449928284
+}

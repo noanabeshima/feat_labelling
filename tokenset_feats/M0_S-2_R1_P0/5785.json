@@ -1,0 +1,5 @@
+{
+  "pattern": "( imagine| imagining|Imagine| except| described)",
+  "pos_r_squared": 0.995937705039978,
+  "r_squared": 0.9935340285301208
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( west| east| Silver| Wonder| lab)",
+  "pos_r_squared": 0.9817987680435181,
+  "r_squared": 0.9818593859672546
+}

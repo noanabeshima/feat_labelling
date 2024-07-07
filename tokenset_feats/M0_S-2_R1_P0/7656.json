@@ -1,0 +1,5 @@
+{
+  "pattern": "( shelves| menu|alks| stores| section)",
+  "pos_r_squared": 0.9921420812606812,
+  "r_squared": 0.9886207580566406
+}

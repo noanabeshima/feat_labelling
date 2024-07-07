@@ -1,0 +1,5 @@
+{
+  "pattern": "( junk| Toys|arn| pige)",
+  "pos_r_squared": 0.9980260133743286,
+  "r_squared": 0.9971879124641418
+}

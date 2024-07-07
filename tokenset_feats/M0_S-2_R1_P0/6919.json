@@ -1,0 +1,5 @@
+{
+  "pattern": "( s| Ach| hairst| inqu| c)",
+  "pos_r_squared": 0.9976490139961243,
+  "r_squared": 0.9976838827133179
+}

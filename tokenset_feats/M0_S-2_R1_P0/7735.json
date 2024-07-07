@@ -1,0 +1,5 @@
+{
+  "pattern": "( usual| sneaky| cheap|Without| Park)",
+  "pos_r_squared": 0.9962989687919617,
+  "r_squared": 0.9931376576423645
+}

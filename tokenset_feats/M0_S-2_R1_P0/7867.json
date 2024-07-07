@@ -1,0 +1,5 @@
+{
+  "pattern": "( gen|Rock|cut|act| pap)",
+  "pos_r_squared": 0.9862202405929565,
+  "r_squared": 0.984246015548706
+}

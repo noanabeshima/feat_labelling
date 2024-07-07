@@ -1,0 +1,5 @@
+{
+  "pattern": "( score| goals| scored| scores| winning)",
+  "pos_r_squared": 0.991954505443573,
+  "r_squared": 0.9932778477668762
+}

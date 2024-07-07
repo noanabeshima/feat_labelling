@@ -1,0 +1,5 @@
+{
+  "pattern": "( oranges| gifts| gift| presents| support)",
+  "pos_r_squared": 0.9960736036300659,
+  "r_squared": 0.9959807395935059
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( following| leading| 5| follows| resisting)",
+  "pos_r_squared": 0.9983351230621338,
+  "r_squared": 0.998139500617981
+}

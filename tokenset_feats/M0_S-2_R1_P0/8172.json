@@ -1,0 +1,5 @@
+{
+  "pattern": "( Uncle|cle|Tyler| uncle| start)",
+  "pos_r_squared": 0.9854912757873535,
+  "r_squared": 0.9906772971153259
+}

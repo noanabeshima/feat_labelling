@@ -1,0 +1,5 @@
+{
+  "pattern": "( elevator|ST| raft|amp| train)",
+  "pos_r_squared": 0.9970033764839172,
+  "r_squared": 0.9975247383117676
+}

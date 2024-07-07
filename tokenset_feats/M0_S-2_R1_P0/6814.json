@@ -1,0 +1,5 @@
+{
+  "pattern": "( afternoon| indeed| then| described| finally)",
+  "pos_r_squared": 0.9943727254867554,
+  "r_squared": 0.9943050146102905
+}

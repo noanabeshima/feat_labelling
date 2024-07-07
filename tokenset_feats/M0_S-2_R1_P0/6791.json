@@ -1,0 +1,5 @@
+{
+  "pattern": "( enjoying| exercise| exercising| holiday| exercised)",
+  "pos_r_squared": 0.9926586151123047,
+  "r_squared": 0.98975670337677
+}

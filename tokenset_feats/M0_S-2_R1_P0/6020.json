@@ -1,0 +1,5 @@
+{
+  "pattern": "( pack| packs| support| Put|Imagine)",
+  "pos_r_squared": 0.9976587295532227,
+  "r_squared": 0.9946794509887695
+}

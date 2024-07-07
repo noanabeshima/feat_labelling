@@ -1,0 +1,5 @@
+{
+  "pattern": "( opening| bakery| shops|Open| stores)",
+  "pos_r_squared": 0.9909512400627136,
+  "r_squared": 0.9898229241371155
+}

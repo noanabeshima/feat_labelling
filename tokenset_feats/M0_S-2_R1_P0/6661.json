@@ -1,0 +1,5 @@
+{
+  "pattern": "( city| country| organized| Around| cities)",
+  "pos_r_squared": 0.9929604530334473,
+  "r_squared": 0.9746327996253967
+}

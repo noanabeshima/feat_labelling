@@ -1,0 +1,5 @@
+{
+  "pattern": "( dinosaur| Dino| planets| Chess| hunters)",
+  "pos_r_squared": 0.9902029037475586,
+  "r_squared": 0.9784931540489197
+}

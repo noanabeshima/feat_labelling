@@ -1,0 +1,5 @@
+{
+  "pattern": "( bananas| p| monkeys| banana| Ha)",
+  "pos_r_squared": 0.9970325827598572,
+  "r_squared": 0.9955664277076721
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( piles| pairs| depend| pick| compromise)",
+  "pos_r_squared": 0.9983820915222168,
+  "r_squared": 0.9977010488510132
+}

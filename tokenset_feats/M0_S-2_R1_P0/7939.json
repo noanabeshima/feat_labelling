@@ -1,0 +1,5 @@
+{
+  "pattern": "( lid| outside| high|Tyler| leak)",
+  "pos_r_squared": 0.9881195425987244,
+  "r_squared": 0.9901299476623535
+}

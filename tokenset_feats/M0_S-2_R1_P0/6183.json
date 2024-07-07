@@ -1,0 +1,5 @@
+{
+  "pattern": "( themselves| ourselves| him| ste| their)",
+  "pos_r_squared": 0.9960551261901855,
+  "r_squared": 0.9929357171058655
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( holiday| holidays| grandchildren| symbols|lost)",
+  "pos_r_squared": 0.9969340562820435,
+  "r_squared": 0.9954333901405334
+}

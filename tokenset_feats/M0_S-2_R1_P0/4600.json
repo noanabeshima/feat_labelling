@@ -1,0 +1,5 @@
+{
+  "pattern": "( finished| finishes|Th|\\.| tall)",
+  "pos_r_squared": 0.9951862692832947,
+  "r_squared": 0.9955337643623352
+}

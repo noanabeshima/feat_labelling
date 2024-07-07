@@ -1,0 +1,5 @@
+{
+  "pattern": "( seem| seemed| seems| Int| over)",
+  "pos_r_squared": 0.9967013597488403,
+  "r_squared": 0.9988423585891724
+}

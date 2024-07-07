@@ -1,0 +1,5 @@
+{
+  "pattern": "( between| among|rim| Round| freshly)",
+  "pos_r_squared": 0.9969025254249573,
+  "r_squared": 0.9939723014831543
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( camp| different| newly| bike| let)",
+  "pos_r_squared": 0.9834654331207275,
+  "r_squared": 0.9885439872741699
+}

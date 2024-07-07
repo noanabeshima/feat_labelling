@@ -1,0 +1,5 @@
+{
+  "pattern": "( remind| teaching| reminds| reminder| reminding)",
+  "pos_r_squared": 0.9965347647666931,
+  "r_squared": 0.9954437613487244
+}

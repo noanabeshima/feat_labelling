@@ -1,0 +1,5 @@
+{
+  "pattern": "(By|bye| By| matters| mil)",
+  "pos_r_squared": 0.9962369203567505,
+  "r_squared": 0.9938331246376038
+}

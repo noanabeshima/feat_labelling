@@ -1,0 +1,5 @@
+{
+  "pattern": "( gain| sore| cre| gained| finds)",
+  "pos_r_squared": 0.9962913990020752,
+  "r_squared": 0.9963009357452393
+}

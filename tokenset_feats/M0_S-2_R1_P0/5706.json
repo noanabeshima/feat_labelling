@@ -1,0 +1,5 @@
+{
+  "pattern": "( fashion|please| demand| suggest| demanded)",
+  "pos_r_squared": 0.994465708732605,
+  "r_squared": 0.9946499466896057
+}

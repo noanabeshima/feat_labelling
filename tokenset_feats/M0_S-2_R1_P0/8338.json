@@ -1,0 +1,5 @@
+{
+  "pattern": "(Open| Open|Prin| plugged|Give)",
+  "pos_r_squared": 0.9938176870346069,
+  "r_squared": 0.9925000667572021
+}

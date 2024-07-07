@@ -1,0 +1,5 @@
+{
+  "pattern": "( alive| active| energetic| lively| lived)",
+  "pos_r_squared": 0.9935096502304077,
+  "r_squared": 0.9944581389427185
+}

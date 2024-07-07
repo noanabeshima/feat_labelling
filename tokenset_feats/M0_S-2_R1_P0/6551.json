@@ -1,0 +1,5 @@
+{
+  "pattern": "( ignored| ignoring| a| copied| different)",
+  "pos_r_squared": 0.9957285523414612,
+  "r_squared": 0.991980254650116
+}

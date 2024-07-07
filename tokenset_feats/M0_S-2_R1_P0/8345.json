@@ -1,0 +1,5 @@
+{
+  "pattern": "( further| \\(| Around)",
+  "pos_r_squared": 0.9891698360443115,
+  "r_squared": 0.9853842258453369
+}

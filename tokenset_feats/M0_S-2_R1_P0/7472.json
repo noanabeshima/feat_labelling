@@ -1,0 +1,5 @@
+{
+  "pattern": "( bump| pret| disturb| step| lean)",
+  "pos_r_squared": 0.9968895316123962,
+  "r_squared": 0.9968727231025696
+}

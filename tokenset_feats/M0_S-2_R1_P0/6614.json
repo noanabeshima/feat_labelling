@@ -1,0 +1,5 @@
+{
+  "pattern": "(Dog| Dog| duck| came| pal)",
+  "pos_r_squared": 0.9947773814201355,
+  "r_squared": 0.9945753812789917
+}

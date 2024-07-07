@@ -1,0 +1,5 @@
+{
+  "pattern": "( delay| delayed| Enjoy| anx| delaying)",
+  "pos_r_squared": 0.9958608746528625,
+  "r_squared": 0.9921965003013611
+}

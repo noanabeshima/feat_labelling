@@ -1,0 +1,5 @@
+{
+  "pattern": "( cups| pots| drinks| bottles| glasses)",
+  "pos_r_squared": 0.9869176149368286,
+  "r_squared": 0.986025333404541
+}

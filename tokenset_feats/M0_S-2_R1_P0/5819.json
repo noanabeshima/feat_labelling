@@ -1,0 +1,5 @@
+{
+  "pattern": "( television| screen| channel| watched| sleeping)",
+  "pos_r_squared": 0.9988875389099121,
+  "r_squared": 0.9980738162994385
+}

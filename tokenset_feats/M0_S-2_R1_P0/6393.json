@@ -1,0 +1,5 @@
+{
+  "pattern": "( throwing| fun| threw| throw| tossing)",
+  "pos_r_squared": 0.9911503195762634,
+  "r_squared": 0.9910067319869995
+}

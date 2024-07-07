@@ -1,0 +1,5 @@
+{
+  "pattern": "( pear| game| soccer| corn| peach)",
+  "pos_r_squared": 0.9916464686393738,
+  "r_squared": 0.9954185485839844
+}

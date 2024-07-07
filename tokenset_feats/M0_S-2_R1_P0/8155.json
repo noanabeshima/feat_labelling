@@ -1,0 +1,5 @@
+{
+  "pattern": "( port| parking| cents| Cookies)",
+  "pos_r_squared": 0.9926161766052246,
+  "r_squared": 0.9863013029098511
+}

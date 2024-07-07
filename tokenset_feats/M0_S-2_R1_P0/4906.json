@@ -1,0 +1,5 @@
+{
+  "pattern": "( parts| news| clues| earlier|Isn)",
+  "pos_r_squared": 0.9924526810646057,
+  "r_squared": 0.9925129413604736
+}

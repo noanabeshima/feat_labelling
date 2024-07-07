@@ -1,0 +1,5 @@
+{
+  "pattern": "(boat| tractor|mer| boat| horses)",
+  "pos_r_squared": 0.9848116040229797,
+  "r_squared": 0.9851881861686707
+}

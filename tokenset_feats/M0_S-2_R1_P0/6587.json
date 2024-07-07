@@ -1,0 +1,5 @@
+{
+  "pattern": "( staff| Spark| Buzz|ocular| True)",
+  "pos_r_squared": 0.9937969446182251,
+  "r_squared": 0.9896190762519836
+}

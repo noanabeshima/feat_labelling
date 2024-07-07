@@ -1,0 +1,5 @@
+{
+  "pattern": "( ideas| plans| opinions| symbols| purpose)",
+  "pos_r_squared": 0.9936437606811523,
+  "r_squared": 0.9923908114433289
+}

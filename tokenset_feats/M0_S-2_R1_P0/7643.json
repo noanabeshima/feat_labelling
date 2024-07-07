@@ -1,0 +1,5 @@
+{
+  "pattern": "(uzz| show|uss| showed| triumph)",
+  "pos_r_squared": 0.9954841136932373,
+  "r_squared": 0.992361843585968
+}

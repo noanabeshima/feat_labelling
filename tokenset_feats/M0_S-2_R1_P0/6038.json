@@ -1,0 +1,5 @@
+{
+  "pattern": "( plates| cob| the| a| Sue)",
+  "pos_r_squared": 0.9952229857444763,
+  "r_squared": 0.9895207285881042
+}

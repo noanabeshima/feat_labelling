@@ -1,0 +1,5 @@
+{
+  "pattern": "( puzzles| troubles| repairs| new|Nothing)",
+  "pos_r_squared": 0.9977728128433228,
+  "r_squared": 0.9976562261581421
+}

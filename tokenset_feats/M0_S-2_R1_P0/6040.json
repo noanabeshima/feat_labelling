@@ -1,0 +1,5 @@
+{
+  "pattern": "( Look| Watch| Remember| dentist| Listen)",
+  "pos_r_squared": 0.9958778023719788,
+  "r_squared": 0.9945787191390991
+}

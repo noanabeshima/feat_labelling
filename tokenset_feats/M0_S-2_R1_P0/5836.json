@@ -1,0 +1,4 @@
+{
+  "pattern": "( seats| keys| tickets| flags| exactly)",
+  "pos_r_squared": 0.9288663268089294
+}

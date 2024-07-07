@@ -1,0 +1,5 @@
+{
+  "pattern": "(Their| tables| desks| Our|Was)",
+  "pos_r_squared": 0.996346116065979,
+  "r_squared": 0.9922600984573364
+}

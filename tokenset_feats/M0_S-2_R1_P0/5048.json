@@ -1,0 +1,5 @@
+{
+  "pattern": "( skip| skipping|Skip| invite| my)",
+  "pos_r_squared": 0.9968217611312866,
+  "r_squared": 0.9965677857398987
+}

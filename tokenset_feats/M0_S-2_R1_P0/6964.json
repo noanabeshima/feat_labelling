@@ -1,0 +1,5 @@
+{
+  "pattern": "(Next| Next| Last| Also| That)",
+  "pos_r_squared": 0.9947682619094849,
+  "r_squared": 0.9930848479270935
+}

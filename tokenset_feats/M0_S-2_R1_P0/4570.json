@@ -1,0 +1,5 @@
+{
+  "pattern": "( parade| festival| floats| celebration|ades)",
+  "pos_r_squared": 0.9956311583518982,
+  "r_squared": 0.994387149810791
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( root| roots| gre| bear|After)",
+  "pos_r_squared": 0.9861119985580444,
+  "r_squared": 0.9840124249458313
+}

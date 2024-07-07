@@ -1,0 +1,5 @@
+{
+  "pattern": "( Did| Bl| Should|Bad|Did)",
+  "pos_r_squared": 0.9977633953094482,
+  "r_squared": 0.9954690933227539
+}

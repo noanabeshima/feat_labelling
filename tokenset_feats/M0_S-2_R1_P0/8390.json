@@ -1,0 +1,5 @@
+{
+  "pattern": "( heroes| wealthy|ites| hero|est)",
+  "pos_r_squared": 0.9827288389205933,
+  "r_squared": 0.985554575920105
+}

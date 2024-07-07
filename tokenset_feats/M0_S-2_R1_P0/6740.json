@@ -1,0 +1,5 @@
+{
+  "pattern": "( beds| praying| sleeps| exams| cares)",
+  "pos_r_squared": 0.9943771362304688,
+  "r_squared": 0.9866991639137268
+}

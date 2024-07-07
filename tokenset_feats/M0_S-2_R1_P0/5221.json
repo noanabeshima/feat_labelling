@@ -1,0 +1,5 @@
+{
+  "pattern": "( novel| poem| east| poems| speaking)",
+  "pos_r_squared": 0.9855495095252991,
+  "r_squared": 0.9851911067962646
+}

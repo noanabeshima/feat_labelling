@@ -1,0 +1,5 @@
+{
+  "pattern": "( cooked| black| burnt| peeled| smashed)",
+  "pos_r_squared": 0.9918255805969238,
+  "r_squared": 0.9920860528945923
+}

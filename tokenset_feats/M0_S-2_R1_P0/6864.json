@@ -1,0 +1,5 @@
+{
+  "pattern": "( asleep| weeping| weep|ivering|hello)",
+  "pos_r_squared": 0.9895444512367249,
+  "r_squared": 0.989578366279602
+}

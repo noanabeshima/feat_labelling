@@ -1,0 +1,5 @@
+{
+  "pattern": "( leader| helper| member| host| sk)",
+  "pos_r_squared": 0.9967342615127563,
+  "r_squared": 0.9956609010696411
+}

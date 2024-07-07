@@ -1,0 +1,5 @@
+{
+  "pattern": "( nurse| Nurse|L| She|urse)",
+  "pos_r_squared": 0.9914080500602722,
+  "r_squared": 0.9922595620155334
+}

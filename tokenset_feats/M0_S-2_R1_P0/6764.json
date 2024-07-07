@@ -1,0 +1,5 @@
+{
+  "pattern": "( S| som|oh| Mack| allergic)",
+  "pos_r_squared": 0.9984266757965088,
+  "r_squared": 0.997796893119812
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( bounced|ived| tapped| bounces|Skip)",
+  "pos_r_squared": 0.9858213663101196,
+  "r_squared": 0.9816481471061707
+}

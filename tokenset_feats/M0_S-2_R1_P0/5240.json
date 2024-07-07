@@ -1,0 +1,5 @@
+{
+  "pattern": "( True|True| Olive| Sunny| and)",
+  "pos_r_squared": 0.9915198683738708,
+  "r_squared": 0.9895792007446289
+}

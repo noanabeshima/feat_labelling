@@ -1,0 +1,5 @@
+{
+  "pattern": "( belong| av| Rel|Prin| someone)",
+  "pos_r_squared": 0.9929362535476685,
+  "r_squared": 0.9932949542999268
+}

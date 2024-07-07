@@ -1,0 +1,5 @@
+{
+  "pattern": "( suffer| suffered| suffering|ST| Need)",
+  "pos_r_squared": 0.996828019618988,
+  "r_squared": 0.9966042041778564
+}

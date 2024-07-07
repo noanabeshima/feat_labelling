@@ -1,0 +1,5 @@
+{
+  "pattern": "( thunder| hi|Of|After| Sorry)",
+  "pos_r_squared": 0.9938063025474548,
+  "r_squared": 0.9948170781135559
+}

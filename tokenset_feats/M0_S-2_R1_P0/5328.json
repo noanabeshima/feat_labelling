@@ -1,0 +1,5 @@
+{
+  "pattern": "( knee| toe|\\n|eddy| lip)",
+  "pos_r_squared": 0.9899464845657349,
+  "r_squared": 0.9943915605545044
+}

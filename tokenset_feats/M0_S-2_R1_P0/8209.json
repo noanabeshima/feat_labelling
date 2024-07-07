@@ -1,0 +1,5 @@
+{
+  "pattern": "( spill| spilled| spilling| spills| floor)",
+  "pos_r_squared": 0.9820224046707153,
+  "r_squared": 0.9855139851570129
+}

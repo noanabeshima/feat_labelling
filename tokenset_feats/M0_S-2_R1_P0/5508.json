@@ -1,0 +1,5 @@
+{
+  "pattern": "(time|rying| hour| agreement| while)",
+  "pos_r_squared": 0.9955929517745972,
+  "r_squared": 0.9982462525367737
+}

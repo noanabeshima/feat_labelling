@@ -1,0 +1,4 @@
+{
+  "pattern": "( liquid| potion| soup|\\.'| something)",
+  "pos_r_squared": 0.9653321504592896
+}

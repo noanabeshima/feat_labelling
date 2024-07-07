@@ -1,0 +1,5 @@
+{
+  "pattern": "( rings| burst| pops|Ring| dropped)",
+  "pos_r_squared": 0.9951077103614807,
+  "r_squared": 0.9946756958961487
+}

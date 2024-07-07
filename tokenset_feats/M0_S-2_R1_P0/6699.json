@@ -1,0 +1,5 @@
+{
+  "pattern": "( Follow|Follow| follow|Run|Eat)",
+  "pos_r_squared": 0.9937201738357544,
+  "r_squared": 0.993966281414032
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "(:| gave|\"\\.|\\.| learned)",
+  "pos_r_squared": 0.2854679226875305
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( party| parties| races|ics|ate)",
+  "pos_r_squared": 0.9927991628646851,
+  "r_squared": 0.9927198886871338
+}

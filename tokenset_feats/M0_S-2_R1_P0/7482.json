@@ -1,0 +1,5 @@
+{
+  "pattern": "( potatoes| onions| rice| blues| potato)",
+  "pos_r_squared": 0.9948393106460571,
+  "r_squared": 0.9951308965682983
+}

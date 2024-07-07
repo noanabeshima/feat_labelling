@@ -1,0 +1,5 @@
+{
+  "pattern": "( muddy| snowy|cast| mud| matters)",
+  "pos_r_squared": 0.996175229549408,
+  "r_squared": 0.9967249035835266
+}

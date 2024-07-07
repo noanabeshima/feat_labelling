@@ -1,0 +1,5 @@
+{
+  "pattern": "( picks| every| ties|ents|ags)",
+  "pos_r_squared": 0.9947032928466797,
+  "r_squared": 0.9983391761779785
+}

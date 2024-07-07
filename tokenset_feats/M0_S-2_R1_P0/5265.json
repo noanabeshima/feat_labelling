@@ -1,0 +1,5 @@
+{
+  "pattern": "( microphone| bub|phone| microphones)",
+  "pos_r_squared": 0.9978053569793701,
+  "r_squared": 0.9916896224021912
+}

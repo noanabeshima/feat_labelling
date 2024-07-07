@@ -1,0 +1,5 @@
+{
+  "pattern": "(est|iest| biggest| smartest| fastest)",
+  "pos_r_squared": 0.9868199825286865,
+  "r_squared": 0.986752450466156
+}

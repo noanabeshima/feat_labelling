@@ -1,0 +1,5 @@
+{
+  "pattern": "( received| forg)",
+  "pos_r_squared": 0.99547278881073,
+  "r_squared": 0.9954721927642822
+}

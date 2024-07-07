@@ -1,0 +1,5 @@
+{
+  "pattern": "( upstairs| reaches| downstairs)",
+  "pos_r_squared": 0.9979333281517029,
+  "r_squared": 0.9982195496559143
+}

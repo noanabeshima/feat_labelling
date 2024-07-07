@@ -1,0 +1,5 @@
+{
+  "pattern": "( yourself| ourselves| himself|lim| myself)",
+  "pos_r_squared": 0.9977555871009827,
+  "r_squared": 0.998292863368988
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( hills|Very| Around|Found| \\()",
+  "pos_r_squared": 0.9951043128967285,
+  "r_squared": 0.9883965253829956
+}

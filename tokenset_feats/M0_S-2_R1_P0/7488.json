@@ -1,0 +1,5 @@
+{
+  "pattern": "( allow| used| use| uses| clothes)",
+  "pos_r_squared": 0.9856693148612976,
+  "r_squared": 0.9851478338241577
+}

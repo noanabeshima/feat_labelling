@@ -1,0 +1,5 @@
+{
+  "pattern": "(auc| ol|nam|Prin|ST)",
+  "pos_r_squared": 0.9977263808250427,
+  "r_squared": 0.9967252016067505
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( crossed| replaced|Tyler| replace|band)",
+  "pos_r_squared": 0.9979201555252075,
+  "r_squared": 0.9909760355949402
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( batter| toddler| grain|But| wall)",
+  "pos_r_squared": 0.9968901872634888,
+  "r_squared": 0.997796356678009
+}

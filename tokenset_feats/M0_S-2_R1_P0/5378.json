@@ -1,0 +1,5 @@
+{
+  "pattern": "( difficult| the)",
+  "pos_r_squared": 0.9829954504966736,
+  "r_squared": 0.9964666366577148
+}

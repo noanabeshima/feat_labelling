@@ -1,0 +1,5 @@
+{
+  "pattern": "( passport| farther| misses| slips| loses)",
+  "pos_r_squared": 0.9980267286300659,
+  "r_squared": 0.9972122311592102
+}

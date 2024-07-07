@@ -1,0 +1,5 @@
+{
+  "pattern": "(N| wrist| away|bars| jackets)",
+  "pos_r_squared": 0.9958431124687195,
+  "r_squared": 0.9726071953773499
+}

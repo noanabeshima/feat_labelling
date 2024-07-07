@@ -1,0 +1,5 @@
+{
+  "pattern": "( approached| approach| challenged| attack| threatened)",
+  "pos_r_squared": 0.9932652711868286,
+  "r_squared": 0.9883837699890137
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(ched| struck| strike|snap| slapped)",
+  "pos_r_squared": 0.9817018508911133,
+  "r_squared": 0.9821045398712158
+}

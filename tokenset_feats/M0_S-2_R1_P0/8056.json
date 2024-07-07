@@ -1,0 +1,5 @@
+{
+  "pattern": "( myself| ourselves| us| him| inc)",
+  "pos_r_squared": 0.9897481203079224,
+  "r_squared": 0.9890215992927551
+}

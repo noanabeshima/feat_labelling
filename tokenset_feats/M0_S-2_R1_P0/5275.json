@@ -1,0 +1,5 @@
+{
+  "pattern": "( chores| weekend| activity| daily| adventure)",
+  "pos_r_squared": 0.9965521693229675,
+  "r_squared": 0.9964679479598999
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( none| some| pret| None| Neither)",
+  "pos_r_squared": 0.9920697808265686,
+  "r_squared": 0.9924794435501099
+}

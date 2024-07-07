@@ -1,0 +1,5 @@
+{
+  "pattern": "( n|p| ended|Qu|ounce)",
+  "pos_r_squared": 0.9946141839027405,
+  "r_squared": 0.9945526123046875
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( receive| feel| deserve|Send| arrive)",
+  "pos_r_squared": 0.9951173663139343,
+  "r_squared": 0.997086763381958
+}

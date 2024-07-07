@@ -1,0 +1,5 @@
+{
+  "pattern": "( headed| heading| outing|Prin| venture)",
+  "pos_r_squared": 0.9970232844352722,
+  "r_squared": 0.9551421999931335
+}

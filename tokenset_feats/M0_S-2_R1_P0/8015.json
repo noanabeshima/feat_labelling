@@ -1,0 +1,5 @@
+{
+  "pattern": "( trail| unsure|icking| trails| path)",
+  "pos_r_squared": 0.9954602718353271,
+  "r_squared": 0.9947917461395264
+}

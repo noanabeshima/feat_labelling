@@ -1,0 +1,5 @@
+{
+  "pattern": "( tick|zz|tick| Tick| Chick)",
+  "pos_r_squared": 0.9934121966362,
+  "r_squared": 0.9906226396560669
+}

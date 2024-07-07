@@ -1,0 +1,5 @@
+{
+  "pattern": "( parent| supposed| parents| began|Ready)",
+  "pos_r_squared": 0.9932719469070435,
+  "r_squared": 0.9861629605293274
+}

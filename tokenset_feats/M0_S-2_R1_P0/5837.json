@@ -1,0 +1,4 @@
+{
+  "pattern": "( won| stopped| end| got| crossed)",
+  "pos_r_squared": 0.5095916986465454
+}

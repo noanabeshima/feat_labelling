@@ -1,0 +1,4 @@
+{
+  "pattern": "( delay| delayed| slow| The| disturbing)",
+  "pos_r_squared": 0.9628795385360718
+}

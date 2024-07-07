@@ -1,0 +1,5 @@
+{
+  "pattern": "( spending| visiting| outdoor| spent| spend)",
+  "pos_r_squared": 0.9975329637527466,
+  "r_squared": 0.9978803396224976
+}

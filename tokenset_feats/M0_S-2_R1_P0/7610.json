@@ -1,0 +1,5 @@
+{
+  "pattern": "( noon| Ready| Mighty|Tuesday| Bee)",
+  "pos_r_squared": 0.9880244731903076,
+  "r_squared": 0.9554054141044617
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( created| creating|there|April| crafted)",
+  "pos_r_squared": 0.9959874749183655,
+  "r_squared": 0.9595075249671936
+}

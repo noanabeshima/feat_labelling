@@ -1,0 +1,5 @@
+{
+  "pattern": "( resting| drinking| relaxing| rested|St)",
+  "pos_r_squared": 0.9881097674369812,
+  "r_squared": 0.989290714263916
+}

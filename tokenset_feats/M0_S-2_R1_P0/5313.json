@@ -1,0 +1,5 @@
+{
+  "pattern": "( model| models| many| stuff| sees)",
+  "pos_r_squared": 0.9951995015144348,
+  "r_squared": 0.9978004097938538
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( sounded| welcomed| greeted| asked| greet)",
+  "pos_r_squared": 0.9940539598464966,
+  "r_squared": 0.9951631426811218
+}

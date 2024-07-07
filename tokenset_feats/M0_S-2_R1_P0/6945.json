@@ -1,0 +1,5 @@
+{
+  "pattern": "( sent| sending| sends|Send| suppose)",
+  "pos_r_squared": 0.9961776733398438,
+  "r_squared": 0.9901828169822693
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( drawings|phone| blocks| scenes| journal)",
+  "pos_r_squared": 0.9978981018066406,
+  "r_squared": 0.995815634727478
+}

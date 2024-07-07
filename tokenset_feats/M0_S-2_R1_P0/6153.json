@@ -1,0 +1,5 @@
+{
+  "pattern": "( receive| received| costs| tooth| deserve)",
+  "pos_r_squared": 0.9955775141716003,
+  "r_squared": 0.995141863822937
+}

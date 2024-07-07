@@ -1,0 +1,5 @@
+{
+  "pattern": "( tip| bottom| reminds| beat| mill)",
+  "pos_r_squared": 0.9964951276779175,
+  "r_squared": 0.9977469444274902
+}

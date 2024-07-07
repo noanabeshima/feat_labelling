@@ -1,0 +1,5 @@
+{
+  "pattern": "( either| lump| means| meant|ork)",
+  "pos_r_squared": 0.9988406896591187,
+  "r_squared": 0.9991799592971802
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( neighborhood| against|Tyler| house| cents)",
+  "pos_r_squared": 0.9900269508361816,
+  "r_squared": 0.9852078557014465
+}

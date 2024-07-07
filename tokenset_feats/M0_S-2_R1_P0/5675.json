@@ -1,0 +1,5 @@
+{
+  "pattern": "( welcome|Welcome| tickets| pleasure| world)",
+  "pos_r_squared": 0.9946973323822021,
+  "r_squared": 0.9958372116088867
+}

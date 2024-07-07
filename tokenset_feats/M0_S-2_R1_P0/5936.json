@@ -1,0 +1,5 @@
+{
+  "pattern": "( Hop| Jump|Jump| Get|Hop)",
+  "pos_r_squared": 0.9899353981018066,
+  "r_squared": 0.9883183836936951
+}

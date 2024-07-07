@@ -1,0 +1,5 @@
+{
+  "pattern": "( vehicle|ka| parking| automobile|ami)",
+  "pos_r_squared": 0.9900395274162292,
+  "r_squared": 0.9850415587425232
+}

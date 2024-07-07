@@ -1,0 +1,5 @@
+{
+  "pattern": "( anywhere| cal| exact| pand| wandering)",
+  "pos_r_squared": 0.9969086050987244,
+  "r_squared": 0.9955941438674927
+}

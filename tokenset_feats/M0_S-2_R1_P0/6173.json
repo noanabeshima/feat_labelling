@@ -1,0 +1,5 @@
+{
+  "pattern": "( playground| garden| rink| area| sale)",
+  "pos_r_squared": 0.9966366291046143,
+  "r_squared": 0.9965201616287231
+}

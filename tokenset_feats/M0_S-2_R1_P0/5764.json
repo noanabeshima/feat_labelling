@@ -1,0 +1,5 @@
+{
+  "pattern": "( chores| badly| pond| local| everywhere)",
+  "pos_r_squared": 0.9895415902137756,
+  "r_squared": 0.9913651943206787
+}

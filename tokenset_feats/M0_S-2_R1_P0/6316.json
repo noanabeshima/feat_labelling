@@ -1,0 +1,5 @@
+{
+  "pattern": "( riding| Bye| rode| mastered| newly)",
+  "pos_r_squared": 0.9962019324302673,
+  "r_squared": 0.9954509735107422
+}

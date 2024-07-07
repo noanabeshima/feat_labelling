@@ -1,0 +1,5 @@
+{
+  "pattern": "(Br| hamm| neighbors|inc| Ach)",
+  "pos_r_squared": 0.9923639297485352,
+  "r_squared": 0.9778480529785156
+}

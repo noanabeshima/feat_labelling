@@ -1,0 +1,5 @@
+{
+  "pattern": "( glasses| court| computers| throne| bottles)",
+  "pos_r_squared": 0.9924850463867188,
+  "r_squared": 0.9860358238220215
+}

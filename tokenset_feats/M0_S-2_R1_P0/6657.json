@@ -1,0 +1,5 @@
+{
+  "pattern": "( grown| grows| grand| grew| plant)",
+  "pos_r_squared": 0.995652973651886,
+  "r_squared": 0.9964438080787659
+}

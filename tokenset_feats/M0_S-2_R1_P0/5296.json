@@ -1,0 +1,5 @@
+{
+  "pattern": "( growing| increased| increasing|cut|ink)",
+  "pos_r_squared": 0.9973036050796509,
+  "r_squared": 0.9970271587371826
+}

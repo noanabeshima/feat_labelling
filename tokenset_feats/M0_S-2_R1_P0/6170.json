@@ -1,0 +1,5 @@
+{
+  "pattern": "( shovel| pump| dump| buddy| groom)",
+  "pos_r_squared": 0.997395932674408,
+  "r_squared": 0.9967843294143677
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( feet| Mos| mil|\\n)",
+  "pos_r_squared": 0.9724929332733154
+}

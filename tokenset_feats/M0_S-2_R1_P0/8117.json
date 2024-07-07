@@ -1,0 +1,5 @@
+{
+  "pattern": "( pushes| presses|ifying| pressing| press)",
+  "pos_r_squared": 0.9965355396270752,
+  "r_squared": 0.9964746236801147
+}

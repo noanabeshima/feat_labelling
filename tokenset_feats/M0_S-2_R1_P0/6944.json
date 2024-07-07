@@ -1,0 +1,5 @@
+{
+  "pattern": "( choice| decision| choices| risk| risks)",
+  "pos_r_squared": 0.9974901676177979,
+  "r_squared": 0.9836642146110535
+}

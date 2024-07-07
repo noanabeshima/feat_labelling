@@ -1,0 +1,5 @@
+{
+  "pattern": "( yawn|red| dirty| naughty| wanted)",
+  "pos_r_squared": 0.9948985576629639,
+  "r_squared": 0.9953165054321289
+}

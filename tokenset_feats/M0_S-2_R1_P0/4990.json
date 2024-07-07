@@ -1,0 +1,4 @@
+{
+  "pattern": "( paused| lean| resting| pause| stare)",
+  "pos_r_squared": 0.9063788652420044
+}

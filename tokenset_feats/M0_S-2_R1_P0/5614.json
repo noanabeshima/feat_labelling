@@ -1,0 +1,5 @@
+{
+  "pattern": "( festival| event| equipment| y| picnic)",
+  "pos_r_squared": 0.9966747760772705,
+  "r_squared": 0.9963051676750183
+}

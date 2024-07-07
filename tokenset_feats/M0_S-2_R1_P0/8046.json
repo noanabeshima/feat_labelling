@@ -1,0 +1,5 @@
+{
+  "pattern": "( tid| nib| gob| gul| slur)",
+  "pos_r_squared": 0.9858074188232422,
+  "r_squared": 0.9821641445159912
+}

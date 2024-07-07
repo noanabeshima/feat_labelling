@@ -1,0 +1,5 @@
+{
+  "pattern": "( increase| increased| increasing| pounds| became)",
+  "pos_r_squared": 0.99601149559021,
+  "r_squared": 0.9952280521392822
+}

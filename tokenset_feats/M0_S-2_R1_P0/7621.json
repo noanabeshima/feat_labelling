@@ -1,0 +1,5 @@
+{
+  "pattern": "( knows| remembers| understands|bee|wood)",
+  "pos_r_squared": 0.9958181977272034,
+  "r_squared": 0.9895526766777039
+}

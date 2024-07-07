@@ -1,0 +1,5 @@
+{
+  "pattern": "( mixer| costs| cost| sells| foods)",
+  "pos_r_squared": 0.9911779761314392,
+  "r_squared": 0.9873718619346619
+}

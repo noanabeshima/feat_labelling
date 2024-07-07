@@ -1,0 +1,5 @@
+{
+  "pattern": "( supply| supplied| skipped| supplying|berry)",
+  "pos_r_squared": 0.9892661571502686,
+  "r_squared": 0.9859722852706909
+}

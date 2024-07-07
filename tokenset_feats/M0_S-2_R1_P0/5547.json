@@ -1,0 +1,5 @@
+{
+  "pattern": "( big| Big| Little|Big|Little)",
+  "pos_r_squared": 0.9805739521980286,
+  "r_squared": 0.981528103351593
+}

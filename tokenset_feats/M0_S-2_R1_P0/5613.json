@@ -1,0 +1,5 @@
+{
+  "pattern": "( walks|ics| boat| collect|oc)",
+  "pos_r_squared": 0.9959121942520142,
+  "r_squared": 0.9920670986175537
+}

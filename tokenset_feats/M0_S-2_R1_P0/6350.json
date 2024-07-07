@@ -1,0 +1,4 @@
+{
+  "pattern": "( trains| machines| tunnels| bridges| vehicles)",
+  "pos_r_squared": 0.22844958305358887
+}

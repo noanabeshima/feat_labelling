@@ -1,0 +1,5 @@
+{
+  "pattern": "( yacht| cabin| Bob| raft| Spot)",
+  "pos_r_squared": 0.9845143556594849,
+  "r_squared": 0.9842750430107117
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( price| prices|After|ST| freshly)",
+  "pos_r_squared": 0.9865893125534058,
+  "r_squared": 0.9843195080757141
+}

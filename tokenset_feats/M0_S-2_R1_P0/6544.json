@@ -1,0 +1,5 @@
+{
+  "pattern": "( gloves| jackets| shed)",
+  "pos_r_squared": 0.9955318570137024,
+  "r_squared": 0.9958509206771851
+}

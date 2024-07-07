@@ -1,0 +1,5 @@
+{
+  "pattern": "( task| challenge| tasks| solution|Should)",
+  "pos_r_squared": 0.9931012988090515,
+  "r_squared": 0.9904694557189941
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( cabinet|house|acking| films| cup)",
+  "pos_r_squared": 0.9835490584373474,
+  "r_squared": 0.9830353260040283
+}

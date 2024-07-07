@@ -1,0 +1,5 @@
+{
+  "pattern": "( dress| dressed| clothes| dressing| shave)",
+  "pos_r_squared": 0.9953833222389221,
+  "r_squared": 0.9974827766418457
+}

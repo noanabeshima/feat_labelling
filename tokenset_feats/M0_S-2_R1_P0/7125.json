@@ -1,0 +1,5 @@
+{
+  "pattern": "( lawyer| messed| lawyers|elvet| brief)",
+  "pos_r_squared": 0.9963012337684631,
+  "r_squared": 0.9877933263778687
+}

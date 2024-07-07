@@ -1,0 +1,5 @@
+{
+  "pattern": "( built| made|Here| build| provided)",
+  "pos_r_squared": 0.9955936670303345,
+  "r_squared": 0.9945801496505737
+}

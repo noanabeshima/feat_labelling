@@ -1,0 +1,5 @@
+{
+  "pattern": "( cooking| chef| designing| builders| Grand)",
+  "pos_r_squared": 0.9831888675689697,
+  "r_squared": 0.9821737408638
+}

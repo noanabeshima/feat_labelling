@@ -1,0 +1,5 @@
+{
+  "pattern": "( blocking| blocked| scored| liked| wall)",
+  "pos_r_squared": 0.9841424822807312,
+  "r_squared": 0.9849739074707031
+}

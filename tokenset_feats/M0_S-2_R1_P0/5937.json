@@ -1,0 +1,5 @@
+{
+  "pattern": "( whist|ped|,\"|elt|ade)",
+  "pos_r_squared": 0.9881230592727661,
+  "r_squared": 0.9895158410072327
+}

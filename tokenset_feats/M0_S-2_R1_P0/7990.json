@@ -1,0 +1,5 @@
+{
+  "pattern": "( eye| babies|\\.'| noses|fs)",
+  "pos_r_squared": 0.995050847530365,
+  "r_squared": 0.9953275322914124
+}

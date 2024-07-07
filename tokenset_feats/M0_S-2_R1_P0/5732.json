@@ -1,0 +1,5 @@
+{
+  "pattern": "( pray| praying| paths| prayers|\\.')",
+  "pos_r_squared": 0.9971923828125,
+  "r_squared": 0.997482419013977
+}

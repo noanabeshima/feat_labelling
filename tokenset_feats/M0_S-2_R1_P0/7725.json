@@ -1,0 +1,5 @@
+{
+  "pattern": "( spr| magn| ramp| aimed| experiment)",
+  "pos_r_squared": 0.9918338656425476,
+  "r_squared": 0.992877185344696
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(ag|agging|uttering| closing| nodding)",
+  "pos_r_squared": 0.9939430952072144,
+  "r_squared": 0.9940896034240723
+}

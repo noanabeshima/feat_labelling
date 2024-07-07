@@ -1,0 +1,5 @@
+{
+  "pattern": "( further| farther| daring| freshly| skating)",
+  "pos_r_squared": 0.9975350499153137,
+  "r_squared": 0.9958873987197876
+}

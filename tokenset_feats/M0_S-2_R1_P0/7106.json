@@ -1,0 +1,5 @@
+{
+  "pattern": "( warning| control| grip| warnings|udge)",
+  "pos_r_squared": 0.9927391409873962,
+  "r_squared": 0.9917362332344055
+}

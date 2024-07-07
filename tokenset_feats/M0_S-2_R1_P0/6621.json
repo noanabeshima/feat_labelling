@@ -1,0 +1,5 @@
+{
+  "pattern": "( trucks| M| pans| meeting| truck)",
+  "pos_r_squared": 0.9913556575775146,
+  "r_squared": 0.9728594422340393
+}

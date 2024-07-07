@@ -1,0 +1,5 @@
+{
+  "pattern": "( block|sticks|Outside| joined| different)",
+  "pos_r_squared": 0.9956594109535217,
+  "r_squared": 0.9952089786529541
+}

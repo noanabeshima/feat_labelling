@@ -1,0 +1,5 @@
+{
+  "pattern": "( study| studying| students| student| seed)",
+  "pos_r_squared": 0.9862570762634277,
+  "r_squared": 0.9781540632247925
+}

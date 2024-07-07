@@ -1,0 +1,5 @@
+{
+  "pattern": "( measure| measuring|up| much|,)",
+  "pos_r_squared": 0.9903669953346252,
+  "r_squared": 0.9923083186149597
+}

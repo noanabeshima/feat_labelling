@@ -1,0 +1,5 @@
+{
+  "pattern": "( counter|use|ing|y| pret)",
+  "pos_r_squared": 0.9976688623428345,
+  "r_squared": 0.9977715015411377
+}

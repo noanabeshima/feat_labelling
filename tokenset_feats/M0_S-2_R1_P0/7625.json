@@ -1,0 +1,5 @@
+{
+  "pattern": "( racing| backward| backwards| races| skating)",
+  "pos_r_squared": 0.9949848055839539,
+  "r_squared": 0.9943776726722717
+}

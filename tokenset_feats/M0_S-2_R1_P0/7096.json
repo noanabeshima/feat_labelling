@@ -1,0 +1,5 @@
+{
+  "pattern": "( pets| mosquitoes| tasks| also| horses)",
+  "pos_r_squared": 0.9937650561332703,
+  "r_squared": 0.9960580468177795
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( th| Th|Th| natural| her)",
+  "pos_r_squared": 0.9910199642181396,
+  "r_squared": 0.992182731628418
+}

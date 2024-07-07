@@ -1,0 +1,5 @@
+{
+  "pattern": "( fear| danger| temptation| shy| watching)",
+  "pos_r_squared": 0.9975884556770325,
+  "r_squared": 0.997450053691864
+}

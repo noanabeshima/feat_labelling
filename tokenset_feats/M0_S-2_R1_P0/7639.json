@@ -1,0 +1,5 @@
+{
+  "pattern": "( who| Whoever| whoever| item| If)",
+  "pos_r_squared": 0.9909416437149048,
+  "r_squared": 0.9928304553031921
+}

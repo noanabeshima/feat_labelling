@@ -1,0 +1,5 @@
+{
+  "pattern": "( journal|paste|ST|chief|cloud)",
+  "pos_r_squared": 0.9983908534049988,
+  "r_squared": 0.9966861605644226
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( brain| robots| brains| in| lung)",
+  "pos_r_squared": 0.9800607562065125,
+  "r_squared": 0.9951214790344238
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( steal| stole|iffs| looking| pick)",
+  "pos_r_squared": 0.9978954792022705,
+  "r_squared": 0.9981071949005127
+}

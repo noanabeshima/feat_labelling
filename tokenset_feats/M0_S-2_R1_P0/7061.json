@@ -1,0 +1,4 @@
+{
+  "pattern": "( counter| grocery| shopping| checkout| market)",
+  "pos_r_squared": 0.9631158113479614
+}

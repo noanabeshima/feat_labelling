@@ -1,0 +1,5 @@
+{
+  "pattern": "( quiz|iz| quizz|paste|ss)",
+  "pos_r_squared": 0.9977484345436096,
+  "r_squared": 0.9968691468238831
+}

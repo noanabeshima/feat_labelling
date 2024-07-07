@@ -1,0 +1,5 @@
+{
+  "pattern": "( setting| sets| during|RO| moving)",
+  "pos_r_squared": 0.9965329170227051,
+  "r_squared": 0.9967760443687439
+}

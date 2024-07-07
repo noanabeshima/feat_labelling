@@ -1,0 +1,5 @@
+{
+  "pattern": "( cleaned| painted|idy| touched| white)",
+  "pos_r_squared": 0.9947619438171387,
+  "r_squared": 0.9938674569129944
+}

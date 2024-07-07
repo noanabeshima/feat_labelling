@@ -1,0 +1,5 @@
+{
+  "pattern": "( che| pret| ridden| said| childhood)",
+  "pos_r_squared": 0.9860421419143677,
+  "r_squared": 0.9933741092681885
+}

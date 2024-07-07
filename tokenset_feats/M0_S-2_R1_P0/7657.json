@@ -1,0 +1,4 @@
+{
+  "pattern": "( bell| door| v| sign| whistle)",
+  "pos_r_squared": 0.9191519021987915
+}

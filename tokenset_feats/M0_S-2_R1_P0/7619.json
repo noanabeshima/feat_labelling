@@ -1,0 +1,5 @@
+{
+  "pattern": "( gotten| stumbled| blown| flown| slipped)",
+  "pos_r_squared": 0.9959730505943298,
+  "r_squared": 0.9966892004013062
+}

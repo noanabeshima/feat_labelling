@@ -1,0 +1,5 @@
+{
+  "pattern": "( beat| going| beating| moving|aged)",
+  "pos_r_squared": 0.9961533546447754,
+  "r_squared": 0.9960231781005859
+}

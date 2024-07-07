@@ -1,0 +1,5 @@
+{
+  "pattern": "( lean|ags| closing| rub| bounce)",
+  "pos_r_squared": 0.9931548237800598,
+  "r_squared": 0.9932851195335388
+}

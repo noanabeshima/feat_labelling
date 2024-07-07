@@ -1,0 +1,5 @@
+{
+  "pattern": "( paintings| princes| images| museum|O)",
+  "pos_r_squared": 0.9973985552787781,
+  "r_squared": 0.9979501962661743
+}

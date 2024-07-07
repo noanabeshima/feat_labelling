@@ -1,0 +1,5 @@
+{
+  "pattern": "( freeze| froze| frozen| freezing| natural)",
+  "pos_r_squared": 0.9968041181564331,
+  "r_squared": 0.9974430203437805
+}

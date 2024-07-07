@@ -1,0 +1,5 @@
+{
+  "pattern": "( sudden| suddenly|ek| closer|Th)",
+  "pos_r_squared": 0.9932782053947449,
+  "r_squared": 0.9967746734619141
+}

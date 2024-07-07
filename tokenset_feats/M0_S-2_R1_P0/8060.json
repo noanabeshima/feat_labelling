@@ -1,0 +1,5 @@
+{
+  "pattern": "( eaten| matters| bitten| sly| drunk)",
+  "pos_r_squared": 0.9975026249885559,
+  "r_squared": 0.9945247769355774
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( shelves|ST|Then| table)",
+  "pos_r_squared": 0.9932368397712708,
+  "r_squared": 0.9926138520240784
+}

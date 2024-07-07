@@ -1,0 +1,5 @@
+{
+  "pattern": "( Zig| Ash| Dog| Wo| seemed)",
+  "pos_r_squared": 0.9955768585205078,
+  "r_squared": 0.9942954778671265
+}

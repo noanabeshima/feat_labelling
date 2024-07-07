@@ -1,0 +1,4 @@
+{
+  "pattern": "( mission| job| challenge| need| battle)",
+  "pos_r_squared": 0.8861095309257507
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( bikes|ooters| bicycles| carts| babies)",
+  "pos_r_squared": 0.9964233636856079,
+  "r_squared": 0.9956470727920532
+}

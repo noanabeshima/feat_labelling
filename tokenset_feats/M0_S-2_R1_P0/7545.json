@@ -1,0 +1,5 @@
+{
+  "pattern": "( piles| groups| stacks| pounds| stack)",
+  "pos_r_squared": 0.9923274517059326,
+  "r_squared": 0.990330696105957
+}

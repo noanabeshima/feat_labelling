@@ -1,0 +1,4 @@
+{
+  "pattern": "(ops|ps| fun| where| Sorry)",
+  "pos_r_squared": 0.9556949734687805
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( balance| balancing| balanced| stacked| arranged)",
+  "pos_r_squared": 0.9821904301643372,
+  "r_squared": 0.9823790788650513
+}

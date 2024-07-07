@@ -1,0 +1,5 @@
+{
+  "pattern": "( sorts| neighbourhood|se| plenty| local)",
+  "pos_r_squared": 0.9945472478866577,
+  "r_squared": 0.9909659624099731
+}

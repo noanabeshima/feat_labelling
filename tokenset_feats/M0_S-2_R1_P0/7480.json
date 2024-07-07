@@ -1,0 +1,5 @@
+{
+  "pattern": "( sliding| melting| Slide|ope|Found)",
+  "pos_r_squared": 0.9943798184394836,
+  "r_squared": 0.9860996007919312
+}

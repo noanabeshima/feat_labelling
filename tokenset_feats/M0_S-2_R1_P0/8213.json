@@ -1,0 +1,5 @@
+{
+  "pattern": "(ping| leaf|king|ir| threw)",
+  "pos_r_squared": 0.9833493232727051,
+  "r_squared": 0.9808765649795532
+}

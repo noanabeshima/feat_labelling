@@ -1,0 +1,5 @@
+{
+  "pattern": "( complete| completed| gir| completing| achieve)",
+  "pos_r_squared": 0.992153525352478,
+  "r_squared": 0.9880473017692566
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( grape| lime| grapes| ig| egg)",
+  "pos_r_squared": 0.9928584694862366,
+  "r_squared": 0.9936618804931641
+}

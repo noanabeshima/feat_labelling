@@ -1,0 +1,5 @@
+{
+  "pattern": "( candles| presents| lights| inside| saw)",
+  "pos_r_squared": 0.996627688407898,
+  "r_squared": 0.9918441772460938
+}

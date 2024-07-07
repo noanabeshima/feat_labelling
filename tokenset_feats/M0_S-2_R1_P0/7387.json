@@ -1,0 +1,4 @@
+{
+  "pattern": "( waiter| clerk| servant| keeper| chef)",
+  "pos_r_squared": 0.958673357963562
+}

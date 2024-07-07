@@ -1,0 +1,5 @@
+{
+  "pattern": "( Are| Poor|anga| farm|illy)",
+  "pos_r_squared": 0.9965920448303223,
+  "r_squared": 0.9974206686019897
+}

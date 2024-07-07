@@ -1,0 +1,5 @@
+{
+  "pattern": "( soccer| sports| teams| sport| space)",
+  "pos_r_squared": 0.9955108165740967,
+  "r_squared": 0.9947119951248169
+}

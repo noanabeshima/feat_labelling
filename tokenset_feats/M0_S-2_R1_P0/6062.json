@@ -1,0 +1,5 @@
+{
+  "pattern": "( ahead| advice|Ha| fast| opinion)",
+  "pos_r_squared": 0.9891144633293152,
+  "r_squared": 0.989658772945404
+}

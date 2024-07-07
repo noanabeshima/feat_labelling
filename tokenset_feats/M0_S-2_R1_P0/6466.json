@@ -1,0 +1,5 @@
+{
+  "pattern": "( blankets| Chess|oys| popcorn| sweat)",
+  "pos_r_squared": 0.9883436560630798,
+  "r_squared": 0.987973690032959
+}

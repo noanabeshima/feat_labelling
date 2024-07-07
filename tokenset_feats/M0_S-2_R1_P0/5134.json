@@ -1,0 +1,5 @@
+{
+  "pattern": "( shout| yell| shouting| yelling| screaming)",
+  "pos_r_squared": 0.9956719875335693,
+  "r_squared": 0.9951000213623047
+}

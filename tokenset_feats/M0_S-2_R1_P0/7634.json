@@ -1,0 +1,4 @@
+{
+  "pattern": "( trip| adventure| trips| vacation| holiday)",
+  "pos_r_squared": 0.8608043193817139
+}

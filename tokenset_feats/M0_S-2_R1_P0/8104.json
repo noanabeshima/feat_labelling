@@ -1,0 +1,5 @@
+{
+  "pattern": "(yes| yes| kept| too|il)",
+  "pos_r_squared": 0.9879327416419983,
+  "r_squared": 0.9913116693496704
+}

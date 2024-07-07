@@ -1,0 +1,5 @@
+{
+  "pattern": "( increase| increased| increasing|Tyler|oat)",
+  "pos_r_squared": 0.9955118894577026,
+  "r_squared": 0.9941868782043457
+}

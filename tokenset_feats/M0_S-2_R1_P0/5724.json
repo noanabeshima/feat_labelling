@@ -1,0 +1,5 @@
+{
+  "pattern": "( distance| blocking| blocked| prevented|Move)",
+  "pos_r_squared": 0.9974841475486755,
+  "r_squared": 0.9970298409461975
+}

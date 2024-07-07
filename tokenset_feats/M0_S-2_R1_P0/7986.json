@@ -1,0 +1,5 @@
+{
+  "pattern": "( collection| collect| pounds|bars| manner)",
+  "pos_r_squared": 0.9979791045188904,
+  "r_squared": 0.997039258480072
+}

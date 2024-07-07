@@ -1,0 +1,5 @@
+{
+  "pattern": "( support| operation| supported| rails| damage)",
+  "pos_r_squared": 0.993431806564331,
+  "r_squared": 0.9933469891548157
+}

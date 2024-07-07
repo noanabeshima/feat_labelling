@@ -1,0 +1,5 @@
+{
+  "pattern": "( discovered|ST| gust| behold| fore)",
+  "pos_r_squared": 0.9952263236045837,
+  "r_squared": 0.995229184627533
+}

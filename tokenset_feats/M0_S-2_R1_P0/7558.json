@@ -1,0 +1,5 @@
+{
+  "pattern": "( mountains| kings| rivers| valleys| forests)",
+  "pos_r_squared": 0.9975078701972961,
+  "r_squared": 0.9952613115310669
+}

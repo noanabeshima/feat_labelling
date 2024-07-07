@@ -1,0 +1,5 @@
+{
+  "pattern": "( dear| named| caused)",
+  "pos_r_squared": 0.9979941844940186,
+  "r_squared": 0.9971294403076172
+}

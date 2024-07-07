@@ -1,0 +1,5 @@
+{
+  "pattern": "( yield| yielded| surrendered| bow| revealed)",
+  "pos_r_squared": 0.9896539449691772,
+  "r_squared": 0.9894709587097168
+}

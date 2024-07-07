@@ -1,0 +1,5 @@
+{
+  "pattern": "( medal| medals|ST| mastered| winners)",
+  "pos_r_squared": 0.9915580153465271,
+  "r_squared": 0.9872246980667114
+}

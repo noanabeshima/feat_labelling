@@ -1,0 +1,4 @@
+{
+  "pattern": "( train| bus| on| trains| The)",
+  "pos_r_squared": 0.7641066908836365
+}

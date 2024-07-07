@@ -1,0 +1,5 @@
+{
+  "pattern": "( investigate| batteries| shr| response| plenty)",
+  "pos_r_squared": 0.9990074038505554,
+  "r_squared": 0.9969415068626404
+}

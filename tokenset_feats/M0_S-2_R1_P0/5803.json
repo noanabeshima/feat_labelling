@@ -1,0 +1,5 @@
+{
+  "pattern": "( sn|we| items|let| item)",
+  "pos_r_squared": 0.993090808391571,
+  "r_squared": 0.9931238293647766
+}

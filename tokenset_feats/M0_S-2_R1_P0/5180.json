@@ -1,0 +1,5 @@
+{
+  "pattern": "( pitch| scored|Tw| scoring| Gru)",
+  "pos_r_squared": 0.9952139854431152,
+  "r_squared": 0.9516929388046265
+}

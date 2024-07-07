@@ -1,0 +1,5 @@
+{
+  "pattern": "( recipe| reminds| teaches| even| recipes)",
+  "pos_r_squared": 0.9955494403839111,
+  "r_squared": 0.9966658353805542
+}

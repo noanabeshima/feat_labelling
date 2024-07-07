@@ -1,0 +1,5 @@
+{
+  "pattern": "( given|ched| handed| shortcut|Choose)",
+  "pos_r_squared": 0.9927958250045776,
+  "r_squared": 0.9922835826873779
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( keeping| keeps| kept| makes| telling)",
+  "pos_r_squared": 0.9843043088912964,
+  "r_squared": 0.9880979657173157
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( load| pack| weigh| loaded| prepare)",
+  "pos_r_squared": 0.9968510270118713,
+  "r_squared": 0.9967849254608154
+}

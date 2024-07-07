@@ -1,0 +1,5 @@
+{
+  "pattern": "( stood| stands|Stand|Prin)",
+  "pos_r_squared": 0.9983932971954346,
+  "r_squared": 0.9981288909912109
+}

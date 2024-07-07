@@ -1,0 +1,5 @@
+{
+  "pattern": "( fixed| healed| repaired| fix| ig)",
+  "pos_r_squared": 0.9963250160217285,
+  "r_squared": 0.9960202574729919
+}

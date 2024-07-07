@@ -1,0 +1,4 @@
+{
+  "pattern": "( pressed| press| wanted| pressing| clicked)",
+  "pos_r_squared": 0.9784448146820068
+}

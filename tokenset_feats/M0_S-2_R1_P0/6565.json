@@ -1,0 +1,5 @@
+{
+  "pattern": "( folded| folds|Tree| fold| hugged)",
+  "pos_r_squared": 0.9977415800094604,
+  "r_squared": 0.9976872205734253
+}

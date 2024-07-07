@@ -1,0 +1,5 @@
+{
+  "pattern": "( opening| bringing| brings| bring| closing)",
+  "pos_r_squared": 0.9915591478347778,
+  "r_squared": 0.9919886589050293
+}

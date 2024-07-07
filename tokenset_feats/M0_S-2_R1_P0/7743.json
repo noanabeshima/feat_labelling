@@ -1,0 +1,5 @@
+{
+  "pattern": "( backpack| bucket|suit| album| tablet)",
+  "pos_r_squared": 0.9935086965560913,
+  "r_squared": 0.9950586557388306
+}

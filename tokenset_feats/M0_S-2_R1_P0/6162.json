@@ -1,0 +1,5 @@
+{
+  "pattern": "( newspaper| newspapers| picks| worn| messed)",
+  "pos_r_squared": 0.9938557147979736,
+  "r_squared": 0.9923359751701355
+}

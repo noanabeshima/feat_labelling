@@ -1,0 +1,5 @@
+{
+  "pattern": "(Did| Did| Ready| Was|Ready)",
+  "pos_r_squared": 0.9966961741447449,
+  "r_squared": 0.9961965084075928
+}

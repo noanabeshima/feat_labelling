@@ -1,0 +1,5 @@
+{
+  "pattern": "( Tuesday|inkle| Slowly| fr|ka)",
+  "pos_r_squared": 0.9921156764030457,
+  "r_squared": 0.9918363094329834
+}

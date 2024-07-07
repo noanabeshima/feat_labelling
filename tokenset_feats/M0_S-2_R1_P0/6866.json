@@ -1,0 +1,4 @@
+{
+  "pattern": "( bottles| mention| message| source| pots)",
+  "pos_r_squared": 0.7855067253112793
+}

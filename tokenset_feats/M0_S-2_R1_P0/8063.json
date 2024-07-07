@@ -1,0 +1,5 @@
+{
+  "pattern": "( growing| tiny|paste| high| markings)",
+  "pos_r_squared": 0.9832189083099365,
+  "r_squared": 0.977387011051178
+}

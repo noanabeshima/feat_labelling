@@ -1,0 +1,5 @@
+{
+  "pattern": "( lives| options| living| instead)",
+  "pos_r_squared": 0.9941042065620422,
+  "r_squared": 0.9926661252975464
+}

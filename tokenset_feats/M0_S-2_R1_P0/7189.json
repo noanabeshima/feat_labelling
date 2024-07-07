@@ -1,0 +1,5 @@
+{
+  "pattern": "( che| rock| pet| balloon| said)",
+  "pos_r_squared": 0.9928814172744751,
+  "r_squared": 0.9943670034408569
+}

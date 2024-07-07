@@ -1,0 +1,5 @@
+{
+  "pattern": "( isn| escaped| escape| Spot| disappeared)",
+  "pos_r_squared": 0.9853727221488953,
+  "r_squared": 0.9901458621025085
+}

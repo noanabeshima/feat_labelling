@@ -1,0 +1,5 @@
+{
+  "pattern": "( unlock| unlocked| Inside| opened| plugged)",
+  "pos_r_squared": 0.9838285446166992,
+  "r_squared": 0.9815436005592346
+}

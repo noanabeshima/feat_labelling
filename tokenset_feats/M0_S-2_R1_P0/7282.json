@@ -1,0 +1,5 @@
+{
+  "pattern": "( hut| waking| greet|oken|Found)",
+  "pos_r_squared": 0.9911348223686218,
+  "r_squared": 0.984523355960846
+}

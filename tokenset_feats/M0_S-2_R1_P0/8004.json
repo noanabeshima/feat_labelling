@@ -1,0 +1,5 @@
+{
+  "pattern": "(During| crowded| During|Found| uncomfortable)",
+  "pos_r_squared": 0.990119218826294,
+  "r_squared": 0.988821804523468
+}

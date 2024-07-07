@@ -1,0 +1,5 @@
+{
+  "pattern": "( sidewalk| ends|kin|ir| pavement)",
+  "pos_r_squared": 0.9842126369476318,
+  "r_squared": 0.9831539988517761
+}

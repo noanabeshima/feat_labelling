@@ -1,0 +1,5 @@
+{
+  "pattern": "( moves| counts| invites| changes| cal)",
+  "pos_r_squared": 0.9951131343841553,
+  "r_squared": 0.9907331466674805
+}

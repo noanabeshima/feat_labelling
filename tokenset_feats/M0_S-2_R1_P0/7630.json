@@ -1,0 +1,5 @@
+{
+  "pattern": "( creatures| insects| mysteries| monsters| foods)",
+  "pos_r_squared": 0.9965744018554688,
+  "r_squared": 0.9956071972846985
+}

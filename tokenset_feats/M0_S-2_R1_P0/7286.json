@@ -1,0 +1,5 @@
+{
+  "pattern": "( lives| cents| protection| unloaded| looks)",
+  "pos_r_squared": 0.9944900870323181,
+  "r_squared": 0.9948354363441467
+}

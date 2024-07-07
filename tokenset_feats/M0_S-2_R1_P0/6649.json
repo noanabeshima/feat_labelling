@@ -1,0 +1,5 @@
+{
+  "pattern": "( human| humans| freshly| kind| farmer)",
+  "pos_r_squared": 0.9810182452201843,
+  "r_squared": 0.9656853079795837
+}

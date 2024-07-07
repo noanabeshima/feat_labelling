@@ -1,0 +1,5 @@
+{
+  "pattern": "( explored| exploring| explore| search| kept)",
+  "pos_r_squared": 0.9818575978279114,
+  "r_squared": 0.9618016481399536
+}

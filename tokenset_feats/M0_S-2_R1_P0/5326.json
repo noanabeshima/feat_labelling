@@ -1,0 +1,5 @@
+{
+  "pattern": "(\\;| --| Though| nearby| fer)",
+  "pos_r_squared": 0.9985601305961609,
+  "r_squared": 0.9986881017684937
+}

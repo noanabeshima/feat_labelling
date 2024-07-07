@@ -1,0 +1,5 @@
+{
+  "pattern": "( selling| sold| aren| local| sells)",
+  "pos_r_squared": 0.9966903328895569,
+  "r_squared": 0.9963327646255493
+}

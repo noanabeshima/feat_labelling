@@ -1,0 +1,5 @@
+{
+  "pattern": "( stops|Found| moved| Ve|ove)",
+  "pos_r_squared": 0.9974744319915771,
+  "r_squared": 0.9969964027404785
+}

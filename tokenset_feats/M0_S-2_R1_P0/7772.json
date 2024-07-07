@@ -1,0 +1,5 @@
+{
+  "pattern": "( superhero| puzzle| reward| hero| ig)",
+  "pos_r_squared": 0.9928331971168518,
+  "r_squared": 0.9896568655967712
+}

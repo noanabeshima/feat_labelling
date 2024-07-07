@@ -1,0 +1,5 @@
+{
+  "pattern": "( exc|bug| The| j)",
+  "pos_r_squared": 0.9976021647453308,
+  "r_squared": 0.995783269405365
+}

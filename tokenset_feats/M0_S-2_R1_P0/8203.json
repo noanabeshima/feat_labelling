@@ -1,0 +1,5 @@
+{
+  "pattern": "( selling| robbers|Ice|Race| sells)",
+  "pos_r_squared": 0.995627224445343,
+  "r_squared": 0.9948530197143555
+}

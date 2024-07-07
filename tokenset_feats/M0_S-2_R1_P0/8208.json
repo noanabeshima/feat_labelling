@@ -1,0 +1,5 @@
+{
+  "pattern": "( wh| Robo| hamm| Sammy| Rocky)",
+  "pos_r_squared": 0.9921154379844666,
+  "r_squared": 0.9933269023895264
+}

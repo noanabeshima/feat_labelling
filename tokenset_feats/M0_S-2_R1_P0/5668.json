@@ -1,0 +1,5 @@
+{
+  "pattern": "( calling| called| calls| urging|ST)",
+  "pos_r_squared": 0.9978886246681213,
+  "r_squared": 0.9986242651939392
+}

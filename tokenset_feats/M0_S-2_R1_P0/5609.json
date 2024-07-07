@@ -1,0 +1,5 @@
+{
+  "pattern": "( fine| av|Prin| matters| Mos)",
+  "pos_r_squared": 0.9966105222702026,
+  "r_squared": 0.9928243160247803
+}

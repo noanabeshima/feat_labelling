@@ -1,0 +1,5 @@
+{
+  "pattern": "(And| kids| decided| And|This)",
+  "pos_r_squared": 0.9872212409973145,
+  "r_squared": 0.9944334626197815
+}

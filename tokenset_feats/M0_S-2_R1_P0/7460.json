@@ -1,0 +1,5 @@
+{
+  "pattern": "( wishes| wish| adventures| wished| wishing)",
+  "pos_r_squared": 0.996162474155426,
+  "r_squared": 0.9961441159248352
+}

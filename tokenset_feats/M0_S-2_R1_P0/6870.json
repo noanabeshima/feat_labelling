@@ -1,0 +1,5 @@
+{
+  "pattern": "( fireplace|L| Fl|\\.'| Here)",
+  "pos_r_squared": 0.9881253838539124,
+  "r_squared": 0.989295244216919
+}

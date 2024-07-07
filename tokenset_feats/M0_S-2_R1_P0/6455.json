@@ -1,0 +1,5 @@
+{
+  "pattern": "( applaud| applauded|ap|aud| applause)",
+  "pos_r_squared": 0.9976694583892822,
+  "r_squared": 0.997366189956665
+}

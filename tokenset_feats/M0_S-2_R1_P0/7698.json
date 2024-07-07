@@ -1,0 +1,5 @@
+{
+  "pattern": "( mat| stool| mats| sock| puck)",
+  "pos_r_squared": 0.9957818984985352,
+  "r_squared": 0.9955011606216431
+}

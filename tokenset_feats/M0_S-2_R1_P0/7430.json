@@ -1,0 +1,5 @@
+{
+  "pattern": "( cared| uses| caring| checking| sells)",
+  "pos_r_squared": 0.9978043437004089,
+  "r_squared": 0.9977855086326599
+}

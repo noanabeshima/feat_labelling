@@ -1,0 +1,5 @@
+{
+  "pattern": "( destroy| destroyed| destroying| attack| bond)",
+  "pos_r_squared": 0.9966127276420593,
+  "r_squared": 0.9967102408409119
+}

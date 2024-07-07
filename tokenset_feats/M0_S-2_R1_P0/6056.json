@@ -1,0 +1,5 @@
+{
+  "pattern": "( knight| knights| robber| bride| warrior)",
+  "pos_r_squared": 0.9938772320747375,
+  "r_squared": 0.9939143061637878
+}

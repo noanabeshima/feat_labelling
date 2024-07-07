@@ -1,0 +1,5 @@
+{
+  "pattern": "( pair|These| These|Those| Those)",
+  "pos_r_squared": 0.9912388324737549,
+  "r_squared": 0.9913573861122131
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(fish|ate| spe|looking)",
+  "pos_r_squared": 0.9841386079788208,
+  "r_squared": 0.9386784434318542
+}

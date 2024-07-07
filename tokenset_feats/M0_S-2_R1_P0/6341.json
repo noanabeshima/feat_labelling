@@ -1,0 +1,5 @@
+{
+  "pattern": "( saying|Say| say|hers| guys)",
+  "pos_r_squared": 0.9965413212776184,
+  "r_squared": 0.998241126537323
+}

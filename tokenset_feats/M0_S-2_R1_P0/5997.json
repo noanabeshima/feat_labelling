@@ -1,0 +1,5 @@
+{
+  "pattern": "( named| label| matters| button| described)",
+  "pos_r_squared": 0.9863182306289673,
+  "r_squared": 0.9913486242294312
+}

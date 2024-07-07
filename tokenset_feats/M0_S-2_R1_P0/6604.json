@@ -1,0 +1,5 @@
+{
+  "pattern": "( signs| signed| boats| hands| chains)",
+  "pos_r_squared": 0.9932929873466492,
+  "r_squared": 0.9939285516738892
+}

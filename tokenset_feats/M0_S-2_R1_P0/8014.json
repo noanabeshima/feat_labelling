@@ -1,0 +1,5 @@
+{
+  "pattern": "( Yesterday|Yesterday|ka| yesterday|Tyler)",
+  "pos_r_squared": 0.9987030625343323,
+  "r_squared": 0.9889975190162659
+}

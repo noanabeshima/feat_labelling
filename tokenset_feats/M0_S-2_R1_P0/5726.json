@@ -1,0 +1,4 @@
+{
+  "pattern": "( permit| unlocked| permission| completed| rescued)",
+  "pos_r_squared": 0.9663820862770081
+}

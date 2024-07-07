@@ -1,0 +1,4 @@
+{
+  "pattern": "( mentioned| reminded| shrugged| lets| allowed)",
+  "pos_r_squared": 0.9413837194442749
+}

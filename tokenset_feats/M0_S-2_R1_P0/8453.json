@@ -1,0 +1,5 @@
+{
+  "pattern": "( tapped| knocks| tapping| knocking|anged)",
+  "pos_r_squared": 0.9862704277038574,
+  "r_squared": 0.9876260757446289
+}

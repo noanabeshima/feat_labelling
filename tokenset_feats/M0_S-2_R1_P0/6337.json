@@ -1,0 +1,5 @@
+{
+  "pattern": "( recognize| recognized| introduce|look|ogging)",
+  "pos_r_squared": 0.9967175126075745,
+  "r_squared": 0.9962726831436157
+}

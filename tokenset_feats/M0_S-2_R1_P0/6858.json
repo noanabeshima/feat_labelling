@@ -1,0 +1,5 @@
+{
+  "pattern": "( enter| entered|Prin|ST|Rock)",
+  "pos_r_squared": 0.9857237339019775,
+  "r_squared": 0.9864010810852051
+}

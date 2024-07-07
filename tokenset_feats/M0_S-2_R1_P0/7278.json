@@ -1,0 +1,5 @@
+{
+  "pattern": "( St|th|mare| bad| childhood)",
+  "pos_r_squared": 0.9950134754180908,
+  "r_squared": 0.9958646893501282
+}

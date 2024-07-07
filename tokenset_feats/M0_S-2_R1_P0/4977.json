@@ -1,0 +1,5 @@
+{
+  "pattern": "( trust| trusted| Trust|Trust| follow)",
+  "pos_r_squared": 0.9930816888809204,
+  "r_squared": 0.9930415749549866
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( museum| described|ictionary| understand| scientist)",
+  "pos_r_squared": 0.9955617785453796,
+  "r_squared": 0.9954444169998169
+}

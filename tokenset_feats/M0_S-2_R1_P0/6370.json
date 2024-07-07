@@ -1,0 +1,5 @@
+{
+  "pattern": "( excitement| enthusiasm| anticipation| here| meeting)",
+  "pos_r_squared": 0.9946855306625366,
+  "r_squared": 0.9946668744087219
+}

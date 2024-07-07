@@ -1,0 +1,5 @@
+{
+  "pattern": "( apart| tilted| halves| inspect| opened)",
+  "pos_r_squared": 0.9978140592575073,
+  "r_squared": 0.9893659949302673
+}

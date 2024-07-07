@@ -1,0 +1,5 @@
+{
+  "pattern": "( sandbox| builders| sand| wants|\\.')",
+  "pos_r_squared": 0.9982204437255859,
+  "r_squared": 0.9983690977096558
+}

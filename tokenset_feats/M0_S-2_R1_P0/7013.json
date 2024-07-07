@@ -1,0 +1,5 @@
+{
+  "pattern": "( spell| Ve| Shine|rou| SPL)",
+  "pos_r_squared": 0.9968451857566833,
+  "r_squared": 0.9850567579269409
+}

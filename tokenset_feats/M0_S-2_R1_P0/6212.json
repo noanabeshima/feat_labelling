@@ -1,0 +1,5 @@
+{
+  "pattern": "( collection| named| pairs| toys|mare)",
+  "pos_r_squared": 0.9938392043113708,
+  "r_squared": 0.9961980581283569
+}

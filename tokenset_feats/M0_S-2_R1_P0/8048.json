@@ -1,0 +1,5 @@
+{
+  "pattern": "( sidewalk|Tyler| ground| Becky| bench)",
+  "pos_r_squared": 0.9876953959465027,
+  "r_squared": 0.98982834815979
+}

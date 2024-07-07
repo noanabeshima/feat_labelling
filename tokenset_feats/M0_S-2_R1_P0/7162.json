@@ -1,0 +1,5 @@
+{
+  "pattern": "( investigate| ball| boat| Lily| child)",
+  "pos_r_squared": 0.9944092035293579,
+  "r_squared": 0.9913936257362366
+}

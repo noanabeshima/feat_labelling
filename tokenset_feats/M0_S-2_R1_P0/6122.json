@@ -1,0 +1,5 @@
+{
+  "pattern": "( cheer| cheers|THE|ga| bru)",
+  "pos_r_squared": 0.9825433492660522,
+  "r_squared": 0.9295223355293274
+}

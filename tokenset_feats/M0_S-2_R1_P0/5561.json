@@ -1,0 +1,4 @@
+{
+  "pattern": "( score| Splash| players| Bounce| teams)",
+  "pos_r_squared": 0.9003589749336243
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( Bug|Bug| Rat| Min| Cat)",
+  "pos_r_squared": 0.9944332838058472,
+  "r_squared": 0.981450617313385
+}

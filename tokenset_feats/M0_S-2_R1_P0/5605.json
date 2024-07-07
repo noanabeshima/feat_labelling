@@ -1,0 +1,4 @@
+{
+  "pattern": "( jumps| moves| follow| hops| shouts)",
+  "pos_r_squared": 0.8155000805854797
+}

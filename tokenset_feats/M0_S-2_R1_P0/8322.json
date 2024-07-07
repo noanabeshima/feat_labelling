@@ -1,0 +1,4 @@
+{
+  "pattern": "( recipe| mood| reason| menu| games)",
+  "pos_r_squared": 0.9755874276161194
+}

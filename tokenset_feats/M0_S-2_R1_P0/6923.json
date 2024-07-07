@@ -1,0 +1,5 @@
+{
+  "pattern": "( poem| poems| rhythm| pose| symbols)",
+  "pos_r_squared": 0.9828885197639465,
+  "r_squared": 0.9815784096717834
+}

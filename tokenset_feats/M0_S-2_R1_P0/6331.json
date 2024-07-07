@@ -1,0 +1,5 @@
+{
+  "pattern": "( Mrs| named|Mrs| Mr| Ms)",
+  "pos_r_squared": 0.988265335559845,
+  "r_squared": 0.9751802086830139
+}

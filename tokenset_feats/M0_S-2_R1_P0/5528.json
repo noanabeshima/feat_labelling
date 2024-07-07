@@ -1,0 +1,5 @@
+{
+  "pattern": "( ticket| named| tickets| D| bean)",
+  "pos_r_squared": 0.9984959959983826,
+  "r_squared": 0.9962961077690125
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( weather| traffic|of| sc| inc)",
+  "pos_r_squared": 0.9953634738922119,
+  "r_squared": 0.9957850575447083
+}

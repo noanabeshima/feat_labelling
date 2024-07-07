@@ -1,0 +1,5 @@
+{
+  "pattern": "( disturbed| expected| expecting|Does| Was)",
+  "pos_r_squared": 0.9865054488182068,
+  "r_squared": 0.9869502186775208
+}

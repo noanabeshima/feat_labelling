@@ -1,0 +1,5 @@
+{
+  "pattern": "( ordered| encouraging| convinced| inviting| annoying)",
+  "pos_r_squared": 0.9891316294670105,
+  "r_squared": 0.9865158200263977
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( jail| trap| arrest| did| stepped)",
+  "pos_r_squared": 0.9854317903518677,
+  "r_squared": 0.9941506385803223
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( pause| lean| us| talk| paused)",
+  "pos_r_squared": 0.9940868020057678,
+  "r_squared": 0.9943183064460754
+}

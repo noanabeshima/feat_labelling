@@ -1,0 +1,5 @@
+{
+  "pattern": "( led| leads| leading| dragged| lead)",
+  "pos_r_squared": 0.9980295300483704,
+  "r_squared": 0.9980698823928833
+}

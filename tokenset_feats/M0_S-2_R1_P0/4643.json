@@ -1,0 +1,5 @@
+{
+  "pattern": "( factory| cabinet| chefs| spies| shy)",
+  "pos_r_squared": 0.9969724416732788,
+  "r_squared": 0.9962095022201538
+}

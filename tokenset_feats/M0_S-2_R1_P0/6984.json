@@ -1,0 +1,5 @@
+{
+  "pattern": "( leaving| forgetting| reminding| dragging| remembering)",
+  "pos_r_squared": 0.9991565346717834,
+  "r_squared": 0.9886786937713623
+}

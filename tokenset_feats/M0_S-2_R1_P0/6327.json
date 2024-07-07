@@ -1,0 +1,5 @@
+{
+  "pattern": "( horses| dolphins| sharks| ponies|round)",
+  "pos_r_squared": 0.9931042194366455,
+  "r_squared": 0.9924541711807251
+}

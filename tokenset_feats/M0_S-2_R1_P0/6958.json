@@ -1,0 +1,5 @@
+{
+  "pattern": "( strings| clips| capture| consequences| gestures)",
+  "pos_r_squared": 0.9977660775184631,
+  "r_squared": 0.9753298759460449
+}

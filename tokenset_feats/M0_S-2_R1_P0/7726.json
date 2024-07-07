@@ -1,0 +1,5 @@
+{
+  "pattern": "( dusty| rusty| workshop| dirty| junk)",
+  "pos_r_squared": 0.9965077638626099,
+  "r_squared": 0.9951168298721313
+}

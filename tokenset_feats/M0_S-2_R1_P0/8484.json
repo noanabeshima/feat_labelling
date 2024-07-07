@@ -1,0 +1,5 @@
+{
+  "pattern": "( age|Really| company| grandchildren| connection)",
+  "pos_r_squared": 0.9914314150810242,
+  "r_squared": 0.9618547558784485
+}

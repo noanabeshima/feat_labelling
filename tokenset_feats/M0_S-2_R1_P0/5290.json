@@ -1,0 +1,5 @@
+{
+  "pattern": "( practiced|Prin| matters| sneaking| apologised)",
+  "pos_r_squared": 0.9965358376502991,
+  "r_squared": 0.9949776530265808
+}

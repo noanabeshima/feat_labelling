@@ -1,0 +1,5 @@
+{
+  "pattern": "( chance| matters| opportunity| opportunities| aims)",
+  "pos_r_squared": 0.9959039092063904,
+  "r_squared": 0.9740541577339172
+}

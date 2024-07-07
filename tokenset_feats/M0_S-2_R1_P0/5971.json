@@ -1,0 +1,5 @@
+{
+  "pattern": "( practice| expert| talented| speaks|Sing)",
+  "pos_r_squared": 0.9981278777122498,
+  "r_squared": 0.9974269270896912
+}

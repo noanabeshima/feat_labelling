@@ -1,0 +1,4 @@
+{
+  "pattern": "(:| -|\\;| Their| single)",
+  "pos_r_squared": 0.9067832231521606
+}

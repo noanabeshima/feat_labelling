@@ -1,0 +1,5 @@
+{
+  "pattern": "( resist| hated| resisted| like| hates)",
+  "pos_r_squared": 0.9894821643829346,
+  "r_squared": 0.9899897575378418
+}

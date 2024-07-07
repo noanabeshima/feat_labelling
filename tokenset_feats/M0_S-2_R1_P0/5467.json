@@ -1,0 +1,5 @@
+{
+  "pattern": "( evening| noon| candle| while| evenings)",
+  "pos_r_squared": 0.9982255101203918,
+  "r_squared": 0.9964514970779419
+}

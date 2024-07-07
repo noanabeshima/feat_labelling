@@ -1,0 +1,5 @@
+{
+  "pattern": "(aid| hairc| ticket| tree| reminder)",
+  "pos_r_squared": 0.9942657351493835,
+  "r_squared": 0.996025800704956
+}

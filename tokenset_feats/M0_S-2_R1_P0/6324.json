@@ -1,0 +1,5 @@
+{
+  "pattern": "( nicely| nice| politely|ST| Ve)",
+  "pos_r_squared": 0.995020866394043,
+  "r_squared": 0.9968993663787842
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( gaze| gazing| stare| gazed| yield)",
+  "pos_r_squared": 0.9943092465400696,
+  "r_squared": 0.9939520955085754
+}

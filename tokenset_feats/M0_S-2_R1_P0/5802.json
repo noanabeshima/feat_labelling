@@ -1,0 +1,5 @@
+{
+  "pattern": "( palm| oxygen|fy|hest| lowered)",
+  "pos_r_squared": 0.9964113831520081,
+  "r_squared": 0.9955400824546814
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( crowd| audience| court| theatre|ople)",
+  "pos_r_squared": 0.9883872866630554,
+  "r_squared": 0.8935003876686096
+}

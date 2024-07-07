@@ -1,0 +1,5 @@
+{
+  "pattern": "( added| joined| finished| Leaves)",
+  "pos_r_squared": 0.9937564730644226,
+  "r_squared": 0.9942115545272827
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( stuff| Jelly|Say| Around| order)",
+  "pos_r_squared": 0.9974243640899658,
+  "r_squared": 0.9969549775123596
+}

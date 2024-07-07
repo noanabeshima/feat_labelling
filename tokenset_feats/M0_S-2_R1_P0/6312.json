@@ -1,0 +1,5 @@
+{
+  "pattern": "( veterinarian| vet| cleaner| magician|Sp)",
+  "pos_r_squared": 0.9957724213600159,
+  "r_squared": 0.9959502816200256
+}

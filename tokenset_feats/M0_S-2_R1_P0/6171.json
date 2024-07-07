@@ -1,0 +1,5 @@
+{
+  "pattern": "(old| hands|lost| arrest| attracted)",
+  "pos_r_squared": 0.9986518025398254,
+  "r_squared": 0.9978932738304138
+}

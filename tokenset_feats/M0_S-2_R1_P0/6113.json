@@ -1,0 +1,5 @@
+{
+  "pattern": "( towers| fun| Ben|ST| building)",
+  "pos_r_squared": 0.9843161702156067,
+  "r_squared": 0.9763012528419495
+}

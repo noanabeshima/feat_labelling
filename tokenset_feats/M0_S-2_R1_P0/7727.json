@@ -1,0 +1,5 @@
+{
+  "pattern": "( recorded| record| collected|Like| recorder)",
+  "pos_r_squared": 0.9960469007492065,
+  "r_squared": 0.9953312277793884
+}

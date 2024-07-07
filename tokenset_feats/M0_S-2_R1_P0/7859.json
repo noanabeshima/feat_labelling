@@ -1,0 +1,5 @@
+{
+  "pattern": "( shock| pr|L| Sugar|Th)",
+  "pos_r_squared": 0.9888052940368652,
+  "r_squared": 0.9968996047973633
+}

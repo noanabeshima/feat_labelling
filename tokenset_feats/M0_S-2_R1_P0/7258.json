@@ -1,0 +1,4 @@
+{
+  "pattern": "( pair| pairs| made| pile|\\.)",
+  "pos_r_squared": 0.8990584015846252
+}

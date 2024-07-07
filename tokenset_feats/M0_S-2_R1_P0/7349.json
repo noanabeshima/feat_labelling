@@ -1,0 +1,5 @@
+{
+  "pattern": "(ups| adults| group| adult| mer)",
+  "pos_r_squared": 0.9864614009857178,
+  "r_squared": 0.9866043925285339
+}

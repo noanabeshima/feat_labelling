@@ -1,0 +1,5 @@
+{
+  "pattern": "( mall| shops| parties| stores| rooms)",
+  "pos_r_squared": 0.9950141906738281,
+  "r_squared": 0.9957637786865234
+}

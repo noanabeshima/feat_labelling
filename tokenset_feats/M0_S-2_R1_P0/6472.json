@@ -1,0 +1,5 @@
+{
+  "pattern": "(P| living| cute| careful| sleeping)",
+  "pos_r_squared": 0.9857420921325684,
+  "r_squared": 0.9831670522689819
+}

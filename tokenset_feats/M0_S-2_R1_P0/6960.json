@@ -1,0 +1,5 @@
+{
+  "pattern": "( quit|Prin| pans|ST| quitting)",
+  "pos_r_squared": 0.9917373657226562,
+  "r_squared": 0.9914978742599487
+}

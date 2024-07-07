@@ -1,0 +1,4 @@
+{
+  "pattern": "( finished| wires| completed| improved| supported)",
+  "pos_r_squared": 0.9173108339309692
+}

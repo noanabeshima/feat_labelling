@@ -1,0 +1,4 @@
+{
+  "pattern": "(board| wall| black| mom|o)",
+  "pos_r_squared": 0.34579724073410034
+}

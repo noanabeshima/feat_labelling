@@ -1,0 +1,5 @@
+{
+  "pattern": "( Who| Which| for| robot| dog)",
+  "pos_r_squared": 0.9836505651473999,
+  "r_squared": 0.9897199869155884
+}

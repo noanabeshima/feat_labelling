@@ -1,0 +1,5 @@
+{
+  "pattern": "( collecting| gathering| crawling| gathered| picnic)",
+  "pos_r_squared": 0.9875394105911255,
+  "r_squared": 0.9868115186691284
+}

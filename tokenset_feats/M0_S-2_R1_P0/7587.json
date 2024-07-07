@@ -1,0 +1,5 @@
+{
+  "pattern": "( attention| shy|Slow| gul| Slow)",
+  "pos_r_squared": 0.9966264963150024,
+  "r_squared": 0.995771586894989
+}

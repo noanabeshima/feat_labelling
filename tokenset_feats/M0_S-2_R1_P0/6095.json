@@ -1,0 +1,5 @@
+{
+  "pattern": "( classroom| room| class| different| raft)",
+  "pos_r_squared": 0.9927964210510254,
+  "r_squared": 0.9870638847351074
+}

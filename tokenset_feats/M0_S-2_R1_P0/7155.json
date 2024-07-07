@@ -1,0 +1,5 @@
+{
+  "pattern": "( lumber| exact| wheat| un)",
+  "pos_r_squared": 0.9938064813613892,
+  "r_squared": 0.9916133880615234
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( saf| je| described)",
+  "pos_r_squared": 0.9984748959541321,
+  "r_squared": 0.997173547744751
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( temple| grounds|\\.'| priest| sometime)",
+  "pos_r_squared": 0.999162495136261,
+  "r_squared": 0.9983258843421936
+}
