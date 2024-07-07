@@ -1,0 +1,5 @@
+{
+  "pattern": "( pilot| pilots|ilot| boun| And)",
+  "pos_r_squared": 0.9965692758560181,
+  "r_squared": 0.9939031600952148
+}

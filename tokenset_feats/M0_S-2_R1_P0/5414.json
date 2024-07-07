@@ -1,0 +1,5 @@
+{
+  "pattern": "( No| highest| no|Which| nobody)",
+  "pos_r_squared": 0.9965822696685791,
+  "r_squared": 0.9967018365859985
+}

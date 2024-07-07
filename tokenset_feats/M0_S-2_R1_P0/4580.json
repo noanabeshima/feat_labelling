@@ -1,0 +1,4 @@
+{
+  "pattern": "( standing| perched| parked| staying| flight)",
+  "pos_r_squared": 0.9554272294044495
+}

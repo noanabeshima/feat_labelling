@@ -1,0 +1,5 @@
+{
+  "pattern": "( asking| asked| insisting| looking| beg)",
+  "pos_r_squared": 0.9923748970031738,
+  "r_squared": 0.9961411356925964
+}

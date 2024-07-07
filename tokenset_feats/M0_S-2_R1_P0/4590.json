@@ -1,0 +1,5 @@
+{
+  "pattern": "(Give| Give| Leave|Move|Leave)",
+  "pos_r_squared": 0.9971601366996765,
+  "r_squared": 0.9972265362739563
+}

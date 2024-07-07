@@ -1,0 +1,5 @@
+{
+  "pattern": "( joke| jokes| tune| joked| feeling)",
+  "pos_r_squared": 0.9840208292007446,
+  "r_squared": 0.984417736530304
+}

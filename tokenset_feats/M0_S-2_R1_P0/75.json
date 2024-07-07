@@ -1,0 +1,5 @@
+{
+  "pattern": "( all| All| very| Ally| and)",
+  "pos_r_squared": 0.9961060285568237,
+  "r_squared": 0.9971519112586975
+}

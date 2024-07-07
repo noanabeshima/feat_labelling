@@ -1,0 +1,5 @@
+{
+  "pattern": "( successful| success| succeeded| congratulated| progress)",
+  "pos_r_squared": 0.9989721179008484,
+  "r_squared": 0.9988797307014465
+}

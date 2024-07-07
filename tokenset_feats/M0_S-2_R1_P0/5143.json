@@ -1,0 +1,5 @@
+{
+  "pattern": "( introduce| introduced|iff|oat| introducing)",
+  "pos_r_squared": 0.9990530610084534,
+  "r_squared": 0.9985318779945374
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( collect| collection| collecting| collected|cast)",
+  "pos_r_squared": 0.9918951988220215,
+  "r_squared": 0.9913531541824341
+}

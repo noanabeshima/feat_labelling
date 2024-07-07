@@ -1,0 +1,5 @@
+{
+  "pattern": "( cricket|ickets|paste| apologize| markings)",
+  "pos_r_squared": 0.997845470905304,
+  "r_squared": 0.9933311343193054
+}

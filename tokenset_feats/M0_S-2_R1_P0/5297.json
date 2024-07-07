@@ -1,0 +1,5 @@
+{
+  "pattern": "( disappointed| agree| unhappy| foods| keen)",
+  "pos_r_squared": 0.993317186832428,
+  "r_squared": 0.9927005171775818
+}

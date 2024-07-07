@@ -1,0 +1,4 @@
+{
+  "pattern": "(hello| school|\\.\"| hands|please)",
+  "pos_r_squared": 0.5748206377029419
+}

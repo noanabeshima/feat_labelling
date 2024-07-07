@@ -1,0 +1,5 @@
+{
+  "pattern": "( jacket| jackets|Br| sweater| coat)",
+  "pos_r_squared": 0.9973426461219788,
+  "r_squared": 0.9968219995498657
+}

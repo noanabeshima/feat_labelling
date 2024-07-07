@@ -1,0 +1,4 @@
+{
+  "pattern": "( board| notebook| mat| rods| saw)",
+  "pos_r_squared": 0.9540729522705078
+}

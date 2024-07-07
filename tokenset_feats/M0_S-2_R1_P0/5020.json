@@ -1,0 +1,5 @@
+{
+  "pattern": "( papers| strips| court| bread| crafts)",
+  "pos_r_squared": 0.9952394962310791,
+  "r_squared": 0.9938371181488037
+}

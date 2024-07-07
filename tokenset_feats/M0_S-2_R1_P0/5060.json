@@ -1,0 +1,5 @@
+{
+  "pattern": "( stranger| sailor| strangers| saw| described)",
+  "pos_r_squared": 0.9900187253952026,
+  "r_squared": 0.9902793765068054
+}

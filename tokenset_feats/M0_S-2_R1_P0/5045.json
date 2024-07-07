@@ -1,0 +1,5 @@
+{
+  "pattern": "( shampoo| ink| bathroom| wash| Paint)",
+  "pos_r_squared": 0.9973931908607483,
+  "r_squared": 0.998685359954834
+}

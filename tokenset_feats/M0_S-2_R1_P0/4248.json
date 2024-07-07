@@ -1,0 +1,5 @@
+{
+  "pattern": "( shoe| dance|Park| ballet| walked)",
+  "pos_r_squared": 0.9950361847877502,
+  "r_squared": 0.9965898394584656
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( laundry|amas| groceries| chores| newspapers)",
+  "pos_r_squared": 0.9951046705245972,
+  "r_squared": 0.9948530197143555
+}

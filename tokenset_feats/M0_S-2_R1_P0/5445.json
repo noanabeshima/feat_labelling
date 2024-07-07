@@ -1,0 +1,5 @@
+{
+  "pattern": "( introduce|iren| introduced|fire| beam)",
+  "pos_r_squared": 0.9823158979415894,
+  "r_squared": 0.9820713400840759
+}

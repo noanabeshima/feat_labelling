@@ -1,0 +1,5 @@
+{
+  "pattern": "( hats| foods| fruit| recipes| Tom)",
+  "pos_r_squared": 0.9932100176811218,
+  "r_squared": 0.9852510690689087
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( staff| heads| keeper| helpers| cops)",
+  "pos_r_squared": 0.9881724715232849,
+  "r_squared": 0.9874199628829956
+}

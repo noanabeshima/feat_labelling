@@ -1,0 +1,5 @@
+{
+  "pattern": "( invite| invites| like| includes| don)",
+  "pos_r_squared": 0.9896969199180603,
+  "r_squared": 0.9972429275512695
+}

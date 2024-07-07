@@ -1,0 +1,5 @@
+{
+  "pattern": "( thinking| dreaming| deciding| Thinking| opinion)",
+  "pos_r_squared": 0.9953182339668274,
+  "r_squared": 0.9956111311912537
+}

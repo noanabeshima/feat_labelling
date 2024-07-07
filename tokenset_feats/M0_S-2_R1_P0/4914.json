@@ -1,0 +1,5 @@
+{
+  "pattern": "( football| much| butterfly| taxi| dictionary)",
+  "pos_r_squared": 0.997110903263092,
+  "r_squared": 0.9936422109603882
+}

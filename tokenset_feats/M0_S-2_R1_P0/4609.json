@@ -1,0 +1,5 @@
+{
+  "pattern": "( anyway| sir| paying| asking|eyed)",
+  "pos_r_squared": 0.9957119226455688,
+  "r_squared": 0.9957058429718018
+}

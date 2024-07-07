@@ -1,0 +1,5 @@
+{
+  "pattern": "( hats| helmets| matching| masks| suits)",
+  "pos_r_squared": 0.9927635192871094,
+  "r_squared": 0.9928032755851746
+}

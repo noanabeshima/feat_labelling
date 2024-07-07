@@ -1,0 +1,5 @@
+{
+  "pattern": "( reveal| revealed| revealing| explains| explain)",
+  "pos_r_squared": 0.9969234466552734,
+  "r_squared": 0.9964021444320679
+}

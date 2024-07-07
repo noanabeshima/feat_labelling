@@ -1,0 +1,4 @@
+{
+  "pattern": "( playground| call|board| Match| monster)",
+  "pos_r_squared": 0.0020568370819091797
+}

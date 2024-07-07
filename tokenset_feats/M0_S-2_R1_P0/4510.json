@@ -1,0 +1,5 @@
+{
+  "pattern": "( pastry| sweet|ries| bakery| statues)",
+  "pos_r_squared": 0.9920587539672852,
+  "r_squared": 0.9915585517883301
+}

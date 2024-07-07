@@ -1,0 +1,5 @@
+{
+  "pattern": "( tries| counts| struggle| whispers| respond)",
+  "pos_r_squared": 0.996415376663208,
+  "r_squared": 0.9963871240615845
+}

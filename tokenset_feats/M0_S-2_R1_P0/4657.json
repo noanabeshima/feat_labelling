@@ -1,0 +1,5 @@
+{
+  "pattern": "( medicine|oys|oral| medicines| tea)",
+  "pos_r_squared": 0.9988007545471191,
+  "r_squared": 0.9990182518959045
+}

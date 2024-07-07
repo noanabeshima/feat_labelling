@@ -1,0 +1,5 @@
+{
+  "pattern": "( restore| restored| damage| restoring| shrunk)",
+  "pos_r_squared": 0.9991857409477234,
+  "r_squared": 0.9983672499656677
+}

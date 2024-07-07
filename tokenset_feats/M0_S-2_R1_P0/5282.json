@@ -1,0 +1,5 @@
+{
+  "pattern": "( send| sending|Send| sends|Give)",
+  "pos_r_squared": 0.9962502121925354,
+  "r_squared": 0.9956358671188354
+}

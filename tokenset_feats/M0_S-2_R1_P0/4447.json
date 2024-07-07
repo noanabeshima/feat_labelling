@@ -1,0 +1,5 @@
+{
+  "pattern": "( broccoli| food|iflower| H| peas)",
+  "pos_r_squared": 0.9886677861213684,
+  "r_squared": 0.9902690052986145
+}

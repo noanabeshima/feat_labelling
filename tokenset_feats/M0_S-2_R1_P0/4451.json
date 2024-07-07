@@ -1,0 +1,5 @@
+{
+  "pattern": "( serve| served| serving| handing|itt)",
+  "pos_r_squared": 0.9976321458816528,
+  "r_squared": 0.9970788955688477
+}

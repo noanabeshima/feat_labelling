@@ -1,0 +1,5 @@
+{
+  "pattern": "( rice| dish| baby| jewel| spoon)",
+  "pos_r_squared": 0.9984234571456909,
+  "r_squared": 0.9981651306152344
+}

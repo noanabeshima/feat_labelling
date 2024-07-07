@@ -1,0 +1,5 @@
+{
+  "pattern": "( jug| ig|ST|THE)",
+  "pos_r_squared": 0.9972556829452515,
+  "r_squared": 0.9973591566085815
+}

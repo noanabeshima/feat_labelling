@@ -1,0 +1,5 @@
+{
+  "pattern": "( tub|tr|nam| rack| pool)",
+  "pos_r_squared": 0.9987120628356934,
+  "r_squared": 0.9985405206680298
+}

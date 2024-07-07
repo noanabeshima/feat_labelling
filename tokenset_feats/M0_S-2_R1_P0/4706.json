@@ -1,0 +1,5 @@
+{
+  "pattern": "( flashlight| vacuum| torch| lantern|lights)",
+  "pos_r_squared": 0.9993727803230286,
+  "r_squared": 0.9982451796531677
+}

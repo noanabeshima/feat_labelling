@@ -1,0 +1,5 @@
+{
+  "pattern": "( hours| night| days| miles| monkeys)",
+  "pos_r_squared": 0.991904079914093,
+  "r_squared": 0.9923575520515442
+}

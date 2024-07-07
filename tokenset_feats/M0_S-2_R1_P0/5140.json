@@ -1,0 +1,5 @@
+{
+  "pattern": "( poke|atch| poked| fore| Poke)",
+  "pos_r_squared": 0.9976120591163635,
+  "r_squared": 0.9974263906478882
+}

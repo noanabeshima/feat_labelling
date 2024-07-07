@@ -1,0 +1,5 @@
+{
+  "pattern": "( working| tant|ST| mastered| charity)",
+  "pos_r_squared": 0.9932740330696106,
+  "r_squared": 0.9937300682067871
+}

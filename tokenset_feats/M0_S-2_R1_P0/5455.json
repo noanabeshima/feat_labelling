@@ -1,0 +1,5 @@
+{
+  "pattern": "( Tweet| Ros| Twe|Ros| Gig)",
+  "pos_r_squared": 0.9961561560630798,
+  "r_squared": 0.9962009787559509
+}

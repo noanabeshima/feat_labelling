@@ -1,0 +1,5 @@
+{
+  "pattern": "( Spe| talk| confused|Spe| Ch)",
+  "pos_r_squared": 0.9966359734535217,
+  "r_squared": 0.9895681738853455
+}

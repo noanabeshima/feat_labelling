@@ -1,0 +1,5 @@
+{
+  "pattern": "( whip| y| mill| grain| sign)",
+  "pos_r_squared": 0.9978634715080261,
+  "r_squared": 0.9972937107086182
+}

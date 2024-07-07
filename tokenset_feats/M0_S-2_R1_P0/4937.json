@@ -1,0 +1,5 @@
+{
+  "pattern": "( People| people| some|People|up)",
+  "pos_r_squared": 0.9965243935585022,
+  "r_squared": 0.9966259598731995
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( motor| sl|arm| Glow| felt)",
+  "pos_r_squared": 0.9963271021842957,
+  "r_squared": 0.9955780506134033
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( cell| shrimp| cells| Glow| sea)",
+  "pos_r_squared": 0.9975457191467285,
+  "r_squared": 0.9973555207252502
+}

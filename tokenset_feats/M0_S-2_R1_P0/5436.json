@@ -1,0 +1,5 @@
+{
+  "pattern": "( university| goals| University| motorcycles|iversity)",
+  "pos_r_squared": 0.9982878565788269,
+  "r_squared": 0.9977309703826904
+}

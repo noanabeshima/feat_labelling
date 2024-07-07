@@ -1,0 +1,5 @@
+{
+  "pattern": "( faces| thumbs| pictures|Park| mask)",
+  "pos_r_squared": 0.9984739422798157,
+  "r_squared": 0.9983618259429932
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( driving|Look| sailing| drives| speeding)",
+  "pos_r_squared": 0.9871231913566589,
+  "r_squared": 0.9864357709884644
+}

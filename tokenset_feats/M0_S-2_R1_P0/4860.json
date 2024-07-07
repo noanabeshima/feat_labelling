@@ -1,0 +1,4 @@
+{
+  "pattern": "( recognize| trusted| recognized| number| introduced)",
+  "pos_r_squared": 0.8258824348449707
+}

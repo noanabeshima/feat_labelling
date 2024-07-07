@@ -1,0 +1,5 @@
+{
+  "pattern": "(pack|acked|acking| hatch|load)",
+  "pos_r_squared": 0.9933513402938843,
+  "r_squared": 0.9932780861854553
+}

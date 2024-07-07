@@ -1,0 +1,4 @@
+{
+  "pattern": "( exit| buildings| keys| entrance| tasks)",
+  "pos_r_squared": 0.4188957214355469
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( extra| super| switched|3|Only)",
+  "pos_r_squared": 0.99385005235672,
+  "r_squared": 0.9902181625366211
+}

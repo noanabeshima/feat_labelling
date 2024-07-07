@@ -1,0 +1,5 @@
+{
+  "pattern": "( woman| men| humans| newspapers| boards)",
+  "pos_r_squared": 0.9954240322113037,
+  "r_squared": 0.991930365562439
+}

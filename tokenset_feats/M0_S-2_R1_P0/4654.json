@@ -1,0 +1,5 @@
+{
+  "pattern": "( folder| folders| menus| batch)",
+  "pos_r_squared": 0.9973564147949219,
+  "r_squared": 0.996492326259613
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( Be| Stay|Bring| Share|Move)",
+  "pos_r_squared": 0.9968600273132324,
+  "r_squared": 0.9963088035583496
+}

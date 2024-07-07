@@ -1,0 +1,5 @@
+{
+  "pattern": "( van| fl| bike| jet| exc)",
+  "pos_r_squared": 0.9968311190605164,
+  "r_squared": 0.995891273021698
+}

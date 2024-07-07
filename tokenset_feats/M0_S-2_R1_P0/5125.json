@@ -1,0 +1,5 @@
+{
+  "pattern": "(ometer| teams|scope|oscope| rather)",
+  "pos_r_squared": 0.987016499042511,
+  "r_squared": 0.9873115420341492
+}

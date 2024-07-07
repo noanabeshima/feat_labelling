@@ -1,0 +1,5 @@
+{
+  "pattern": "(Is|Does|Mind| minded| Does)",
+  "pos_r_squared": 0.9979182481765747,
+  "r_squared": 0.9977752566337585
+}

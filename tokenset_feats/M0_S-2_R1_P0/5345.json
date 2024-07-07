@@ -1,0 +1,5 @@
+{
+  "pattern": "( cabinet| curtains| cart| inside| shelf)",
+  "pos_r_squared": 0.9956844449043274,
+  "r_squared": 0.9968407154083252
+}

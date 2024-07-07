@@ -1,0 +1,5 @@
+{
+  "pattern": "( buttons| L|ST| screens| possible)",
+  "pos_r_squared": 0.9954022765159607,
+  "r_squared": 0.9976446032524109
+}

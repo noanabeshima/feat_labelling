@@ -1,0 +1,5 @@
+{
+  "pattern": "( trap| traps| balloon| had| fun)",
+  "pos_r_squared": 0.9878426194190979,
+  "r_squared": 0.9898961186408997
+}

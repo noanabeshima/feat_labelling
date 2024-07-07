@@ -1,0 +1,5 @@
+{
+  "pattern": "( cel| Cel|Math| named|ccoli)",
+  "pos_r_squared": 0.9947474598884583,
+  "r_squared": 0.9900745749473572
+}

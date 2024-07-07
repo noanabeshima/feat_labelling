@@ -1,0 +1,5 @@
+{
+  "pattern": "( cherry| olive| basil)",
+  "pos_r_squared": 0.9979364275932312,
+  "r_squared": 0.9970442652702332
+}

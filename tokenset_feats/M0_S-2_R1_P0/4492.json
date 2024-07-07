@@ -1,0 +1,5 @@
+{
+  "pattern": "( trust| trusted|Trust| Bird|s)",
+  "pos_r_squared": 0.9813098311424255,
+  "r_squared": 0.9813522696495056
+}

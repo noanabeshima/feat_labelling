@@ -1,0 +1,5 @@
+{
+  "pattern": "(web|bs| rat| let| Tues)",
+  "pos_r_squared": 0.9986122846603394,
+  "r_squared": 0.9980406761169434
+}

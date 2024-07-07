@@ -1,0 +1,5 @@
+{
+  "pattern": "( island| planet|Toy| islands|ground)",
+  "pos_r_squared": 0.9983082413673401,
+  "r_squared": 0.9971844553947449
+}

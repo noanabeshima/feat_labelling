@@ -1,0 +1,5 @@
+{
+  "pattern": "( answer| solution| asked| Amen|ST)",
+  "pos_r_squared": 0.9953745603561401,
+  "r_squared": 0.9950745105743408
+}

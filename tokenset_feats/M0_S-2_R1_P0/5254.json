@@ -1,0 +1,5 @@
+{
+  "pattern": "( value| valued| bird| oak| matters)",
+  "pos_r_squared": 0.9803977608680725,
+  "r_squared": 0.985741138458252
+}

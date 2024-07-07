@@ -1,0 +1,5 @@
+{
+  "pattern": "( whip| rake)",
+  "pos_r_squared": 0.997209370136261,
+  "r_squared": 0.9960225224494934
+}

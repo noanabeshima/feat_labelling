@@ -1,0 +1,5 @@
+{
+  "pattern": "( needle| needles| Clim|inc| bullet)",
+  "pos_r_squared": 0.9984474778175354,
+  "r_squared": 0.9968991875648499
+}

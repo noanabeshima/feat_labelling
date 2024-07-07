@@ -1,0 +1,4 @@
+{
+  "pattern": "( anchor| up| harbor| port| offered)",
+  "pos_r_squared": 0.7222923040390015
+}

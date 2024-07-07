@@ -1,0 +1,5 @@
+{
+  "pattern": "( numbers| results|ST| Clim)",
+  "pos_r_squared": 0.99834805727005,
+  "r_squared": 0.9985764026641846
+}

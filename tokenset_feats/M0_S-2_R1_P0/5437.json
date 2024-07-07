@@ -1,0 +1,5 @@
+{
+  "pattern": "( names| labels| directions| answers|cat)",
+  "pos_r_squared": 0.9939463138580322,
+  "r_squared": 0.9931111931800842
+}

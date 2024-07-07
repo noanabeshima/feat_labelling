@@ -1,0 +1,5 @@
+{
+  "pattern": "( slept| care| sleeps|ST| Around)",
+  "pos_r_squared": 0.9959129095077515,
+  "r_squared": 0.9948664307594299
+}

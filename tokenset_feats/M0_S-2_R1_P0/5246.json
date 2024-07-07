@@ -1,0 +1,5 @@
+{
+  "pattern": "( adventures| parties|ics| connection)",
+  "pos_r_squared": 0.9955532550811768,
+  "r_squared": 0.9958353042602539
+}

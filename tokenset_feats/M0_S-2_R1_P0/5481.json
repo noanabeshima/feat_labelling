@@ -1,0 +1,5 @@
+{
+  "pattern": "( tire| pump| tires| bulls| They)",
+  "pos_r_squared": 0.9862568974494934,
+  "r_squared": 0.9908249378204346
+}

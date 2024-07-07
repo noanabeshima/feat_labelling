@@ -1,0 +1,5 @@
+{
+  "pattern": "( bracelet| arm| paintings| bite| sip)",
+  "pos_r_squared": 0.9808412194252014,
+  "r_squared": 0.9803711175918579
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( goal| Clim| Ve| job| pass)",
+  "pos_r_squared": 0.997348964214325,
+  "r_squared": 0.9983524084091187
+}

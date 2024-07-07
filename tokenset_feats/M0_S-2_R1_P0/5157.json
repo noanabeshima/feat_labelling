@@ -1,0 +1,5 @@
+{
+  "pattern": "( sharing| Sharing| share|Prin| matters)",
+  "pos_r_squared": 0.9934089779853821,
+  "r_squared": 0.9905223846435547
+}

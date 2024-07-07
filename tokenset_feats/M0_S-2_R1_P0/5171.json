@@ -1,0 +1,5 @@
+{
+  "pattern": "( leak| leaking| till| dripping| mystery)",
+  "pos_r_squared": 0.9984210133552551,
+  "r_squared": 0.9983272552490234
+}

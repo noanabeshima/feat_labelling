@@ -1,0 +1,5 @@
+{
+  "pattern": "( bulb| bulbs|Tyler|berry|melon)",
+  "pos_r_squared": 0.9954513311386108,
+  "r_squared": 0.9936184883117676
+}

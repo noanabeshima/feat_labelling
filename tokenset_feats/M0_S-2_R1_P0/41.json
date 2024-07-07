@@ -1,0 +1,5 @@
+{
+  "pattern": "( a| an| bright| lonely| stayed)",
+  "pos_r_squared": 0.982387363910675,
+  "r_squared": 0.12712830305099487
+}

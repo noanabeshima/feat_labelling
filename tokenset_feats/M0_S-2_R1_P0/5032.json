@@ -1,0 +1,5 @@
+{
+  "pattern": "( x| run| week| merry| robot)",
+  "pos_r_squared": 0.9994053244590759,
+  "r_squared": 0.9995480179786682
+}

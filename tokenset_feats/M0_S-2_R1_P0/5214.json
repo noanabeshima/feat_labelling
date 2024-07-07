@@ -1,0 +1,5 @@
+{
+  "pattern": "( factory| went| matters| Around| missed)",
+  "pos_r_squared": 0.9959985613822937,
+  "r_squared": 0.9950615167617798
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( grocery| trash| shopping| penny| wandering)",
+  "pos_r_squared": 0.9208793044090271
+}

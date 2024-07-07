@@ -1,0 +1,5 @@
+{
+  "pattern": "( powder| liquid| happen| dust| Drink)",
+  "pos_r_squared": 0.9976344108581543,
+  "r_squared": 0.9979572892189026
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( hive| network| nap| club| knot)",
+  "pos_r_squared": 0.9923456311225891,
+  "r_squared": 0.9900276064872742
+}

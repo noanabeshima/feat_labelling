@@ -1,0 +1,5 @@
+{
+  "pattern": "( ten| 10| top| eight| five)",
+  "pos_r_squared": 0.995245099067688,
+  "r_squared": 0.995630145072937
+}

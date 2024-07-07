@@ -1,0 +1,5 @@
+{
+  "pattern": "( explain| explaining| discuss)",
+  "pos_r_squared": 0.997462809085846,
+  "r_squared": 0.9975405931472778
+}

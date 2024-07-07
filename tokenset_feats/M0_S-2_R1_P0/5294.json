@@ -1,0 +1,5 @@
+{
+  "pattern": "( library| moms| ramps|On| gru)",
+  "pos_r_squared": 0.9975330233573914,
+  "r_squared": 0.9966824054718018
+}

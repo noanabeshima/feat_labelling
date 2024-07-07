@@ -1,0 +1,5 @@
+{
+  "pattern": "( speak| speaking| reads| talks| speaks)",
+  "pos_r_squared": 0.9975534677505493,
+  "r_squared": 0.997650682926178
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( drank| drinking| sip|Thank| L)",
+  "pos_r_squared": 0.9903576374053955,
+  "r_squared": 0.9903124570846558
+}

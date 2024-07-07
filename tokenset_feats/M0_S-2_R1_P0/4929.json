@@ -1,0 +1,5 @@
+{
+  "pattern": "( label| warning| instructions| labels| notes)",
+  "pos_r_squared": 0.9968755841255188,
+  "r_squared": 0.9967436194419861
+}

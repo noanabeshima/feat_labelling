@@ -1,0 +1,5 @@
+{
+  "pattern": "( fat| mil| lav| closely)",
+  "pos_r_squared": 0.9983230829238892,
+  "r_squared": 0.995455265045166
+}

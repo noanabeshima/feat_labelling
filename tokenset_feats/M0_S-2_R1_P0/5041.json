@@ -1,0 +1,5 @@
+{
+  "pattern": "( pole| Park| poles|dis|ever)",
+  "pos_r_squared": 0.9985162019729614,
+  "r_squared": 0.997478187084198
+}

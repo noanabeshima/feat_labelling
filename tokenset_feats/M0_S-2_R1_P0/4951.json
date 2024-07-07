@@ -1,0 +1,5 @@
+{
+  "pattern": "( power| talent| evil| importance| ability)",
+  "pos_r_squared": 0.9974334239959717,
+  "r_squared": 0.9970825910568237
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( f| spilled| spill| spills| spilling)",
+  "pos_r_squared": 0.9918586015701294,
+  "r_squared": 0.9909785985946655
+}

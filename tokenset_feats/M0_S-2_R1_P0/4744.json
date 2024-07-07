@@ -1,0 +1,5 @@
+{
+  "pattern": "( library| aisle| collect| market| supermarket)",
+  "pos_r_squared": 0.9988195896148682,
+  "r_squared": 0.9975647330284119
+}

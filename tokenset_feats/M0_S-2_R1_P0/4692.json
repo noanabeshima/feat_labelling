@@ -1,0 +1,5 @@
+{
+  "pattern": "( shape| flash| monster| child| flashes)",
+  "pos_r_squared": 0.9972768425941467,
+  "r_squared": 0.9984986186027527
+}

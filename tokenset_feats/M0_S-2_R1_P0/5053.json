@@ -1,0 +1,5 @@
+{
+  "pattern": "( discuss| discussed| discussing| plan| trading)",
+  "pos_r_squared": 0.9981839656829834,
+  "r_squared": 0.9982041120529175
+}

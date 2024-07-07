@@ -1,0 +1,5 @@
+{
+  "pattern": "( engine| engines| then| je| voice)",
+  "pos_r_squared": 0.9977389574050903,
+  "r_squared": 0.9968457818031311
+}

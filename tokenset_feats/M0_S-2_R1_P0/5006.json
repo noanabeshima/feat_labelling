@@ -1,0 +1,5 @@
+{
+  "pattern": "( steps| stair|azes| stepping| radios)",
+  "pos_r_squared": 0.9974920749664307,
+  "r_squared": 0.9961401224136353
+}

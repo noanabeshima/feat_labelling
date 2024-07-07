@@ -1,0 +1,4 @@
+{
+  "pattern": "( missile| buildings| vehicles| machines| liked)",
+  "pos_r_squared": 0.9006378650665283
+}

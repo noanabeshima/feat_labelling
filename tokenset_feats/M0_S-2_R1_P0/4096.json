@@ -1,0 +1,5 @@
+{
+  "pattern": "( stuff| scar| finds| dump| of)",
+  "pos_r_squared": 0.9926702976226807,
+  "r_squared": 0.9959433674812317
+}

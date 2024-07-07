@@ -1,0 +1,5 @@
+{
+  "pattern": "( raise|Da| raised| gifts| lifting)",
+  "pos_r_squared": 0.985061526298523,
+  "r_squared": 0.9847621917724609
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( chess| tea| models| explanation| cheated)",
+  "pos_r_squared": 0.9992244243621826,
+  "r_squared": 0.9990630149841309
+}

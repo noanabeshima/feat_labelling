@@ -1,0 +1,5 @@
+{
+  "pattern": "( grill| arrives|ills| barbecue|illing)",
+  "pos_r_squared": 0.9985634684562683,
+  "r_squared": 0.997645914554596
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( soak| soaked| dressing| soaking| drying)",
+  "pos_r_squared": 0.9989041090011597,
+  "r_squared": 0.9985759258270264
+}

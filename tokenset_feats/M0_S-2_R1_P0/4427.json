@@ -1,0 +1,5 @@
+{
+  "pattern": "( biggest| tallest| mountain| strongest| ships)",
+  "pos_r_squared": 0.9815852642059326,
+  "r_squared": 0.9815184473991394
+}

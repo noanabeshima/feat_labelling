@@ -1,0 +1,5 @@
+{
+  "pattern": "( available| plenty|L| matters| exact)",
+  "pos_r_squared": 0.9988767504692078,
+  "r_squared": 0.998577892780304
+}

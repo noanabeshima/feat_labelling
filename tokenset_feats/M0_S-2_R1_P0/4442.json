@@ -1,0 +1,5 @@
+{
+  "pattern": "( depend| off| rely| her| checks)",
+  "pos_r_squared": 0.9966461062431335,
+  "r_squared": 0.9880026578903198
+}

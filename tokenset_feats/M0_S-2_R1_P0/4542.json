@@ -1,0 +1,5 @@
+{
+  "pattern": "( windows| neighbourhood| window| noises| hands)",
+  "pos_r_squared": 0.9928855299949646,
+  "r_squared": 0.992820680141449
+}

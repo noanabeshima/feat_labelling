@@ -1,0 +1,5 @@
+{
+  "pattern": "( soil| minerals| watering| sell| sp)",
+  "pos_r_squared": 0.9980888962745667,
+  "r_squared": 0.997096598148346
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( whist| padd| gained|nam|Is)",
+  "pos_r_squared": 0.993419885635376,
+  "r_squared": 0.9933456778526306
+}

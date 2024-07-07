@@ -1,0 +1,5 @@
+{
+  "pattern": "( handle| handles| Mos| wrists| spoon)",
+  "pos_r_squared": 0.9961820244789124,
+  "r_squared": 0.9960655570030212
+}

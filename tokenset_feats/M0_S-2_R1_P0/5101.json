@@ -1,0 +1,5 @@
+{
+  "pattern": "( lightning| Lightning| bolt| electricity|ret)",
+  "pos_r_squared": 0.997258186340332,
+  "r_squared": 0.9930617213249207
+}

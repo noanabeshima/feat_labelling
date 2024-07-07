@@ -1,0 +1,5 @@
+{
+  "pattern": "( object| items| objects| item| animal)",
+  "pos_r_squared": 0.9961524605751038,
+  "r_squared": 0.995386004447937
+}

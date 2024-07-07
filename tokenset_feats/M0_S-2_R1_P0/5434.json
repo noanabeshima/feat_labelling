@@ -1,0 +1,5 @@
+{
+  "pattern": "( repair| repaired| repairing| melting| sale)",
+  "pos_r_squared": 0.996486485004425,
+  "r_squared": 0.9965227246284485
+}

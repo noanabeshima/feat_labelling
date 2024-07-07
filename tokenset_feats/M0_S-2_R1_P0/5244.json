@@ -1,0 +1,5 @@
+{
+  "pattern": "(Not| Not|Very|Too| not)",
+  "pos_r_squared": 0.9963486790657043,
+  "r_squared": 0.9954165816307068
+}

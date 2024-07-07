@@ -1,0 +1,5 @@
+{
+  "pattern": "(Good|Great| A| Good| because)",
+  "pos_r_squared": 0.9865748882293701,
+  "r_squared": 0.9865568280220032
+}

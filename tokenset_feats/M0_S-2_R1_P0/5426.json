@@ -1,0 +1,5 @@
+{
+  "pattern": "( cop| ranger|ST| Of| resumed)",
+  "pos_r_squared": 0.9950937032699585,
+  "r_squared": 0.9950783252716064
+}

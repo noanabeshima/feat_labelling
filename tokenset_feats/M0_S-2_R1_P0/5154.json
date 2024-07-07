@@ -1,0 +1,5 @@
+{
+  "pattern": "( second| energy| 5| mood| active)",
+  "pos_r_squared": 0.9935034513473511,
+  "r_squared": 0.9934507608413696
+}

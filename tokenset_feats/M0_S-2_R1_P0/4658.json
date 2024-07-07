@@ -1,0 +1,5 @@
+{
+  "pattern": "( crane|op|ible| oak| toys)",
+  "pos_r_squared": 0.9985657930374146,
+  "r_squared": 0.9969867467880249
+}

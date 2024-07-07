@@ -1,0 +1,5 @@
+{
+  "pattern": "( alarm| unless| use| guard| alarms)",
+  "pos_r_squared": 0.9979111552238464,
+  "r_squared": 0.9986785650253296
+}

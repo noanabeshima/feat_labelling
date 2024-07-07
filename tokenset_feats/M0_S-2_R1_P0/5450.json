@@ -1,0 +1,5 @@
+{
+  "pattern": "( poured| sprinkled|ours| sprayed|irted)",
+  "pos_r_squared": 0.9953576326370239,
+  "r_squared": 0.9952920079231262
+}

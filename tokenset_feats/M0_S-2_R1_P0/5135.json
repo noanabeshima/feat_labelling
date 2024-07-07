@@ -1,0 +1,5 @@
+{
+  "pattern": "(pped|ied|pping| dropping|bing)",
+  "pos_r_squared": 0.9957675933837891,
+  "r_squared": 0.9962364435195923
+}

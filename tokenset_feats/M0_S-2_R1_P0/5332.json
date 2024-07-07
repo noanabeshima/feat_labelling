@@ -1,0 +1,5 @@
+{
+  "pattern": "( R| enter| entered|''| nud)",
+  "pos_r_squared": 0.9904814958572388,
+  "r_squared": 0.9904168844223022
+}

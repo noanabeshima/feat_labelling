@@ -1,0 +1,5 @@
+{
+  "pattern": "( prepare| catch| prepared| loaf|Prin)",
+  "pos_r_squared": 0.9969843029975891,
+  "r_squared": 0.9961836934089661
+}

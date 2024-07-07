@@ -1,0 +1,5 @@
+{
+  "pattern": "(year|years| once|ST| boo)",
+  "pos_r_squared": 0.9985091090202332,
+  "r_squared": 0.9973275065422058
+}

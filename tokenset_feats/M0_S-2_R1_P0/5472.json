@@ -1,0 +1,5 @@
+{
+  "pattern": "( squash| tightly|melon| gru| tomatoes)",
+  "pos_r_squared": 0.9925096035003662,
+  "r_squared": 0.9906911849975586
+}

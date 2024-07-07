@@ -1,0 +1,5 @@
+{
+  "pattern": "(Together| room| pret| upstairs| sunny)",
+  "pos_r_squared": 0.9957115054130554,
+  "r_squared": 0.9964532256126404
+}

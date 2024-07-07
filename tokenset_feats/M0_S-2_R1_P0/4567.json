@@ -1,0 +1,5 @@
+{
+  "pattern": "( trophy|box| trophies|Andrew|band)",
+  "pos_r_squared": 0.9987059235572815,
+  "r_squared": 0.9918869137763977
+}

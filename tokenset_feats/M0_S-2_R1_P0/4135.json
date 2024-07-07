@@ -1,0 +1,4 @@
+{
+  "pattern": "( move| moved| jump| They| moving)",
+  "pos_r_squared": 0.6996520757675171
+}

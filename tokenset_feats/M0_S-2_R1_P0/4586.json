@@ -1,0 +1,5 @@
+{
+  "pattern": "( hotel| city| palace| mall| royal)",
+  "pos_r_squared": 0.9903202652931213,
+  "r_squared": 0.9835209250450134
+}
