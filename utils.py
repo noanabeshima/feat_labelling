@@ -9,6 +9,8 @@ import numpy as np
 dataset = load_dataset('noanabeshima/TinyModelTokIds', split='train[:13%]')
 all_tok_ids = torch.tensor(dataset['tok_ids'])
 
+import backoff
+
 def slice_csr(csr, start=0, end=None):
     '''
     slice csr along the first dimension
@@ -38,8 +40,7 @@ def slice_csr(csr, start=0, end=None):
 def csr_var(csr):
     return torch.sum(csr.values()**2).float()/np.prod(csr.shape)
 
-
-@lru_cache
+@backoff.on_exception(backoff.expo, Exception, max_tries=7)
 def load_sparse_feat_acts(fname):
     local_path = hf_hub_download(repo_id="noanabeshima/tiny_model_cached_acts", filename=fname)
     csr_kwargs = torch.load(local_path)
