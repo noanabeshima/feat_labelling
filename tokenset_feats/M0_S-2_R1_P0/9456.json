@@ -1,0 +1,5 @@
+{
+  "pattern": "( twice| M| Sorry|ST| stool)",
+  "pos_r_squared": 0.9943540096282959,
+  "r_squared": 0.9976842403411865
+}

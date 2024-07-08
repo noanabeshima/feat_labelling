@@ -1,0 +1,5 @@
+{
+  "pattern": "( beat| songs| dodge| beating| have)",
+  "pos_r_squared": 0.990177571773529,
+  "r_squared": 0.9936854243278503
+}

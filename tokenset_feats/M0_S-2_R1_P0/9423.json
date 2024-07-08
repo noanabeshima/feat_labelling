@@ -1,0 +1,5 @@
+{
+  "pattern": "( cottage| cabin| castle| boat| cafe)",
+  "pos_r_squared": 0.9843041896820068,
+  "r_squared": 0.9846377372741699
+}

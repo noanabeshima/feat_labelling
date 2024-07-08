@@ -1,0 +1,5 @@
+{
+  "pattern": "( tricky| challenges| mastered| Sc| everyday)",
+  "pos_r_squared": 0.9936634302139282,
+  "r_squared": 0.9668328762054443
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( Bug|Bug| Bugs| opportunities| shr)",
+  "pos_r_squared": 0.9928049445152283,
+  "r_squared": 0.9876955151557922
+}

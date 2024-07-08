@@ -1,0 +1,5 @@
+{
+  "pattern": "( chips| Cars|Mind|arrow| grain)",
+  "pos_r_squared": 0.9946233630180359,
+  "r_squared": 0.969253420829773
+}

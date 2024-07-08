@@ -1,0 +1,5 @@
+{
+  "pattern": "( roads| hill|room| Zoom| Mos)",
+  "pos_r_squared": 0.9943810701370239,
+  "r_squared": 0.994702160358429
+}

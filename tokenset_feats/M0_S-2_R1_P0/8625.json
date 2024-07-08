@@ -1,0 +1,5 @@
+{
+  "pattern": "( decision| flight|`| opportunity| handsome)",
+  "pos_r_squared": 0.9934815168380737,
+  "r_squared": 0.8583562970161438
+}

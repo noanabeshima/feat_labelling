@@ -1,0 +1,5 @@
+{
+  "pattern": "( neighbour| vet| cousin|storm| tub)",
+  "pos_r_squared": 0.9922444224357605,
+  "r_squared": 0.9921627044677734
+}

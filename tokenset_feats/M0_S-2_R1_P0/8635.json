@@ -1,0 +1,4 @@
+{
+  "pattern": "(--|\\;| was|\\n| offered)",
+  "pos_r_squared": 0.794852077960968
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( equipment| matters| parking| \\(| opportunities)",
+  "pos_r_squared": 0.9466354250907898
+}

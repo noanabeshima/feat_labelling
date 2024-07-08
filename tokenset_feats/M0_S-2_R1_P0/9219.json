@@ -1,0 +1,5 @@
+{
+  "pattern": "( gen|Prin| Coc|Sp| Ve)",
+  "pos_r_squared": 0.9984076023101807,
+  "r_squared": 0.9660933017730713
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( oranges| hoops| grapes| baskets|berries)",
+  "pos_r_squared": 0.9935447573661804,
+  "r_squared": 0.993647038936615
+}

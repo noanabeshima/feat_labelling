@@ -1,0 +1,5 @@
+{
+  "pattern": "( usual| favourite|looking| newest| big)",
+  "pos_r_squared": 0.9959564208984375,
+  "r_squared": 0.9893681406974792
+}

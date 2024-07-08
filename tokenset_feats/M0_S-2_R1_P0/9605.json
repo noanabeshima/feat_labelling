@@ -1,0 +1,5 @@
+{
+  "pattern": "(match|Match| match| matching|atch)",
+  "pos_r_squared": 0.9848410487174988,
+  "r_squared": 0.9778420925140381
+}

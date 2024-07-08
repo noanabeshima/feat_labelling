@@ -1,0 +1,5 @@
+{
+  "pattern": "( begin| beginning| ending| end| begun)",
+  "pos_r_squared": 0.9853112697601318,
+  "r_squared": 0.9845807552337646
+}

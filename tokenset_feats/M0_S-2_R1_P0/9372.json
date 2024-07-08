@@ -1,0 +1,5 @@
+{
+  "pattern": "( pleaded| insisting| begged| reason|May)",
+  "pos_r_squared": 0.986611545085907,
+  "r_squared": 0.9841117858886719
+}

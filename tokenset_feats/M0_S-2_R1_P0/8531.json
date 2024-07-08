@@ -1,0 +1,5 @@
+{
+  "pattern": "( everyday| daily| markings| certain| regularly)",
+  "pos_r_squared": 0.9888059496879578,
+  "r_squared": 0.8967853784561157
+}

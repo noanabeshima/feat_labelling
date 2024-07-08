@@ -1,0 +1,5 @@
+{
+  "pattern": "( balancing| balanced| stands| tall| stood)",
+  "pos_r_squared": 0.9948627352714539,
+  "r_squared": 0.9964176416397095
+}

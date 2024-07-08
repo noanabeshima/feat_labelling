@@ -1,0 +1,5 @@
+{
+  "pattern": "( torn| pret| ripped| frame| worn)",
+  "pos_r_squared": 0.9891639351844788,
+  "r_squared": 0.9895178079605103
+}

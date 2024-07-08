@@ -1,0 +1,5 @@
+{
+  "pattern": "( beat| beating| Bing| stripe| fool)",
+  "pos_r_squared": 0.9974124431610107,
+  "r_squared": 0.9960590600967407
+}

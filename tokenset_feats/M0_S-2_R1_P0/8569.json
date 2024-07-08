@@ -1,0 +1,5 @@
+{
+  "pattern": "( tonight| weekend|Tonight| Tonight|Tyler)",
+  "pos_r_squared": 0.9843117594718933,
+  "r_squared": 0.9763638377189636
+}

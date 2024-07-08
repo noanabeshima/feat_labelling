@@ -1,0 +1,5 @@
+{
+  "pattern": "( tomatoes| peppers| mosquitoes| Bugs| strawberries)",
+  "pos_r_squared": 0.987402617931366,
+  "r_squared": 0.9888213276863098
+}

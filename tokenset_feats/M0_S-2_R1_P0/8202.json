@@ -1,0 +1,5 @@
+{
+  "pattern": "( given|chard| Sorry| bun|ST)",
+  "pos_r_squared": 0.9859338998794556,
+  "r_squared": 0.9520533680915833
+}

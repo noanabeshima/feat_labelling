@@ -1,0 +1,5 @@
+{
+  "pattern": "( tune| beat| markings| Bing|paste)",
+  "pos_r_squared": 0.9956976771354675,
+  "r_squared": 0.9831691384315491
+}

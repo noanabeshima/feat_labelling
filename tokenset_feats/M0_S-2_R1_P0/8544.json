@@ -1,0 +1,5 @@
+{
+  "pattern": "( screws| robots| inches| ships| keys)",
+  "pos_r_squared": 0.9907963871955872,
+  "r_squared": 0.9678609371185303
+}

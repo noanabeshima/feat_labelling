@@ -1,0 +1,5 @@
+{
+  "pattern": "( teams|Whe| soccer| pairs|ites)",
+  "pos_r_squared": 0.9948442578315735,
+  "r_squared": 0.988787055015564
+}

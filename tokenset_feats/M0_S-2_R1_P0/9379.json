@@ -1,0 +1,4 @@
+{
+  "pattern": "( decision| hamm| choices| disagreement|\")",
+  "pos_r_squared": 0.9316830039024353
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( moment| hesitated| paused| begged| hesitant)",
+  "pos_r_squared": 0.9939833879470825,
+  "r_squared": 0.9957792162895203
+}

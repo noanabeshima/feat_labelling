@@ -1,0 +1,5 @@
+{
+  "pattern": "( impressed| disgusted| ugly| disgusting|Thank)",
+  "pos_r_squared": 0.9972724318504333,
+  "r_squared": 0.9975138902664185
+}

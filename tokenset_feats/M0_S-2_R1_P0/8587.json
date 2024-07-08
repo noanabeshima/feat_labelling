@@ -1,0 +1,5 @@
+{
+  "pattern": "( permission|Found| successfully|anna| curiosity)",
+  "pos_r_squared": 0.9929104447364807,
+  "r_squared": 0.9410566687583923
+}

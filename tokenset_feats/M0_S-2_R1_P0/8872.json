@@ -1,0 +1,5 @@
+{
+  "pattern": "( peas| goggles| robot| named|lla)",
+  "pos_r_squared": 0.9904219508171082,
+  "r_squared": 0.9915200471878052
+}

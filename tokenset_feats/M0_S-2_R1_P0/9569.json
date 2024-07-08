@@ -1,0 +1,4 @@
+{
+  "pattern": "( drivers| passengers| plants| customers| guests)",
+  "pos_r_squared": 0.9567797183990479
+}

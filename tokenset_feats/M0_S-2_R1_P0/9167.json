@@ -1,0 +1,5 @@
+{
+  "pattern": "( drinks| some| ponds| dishes| rides)",
+  "pos_r_squared": 0.9941568970680237,
+  "r_squared": 0.9951126575469971
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( paddle| swim| steer| freshly| it)",
+  "pos_r_squared": 0.9951412677764893,
+  "r_squared": 0.9920557141304016
+}

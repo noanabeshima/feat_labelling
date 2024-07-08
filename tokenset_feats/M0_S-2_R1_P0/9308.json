@@ -1,0 +1,5 @@
+{
+  "pattern": "( jars| jar| shelves| frames| pots)",
+  "pos_r_squared": 0.9836857318878174,
+  "r_squared": 0.9761157631874084
+}

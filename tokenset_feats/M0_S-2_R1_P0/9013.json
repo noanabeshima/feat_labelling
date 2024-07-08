@@ -1,0 +1,5 @@
+{
+  "pattern": "( hits| plugged| hammered| sends| slot)",
+  "pos_r_squared": 0.9871979355812073,
+  "r_squared": 0.9490365386009216
+}

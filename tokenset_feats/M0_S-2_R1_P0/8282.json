@@ -1,0 +1,5 @@
+{
+  "pattern": "( hen| bird| moon|ns| Thanksgiving)",
+  "pos_r_squared": 0.9905591011047363,
+  "r_squared": 0.9922024011611938
+}

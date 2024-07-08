@@ -1,0 +1,5 @@
+{
+  "pattern": "(bye|Prin| disappeared| moved| vanished)",
+  "pos_r_squared": 0.9873262643814087,
+  "r_squared": 0.9868614077568054
+}

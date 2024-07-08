@@ -1,0 +1,4 @@
+{
+  "pattern": "(pack|acked|acking| presents|ied)",
+  "pos_r_squared": 0.890949547290802
+}

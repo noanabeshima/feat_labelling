@@ -1,0 +1,5 @@
+{
+  "pattern": "( Tit|aver| Boat| Crane| Cow)",
+  "pos_r_squared": 0.9862081408500671,
+  "r_squared": 0.9876160025596619
+}

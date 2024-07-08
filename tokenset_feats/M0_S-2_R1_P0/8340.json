@@ -1,0 +1,5 @@
+{
+  "pattern": "( ped| Gru|Prin| freeing|\\.')",
+  "pos_r_squared": 0.9835630655288696,
+  "r_squared": 0.8524208068847656
+}

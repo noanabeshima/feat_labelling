@@ -1,0 +1,5 @@
+{
+  "pattern": "( focused| focus| wasted| congratulated| concentrated)",
+  "pos_r_squared": 0.984527051448822,
+  "r_squared": 0.8908239603042603
+}

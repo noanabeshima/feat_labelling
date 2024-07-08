@@ -1,0 +1,5 @@
+{
+  "pattern": "( Something| seemed|Something| matters| trusted)",
+  "pos_r_squared": 0.9972357153892517,
+  "r_squared": 0.9977030158042908
+}

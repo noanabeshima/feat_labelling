@@ -1,0 +1,5 @@
+{
+  "pattern": "( waited| waits| wait| fun| watch)",
+  "pos_r_squared": 0.9912613034248352,
+  "r_squared": 0.9906125664710999
+}

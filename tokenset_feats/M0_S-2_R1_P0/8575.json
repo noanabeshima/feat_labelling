@@ -1,0 +1,5 @@
+{
+  "pattern": "( Wednesday| Tuesday|paste| and| like)",
+  "pos_r_squared": 0.9805792570114136,
+  "r_squared": 0.9763226509094238
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( shave| locks| swords| locked| thumbs)",
+  "pos_r_squared": 0.983645498752594,
+  "r_squared": 0.9836776256561279
+}

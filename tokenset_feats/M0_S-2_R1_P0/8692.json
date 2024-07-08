@@ -1,0 +1,5 @@
+{
+  "pattern": "( pause| pauses|Run|Turn)",
+  "pos_r_squared": 0.9967156648635864,
+  "r_squared": 0.9552559852600098
+}

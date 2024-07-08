@@ -1,0 +1,5 @@
+{
+  "pattern": "(hello| hello| Sorry| Amen| heaven)",
+  "pos_r_squared": 0.9940921664237976,
+  "r_squared": 0.9940829873085022
+}

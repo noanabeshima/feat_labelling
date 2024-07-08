@@ -1,0 +1,5 @@
+{
+  "pattern": "( list| Wh| invitation| pictures| map)",
+  "pos_r_squared": 0.9983288645744324,
+  "r_squared": 0.9988237023353577
+}

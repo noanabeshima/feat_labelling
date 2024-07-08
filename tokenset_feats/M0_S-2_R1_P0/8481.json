@@ -1,0 +1,4 @@
+{
+  "pattern": "( cough| run| fever| digging| drink)",
+  "pos_r_squared": 0.949356198310852
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( choice|Run| option| asked|oat)",
+  "pos_r_squared": 0.9970391988754272,
+  "r_squared": 0.9976471662521362
+}

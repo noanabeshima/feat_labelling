@@ -1,0 +1,5 @@
+{
+  "pattern": "( moments| seconds|ST| Ve| shr)",
+  "pos_r_squared": 0.9920887351036072,
+  "r_squared": 0.9909610748291016
+}

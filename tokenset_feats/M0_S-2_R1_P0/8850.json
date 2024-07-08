@@ -1,0 +1,5 @@
+{
+  "pattern": "( saving| frozen| protecting| saved| save)",
+  "pos_r_squared": 0.986979603767395,
+  "r_squared": 0.9884452819824219
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( lands| families| family| invites| group)",
+  "pos_r_squared": 0.9896525740623474,
+  "r_squared": 0.9938367605209351
+}

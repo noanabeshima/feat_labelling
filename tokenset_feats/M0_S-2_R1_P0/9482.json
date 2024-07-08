@@ -1,0 +1,5 @@
+{
+  "pattern": "(Great| great|Fine| perfect| Good)",
+  "pos_r_squared": 0.9926227927207947,
+  "r_squared": 0.9924520254135132
+}

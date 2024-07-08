@@ -1,0 +1,5 @@
+{
+  "pattern": "( machines|ST| builders| concern| inc)",
+  "pos_r_squared": 0.9902728199958801,
+  "r_squared": 0.9471402168273926
+}

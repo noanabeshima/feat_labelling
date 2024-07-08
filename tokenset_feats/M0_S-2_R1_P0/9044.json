@@ -1,0 +1,5 @@
+{
+  "pattern": "(eper| worker| ranger|icer|Park)",
+  "pos_r_squared": 0.990085244178772,
+  "r_squared": 0.914368212223053
+}

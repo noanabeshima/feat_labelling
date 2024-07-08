@@ -1,0 +1,5 @@
+{
+  "pattern": "( Exc| Cic|Conf| Again|Un)",
+  "pos_r_squared": 0.9849042296409607,
+  "r_squared": 0.9367460012435913
+}

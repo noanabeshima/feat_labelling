@@ -1,0 +1,5 @@
+{
+  "pattern": "(balls|icks|icked| kicks| ball)",
+  "pos_r_squared": 0.9986514449119568,
+  "r_squared": 0.9974439144134521
+}

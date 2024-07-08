@@ -1,0 +1,5 @@
+{
+  "pattern": "( below| within| aside| dial| lending)",
+  "pos_r_squared": 0.980983316898346,
+  "r_squared": 0.973550021648407
+}

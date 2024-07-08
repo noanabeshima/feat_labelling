@@ -1,0 +1,5 @@
+{
+  "pattern": "( guessing| clue| explaining| guess| anticipation)",
+  "pos_r_squared": 0.9970872402191162,
+  "r_squared": 0.9957626461982727
+}

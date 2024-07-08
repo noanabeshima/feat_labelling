@@ -1,0 +1,5 @@
+{
+  "pattern": "( poems|Ted|ons| por| gir)",
+  "pos_r_squared": 0.985309362411499,
+  "r_squared": 0.985870361328125
+}

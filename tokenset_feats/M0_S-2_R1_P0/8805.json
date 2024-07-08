@@ -1,0 +1,5 @@
+{
+  "pattern": "( forks| brace| pans|Baby| wrench)",
+  "pos_r_squared": 0.9938033223152161,
+  "r_squared": 0.9895613193511963
+}

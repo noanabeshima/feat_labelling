@@ -1,0 +1,4 @@
+{
+  "pattern": "( rust| jump|udd| label| sat)",
+  "pos_r_squared": 0.978962242603302
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( whose| whoever|Ble| whether| \\()",
+  "pos_r_squared": 0.9973568320274353,
+  "r_squared": 0.9708815217018127
+}

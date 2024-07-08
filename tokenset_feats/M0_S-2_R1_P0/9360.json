@@ -1,0 +1,4 @@
+{
+  "pattern": "( checked| checks| inspected| paused| freshly)",
+  "pos_r_squared": 0.9610899686813354
+}

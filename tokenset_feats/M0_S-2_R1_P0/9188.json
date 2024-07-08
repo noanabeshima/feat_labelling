@@ -1,0 +1,5 @@
+{
+  "pattern": "( hunt| tro|aro| song|have)",
+  "pos_r_squared": 0.9858343005180359,
+  "r_squared": 0.9800132513046265
+}

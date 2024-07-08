@@ -1,0 +1,5 @@
+{
+  "pattern": "( hi| pret| freshly| matters| Mos)",
+  "pos_r_squared": 0.9810217618942261,
+  "r_squared": 0.9761138558387756
+}

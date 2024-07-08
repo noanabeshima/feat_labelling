@@ -1,0 +1,4 @@
+{
+  "pattern": "( trips| fun|\\.| pull|,)",
+  "pos_r_squared": 0.8998293876647949
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Unfortunately| unfortunately| Unfortunately| Sadly|Sadly)",
+  "pos_r_squared": 0.9817308187484741,
+  "r_squared": 0.9405413866043091
+}

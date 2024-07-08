@@ -1,0 +1,5 @@
+{
+  "pattern": "(Sp|sp|Kn| liked| rob)",
+  "pos_r_squared": 0.9915544986724854,
+  "r_squared": 0.9885188937187195
+}

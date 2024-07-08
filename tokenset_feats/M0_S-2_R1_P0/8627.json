@@ -1,0 +1,5 @@
+{
+  "pattern": "( reply| ticket| back| and| response)",
+  "pos_r_squared": 0.9936650395393372,
+  "r_squared": 0.9865992069244385
+}

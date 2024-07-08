@@ -1,0 +1,5 @@
+{
+  "pattern": "( Smith| pret| worker| mum| Jones)",
+  "pos_r_squared": 0.9908496737480164,
+  "r_squared": 0.9898172616958618
+}

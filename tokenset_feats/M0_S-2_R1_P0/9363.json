@@ -1,0 +1,5 @@
+{
+  "pattern": "( backed| leave| Leave| chatting|Leave)",
+  "pos_r_squared": 0.9965512156486511,
+  "r_squared": 0.997315526008606
+}

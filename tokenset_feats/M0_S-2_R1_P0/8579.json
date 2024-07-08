@@ -1,0 +1,5 @@
+{
+  "pattern": "( instruments|oscope| instrument| musicians| patients)",
+  "pos_r_squared": 0.9844161868095398,
+  "r_squared": 0.886117696762085
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( groups| landscapes| families| nations| countries)",
+  "pos_r_squared": 0.9924203157424927,
+  "r_squared": 0.969478964805603
+}

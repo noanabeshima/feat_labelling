@@ -1,0 +1,5 @@
+{
+  "pattern": "( since| gru| Since| lately|Since)",
+  "pos_r_squared": 0.985558032989502,
+  "r_squared": 0.941448986530304
+}

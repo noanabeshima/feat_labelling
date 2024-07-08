@@ -1,0 +1,5 @@
+{
+  "pattern": "( scrub|paste| dog| Then| he)",
+  "pos_r_squared": 0.9926137924194336,
+  "r_squared": 0.9904479384422302
+}

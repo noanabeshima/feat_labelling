@@ -1,0 +1,4 @@
+{
+  "pattern": "( direction| destination| object| here|rou)",
+  "pos_r_squared": 0.9568993449211121
+}

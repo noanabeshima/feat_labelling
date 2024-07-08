@@ -1,0 +1,4 @@
+{
+  "pattern": "( permission| released| offered| allowed| don)",
+  "pos_r_squared": 0.9775118231773376
+}

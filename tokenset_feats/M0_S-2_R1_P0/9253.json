@@ -1,0 +1,5 @@
+{
+  "pattern": "( exactly| grandchildren| markings|Then| clown)",
+  "pos_r_squared": 0.9805784821510315,
+  "r_squared": 0.9959425330162048
+}

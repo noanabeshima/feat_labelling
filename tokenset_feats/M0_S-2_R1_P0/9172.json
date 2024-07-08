@@ -1,0 +1,5 @@
+{
+  "pattern": "( printing| printed| printer| delivery|Send)",
+  "pos_r_squared": 0.9937666654586792,
+  "r_squared": 0.9949866533279419
+}

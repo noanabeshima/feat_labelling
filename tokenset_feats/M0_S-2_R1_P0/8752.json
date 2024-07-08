@@ -1,0 +1,5 @@
+{
+  "pattern": "( explorers| explorer| adventures|boys| hunters)",
+  "pos_r_squared": 0.9954386949539185,
+  "r_squared": 0.9953941702842712
+}

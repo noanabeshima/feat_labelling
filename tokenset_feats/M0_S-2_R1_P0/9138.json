@@ -1,0 +1,5 @@
+{
+  "pattern": "( shirts| skirts| ties| pige)",
+  "pos_r_squared": 0.9915765523910522,
+  "r_squared": 0.9855872392654419
+}

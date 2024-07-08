@@ -1,0 +1,5 @@
+{
+  "pattern": "(ends| The| fly| named|ounced)",
+  "pos_r_squared": 0.9942657351493835,
+  "r_squared": 0.9916767477989197
+}

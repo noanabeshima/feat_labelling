@@ -1,0 +1,5 @@
+{
+  "pattern": "(ites|ite|Run| heroes| threw)",
+  "pos_r_squared": 0.9884092211723328,
+  "r_squared": 0.9911634922027588
+}

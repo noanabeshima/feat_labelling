@@ -1,0 +1,5 @@
+{
+  "pattern": "( videos| video| movies| cartoons|boys)",
+  "pos_r_squared": 0.9944913387298584,
+  "r_squared": 0.9940651059150696
+}

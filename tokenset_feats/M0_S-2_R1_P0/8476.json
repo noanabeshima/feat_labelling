@@ -1,0 +1,5 @@
+{
+  "pattern": "(mer| Farmer|Andrew|Sir|er)",
+  "pos_r_squared": 0.9925731420516968,
+  "r_squared": 0.9657379388809204
+}

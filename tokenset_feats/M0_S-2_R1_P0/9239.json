@@ -1,0 +1,5 @@
+{
+  "pattern": "( spaceship| alien| astronaut| elf| aliens)",
+  "pos_r_squared": 0.9929556846618652,
+  "r_squared": 0.9944108724594116
+}

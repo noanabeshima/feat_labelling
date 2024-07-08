@@ -1,0 +1,5 @@
+{
+  "pattern": "( dances|Run| tasks| wounds| ambul)",
+  "pos_r_squared": 0.9945438504219055,
+  "r_squared": 0.9976320266723633
+}

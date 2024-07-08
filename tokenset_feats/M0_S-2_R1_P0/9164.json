@@ -1,0 +1,5 @@
+{
+  "pattern": "( belly| cost| price| costs| prices)",
+  "pos_r_squared": 0.9949539303779602,
+  "r_squared": 0.9949790239334106
+}

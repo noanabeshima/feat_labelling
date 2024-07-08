@@ -1,0 +1,5 @@
+{
+  "pattern": "( Stay| stay|Stay| Neck| staying)",
+  "pos_r_squared": 0.9933024644851685,
+  "r_squared": 0.9184514880180359
+}

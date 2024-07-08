@@ -1,0 +1,5 @@
+{
+  "pattern": "( buses|obs| traffic| friends| Everyone)",
+  "pos_r_squared": 0.9944581389427185,
+  "r_squared": 0.9906027913093567
+}

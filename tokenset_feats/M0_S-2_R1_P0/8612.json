@@ -1,0 +1,5 @@
+{
+  "pattern": "(z| sk| da| x|reverse)",
+  "pos_r_squared": 0.9878274202346802,
+  "r_squared": 0.9882062673568726
+}

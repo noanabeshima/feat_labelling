@@ -1,0 +1,5 @@
+{
+  "pattern": "( Jump| Wo| for| por| Wake)",
+  "pos_r_squared": 0.9959762096405029,
+  "r_squared": 0.9965429902076721
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( stirring| mixing| stirred| melting| lap)",
+  "pos_r_squared": 0.9964174032211304,
+  "r_squared": 0.9967604279518127
+}

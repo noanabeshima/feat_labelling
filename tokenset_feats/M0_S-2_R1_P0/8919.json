@@ -1,0 +1,5 @@
+{
+  "pattern": "( winner|K|After| for| stool)",
+  "pos_r_squared": 0.9935378432273865,
+  "r_squared": 0.977691113948822
+}

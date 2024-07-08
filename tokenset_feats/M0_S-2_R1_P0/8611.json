@@ -1,0 +1,5 @@
+{
+  "pattern": "( sad| unhappy| L|umpy| him)",
+  "pos_r_squared": 0.9810123443603516,
+  "r_squared": 0.9777278304100037
+}

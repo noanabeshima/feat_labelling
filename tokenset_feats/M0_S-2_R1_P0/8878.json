@@ -1,0 +1,5 @@
+{
+  "pattern": "( prevent| prevented| Mos| preventing| safest)",
+  "pos_r_squared": 0.9956098198890686,
+  "r_squared": 0.9947397708892822
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(use|Car| bun| Ve|assy)",
+  "pos_r_squared": 0.9905897974967957,
+  "r_squared": 0.9412243962287903
+}

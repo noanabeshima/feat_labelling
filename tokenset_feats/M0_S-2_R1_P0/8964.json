@@ -1,0 +1,5 @@
+{
+  "pattern": "( whatever| what|atch| wherever|St)",
+  "pos_r_squared": 0.988088846206665,
+  "r_squared": 0.9860102534294128
+}

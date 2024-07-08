@@ -1,0 +1,5 @@
+{
+  "pattern": "( leaning| floated| softened| tilted| lean)",
+  "pos_r_squared": 0.993729293346405,
+  "r_squared": 0.9932947754859924
+}

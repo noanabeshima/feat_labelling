@@ -1,0 +1,5 @@
+{
+  "pattern": "( homework| sleep| nothing| Isn| Trust)",
+  "pos_r_squared": 0.9834417104721069,
+  "r_squared": 0.9839805364608765
+}

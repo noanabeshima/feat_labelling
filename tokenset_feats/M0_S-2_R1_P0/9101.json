@@ -1,0 +1,5 @@
+{
+  "pattern": "( cautiously| confidently)",
+  "pos_r_squared": 0.9918085932731628,
+  "r_squared": 0.9670301079750061
+}

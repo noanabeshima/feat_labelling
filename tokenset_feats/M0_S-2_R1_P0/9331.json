@@ -1,0 +1,5 @@
+{
+  "pattern": "( copy|\\.'| copied|After| freshly)",
+  "pos_r_squared": 0.9912964105606079,
+  "r_squared": 0.9869188070297241
+}

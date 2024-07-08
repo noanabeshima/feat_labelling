@@ -1,0 +1,5 @@
+{
+  "pattern": "( However|However| But| Unfortunately| perfectly)",
+  "pos_r_squared": 0.9865015149116516,
+  "r_squared": 0.9839613437652588
+}

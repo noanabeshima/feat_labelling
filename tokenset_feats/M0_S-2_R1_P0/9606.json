@@ -1,0 +1,5 @@
+{
+  "pattern": "( trapped| free| stuck| caught| captured)",
+  "pos_r_squared": 0.9918463826179504,
+  "r_squared": 0.9793066382408142
+}

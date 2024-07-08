@@ -1,0 +1,4 @@
+{
+  "pattern": "( aisle| seller| stall| dock|pit)",
+  "pos_r_squared": 0.7131083011627197
+}

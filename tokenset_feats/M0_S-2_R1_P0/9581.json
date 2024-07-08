@@ -1,0 +1,4 @@
+{
+  "pattern": "( sneak|\\.|\\n| And| A)",
+  "pos_r_squared": 0.7505978345870972
+}

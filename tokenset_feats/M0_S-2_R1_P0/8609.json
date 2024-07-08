@@ -1,0 +1,5 @@
+{
+  "pattern": "( boom| matters|guard| blues|Tyler)",
+  "pos_r_squared": 0.9839101433753967,
+  "r_squared": 0.8144792318344116
+}

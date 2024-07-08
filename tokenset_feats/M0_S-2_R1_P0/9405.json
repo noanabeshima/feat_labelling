@@ -1,0 +1,5 @@
+{
+  "pattern": "(Car| Tweet| Robot| handy| bike)",
+  "pos_r_squared": 0.9858537912368774,
+  "r_squared": 0.9662903547286987
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( however| setting| expected|However| expecting)",
+  "pos_r_squared": 0.9939115643501282,
+  "r_squared": 0.9925453066825867
+}

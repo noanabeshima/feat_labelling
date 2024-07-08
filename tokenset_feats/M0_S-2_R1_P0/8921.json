@@ -1,0 +1,5 @@
+{
+  "pattern": "( buckets| trucks| found| two)",
+  "pos_r_squared": 0.9975102543830872,
+  "r_squared": 0.9964084625244141
+}

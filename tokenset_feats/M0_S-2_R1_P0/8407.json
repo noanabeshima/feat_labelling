@@ -1,0 +1,5 @@
+{
+  "pattern": "( flies| watches| seven| rides| pret)",
+  "pos_r_squared": 0.9955059289932251,
+  "r_squared": 0.995978832244873
+}

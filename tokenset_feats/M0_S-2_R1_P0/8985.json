@@ -1,0 +1,5 @@
+{
+  "pattern": "( directions| lookout| hamm| direction| losing)",
+  "pos_r_squared": 0.9887471199035645,
+  "r_squared": 0.9574835896492004
+}

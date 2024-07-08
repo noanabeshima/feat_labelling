@@ -1,0 +1,5 @@
+{
+  "pattern": "( pedals| wob| spark| join| tremb)",
+  "pos_r_squared": 0.9805945158004761,
+  "r_squared": 0.9777068495750427
+}

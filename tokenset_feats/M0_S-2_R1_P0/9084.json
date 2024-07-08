@@ -1,0 +1,5 @@
+{
+  "pattern": "( included| surrounded| includes| include| including)",
+  "pos_r_squared": 0.9850179553031921,
+  "r_squared": 0.9831587672233582
+}

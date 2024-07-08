@@ -1,0 +1,5 @@
+{
+  "pattern": "( calls| called| named| babies| call)",
+  "pos_r_squared": 0.9965925216674805,
+  "r_squared": 0.9923075437545776
+}

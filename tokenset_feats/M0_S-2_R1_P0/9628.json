@@ -1,0 +1,5 @@
+{
+  "pattern": "( corner| corners| age| boxes| trees)",
+  "pos_r_squared": 0.9865362048149109,
+  "r_squared": 0.9877156615257263
+}

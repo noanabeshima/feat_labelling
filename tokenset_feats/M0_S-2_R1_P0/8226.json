@@ -1,0 +1,5 @@
+{
+  "pattern": "( stacked| stack| stacking| tower| spider)",
+  "pos_r_squared": 0.9854854345321655,
+  "r_squared": 0.9850562214851379
+}

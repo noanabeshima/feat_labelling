@@ -1,0 +1,5 @@
+{
+  "pattern": "( tablet| menus| lantern| board| ramp)",
+  "pos_r_squared": 0.9804826378822327,
+  "r_squared": 0.9729607701301575
+}

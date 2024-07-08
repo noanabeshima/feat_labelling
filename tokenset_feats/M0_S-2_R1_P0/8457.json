@@ -1,0 +1,5 @@
+{
+  "pattern": "( settled| customer| settle| markers| settling)",
+  "pos_r_squared": 0.9925941228866577,
+  "r_squared": 0.9926239252090454
+}

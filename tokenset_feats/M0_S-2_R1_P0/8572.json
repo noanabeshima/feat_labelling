@@ -1,0 +1,5 @@
+{
+  "pattern": "( season| seasons| ruled| Fall| autumn)",
+  "pos_r_squared": 0.9972696900367737,
+  "r_squared": 0.9914871454238892
+}

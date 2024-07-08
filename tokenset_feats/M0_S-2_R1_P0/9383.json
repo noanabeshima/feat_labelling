@@ -1,0 +1,5 @@
+{
+  "pattern": "( colder| hotter|Can| rinse| darker)",
+  "pos_r_squared": 0.9808008670806885,
+  "r_squared": 0.9830772280693054
+}

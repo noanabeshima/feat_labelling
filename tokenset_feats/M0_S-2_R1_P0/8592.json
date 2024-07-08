@@ -1,0 +1,4 @@
+{
+  "pattern": "(bo| cough| fever|ps|ke)",
+  "pos_r_squared": 0.9353973269462585
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( works|ales| experiments)",
+  "pos_r_squared": 0.9865267276763916,
+  "r_squared": 0.9455414414405823
+}

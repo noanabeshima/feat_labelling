@@ -1,0 +1,5 @@
+{
+  "pattern": "( plenty| yard| There| freshly| nice)",
+  "pos_r_squared": 0.9894455671310425,
+  "r_squared": 0.985917866230011
+}

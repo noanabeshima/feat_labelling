@@ -1,0 +1,5 @@
+{
+  "pattern": "( strength| strong| to| pain| weight)",
+  "pos_r_squared": 0.9912742972373962,
+  "r_squared": 0.971782922744751
+}

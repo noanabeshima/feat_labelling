@@ -1,0 +1,5 @@
+{
+  "pattern": "( skipping| skip| skipped)",
+  "pos_r_squared": 0.9979074597358704,
+  "r_squared": 0.9978575110435486
+}

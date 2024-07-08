@@ -1,0 +1,5 @@
+{
+  "pattern": "( suffering| suffered| suffer|ST| started)",
+  "pos_r_squared": 0.9875708818435669,
+  "r_squared": 0.9905908703804016
+}

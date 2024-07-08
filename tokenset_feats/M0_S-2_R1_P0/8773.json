@@ -1,0 +1,5 @@
+{
+  "pattern": "( sip| awoke| results|flake|Star)",
+  "pos_r_squared": 0.9905772805213928,
+  "r_squared": 0.9867576956748962
+}

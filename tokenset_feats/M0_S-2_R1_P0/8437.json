@@ -1,0 +1,4 @@
+{
+  "pattern": "( ok| mom| alright|\\n| OK)",
+  "pos_r_squared": 0.9555922746658325
+}

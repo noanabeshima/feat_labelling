@@ -1,0 +1,5 @@
+{
+  "pattern": "( frozen| freezing| pages| icy| nearby)",
+  "pos_r_squared": 0.9966294765472412,
+  "r_squared": 0.9959171414375305
+}

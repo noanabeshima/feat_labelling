@@ -1,0 +1,4 @@
+{
+  "pattern": "( mechanic| robot| wrench| garage| workshop)",
+  "pos_r_squared": 0.8973405957221985
+}

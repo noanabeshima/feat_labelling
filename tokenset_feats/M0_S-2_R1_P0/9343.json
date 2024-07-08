@@ -1,0 +1,5 @@
+{
+  "pattern": "(suit| sunscreen|suits| puck|melon)",
+  "pos_r_squared": 0.9908322691917419,
+  "r_squared": 0.9674533605575562
+}

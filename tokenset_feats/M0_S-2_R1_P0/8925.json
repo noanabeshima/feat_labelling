@@ -1,0 +1,5 @@
+{
+  "pattern": "( dragons| knights| cops|boys| princes)",
+  "pos_r_squared": 0.9962656497955322,
+  "r_squared": 0.9838941693305969
+}

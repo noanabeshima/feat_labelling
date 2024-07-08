@@ -1,0 +1,5 @@
+{
+  "pattern": "( mission| favor| \\(|Tyler| challenged)",
+  "pos_r_squared": 0.9857836365699768,
+  "r_squared": 0.787180483341217
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( entire| whole| nearest| abandoned| completely)",
+  "pos_r_squared": 0.9844709038734436,
+  "r_squared": 0.9833495616912842
+}

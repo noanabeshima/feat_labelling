@@ -1,0 +1,5 @@
+{
+  "pattern": "(let|can|all|zer| chunk)",
+  "pos_r_squared": 0.9900500178337097,
+  "r_squared": 0.9375820755958557
+}

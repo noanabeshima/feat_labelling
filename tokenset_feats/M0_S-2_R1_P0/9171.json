@@ -1,0 +1,5 @@
+{
+  "pattern": "(Because| Because| By| Since|because)",
+  "pos_r_squared": 0.9891802072525024,
+  "r_squared": 0.9647032618522644
+}

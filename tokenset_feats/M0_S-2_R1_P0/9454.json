@@ -1,0 +1,5 @@
+{
+  "pattern": "( sings| speaks)",
+  "pos_r_squared": 0.9809238314628601,
+  "r_squared": 0.9652595520019531
+}

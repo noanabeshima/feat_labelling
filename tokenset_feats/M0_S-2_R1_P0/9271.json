@@ -1,0 +1,5 @@
+{
+  "pattern": "( rainy| rain| locked|By|Bad)",
+  "pos_r_squared": 0.9833754301071167,
+  "r_squared": 0.9913856983184814
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( melted| restored| faded| apologized| cleared)",
+  "pos_r_squared": 0.9864541292190552,
+  "r_squared": 0.9679549336433411
+}

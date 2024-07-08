@@ -1,0 +1,5 @@
+{
+  "pattern": "( adding| food| add| lady| race)",
+  "pos_r_squared": 0.991804301738739,
+  "r_squared": 0.9833065271377563
+}

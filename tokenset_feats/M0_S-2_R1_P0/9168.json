@@ -1,0 +1,5 @@
+{
+  "pattern": "( shouts| Amen| guard| leaf| group)",
+  "pos_r_squared": 0.9863505363464355,
+  "r_squared": 0.9863864779472351
+}

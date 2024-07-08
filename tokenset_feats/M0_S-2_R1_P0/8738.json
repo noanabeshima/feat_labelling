@@ -1,0 +1,4 @@
+{
+  "pattern": "( owned| unloaded| tearing| play)",
+  "pos_r_squared": 0.9208250641822815
+}

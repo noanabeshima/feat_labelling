@@ -1,0 +1,5 @@
+{
+  "pattern": "( dried| calmed| played|ST| wipe)",
+  "pos_r_squared": 0.9891459941864014,
+  "r_squared": 0.9939285516738892
+}

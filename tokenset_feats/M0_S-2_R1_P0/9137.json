@@ -1,0 +1,4 @@
+{
+  "pattern": "( take|Take| Take|\\.| pick)",
+  "pos_r_squared": 0.9483004212379456
+}

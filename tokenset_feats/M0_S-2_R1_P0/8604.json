@@ -1,0 +1,5 @@
+{
+  "pattern": "( slowed|Slow| calmed| slow|Soft)",
+  "pos_r_squared": 0.9880474209785461,
+  "r_squared": 0.9872108697891235
+}

@@ -1,0 +1,4 @@
+{
+  "pattern": "( holding| dragged|Keep| pile| tucked)",
+  "pos_r_squared": 0.863414466381073
+}

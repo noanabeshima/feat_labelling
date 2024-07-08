@@ -1,0 +1,4 @@
+{
+  "pattern": "( weeks| years| months| hours| days)",
+  "pos_r_squared": 0.9576882123947144
+}

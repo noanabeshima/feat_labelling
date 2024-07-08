@@ -1,0 +1,5 @@
+{
+  "pattern": "( works| helps| worked| Uni| lives)",
+  "pos_r_squared": 0.9827681183815002,
+  "r_squared": 0.9864206910133362
+}

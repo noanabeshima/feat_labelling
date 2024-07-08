@@ -1,0 +1,5 @@
+{
+  "pattern": "( isn| aren| Mos)",
+  "pos_r_squared": 0.9867169857025146,
+  "r_squared": 0.9566364288330078
+}

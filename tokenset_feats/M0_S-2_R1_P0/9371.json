@@ -1,0 +1,5 @@
+{
+  "pattern": "( age| height| independence| stool| decoration)",
+  "pos_r_squared": 0.9885569214820862,
+  "r_squared": 0.9635217785835266
+}

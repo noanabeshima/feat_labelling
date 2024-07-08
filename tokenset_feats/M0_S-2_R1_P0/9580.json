@@ -1,0 +1,5 @@
+{
+  "pattern": "( dots| dot| follow| spots| ridden)",
+  "pos_r_squared": 0.9940182566642761,
+  "r_squared": 0.995682418346405
+}

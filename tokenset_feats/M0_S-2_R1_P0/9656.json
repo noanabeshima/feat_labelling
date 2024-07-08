@@ -1,0 +1,5 @@
+{
+  "pattern": "(ics| holidays| parties| events| They)",
+  "pos_r_squared": 0.9826900362968445,
+  "r_squared": 0.9900504946708679
+}

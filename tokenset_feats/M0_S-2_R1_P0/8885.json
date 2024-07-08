@@ -1,0 +1,5 @@
+{
+  "pattern": "(ib|ub|Mine| leave|Bad)",
+  "pos_r_squared": 0.9948651790618896,
+  "r_squared": 0.9945781826972961
+}

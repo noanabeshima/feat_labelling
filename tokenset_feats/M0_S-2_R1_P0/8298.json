@@ -1,0 +1,5 @@
+{
+  "pattern": "( result| the| attempts| reward| results)",
+  "pos_r_squared": 0.9841708540916443,
+  "r_squared": 0.96788090467453
+}

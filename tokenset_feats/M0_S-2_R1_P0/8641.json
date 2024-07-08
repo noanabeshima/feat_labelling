@@ -1,0 +1,5 @@
+{
+  "pattern": "( memory| remember|ible| memories| deaf)",
+  "pos_r_squared": 0.9964059591293335,
+  "r_squared": 0.9962654709815979
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(keeper| keeper| man| dog| friend)",
+  "pos_r_squared": 0.9816588759422302,
+  "r_squared": 0.9841209053993225
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "(Those| Those|These| those| These)",
+  "pos_r_squared": 0.9960601329803467,
+  "r_squared": 0.996316134929657
+}

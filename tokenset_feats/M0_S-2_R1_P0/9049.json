@@ -1,0 +1,5 @@
+{
+  "pattern": "( St| Park|St|Tyler| childhood)",
+  "pos_r_squared": 0.9900434613227844,
+  "r_squared": 0.9757320880889893
+}

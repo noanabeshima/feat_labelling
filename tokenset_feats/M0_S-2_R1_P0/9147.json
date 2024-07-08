@@ -1,0 +1,4 @@
+{
+  "pattern": "( sir|ma|ister| patient|Max)",
+  "pos_r_squared": 0.9784052968025208
+}

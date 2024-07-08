@@ -1,0 +1,4 @@
+{
+  "pattern": "( circus|Then|\\.'|Until|!')",
+  "pos_r_squared": 0.9716750979423523
+}

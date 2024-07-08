@@ -1,0 +1,5 @@
+{
+  "pattern": "(Because| best| Because|Time|because)",
+  "pos_r_squared": 0.9983542561531067,
+  "r_squared": 0.9987267851829529
+}

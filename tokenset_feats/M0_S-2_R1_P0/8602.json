@@ -1,0 +1,5 @@
+{
+  "pattern": "( courage| decided| brave| scared| push)",
+  "pos_r_squared": 0.9828890562057495,
+  "r_squared": 0.9856635332107544
+}

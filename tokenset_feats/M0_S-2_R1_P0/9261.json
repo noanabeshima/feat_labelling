@@ -1,0 +1,5 @@
+{
+  "pattern": "( wins| scored| Dog| highest|hes)",
+  "pos_r_squared": 0.9982092380523682,
+  "r_squared": 0.9979952573776245
+}

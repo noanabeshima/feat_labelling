@@ -1,0 +1,5 @@
+{
+  "pattern": "( fever| sick| ill| throat| seed)",
+  "pos_r_squared": 0.9892598986625671,
+  "r_squared": 0.9901812672615051
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( watering| among| amongst| helpful| matter)",
+  "pos_r_squared": 0.9804258346557617,
+  "r_squared": 0.9777557253837585
+}

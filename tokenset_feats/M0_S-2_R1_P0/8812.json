@@ -1,0 +1,5 @@
+{
+  "pattern": "( rested| refreshed| energetic| After| recovered)",
+  "pos_r_squared": 0.9943992495536804,
+  "r_squared": 0.9955940246582031
+}

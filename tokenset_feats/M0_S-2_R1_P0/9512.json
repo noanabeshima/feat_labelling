@@ -1,0 +1,5 @@
+{
+  "pattern": "( hearts| heart| loss)",
+  "pos_r_squared": 0.9969449639320374,
+  "r_squared": 0.9861988425254822
+}

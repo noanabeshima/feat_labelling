@@ -1,0 +1,5 @@
+{
+  "pattern": "( gro| By|bank| per| scree)",
+  "pos_r_squared": 0.9807055592536926,
+  "r_squared": 0.9025962352752686
+}

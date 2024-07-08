@@ -1,0 +1,5 @@
+{
+  "pattern": "( muddy|Tyler| builders|cast| loose)",
+  "pos_r_squared": 0.9958634972572327,
+  "r_squared": 0.9939670562744141
+}

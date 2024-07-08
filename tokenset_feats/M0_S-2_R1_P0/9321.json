@@ -1,0 +1,5 @@
+{
+  "pattern": "( tunnel| hallway| inspect| reverse)",
+  "pos_r_squared": 0.9843447208404541,
+  "r_squared": 0.9847414493560791
+}

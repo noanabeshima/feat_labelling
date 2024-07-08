@@ -1,0 +1,5 @@
+{
+  "pattern": "( isn| weren| Isn| aren| doesn)",
+  "pos_r_squared": 0.986251950263977,
+  "r_squared": 0.9852920174598694
+}

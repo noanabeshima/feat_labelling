@@ -1,0 +1,5 @@
+{
+  "pattern": "(bug|bugs| allergic|Run| fore)",
+  "pos_r_squared": 0.9935147762298584,
+  "r_squared": 0.98259437084198
+}

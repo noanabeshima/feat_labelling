@@ -1,0 +1,5 @@
+{
+  "pattern": "( bet| otherwise| confident|Run| Otherwise)",
+  "pos_r_squared": 0.9963611364364624,
+  "r_squared": 0.9903120398521423
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( hits| hit| kicks| stub| builders)",
+  "pos_r_squared": 0.9907959699630737,
+  "r_squared": 0.9907835125923157
+}

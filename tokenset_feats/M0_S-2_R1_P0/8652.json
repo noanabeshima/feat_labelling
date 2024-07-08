@@ -1,0 +1,5 @@
+{
+  "pattern": "( impressed| thrilled| responded| gen| annoyed)",
+  "pos_r_squared": 0.9968536496162415,
+  "r_squared": 0.9965489506721497
+}

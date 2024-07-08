@@ -1,0 +1,5 @@
+{
+  "pattern": "( angry| stern| dangerous| warning| trem)",
+  "pos_r_squared": 0.982821524143219,
+  "r_squared": 0.9821892380714417
+}

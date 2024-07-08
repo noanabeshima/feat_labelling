@@ -1,0 +1,5 @@
+{
+  "pattern": "( baths| plugged| dentist| showers| bath)",
+  "pos_r_squared": 0.9916590452194214,
+  "r_squared": 0.9934948086738586
+}

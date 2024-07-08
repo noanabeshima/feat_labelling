@@ -1,0 +1,5 @@
+{
+  "pattern": "( age| kids| size| child|looking)",
+  "pos_r_squared": 0.9862295389175415,
+  "r_squared": 0.9804283976554871
+}

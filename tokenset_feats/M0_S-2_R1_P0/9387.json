@@ -1,0 +1,5 @@
+{
+  "pattern": "( rockets| boats| rocket| planes| light)",
+  "pos_r_squared": 0.9859119057655334,
+  "r_squared": 0.9843789339065552
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( decides| decide| decided| meets| arrives)",
+  "pos_r_squared": 0.9862564206123352,
+  "r_squared": 0.9865695834159851
+}

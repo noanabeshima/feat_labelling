@@ -1,0 +1,5 @@
+{
+  "pattern": "( ago| Here|looking| Inside| met)",
+  "pos_r_squared": 0.9953020811080933,
+  "r_squared": 0.9958527684211731
+}

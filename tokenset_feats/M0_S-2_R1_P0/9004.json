@@ -1,0 +1,5 @@
+{
+  "pattern": "( passports| grandparents| languages| bulbs| novels)",
+  "pos_r_squared": 0.9845005869865417,
+  "r_squared": 0.9752291440963745
+}

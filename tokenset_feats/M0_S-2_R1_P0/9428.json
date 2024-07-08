@@ -1,0 +1,5 @@
+{
+  "pattern": "( grant| pret| opened| pick| gave)",
+  "pos_r_squared": 0.9893226027488708,
+  "r_squared": 0.996599018573761
+}

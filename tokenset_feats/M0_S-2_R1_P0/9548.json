@@ -1,0 +1,5 @@
+{
+  "pattern": "( burst| Upon| erupted|Conf|THE)",
+  "pos_r_squared": 0.9831419587135315,
+  "r_squared": 0.8985238671302795
+}

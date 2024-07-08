@@ -1,0 +1,5 @@
+{
+  "pattern": "( shouldn| should| lets| spr| to)",
+  "pos_r_squared": 0.9958863854408264,
+  "r_squared": 0.9892835021018982
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( secrets| snakes| snake| slowed| dinosaurs)",
+  "pos_r_squared": 0.9905668497085571,
+  "r_squared": 0.990536630153656
+}

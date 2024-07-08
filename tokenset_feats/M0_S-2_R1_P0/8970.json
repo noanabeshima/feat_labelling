@@ -1,0 +1,5 @@
+{
+  "pattern": "( plans| planned| planning| papers| parties)",
+  "pos_r_squared": 0.9898611307144165,
+  "r_squared": 0.991864025592804
+}

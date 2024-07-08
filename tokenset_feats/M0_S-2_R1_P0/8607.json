@@ -1,0 +1,5 @@
+{
+  "pattern": "( owned| owns| own|Found| had)",
+  "pos_r_squared": 0.9943497776985168,
+  "r_squared": 0.9918150901794434
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( bur| n|stick| lap| sealed)",
+  "pos_r_squared": 0.9977336525917053,
+  "r_squared": 0.9913663864135742
+}

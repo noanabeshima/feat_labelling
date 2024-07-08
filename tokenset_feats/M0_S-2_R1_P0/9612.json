@@ -1,0 +1,5 @@
+{
+  "pattern": "( sa| plus| ste|THE| por)",
+  "pos_r_squared": 0.9941259622573853,
+  "r_squared": 0.9822726249694824
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( rivers| towns| streams| Del| lakes)",
+  "pos_r_squared": 0.9830276966094971,
+  "r_squared": 0.8540462851524353
+}

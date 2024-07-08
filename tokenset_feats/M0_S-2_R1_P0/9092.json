@@ -1,0 +1,5 @@
+{
+  "pattern": "( ham| Lion| cro| pineapple| dump)",
+  "pos_r_squared": 0.9971020221710205,
+  "r_squared": 0.983835756778717
+}

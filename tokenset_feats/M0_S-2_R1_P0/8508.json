@@ -1,0 +1,5 @@
+{
+  "pattern": "(hed| together|out| company| notice)",
+  "pos_r_squared": 0.9886853694915771,
+  "r_squared": 0.9865928888320923
+}

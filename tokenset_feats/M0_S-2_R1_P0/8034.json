@@ -1,0 +1,5 @@
+{
+  "pattern": "( determined| there|Here| is| and)",
+  "pos_r_squared": 0.9823712706565857,
+  "r_squared": 0.9740722179412842
+}

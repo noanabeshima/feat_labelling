@@ -1,0 +1,5 @@
+{
+  "pattern": "( backwards| marker|''| Down| forwards)",
+  "pos_r_squared": 0.9945873022079468,
+  "r_squared": 0.9701161980628967
+}

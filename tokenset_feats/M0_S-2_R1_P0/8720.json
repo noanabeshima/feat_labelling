@@ -1,0 +1,5 @@
+{
+  "pattern": "( visiting| visited| meeting| visit| grand)",
+  "pos_r_squared": 0.9818267226219177,
+  "r_squared": 0.9822788834571838
+}

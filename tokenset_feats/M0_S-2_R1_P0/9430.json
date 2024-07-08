@@ -1,0 +1,5 @@
+{
+  "pattern": "(bo| big| sk|\\.'|mare)",
+  "pos_r_squared": 0.9855110049247742,
+  "r_squared": 0.9878186583518982
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( boo| Sorry| ponies)",
+  "pos_r_squared": 0.9962137937545776,
+  "r_squared": 0.9686658978462219
+}

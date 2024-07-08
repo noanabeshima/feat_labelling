@@ -1,0 +1,5 @@
+{
+  "pattern": "(Near| business|In| Near|After)",
+  "pos_r_squared": 0.9955273270606995,
+  "r_squared": 0.9963533282279968
+}

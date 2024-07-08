@@ -1,0 +1,5 @@
+{
+  "pattern": "( buzz| strangely|oat| distance| thin)",
+  "pos_r_squared": 0.9980173110961914,
+  "r_squared": 0.9983646869659424
+}

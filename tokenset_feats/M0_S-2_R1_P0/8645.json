@@ -1,0 +1,5 @@
+{
+  "pattern": "( vehicles| creation| creations| treasures| belongings)",
+  "pos_r_squared": 0.9814741611480713,
+  "r_squared": 0.980160117149353
+}

@@ -1,0 +1,5 @@
+{
+  "pattern": "( cre| gre| cle| exact| plus)",
+  "pos_r_squared": 0.9861432313919067,
+  "r_squared": 0.8752986192703247
+}

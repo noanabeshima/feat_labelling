@@ -1,0 +1,5 @@
+{
+  "pattern": "( taken| beloved|ST| belongings| stolen)",
+  "pos_r_squared": 0.9865207076072693,
+  "r_squared": 0.9853628277778625
+}
